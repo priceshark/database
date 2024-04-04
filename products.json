@@ -1,0 +1,780 @@
+[
+  {
+    "name": "Coca-Cola Cherry",
+    "size": "330 mL",
+    "id": "1P4PSvI",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/362262/coca-cola-cherry"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/cherry"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "1 L",
+    "id": "b8f0DAL",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-bottle-1l-4869333",
+      "https://www.woolworths.com.au/shop/productdetails/271707/coca-cola-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "1.25 L",
+    "id": "zeautPM",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-bottle-1-25l-123011",
+      "https://www.woolworths.com.au/shop/productdetails/32731/coca-cola-classic-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "1.5 L",
+    "id": "EC7YrnU",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/77949/coca-cola-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "10 x 375 mL",
+    "id": "DFLZk6U",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-cans-10x375ml-10-pack-1849307",
+      "https://www.woolworths.com.au/shop/productdetails/793315/coca-cola-classic-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/can",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "12 x 300 mL",
+    "id": "Alup4Bd",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-mini-bottles-12x300ml-12-pack-7910342",
+      "https://www.woolworths.com.au/shop/productdetails/313019/coca-cola-classic-soft-drink-mini-bottles"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/bottle",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "2 L",
+    "id": "gI2shCq",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-soft-drink-coke-2l-191736",
+      "https://www.woolworths.com.au/shop/productdetails/38121/coca-cola-classic-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "soft-drink/cola",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "24 x 375 mL",
+    "id": "QxXMlyn",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/42605/coca-cola-classic-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/can",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "24 x 375 mL",
+    "id": "wvC8j1B",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-cans-24x375ml-24-pack-7365777"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/can",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "250 mL",
+    "id": "2gx68qv",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/792193/coca-cola-classic-soft-drink-mini-can"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/can",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "30 x 375 mL",
+    "id": "q44k8QX",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-cans-30x375ml-30-pack-8464796",
+      "https://www.woolworths.com.au/shop/productdetails/84552/coca-cola-classic-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/can",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "375 mL",
+    "id": "XYRDriV",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/34691/coca-cola-classic-soft-drink-can"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/can",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "385 mL",
+    "id": "uPT86Wy",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-bottle-385ml-6317065"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/glass",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "4 x 330 mL",
+    "id": "T6fYAAL",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-glass-bottles-4x330ml-4-pack-3448271",
+      "https://www.woolworths.com.au/shop/productdetails/290133/coca-cola-classic-soft-drink-multipack-glass-bottles"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/glass",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "6 x 250 mL",
+    "id": "HkgpOwd",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-mini-cans-6x250ml-6-pack-4398689",
+      "https://www.woolworths.com.au/shop/productdetails/244370/coca-cola-classic-soft-drink-mini-cans"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "container/can",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Classic",
+    "size": "600 mL",
+    "id": "FsE9b7S",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-classic-soft-drink-bottle-600ml-5468407",
+      "https://www.woolworths.com.au/shop/productdetails/93167/coca-cola-classic-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola/classic",
+      "soft-drink/cola"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "1.25 L",
+    "id": "7ROPrAc",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/94493/coca-cola-diet-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "10 x 375 mL",
+    "id": "p6r9VcK",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-diet-coke-soft-drink-multipack-cans-10x375ml-10-pack-1849318",
+      "https://www.woolworths.com.au/shop/productdetails/793278/coca-cola-diet-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "2 L",
+    "id": "DDwXpd8",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-diet-coke-soft-drink-bottle-2l-418503"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "2 L",
+    "id": "K7u5wJ3",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/94496/coca-cola-diet-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "24 x 375 mL",
+    "id": "3CnjcSm",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-diet-coke-soft-drink-24x375ml-24-pack-4561203",
+      "https://www.woolworths.com.au/shop/productdetails/370757/coca-cola-diet-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "250 mL",
+    "id": "cVLcHFA",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-diet-coke-soft-drink-can-250ml-2034127"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "30 x 375 mL",
+    "id": "ewdIeMW",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-diet-soft-drink-cans-30x375ml-30-pack-8464800",
+      "https://www.woolworths.com.au/shop/productdetails/85159/coca-cola-diet-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "375 mL",
+    "id": "E6o909g",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/94541/coca-cola-diet-soft-drink-can"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "6 x 250 mL",
+    "id": "M6AZisY",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-diet-soft-drink-6x250ml-6-pack-4398703",
+      "https://www.woolworths.com.au/shop/productdetails/245582/coca-cola-diet-soft-drink-mini-cans"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Diet",
+    "size": "600 mL",
+    "id": "Ul9Ucwk",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/93166/coca-cola-diet-soft-drink-bottle",
+      "https://www.coles.com.au/product/coca-cola-diet-coke-soft-drink-bottle-600ml-5468440"
+    ],
+    "tags": [
+      "brand/coca-cola/diet",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Raspberry",
+    "size": "600 mL",
+    "id": "sdb6UlB",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-raspberry-soft-drink-bottle-600ml-6413284"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/raspberry",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Raspberry Zero Sugar",
+    "size": "1.25 L",
+    "id": "aVtQng2",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-raspberry-zero-sugar-soft-drink-bottle-1-25l-6421271",
+      "https://www.woolworths.com.au/shop/productdetails/286997/coca-cola-zero-sugar-raspberry-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/raspberry",
+      "container/bottle",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Raspberry Zero Sugar",
+    "size": "10 x 375 mL",
+    "id": "LC3ydkz",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/408382/coca-cola-raspberry-zero-sugar-cans"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/raspberry",
+      "container/can",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Raspberry Zero Sugar",
+    "size": "12 x 300 mL",
+    "id": "rgwiz6L",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-raspberry-flavoured-soft-drink-12x300ml-12-pack-6670072"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/raspberry",
+      "container/bottle",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Raspberry Zero Sugar",
+    "size": "600 mL",
+    "id": "vjlyO4F",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-raspberry-zero-sugar-soft-drink-600ml-6413295",
+      "https://www.woolworths.com.au/shop/productdetails/285384/coca-cola-raspberry-zero-sugar-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/raspberry",
+      "container/bottle",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Vanilla",
+    "size": "1.25 L",
+    "id": "sO49mL3",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-vanilla-soft-drink-1-25l-9391600",
+      "https://www.woolworths.com.au/shop/productdetails/180941/coca-cola-vanilla-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/vanilla",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Vanilla",
+    "size": "10 x 375 mL",
+    "id": "cFgumBe",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-vanilla-soft-drink-multipack-cans-10x375ml-10-pack-1849293",
+      "https://www.woolworths.com.au/shop/productdetails/676160/coca-cola-vanilla-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/vanilla",
+      "container/can"
+    ]
+  },
+  {
+    "name": "Coca-Cola Vanilla",
+    "size": "6 x 250 mL",
+    "id": "LFWFyrb",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/244993/coca-cola-vanilla-soft-drink-mini-cans"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/vanilla",
+      "container/can"
+    ]
+  },
+  {
+    "name": "Coca-Cola Vanilla",
+    "size": "600 mL",
+    "id": "p4LNL3t",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-vanilla-soft-drink-bottle-600ml-9391654",
+      "https://www.woolworths.com.au/shop/productdetails/180910/coca-cola-vanilla-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/vanilla",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Vanilla Zero Sugar",
+    "size": "1.25 L",
+    "id": "AvsKC2X",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/803078/coca-cola-vanilla-zero-sugar-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/vanilla",
+      "container/bottle",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Vanilla Zero Sugar",
+    "size": "10 x 375 mL",
+    "id": "UOr1szg",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-vanilla-soft-drink-multipack-cans-10x375ml-10-pack-3989974"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/vanilla",
+      "container/can",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Vanilla Zero Sugar",
+    "size": "12 x 300 mL",
+    "id": "kkPXZyG",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-vanilla-soft-drink-multipack-bottles-12x300ml-12-pack-5192816",
+      "https://www.woolworths.com.au/shop/productdetails/221774/coca-cola-vanilla-zero-sugar-soft-drink-mini-bottles"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/vanilla",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Vanilla Zero Sugar",
+    "size": "600 mL",
+    "id": "3IF4uWl",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-vanilla-soft-drink-bottle-600ml-3271139",
+      "https://www.woolworths.com.au/shop/productdetails/803079/coca-cola-zero-sugar-vanilla-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola/vanilla",
+      "container/bottle",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "1 L",
+    "id": "9fOLStr",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-bottle-1l-4991202"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "1.25 L",
+    "id": "6OHlXpf",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-bottle-1-25l-2993706",
+      "https://www.woolworths.com.au/shop/productdetails/623034/coca-cola-zero-sugar-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "10 x 375 mL",
+    "id": "5xyOmsI",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-cans-10x375ml-10-pack-2993739",
+      "https://www.woolworths.com.au/shop/productdetails/669379/coca-cola-zero-sugar-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/can"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "12 x 300 mL",
+    "id": "0KIviWv",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-bottles-12x300ml-12-pack-1492374",
+      "https://www.woolworths.com.au/shop/productdetails/679122/coca-cola-zero-sugar-soft-drink-mini-bottles"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "2 L",
+    "id": "8AzUkEC",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-bottle-2l-3029790",
+      "https://www.woolworths.com.au/shop/productdetails/672966/coca-cola-zero-sugar-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "24 x 375 mL",
+    "id": "w7dSatv",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-cans-24x375ml-24-pack-2993740",
+      "https://www.woolworths.com.au/shop/productdetails/669683/coca-cola-zero-sugar-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/can"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "250 mL",
+    "id": "j48bAnh",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-can-250ml-2993761",
+      "https://www.woolworths.com.au/shop/productdetails/623069/coca-cola-zero-sugar-soft-drink-mini-can"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/can"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "30 x 375 mL",
+    "id": "9YVeZIR",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-cans-30x375ml-30-pack-8464810",
+      "https://www.woolworths.com.au/shop/productdetails/679121/coca-cola-zero-sugar-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/can"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "375 mL",
+    "id": "CZabxH5",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/636329/coca-cola-no-sugar-can"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "4 x 300 mL",
+    "id": "gMR9kPU",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-glass-bottle-4x300ml-4-pack-3448282"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/glass"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "4 x 330 mL",
+    "id": "Mw57g6J",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/290344/coca-cola-zero-sugar-glass-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/glass"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "6 x 250 mL",
+    "id": "dHU88K7",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-multipack-mini-cans-6x250ml-6-pack-4398690",
+      "https://www.woolworths.com.au/shop/productdetails/243760/coca-cola-zero-sugar-soft-drink-mini-cans"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/can"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar",
+    "size": "600 mL",
+    "id": "gTlvjJL",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-bottle-600ml-2993728",
+      "https://www.woolworths.com.au/shop/productdetails/623033/coca-cola-zero-sugar-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "container/bottle"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar Zero Caffeine",
+    "size": "1.25 L",
+    "id": "Fk0hDXZ",
+    "links": [
+      "https://www.woolworths.com.au/shop/productdetails/137848/coca-cola-caffeine-free-zero-sugar-soft-drink-bottle"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "caffeine-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar Zero Caffeine",
+    "size": "10 x 375 mL",
+    "id": "CDtRcYm",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-sugar-caffeine-free-soft-drink-multipack-cans-10x375ml-10-pack-3989996",
+      "https://www.woolworths.com.au/shop/productdetails/140640/coca-cola-caffeine-free-zero-sugar-soft-drink-multipack-cans"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "caffeine-free"
+    ]
+  },
+  {
+    "name": "Coca-Cola Zero Sugar Zero Caffeine",
+    "size": "6 x 250 mL",
+    "id": "OjDqVXW",
+    "links": [
+      "https://www.coles.com.au/product/coca-cola-zero-caffeine-free-coke-soft-drink-6x250ml-6-pack-6670094",
+      "https://www.woolworths.com.au/shop/productdetails/408346/coca-cola-mini-zero-sugar-zero-caffeine"
+    ],
+    "tags": [
+      "brand/coca-cola",
+      "soft-drink/cola",
+      "sugar-free",
+      "caffeine-free"
+    ]
+  },
+  {
+    "name": "Nudie Nothing But Orange Juice With Pulp",
+    "size": "2 L",
+    "id": "B4ux1Wm",
+    "links": [
+      "https://www.nudie.com.au/product/nothing-but-oranges-juice-with-pulp-2l/",
+      "https://www.woolworths.com.au/shop/productdetails/359118/nudie-nothing-but-oranges-with-pulp"
+    ],
+    "tags": [
+      "brand/nudie",
+      "container/bottle",
+      "juice/orange/with-pulp"
+    ]
+  }
+]
