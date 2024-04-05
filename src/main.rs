@@ -44,6 +44,7 @@ struct Cli {
 #[derive(Clone, Debug, Subcommand)]
 enum Command {
     Check,
+    MissingLinks,
     NextLink { filter: String },
 }
 
@@ -63,6 +64,43 @@ fn link_slug(url: &str) -> Result<Option<(String, String)>> {
     return Ok(None);
 }
 
+fn missing_links(products: &Vec<RawProduct>) -> Result<Vec<String>> {
+    let mut existing = HashSet::new();
+    for x in products {
+        for x in &x.links {
+            if !existing.insert(&**x) {
+                bail!("don't think you want this duplicate link: {x}")
+            }
+        }
+    }
+    let ignored = read_to_string("ignored.txt")?;
+    for x in ignored.lines() {
+        existing.insert(x);
+    }
+
+    let mut missing = Vec::new();
+    for domain in ["coles.com.au", "woolworths.com.au"] {
+        for url in get(&format!(
+            "https://pub.joel.net.au/cache/sitemaps/{domain}.txt"
+        ))
+        .call()?
+        .into_string()?
+        .lines()
+        {
+            if let Some((link, slug)) = link_slug(url)? {
+                if !existing.contains(&*link) {
+                    missing.push((link, slug));
+                }
+            }
+        }
+    }
+
+    // sort by slug
+    missing.sort_by(|a, b| a.1.cmp(&b.1));
+
+    Ok(missing.into_iter().map(|(link, _slug)| link).collect())
+}
+
 fn main() -> Result<()> {
     let mut products: Vec<RawProduct> = serde_json::from_str(&read_to_string("products.json")?)?;
     let mut should_write = false;
@@ -72,41 +110,17 @@ fn main() -> Result<()> {
         Command::Check => {
             should_write = true;
         }
+        Command::MissingLinks => {
+            for x in missing_links(&products)? {
+                println!("{x}");
+            }
+        }
         Command::NextLink { filter } => {
-            let mut existing = HashSet::new();
-            for x in &products {
-                for x in &x.links {
-                    if !existing.insert(&**x) {
-                        bail!("don't think you want this duplicate link: {x}")
-                    }
-                }
-            }
-            let ignored = read_to_string("ignored.txt")?;
-            for x in ignored.lines() {
-                existing.insert(x);
-            }
-
-            let mut missing = Vec::new();
-            for domain in ["coles.com.au", "woolworths.com.au"] {
-                for url in get(&format!(
-                    "https://pub.joel.net.au/cache/sitemaps/{domain}.txt"
-                ))
-                .call()?
-                .into_string()?
-                .lines()
-                {
-                    if let Some((link, slug)) = link_slug(url)? {
-                        if !existing.contains(&*link) && link.contains(&filter) {
-                            missing.push((link, slug));
-                        }
-                    }
-                }
-            }
-
-            // sort by slug
-            missing.sort_by(|a, b| a.1.cmp(&b.1));
-            missing.reverse();
-            if let Some((link, _slug)) = missing.pop() {
+            if let Some(link) = missing_links(&products)?
+                .iter()
+                .filter(|x| x.contains(&filter))
+                .next()
+            {
                 process::Command::new("wl-copy")
                     .arg(&link)
                     .spawn()?
