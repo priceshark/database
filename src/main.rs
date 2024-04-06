@@ -1,6 +1,6 @@
 use std::{
     collections::HashSet,
-    fs::{read_to_string, write},
+    fs::{create_dir_all, read_to_string, write},
     process,
 };
 
@@ -10,17 +10,26 @@ use nanoid::nanoid;
 use serde::{Deserialize, Serialize};
 use ureq::get;
 
-#[derive(Deserialize, Serialize, PartialEq, Eq, PartialOrd, Ord)]
+mod images;
+
+#[derive(Debug, Deserialize, Serialize, PartialEq, Eq, PartialOrd, Ord)]
 struct RawProduct {
     name: String,
     size: String,
     #[serde(default = "id")]
     id: String,
-    // images: Vec<Image>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    image: Option<Image>,
     #[serde(default)]
     links: Vec<String>,
     #[serde(default)]
     tags: Vec<String>,
+}
+
+#[derive(Debug, Deserialize, Serialize, PartialEq, Eq, PartialOrd, Ord)]
+struct Image {
+    url: String,
+    hash: String,
 }
 
 fn id() -> String {
@@ -44,6 +53,7 @@ struct Cli {
 #[derive(Clone, Debug, Subcommand)]
 enum Command {
     Check,
+    MissingImages,
     MissingLinks,
     NextLink { filter: String },
 }
@@ -101,14 +111,23 @@ fn missing_links(products: &Vec<RawProduct>) -> Result<Vec<String>> {
     Ok(missing.into_iter().map(|(link, _slug)| link).collect())
 }
 
-fn main() -> Result<()> {
-    let mut products: Vec<RawProduct> = serde_json::from_str(&read_to_string("products.json")?)?;
-    let mut should_write = false;
-
+#[tokio::main]
+async fn main() -> Result<()> {
     let cli = Cli::parse();
+
+    let mut products: Vec<RawProduct> = serde_json::from_str(&read_to_string("products.json")?)?;
+    create_dir_all("cache")?;
+
     match cli.command {
+        // format atm
         Command::Check => {
-            should_write = true;
+            products.sort();
+            let mut output = serde_json::to_string_pretty(&products)?;
+            output.push('\n');
+            write("products.json", &output)?;
+        }
+        Command::MissingImages => {
+            images::missing_images(&mut products).await?;
         }
         Command::MissingLinks => {
             for x in missing_links(&products)? {
@@ -134,13 +153,6 @@ fn main() -> Result<()> {
                 println!("all done!");
             }
         }
-    }
-
-    if should_write {
-        products.sort();
-        let mut output = serde_json::to_string_pretty(&products)?;
-        output.push('\n');
-        write("products.json", &output)?;
     }
 
     Ok(())
