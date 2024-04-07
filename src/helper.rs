@@ -4,7 +4,16 @@ use inquire::{Autocomplete, Text};
 
 use crate::{Product, Tokens};
 
-pub fn link_helper(tokens: &mut Tokens, products: &Vec<Product>) -> Result<(String, String)> {
+pub enum Maybe<T> {
+    Skip,
+    Ignore,
+    Something(T),
+}
+
+pub fn link_helper(
+    tokens: &mut Tokens,
+    products: &Vec<Product>,
+) -> Result<Maybe<(String, String)>> {
     let size_counts: Counter<_> = products.iter().map(|x| &x.size_raw).collect();
     let size_ac = SizeAutocomplete {
         sizes: size_counts
@@ -17,10 +26,17 @@ pub fn link_helper(tokens: &mut Tokens, products: &Vec<Product>) -> Result<(Stri
     let name_raw = Text::new("Name")
         .with_autocomplete(TokenAutocomplete::new(products))
         .prompt()?;
-    token_helper(tokens, products, &name_raw)?;
-    let size_raw = Text::new("Size").with_autocomplete(size_ac).prompt()?;
 
-    Ok((name_raw, size_raw))
+    match &*name_raw {
+        "skip" => Ok(Maybe::Skip),
+        "ignore" => Ok(Maybe::Ignore),
+        _ => {
+            token_helper(tokens, products, &name_raw)?;
+            let size_raw = Text::new("Size").with_autocomplete(size_ac).prompt()?;
+
+            Ok(Maybe::Something((name_raw, size_raw)))
+        }
+    }
 }
 
 pub fn token_helper(tokens: &mut Tokens, products: &Vec<Product>, name_raw: &str) -> Result<()> {

@@ -1,6 +1,7 @@
 use std::{
     collections::{BTreeMap, HashSet},
-    fs::{create_dir_all, read_to_string, write},
+    fs::{create_dir_all, read_to_string, write, OpenOptions},
+    io::Write,
     process,
 };
 
@@ -21,6 +22,7 @@ mod raw;
 mod size;
 mod tokens;
 
+use helper::Maybe;
 use size::Size;
 
 type Tokens = BTreeMap<String, String>;
@@ -133,27 +135,42 @@ async fn main() -> Result<()> {
 
             for link in links {
                 browser.goto(&link).await?;
-                let (name_raw, size_raw) = helper::link_helper(&mut tokens, &products)?;
-                let (name, tags) = tokens::eval(&tokens, &name_raw)?;
-                let size = size_raw.parse()?;
 
-                if let Some(x) = products
-                    .iter_mut()
-                    .find(|x| x.name_raw == name_raw && x.size_raw == size_raw)
-                {
-                    x.links.push(link);
-                } else {
-                    products.push(Product {
-                        name,
-                        name_raw,
-                        tags,
-                        size,
-                        size_raw,
-                        image: None,
-                        links: vec![link],
-                    })
+                println!();
+                match helper::link_helper(&mut tokens, &products)? {
+                    Maybe::Skip => (),
+                    Maybe::Ignore => {
+                        writeln!(
+                            OpenOptions::new()
+                                .write(true)
+                                .append(true)
+                                .open("ignored.txt")?,
+                            "{link}"
+                        )?;
+                    }
+                    Maybe::Something((name_raw, size_raw)) => {
+                        let (name, tags) = tokens::eval(&tokens, &name_raw)?;
+                        let size = size_raw.parse()?;
+
+                        if let Some(x) = products
+                            .iter_mut()
+                            .find(|x| x.name_raw == name_raw && x.size_raw == size_raw)
+                        {
+                            x.links.push(link);
+                        } else {
+                            products.push(Product {
+                                name,
+                                name_raw,
+                                tags,
+                                size,
+                                size_raw,
+                                image: None,
+                                links: vec![link],
+                            })
+                        }
+                        raw::write_products(tokens.clone(), products.to_vec())?;
+                    }
                 }
-                raw::write_products(tokens.clone(), products.to_vec())?;
             }
         }
     }
