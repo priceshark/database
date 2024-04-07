@@ -1,35 +1,52 @@
 use std::{
-    collections::HashSet,
+    collections::{BTreeMap, HashSet},
     fs::{create_dir_all, read_to_string, write},
     process,
 };
 
 use anyhow::{bail, Context, Result};
 use clap::{Parser, Subcommand};
+use indexmap::IndexMap;
 use nanoid::nanoid;
 use serde::{Deserialize, Serialize};
 use ureq::get;
 
-mod images;
+// mod images;
+mod size;
+mod tokens;
+
+use size::Size;
+
+#[derive(Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
+struct RawProducts {
+    tokens: BTreeMap<String, String>,
+    products: IndexMap<String, IndexMap<String, RawProduct>>,
+}
 
 #[derive(Debug, Deserialize, Serialize, PartialEq, Eq, PartialOrd, Ord)]
+#[serde(deny_unknown_fields)]
 struct RawProduct {
-    name: String,
-    size: String,
-    #[serde(default = "id")]
-    id: String,
     #[serde(skip_serializing_if = "Option::is_none")]
     image: Option<Image>,
     #[serde(default)]
     links: Vec<String>,
-    #[serde(default)]
-    tags: Vec<String>,
 }
 
 #[derive(Debug, Deserialize, Serialize, PartialEq, Eq, PartialOrd, Ord)]
 struct Image {
     url: String,
     hash: String,
+}
+
+struct Product {
+    name: String,
+    name_raw: String,
+    tags: Vec<String>,
+    size: Size,
+    size_raw: String,
+    image: Option<Image>,
+    links: Vec<String>,
 }
 
 fn id() -> String {
@@ -52,7 +69,7 @@ struct Cli {
 
 #[derive(Clone, Debug, Subcommand)]
 enum Command {
-    Check,
+    Build,
     MissingImages,
     MissingLinks,
     NextLink { filter: String },
@@ -113,47 +130,93 @@ fn missing_links(products: &Vec<RawProduct>) -> Result<Vec<String>> {
 
 #[tokio::main]
 async fn main() -> Result<()> {
-    let cli = Cli::parse();
+    // let cli = Cli::parse();
+    // create_dir_all("cache")?;
 
-    let mut products: Vec<RawProduct> = serde_json::from_str(&read_to_string("products.json")?)?;
-    create_dir_all("cache")?;
-
-    match cli.command {
-        // format atm
-        Command::Check => {
-            products.sort();
-            let mut output = serde_json::to_string_pretty(&products)?;
-            output.push('\n');
-            write("products.json", &output)?;
-        }
-        Command::MissingImages => {
-            images::missing_images(&mut products).await?;
-        }
-        Command::MissingLinks => {
-            for x in missing_links(&products)? {
-                println!("{x}");
-            }
-        }
-        Command::NextLink { filter } => {
-            if let Some(link) = missing_links(&products)?
-                .iter()
-                .filter(|x| x.contains(&filter))
-                .next()
-            {
-                process::Command::new("wl-copy")
-                    .arg(&link)
-                    .spawn()?
-                    .wait()?;
-                process::Command::new("xdg-open")
-                    .arg(&link)
-                    .spawn()?
-                    .wait()?;
-                println!("next up: {link}");
-            } else {
-                println!("all done!");
-            }
+    let raw: RawProducts = serde_json::from_str(&read_to_string("products.json")?)?;
+    let mut products: Vec<Product> = Vec::new();
+    let tokens = raw.tokens;
+    for (name_raw, sizes) in raw.products {
+        let (name, tags) = tokens::eval(&tokens, &name_raw)?;
+        for (size_raw, product_raw) in sizes {
+            let size = Size::parse(&size_raw)?;
+            products.push(Product {
+                name: name.clone(),
+                name_raw: name_raw.clone(),
+                tags: tags.clone(),
+                size,
+                size_raw,
+                image: product_raw.image,
+                links: product_raw.links,
+            })
         }
     }
+
+    products.sort_by(|a, b| a.size.comparable().total_cmp(&b.size.comparable()));
+    products.sort_by(|a, b| a.name.cmp(&b.name));
+
+    let mut raw = RawProducts {
+        tokens,
+        products: IndexMap::new(),
+    };
+    for product in products {
+        if let Some(x) = raw.products.get_mut(&product.name_raw) {
+            let raw_product = RawProduct {
+                image: product.image,
+                links: product.links,
+            };
+            if let Some(_) = x.insert(product.size_raw, raw_product) {
+                bail!("Duplicate product keys")
+            }
+        } else {
+            let raw_product = RawProduct {
+                image: product.image,
+                links: product.links,
+            };
+            let mut x = IndexMap::new();
+            x.insert(product.size_raw, raw_product);
+            raw.products.insert(product.name_raw, x);
+        }
+    }
+
+    let mut output = serde_json::to_string_pretty(&raw)?;
+    output.push('\n');
+    write("products.json", &output)?;
+
+    //     match cli.command {
+    //         Command::Build => {
+    //             let mut output = serde_json::to_string_pretty(&products)?;
+    //             output.push('\n');
+    //             write("products.json", &output)?;
+    //         }
+    //         // Command::MissingImages => {
+    //         //     images::missing_images(&mut products).await?;
+    //         // }
+    //         // Command::MissingLinks => {
+    //         //     for x in missing_links(&products)? {
+    //         //         println!("{x}");
+    //         //     }
+    //         // }
+    //         // Command::NextLink { filter } => {
+    //         //     if let Some(link) = missing_links(&products)?
+    //         //         .iter()
+    //         //         .filter(|x| x.contains(&filter))
+    //         //         .next()
+    //         //     {
+    //         //         process::Command::new("wl-copy")
+    //         //             .arg(&link)
+    //         //             .spawn()?
+    //         //             .wait()?;
+    //         //         process::Command::new("xdg-open")
+    //         //             .arg(&link)
+    //         //             .spawn()?
+    //         //             .wait()?;
+    //         //         println!("next up: {link}");
+    //         //     } else {
+    //         //         println!("all done!");
+    //         //     }
+    //         // }
+    //     }
 
     Ok(())
 }
