@@ -2,18 +2,9 @@ use anyhow::Result;
 use counter::Counter;
 use inquire::{Autocomplete, Text};
 
-use crate::Product;
+use crate::{Product, Tokens};
 
-pub fn link_helper(products: &Vec<Product>) -> Result<(String, String)> {
-    let token_counts: Counter<_> = products.iter().flat_map(|x| &x.tags).collect();
-    let token_ac = TokenAutocomplete {
-        tokens: token_counts
-            .most_common_ordered()
-            .iter()
-            .map(|(x, _)| x.to_string())
-            .collect(),
-    };
-
+pub fn link_helper(tokens: &mut Tokens, products: &Vec<Product>) -> Result<(String, String)> {
     let size_counts: Counter<_> = products.iter().map(|x| &x.size_raw).collect();
     let size_ac = SizeAutocomplete {
         sizes: size_counts
@@ -23,15 +14,52 @@ pub fn link_helper(products: &Vec<Product>) -> Result<(String, String)> {
             .collect(),
     };
 
-    let name_raw = Text::new("Name").with_autocomplete(token_ac).prompt()?;
+    let name_raw = Text::new("Name")
+        .with_autocomplete(TokenAutocomplete::new(products))
+        .prompt()?;
+    token_helper(tokens, products, &name_raw)?;
     let size_raw = Text::new("Size").with_autocomplete(size_ac).prompt()?;
 
     Ok((name_raw, size_raw))
 }
 
+pub fn token_helper(tokens: &mut Tokens, products: &Vec<Product>, name_raw: &str) -> Result<()> {
+    for word in name_raw.split(' ') {
+        if let Some(x) = word
+            .strip_prefix(">")
+            .or(word.strip_prefix("."))
+            .or(word.strip_prefix("="))
+        {
+            if !tokens.contains_key(x) {
+                let raw = Text::new(word)
+                    .with_autocomplete(TokenAutocomplete::new(products))
+                    .prompt()?;
+                tokens.insert(x.to_string(), raw.clone());
+
+                token_helper(tokens, products, &raw)?;
+            }
+        }
+    }
+
+    Ok(())
+}
+
 #[derive(Clone)]
 struct TokenAutocomplete {
     tokens: Vec<String>,
+}
+
+impl TokenAutocomplete {
+    fn new(products: &Vec<Product>) -> Self {
+        let token_counts: Counter<_> = products.iter().flat_map(|x| &x.tags).collect();
+        TokenAutocomplete {
+            tokens: token_counts
+                .most_common_ordered()
+                .iter()
+                .map(|(x, _)| x.to_string())
+                .collect(),
+        }
+    }
 }
 
 fn split_last_token(input: &str) -> Option<(String, &str)> {

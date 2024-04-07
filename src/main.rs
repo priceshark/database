@@ -79,7 +79,7 @@ async fn main() -> Result<()> {
 
     let raw: RawProducts = serde_json::from_str(&read_to_string("products.json")?)?;
     let mut products: Vec<Product> = Vec::new();
-    let tokens = raw.tokens;
+    let mut tokens = raw.tokens;
 
     for (name_raw, sizes) in raw.products {
         let (name, tags) = tokens::eval(&tokens, &name_raw)?;
@@ -133,7 +133,7 @@ async fn main() -> Result<()> {
 
             for link in links {
                 browser.goto(&link).await?;
-                let (name_raw, size_raw) = helper::link_helper(&products)?;
+                let (name_raw, size_raw) = helper::link_helper(&mut tokens, &products)?;
                 let (name, tags) = tokens::eval(&tokens, &name_raw)?;
                 let size = size_raw.parse()?;
 
