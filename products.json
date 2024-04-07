@@ -1,5 +1,6 @@
 {
   "tokens": {
+    "added-caffeine": "Added Caffeine",
     "caffeine-free": "Caffeine Free",
     "coca-cola": "Coca-Cola",
     "coca-cola-raspberry": ">coca-cola Raspberry .cola",
@@ -14,6 +15,7 @@
     "kirks": "Kirks",
     "kirks-mixers": ">kirks Mixers",
     "kirks-pasito": ">kirks Pasito .passionfruit-soft-drink",
+    "lemon-soft-drink": "Lemon .soft-drink",
     "lemon-squash": "Lemon Squash .soft-drink",
     "lemonade": "Lemonade .soft-drink",
     "lime-soft-drink": "Lime .soft-drink",
@@ -27,6 +29,8 @@
     "raspberry-soft-drink": "Raspberry >soft-drink",
     "soda-water": "Soda >water",
     "soft-drink": "Soft >drink",
+    "sprite": "Sprite",
+    "sprite-lemon-plus": ">sprite Lemon .lemon-soft-drink Plus .added-caffeine",
     "sugar-free": "Sugar Free",
     "water": "Water .drink",
     "zero-caffeine": "Zero Caffeine =caffeine-free",
@@ -340,7 +344,7 @@
       }
     },
     ">coca-cola-vanilla": {
-      "600 ml can": {
+      "600 ml bottle": {
         "image": {
           "url": "https://cdn0.woolworths.media/content/wowproductimages/large/180910.jpg",
           "hash": "90a9ad3a0482393d74ce25db797e4e806f5a29c1c1256a79e41d156dc46ae4fd"
@@ -804,6 +808,126 @@
         "links": [
           "https://www.nudie.com.au/product/nothing-but-oranges-juice-with-pulp-2l/",
           "https://www.woolworths.com.au/shop/productdetails/359118/nudie-nothing-but-oranges-with-pulp"
+        ]
+      }
+    },
+    ">sprite-lemon-plus": {
+      "600 ml bottle": {
+        "links": [
+          "https://www.coles.com.au/product/sprite-lemon-plus-soft-drink-600ml-5625356"
+        ]
+      },
+      "1.25 l bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/237909/sprite-lemon-soft-drink"
+        ]
+      }
+    },
+    ">sprite-lemon-plus >zero-sugar": {
+      "600 ml bottle": {
+        "links": [
+          "https://www.coles.com.au/product/sprite-lemon-plus-zero-sugar-soft-drink-600ml-5625367",
+          "https://www.woolworths.com.au/shop/productdetails/246323/sprite-lemon-zero-sugar-soft-drink-bottle"
+        ]
+      },
+      "1.25 l bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/238548/sprite-lemon-zero-sugar-soft-drink"
+        ]
+      },
+      "10 x 375 ml can": {
+        "links": [
+          "https://www.coles.com.au/product/sprite-lemon-plus-zero-sugar-cans-10x375ml-10-pack-5483116",
+          "https://www.woolworths.com.au/shop/productdetails/238400/sprite-lemon-zero-sugar-soft-drink-cans"
+        ]
+      }
+    },
+    ">sprite >lemonade": {
+      "250 ml can": {
+        "links": [
+          "https://www.coles.com.au/product/sprite-lemonade-soft-drink-can-250ml-2034138"
+        ]
+      },
+      "600 ml bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/93187/sprite-lemonade-soft-drink-bottle",
+          "https://www.coles.com.au/product/sprite-lemonade-soft-drink-bottle-600ml-5603841"
+        ]
+      },
+      "1.25 l bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/95325/sprite-lemonade-soft-drink-bottle",
+          "https://www.coles.com.au/product/sprite-lemonade-soft-drink-bottle-1-25l-401657"
+        ]
+      },
+      "1.5 l bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/114678/sprite-lemonade-bottle"
+        ]
+      },
+      "6 x 250 ml can": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/244826/sprite-lemonade-soft-drink-mini-cans",
+          "https://www.coles.com.au/product/sprite-lemonade-soft-drink-multipack-mini-cans-6x250ml-6-pack-4398747"
+        ]
+      },
+      "2 l bottle": {
+        "links": [
+          "https://www.coles.com.au/product/sprite-lemonade-soft-drink-bottle-2l-438894"
+        ]
+      },
+      "12 x 300 ml bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/399589/sprite-lemonade"
+        ]
+      },
+      "10 x 375 ml can": {
+        "links": [
+          "https://www.coles.com.au/product/sprite-lemonade-soft-drink-10x375ml-10-pack-1849329",
+          "https://www.woolworths.com.au/shop/productdetails/793285/sprite-lemonade-soft-drink-multipack-cans"
+        ]
+      },
+      "24 x 375 ml can": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/370739/sprite-lemonade-soft-drink-cans",
+          "https://www.coles.com.au/product/sprite-lemonade-soft-drink-cans-24x375ml-24-pack-7365904"
+        ]
+      }
+    },
+    ">sprite >lemonade >zero-sugar": {
+      "600 ml bottle": {
+        "links": [
+          "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-bottle-600ml-4378444",
+          "https://www.woolworths.com.au/shop/productdetails/864460/sprite-zero-sugar-soft-drink-bottle"
+        ]
+      },
+      "1.25 l bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/62170/sprite-zero-sugar-lemonade-soft-drink-bottle",
+          "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-bottle-1-25l-3585567"
+        ]
+      },
+      "6 x 250 ml can": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/245007/sprite-zero-sugar-lemonade-soft-drink-mini-cans",
+          "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-multipack-mini-cans-6-x-250ml-6-pack-4398758"
+        ]
+      },
+      "2 l bottle": {
+        "links": [
+          "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-bottle-2l-4397960"
+        ]
+      },
+      "12 x 300 ml bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/221822/sprite-zero-sugar-lemonade-soft-drink-mini-bottles",
+          "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-multipack-bottles-12x300ml-12-pack-5192838"
+        ]
+      },
+      "10 x 375 ml can": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/793280/sprite-zero-sugar-lemonade-soft-drink-multipack-cans",
+          "https://www.coles.com.au/product/sprite-zero-sugar-lemonade-soft-drink-multipack-cans-10x375ml-10-pack-1849271"
         ]
       }
     }
