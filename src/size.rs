@@ -2,7 +2,7 @@ use std::{fmt, str::FromStr};
 
 use anyhow::{bail, Result};
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct Size {
     pack: u64,
     amount_is_total: bool,
@@ -11,9 +11,11 @@ pub struct Size {
     container: Container,
 }
 
-impl Size {
-    pub fn parse(raw: &str) -> Result<Self> {
-        let words: Vec<_> = raw.split(' ').collect();
+impl FromStr for Size {
+    type Err = anyhow::Error;
+
+    fn from_str(s: &str) -> Result<Self> {
+        let words: Vec<_> = s.split(' ').collect();
         Ok(match words.len() {
             3 => Size {
                 pack: 1,
@@ -36,7 +38,9 @@ impl Size {
             _ => bail!("unknown word count"),
         })
     }
+}
 
+impl Size {
     pub fn total(&self) -> f64 {
         if self.amount_is_total {
             self.amount
@@ -68,7 +72,7 @@ impl fmt::Display for Size {
     }
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 enum Unit {
     Liters,
     Milliliters,
@@ -112,7 +116,7 @@ impl fmt::Display for Unit {
     }
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 enum Container {
     Bottle,
     Can,

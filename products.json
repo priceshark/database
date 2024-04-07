@@ -51,6 +51,7 @@
           "hash": "550438894bacb9ce69b07640a8f3e4bfb221309930fabe55004be69d32d2450b"
         },
         "links": [
+          "https://www.coles.com.au/product/coca-cola-classic-soft-drink-can-250ml-2034105",
           "https://www.woolworths.com.au/shop/productdetails/792193/coca-cola-classic-soft-drink-mini-can"
         ]
       },
@@ -218,7 +219,8 @@
           "hash": "ad7377bbfbff5f12829cac211142a6de912dd035f6f75a5bad855fa187d4b0ee"
         },
         "links": [
-          "https://www.woolworths.com.au/shop/productdetails/94493/coca-cola-diet-soft-drink-bottle"
+          "https://www.woolworths.com.au/shop/productdetails/94493/coca-cola-diet-soft-drink-bottle",
+          "https://www.coles.com.au/product/coca-cola-diet-coke-soft-drink-bottle-1-25l-419211"
         ]
       },
       "6 x 250 ml can": {
@@ -272,6 +274,14 @@
         ]
       }
     },
+    ">coca-cola Lime .cola >zero-sugar": {
+      "1.25 l bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/610362/coca-cola-lime-zero-sugar",
+          "https://www.coles.com.au/product/coca-cola-soft-drink-coke-with-lime-zero-1-25l-7714640"
+        ]
+      }
+    },
     ">coca-cola-raspberry": {
       "600 ml bottle": {
         "image": {
@@ -304,6 +314,11 @@
           "https://www.woolworths.com.au/shop/productdetails/286997/coca-cola-zero-sugar-raspberry-soft-drink-bottle"
         ]
       },
+      "6 x 250 ml can": {
+        "links": [
+          "https://www.coles.com.au/product/coca-cola-zero-raspberry-coke-cans-6x250ml-6-pack-6670108"
+        ]
+      },
       "12 x 300 ml bottle": {
         "image": {
           "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/7/6670072_B-zm.jpg",
@@ -319,7 +334,8 @@
           "hash": "85df02eead825669a707e0859d7dbb2b06648223ef76d3335d80bbc8dd17dc3c"
         },
         "links": [
-          "https://www.woolworths.com.au/shop/productdetails/408382/coca-cola-raspberry-zero-sugar-cans"
+          "https://www.woolworths.com.au/shop/productdetails/408382/coca-cola-raspberry-zero-sugar-cans",
+          "https://www.coles.com.au/product/coca-cola-raspberry-zero-sugar-soft-drink-can-10x375ml-10-pack-6670083"
         ]
       }
     },
@@ -364,6 +380,13 @@
         ]
       }
     },
+    ">coca-cola-vanilla ": {
+      "6 x 250 ml can": {
+        "links": [
+          "https://www.coles.com.au/product/coca-cola-vanilla-soft-drink-6x250ml-6-pack-4398714"
+        ]
+      }
+    },
     ">coca-cola-vanilla >zero-sugar": {
       "600 ml bottle": {
         "image": {
@@ -382,7 +405,13 @@
         },
         "links": [
           "https://www.coles.com.au/product/coca-cola-zero-sugar-vanilla-soft-drink-bottle-1.25l-3271060",
-          "https://www.woolworths.com.au/shop/productdetails/803078/coca-cola-vanilla-zero-sugar-soft-drink-bottle"
+          "https://www.woolworths.com.au/shop/productdetails/803078/coca-cola-vanilla-zero-sugar-soft-drink-bottle",
+          "https://www.coles.com.au/product/coca-cola-zero-sugar-vanilla-soft-drink-bottle-1-25l-3271060"
+        ]
+      },
+      "6 x 250 ml can": {
+        "links": [
+          "https://www.coles.com.au/product/coca-cola-zero-sugar-vanilla-soft-drink-multipack-mini-cans-6x250ml-6-pack-5484593"
         ]
       },
       "12 x 300 ml bottle": {
@@ -423,6 +452,11 @@
         },
         "links": [
           "https://www.woolworths.com.au/shop/productdetails/636329/coca-cola-no-sugar-can"
+        ]
+      },
+      "385 ml glass": {
+        "links": [
+          "https://www.coles.com.au/product/coca-cola-zero-sugar-soft-drink-bottle-385ml-1755190"
         ]
       },
       "600 ml bottle": {
@@ -518,6 +552,12 @@
       }
     },
     ">coca-cola >zero-sugar >zero-caffeine": {
+      "1.25 l bottle": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/137848/coca-cola-caffeine-free-zero-sugar-soft-drink-bottle",
+          "https://www.coles.com.au/product/coca-cola-zero-sugar-caffeine-free-soft-drink-bottle-1-25l-3989555"
+        ]
+      },
       "6 x 250 ml can": {
         "links": [
           "https://www.coles.com.au/product/coca-cola-zero-caffeine-free-coke-soft-drink-6x250ml-6-pack-6670094",
