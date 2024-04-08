@@ -121,6 +121,7 @@ enum Container {
     Bottle,
     Can,
     Glass,
+    Carton,
 }
 
 impl FromStr for Container {
@@ -131,6 +132,7 @@ impl FromStr for Container {
             "bottle" => Self::Bottle,
             "can" => Self::Can,
             "glass" => Self::Glass,
+            "carton" => Self::Carton,
             _ => bail!("Unknown container: {s}"),
         })
     }
@@ -138,18 +140,15 @@ impl FromStr for Container {
 
 impl Container {
     fn display(&self, amount: u64) -> &str {
-        if amount == 1 {
-            match self {
-                Self::Bottle => "Bottle",
-                Self::Can => "Can",
-                Self::Glass => "Glass Bottle",
-            }
-        } else {
-            match self {
-                Self::Bottle => "Bottles",
-                Self::Can => "Cans",
-                Self::Glass => "Glass Bottles",
-            }
+        let one = amount == 1;
+        match self {
+            Self::Bottle if one => "Bottle",
+            Self::Bottle => "Bottles",
+            Self::Can if one => "Can",
+            Self::Can => "Cans",
+            Self::Glass if one => "Glass Bottle",
+            Self::Glass => "Glass Bottles",
+            Self::Carton => "Carton",
         }
     }
 }

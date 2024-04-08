@@ -2,7 +2,9 @@
   "tokens": {
     "7up": "7UP >lemonade",
     "added-caffeine": "Added Caffeine",
+    "albany-farm": "Albany Farm",
     "alcoholic-ginger-beer": "Alcoholic Ginger >beer",
+    "ashbrook-farms": "Ashbrook Farms",
     "beer": "Beer .liquor",
     "blood-orange-soft-drink": "Blood Orange >soft-drink",
     "bundaberg": "Bunadberg",
@@ -15,7 +17,9 @@
     "creaming-soda": "Creaming Soda .soft-drink",
     "drink": "Drink",
     "dry-ginger-ale": "Dry Ginger Ale .soft-drink",
+    "eggs": "Eggs",
     "fanta": "Fanta",
+    "free-range-eggs": "Free Range >eggs",
     "ginger-beer": "Ginger Beer .soft-drink",
     "juice": "Juice .drink",
     "kirks": "Kirks",
@@ -31,6 +35,7 @@
     "orange-juice": "Orange >juice",
     "orange-juice-with-pulp": ">orange-juice With Pulp",
     "orange-soft-drink": "Orange >soft-drink",
+    "organic-eggs": "Organic >free-range-eggs",
     "passionfruit-soft-drink": "Passionfruit >soft-drink",
     "pepsi": "Pepsi",
     "pepsi-light": ">pepsi Light .caffeine-free .sugar-free",
@@ -54,6 +59,30 @@
       "1.25 l bottle": {
         "links": [
           "https://www.coles.com.au/product/7up-lemonade-soft-drink-bottle-1-25l-5080798"
+        ]
+      }
+    },
+    ">albany-farm >free-range-eggs": {
+      "12 = 700 g carton": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/748629/albany-farm-free-range-eggs"
+        ]
+      },
+      "12 = 800 g carton": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/803058/albany-farm-fresh-12-jumbo-free-range-eggs"
+        ]
+      }
+    },
+    ">ashbrook-farms >free-range-eggs": {
+      "6 = 350 g carton": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/55084/ashbrook-farms-6-free-range-eggs"
+        ]
+      },
+      "12 = 700 g carton": {
+        "links": [
+          "https://www.woolworths.com.au/shop/productdetails/55089/ashbrook-farms-12-free-range-eggs"
         ]
       }
     },
@@ -449,8 +478,7 @@
         },
         "links": [
           "https://www.coles.com.au/product/coca-cola-zero-sugar-vanilla-soft-drink-bottle-1.25l-3271060",
-          "https://www.woolworths.com.au/shop/productdetails/803078/coca-cola-vanilla-zero-sugar-soft-drink-bottle",
-          "https://www.coles.com.au/product/coca-cola-zero-sugar-vanilla-soft-drink-bottle-1-25l-3271060"
+          "https://www.woolworths.com.au/shop/productdetails/803078/coca-cola-vanilla-zero-sugar-soft-drink-bottle"
         ]
       },
       "6 x 250 ml can": {
@@ -615,6 +643,23 @@
         ]
       }
     },
+    ">coles >free-range-eggs": {
+      "12 = 600 g carton": {
+        "links": [
+          "https://www.coles.com.au/product/coles-free-range-eggs-12-pack-600g-9453456"
+        ]
+      },
+      "12 = 700 g carton": {
+        "links": [
+          "https://www.coles.com.au/product/coles-free-range-eggs-12-pack-700g-9453478"
+        ]
+      },
+      "12 = 800 g carton": {
+        "links": [
+          "https://www.coles.com.au/product/coles-jumbo-free-range-eggs-12-pack-800g-1034234"
+        ]
+      }
+    },
     ">coles >lemonade": {
       "1.25 l bottle": {
         "links": [
@@ -626,6 +671,13 @@
       "1.25 l bottle": {
         "links": [
           "https://www.coles.com.au/product/coles-soft-drink-lemonade-diet-1-25l-5179160"
+        ]
+      }
+    },
+    ">coles >organic-eggs": {
+      "12 = 600 g carton": {
+        "links": [
+          "https://www.coles.com.au/product/coles-organic-free-range-eggs-12-pack-600g-3169697"
         ]
       }
     },
