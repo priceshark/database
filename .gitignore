@@ -1,4 +1,8 @@
 cache
 target
+.ipynb_checkpoints
+
+*raw.json
+*raw.jsonl
 
 ps.db
