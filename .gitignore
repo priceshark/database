@@ -2,6 +2,8 @@ cache
 target
 .ipynb_checkpoints
 
+raw/
+!**/src/raw
 *raw.json
 *raw.jsonl
 
