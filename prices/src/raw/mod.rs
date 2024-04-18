@@ -15,6 +15,8 @@ use crate::Retailer;
 mod coles;
 mod woolworths;
 
+pub type RawPrices = BTreeMap<u32, Vec<RawPriceGroup>>;
+
 pub fn run(retailer: Retailer, date: String) -> Result<()> {
     let folder = match retailer {
         Retailer::Coles => "coles-prices",
@@ -25,7 +27,7 @@ pub fn run(retailer: Retailer, date: String) -> Result<()> {
         Retailer::Coles => "coles",
         Retailer::Woolworths => "woolworths",
     };
-    let output_path = format!("raw/{name}-{date}.bin.zst");
+    let output_path = format!("raw/{date}-{name}.bin.zst");
     eprintln!("Reading {input_path} and writing to {output_path}");
 
     let input = BufReader::new(zstd::Decoder::new(File::open(input_path)?)?);
@@ -39,7 +41,7 @@ pub fn run(retailer: Retailer, date: String) -> Result<()> {
             .expect("hardcoded"),
     );
 
-    let mut product_prices: BTreeMap<u32, Vec<RawPriceGroup>> = BTreeMap::new();
+    let mut product_prices: RawPrices = BTreeMap::new();
     for chunk in &input.lines().chunks(65535) {
         let chunk: Vec<_> = chunk.try_collect()?;
         let chunk: Vec<_> = chunk
@@ -106,8 +108,7 @@ impl RawPriceRecord {
             product,
             info: RawPriceInfo {
                 price: NonNaN::new(0.0).unwrap(),
-                discount_price: NonNaN::new(0.0).unwrap(),
-                discount_quantity: 1,
+                discounts: Vec::new(),
                 promotion: Promotion::None,
             },
         }
@@ -117,9 +118,16 @@ impl RawPriceRecord {
 #[derive(Debug, Serialize, Deserialize, PartialEq, Eq)]
 pub struct RawPriceInfo {
     pub price: NonNaN,
-    pub discount_price: NonNaN,
-    pub discount_quantity: u32,
+    pub discounts: Vec<Discount>,
     pub promotion: Promotion,
+}
+
+#[derive(Debug, Serialize, Deserialize, PartialEq, Eq)]
+pub struct Discount {
+    // discounted, each
+    pub price: NonNaN,
+    pub quantity: u32,
+    pub members_only: bool,
 }
 
 #[derive(Debug, Clone, Serialize_repr, Deserialize_repr, PartialEq, Eq)]

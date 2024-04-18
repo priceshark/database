@@ -2,7 +2,7 @@ use anyhow::{bail, ensure, Context, Result};
 use serde::Deserialize;
 use typed_floats::tf32::NonNaN;
 
-use super::{Promotion, RawPriceRecord};
+use super::{Discount, Promotion, RawPriceRecord};
 
 pub fn extract(line: &str) -> Result<RawPriceRecord> {
     let item: Item = serde_json::from_str(&line)?;
@@ -20,26 +20,33 @@ pub fn extract(line: &str) -> Result<RawPriceRecord> {
         .unwrap_or(RawPromotionType::None);
 
     let mut price = item.price.unwrap_or(0);
-    let mut discount_price = 0;
-    let mut discount_quantity = 1;
     if let Some(raw) = item.was_price {
         if promotion == RawPromotionType::Special {
-            discount_price = price;
+            record.info.discounts.push(Discount {
+                price: NonNaN::new(price as f32 / 100.0)?,
+                quantity: 1,
+                members_only: false,
+            });
             price = parse_price(raw.strip_prefix("Was ").context("Invalid price")?)?;
         }
     }
+    record.info.price = NonNaN::new(price as f32 / 100.0)?;
+
     if let Some(x) = &item.multi_buy_price_info {
-        // ensure!(discount_price == 0, "Multiple discounts");
-        if discount_price != 0 {
-            eprintln!("multiple discounts: {}", item.store);
-        }
-        discount_price = price;
-        (discount_quantity, price) = parse_quantity_price(&x.price)?;
+        let (quantity, price) = parse_quantity_price(&x.price)?;
+        record.info.discounts.push(Discount {
+            price: NonNaN::new(price as f32 / 100.0)?,
+            quantity,
+            members_only: true,
+        })
     }
     if let Some(x) = &item.member_price_info {
-        ensure!(discount_price == 0, "Multiple discounts");
-        discount_price = price;
-        (discount_quantity, price) = parse_quantity_price(&x.title)?;
+        let (quantity, price) = parse_quantity_price(&x.title)?;
+        record.info.discounts.push(Discount {
+            price: NonNaN::new(price as f32 / quantity as f32 / 100.0)?,
+            quantity,
+            members_only: true,
+        })
     }
 
     let promotion = match promotion {
@@ -48,10 +55,6 @@ pub fn extract(line: &str) -> Result<RawPriceRecord> {
         RawPromotionType::LowPrice => Promotion::WoolworthsLowPrice,
         RawPromotionType::PriceDropped => Promotion::WoolworthsPriceDropped,
     };
-
-    record.info.price = NonNaN::new((price as f32) / 100.0)?;
-    record.info.discount_price = NonNaN::new((discount_price as f32) / 100.0)?;
-    record.info.discount_quantity = discount_quantity;
     record.info.promotion = promotion;
 
     Ok(record)

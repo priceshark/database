@@ -3,26 +3,34 @@ use serde::Deserialize;
 // use serde_with::chrono::{DateTime, Utc};
 use typed_floats::tf32::NonNaN;
 
-use super::{Promotion, RawPriceRecord};
+use super::{Discount, Promotion, RawPriceRecord};
 
 pub fn extract(line: &str) -> Result<RawPriceRecord> {
     let item: Item = serde_json::from_str(line)?;
     let mut record = RawPriceRecord::new(item.store, item.product);
+
+    if item.store == 0 {
+        return Ok(record);
+    }
 
     if let Some(pricing) = item.pricing {
         if pricing.was == 0.0 {
             record.info.price = pricing.now;
         } else {
             record.info.price = pricing.was;
-            record.info.discount_price = pricing.now;
+            record.info.discounts.push(Discount {
+                price: pricing.now,
+                quantity: 1,
+                members_only: false,
+            });
         }
 
         if let Some(x) = pricing.multi_buy_promotion {
-            record.info.discount_quantity = x.min_quantity;
-            // match x.r#type {
-            //     MultiBuyType::MultibuySingleSku => 0,
-            //     MultiBuyType::MultibuyMultiSku => x.id.parse()?,
-            // },
+            record.info.discounts.push(Discount {
+                price: x.reward,
+                quantity: x.min_quantity,
+                members_only: false,
+            });
         }
 
         record.info.promotion = match pricing.promotion_type {
@@ -43,6 +51,8 @@ pub fn extract(line: &str) -> Result<RawPriceRecord> {
             Some(RawPromotionType::New) => Promotion::New,
             Some(RawPromotionType::Droppedlocked) => Promotion::ColesDroppedAndLocked,
             Some(RawPromotionType::Locked) => Promotion::ColesLocked,
+            // seems to be something internal?
+            Some(RawPromotionType::Continuityredeemable) => Promotion::None,
         };
     }
 
@@ -115,6 +125,7 @@ enum RawPromotionType {
     New,
     Droppedlocked,
     Locked,
+    Continuityredeemable,
 }
 
 #[derive(Clone, Debug, Deserialize, Eq, PartialEq, Hash)]
