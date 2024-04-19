@@ -1,0 +1,12 @@
+[package]
+name = "barcodes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.82"
+serde = { version = "1.0.198", features = ["derive"] }
+serde_json = "1.0.116"
+zstd = "0.13.1"
+
+_model = { path = "../model" }
