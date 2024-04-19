@@ -3,6 +3,32 @@
 version = 3
 
 [[package]]
+name = "_model"
+version = "0.1.0"
+dependencies = [
+ "clap",
+ "serde",
+]
+
+[[package]]
+name = "_prices"
+version = "0.1.0"
+dependencies = [
+ "_model",
+ "anyhow",
+ "clap",
+ "indicatif",
+ "itertools",
+ "postcard",
+ "rayon",
+ "serde",
+ "serde_json",
+ "serde_repr",
+ "typed_floats",
+ "zstd",
+]
+
+[[package]]
 name = "anstream"
 version = "0.6.13"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -332,23 +358,6 @@ dependencies = [
  "embedded-io",
  "heapless",
  "serde",
-]
-
-[[package]]
-name = "prices"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "clap",
- "indicatif",
- "itertools",
- "postcard",
- "rayon",
- "serde",
- "serde_json",
- "serde_repr",
- "typed_floats",
- "zstd",
 ]
 
 [[package]]

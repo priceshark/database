@@ -20,6 +20,7 @@ fn main() -> Result<()> {
             let product: Product = serde_json::from_str(&line?)?;
             if let Some(id) = r.parse_product_id(&product.id) {
                 match id {
+                    // ignore everyday marketplace
                     ProductID::Woolworths(x) if x >= 1_000_000_000 => continue,
                     _ => (),
                 }

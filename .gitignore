@@ -7,4 +7,5 @@ raw/
 *raw.json
 *raw.jsonl
 
+barcodes/output.json
 ps.db

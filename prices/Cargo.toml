@@ -1,5 +1,5 @@
 [package]
-name = "prices"
+name = "_prices"
 version = "0.1.0"
 edition = "2021"
 
@@ -15,3 +15,5 @@ serde_json = "1.0.116"
 serde_repr = "0.1.19"
 typed_floats = { version = "1.0.1", features = ["serde"] }
 zstd = "0.13.1"
+
+_model = { path = "../model" }

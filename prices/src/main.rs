@@ -1,13 +1,7 @@
 use anyhow::Result;
-use clap::{Parser, Subcommand, ValueEnum};
+use clap::{Parser, Subcommand};
 
-mod raw;
-
-#[derive(Clone, Debug, ValueEnum)]
-enum Retailer {
-    Coles,
-    Woolworths,
-}
+use _model::Retailer;
 
 #[derive(Debug, Parser)]
 struct Cli {
@@ -25,7 +19,7 @@ fn main() -> Result<()> {
 
     match cli.command {
         Command::Raw { retailer, date } => {
-            raw::run(retailer, date)?;
+            _prices::raw::run(retailer, date)?;
         }
     }
 

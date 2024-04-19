@@ -10,7 +10,7 @@ use serde::{Deserialize, Serialize};
 use serde_repr::{Deserialize_repr, Serialize_repr};
 use typed_floats::tf32::NonNaN;
 
-use crate::Retailer;
+use _model::Retailer;
 
 mod coles;
 mod woolworths;
@@ -18,17 +18,10 @@ mod woolworths;
 pub type RawPrices = BTreeMap<u32, Vec<RawPriceGroup>>;
 
 pub fn run(retailer: Retailer, date: String) -> Result<()> {
-    let folder = match retailer {
-        Retailer::Coles => "coles-prices",
-        Retailer::Woolworths => "woolworths-prices",
-    };
-    let input_path = format!("../internal/{folder}/output/{date}.jsonl.zst");
-    let name = match retailer {
-        Retailer::Coles => "coles",
-        Retailer::Woolworths => "woolworths",
-    };
-    let output_path = format!("raw/{date}-{name}.bin.zst");
-    let index_path = format!("raw/{date}-{name}.json");
+    let slug = retailer.slug();
+    let input_path = format!("../internal/{slug}-prices/output/{date}.jsonl.zst");
+    let output_path = format!("raw/{date}-{slug}.bin.zst");
+    let index_path = format!("raw/{date}-{slug}.json");
     eprintln!("Reading {input_path} and writing to {output_path}");
 
     let input = BufReader::new(zstd::Decoder::new(File::open(input_path)?)?);

@@ -1,8 +1,11 @@
+use clap::ValueEnum;
+use serde::{Deserialize, Serialize};
+
 mod id;
 
 pub use id::ProductID;
 
-#[derive(Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
+#[derive(Clone, Debug, PartialEq, Eq, PartialOrd, Ord, Serialize, Deserialize, ValueEnum)]
 pub enum Retailer {
     Coles,
     Woolworths,
