@@ -1,8 +1,8 @@
-use std::collections::BTreeMap;
-use std::fs::File;
+use std::collections::{BTreeMap, BTreeSet};
+use std::fs::{write, File};
 use std::io::{BufRead, BufReader, Write};
 
-use anyhow::{Context, Result};
+use anyhow::{bail, Context, Result};
 use indicatif::{ProgressBar, ProgressStyle};
 use itertools::Itertools;
 use rayon::prelude::*;
@@ -28,6 +28,7 @@ pub fn run(retailer: Retailer, date: String) -> Result<()> {
         Retailer::Woolworths => "woolworths",
     };
     let output_path = format!("raw/{date}-{name}.bin.zst");
+    let index_path = format!("raw/{date}-{name}.json");
     eprintln!("Reading {input_path} and writing to {output_path}");
 
     let input = BufReader::new(zstd::Decoder::new(File::open(input_path)?)?);
@@ -42,6 +43,7 @@ pub fn run(retailer: Retailer, date: String) -> Result<()> {
     );
 
     let mut product_prices: RawPrices = BTreeMap::new();
+    let mut index = RawPriceIndex::new();
     for chunk in &input.lines().chunks(65535) {
         let chunk: Vec<_> = chunk.try_collect()?;
         let chunk: Vec<_> = chunk
@@ -56,26 +58,40 @@ pub fn run(retailer: Retailer, date: String) -> Result<()> {
             .collect();
         for record in chunk {
             let record = record?;
-            let info = record.info;
+            index.stores.insert(record.store);
+            index.products.insert(record.product);
 
-            if let Some(prices) = product_prices.get_mut(&record.product) {
-                if let Some(price) = prices.iter_mut().find(|x| x.info == info) {
-                    price.stores.push(record.store);
-                } else {
-                    prices.push(RawPriceGroup {
-                        stores: vec![record.store],
-                        info,
-                    });
+            if record.info.price == 0.0 {
+                // don't write this price to save storage
+
+                if record.info.discounts.len() != 0 || record.info.promotion != Promotion::None {
+                    bail!(
+                        "price would have been ignored but it has info: {:?}",
+                        &record
+                    );
                 }
             } else {
-                product_prices.insert(
-                    record.product,
-                    vec![RawPriceGroup {
-                        stores: vec![record.store],
-                        info,
-                    }],
-                );
+                let info = record.info;
+                if let Some(prices) = product_prices.get_mut(&record.product) {
+                    if let Some(price) = prices.iter_mut().find(|x| x.info == info) {
+                        price.stores.push(record.store);
+                    } else {
+                        prices.push(RawPriceGroup {
+                            stores: vec![record.store],
+                            info,
+                        });
+                    }
+                } else {
+                    product_prices.insert(
+                        record.product,
+                        vec![RawPriceGroup {
+                            stores: vec![record.store],
+                            info,
+                        }],
+                    );
+                }
             }
+
             pb.inc(1);
         }
     }
@@ -85,7 +101,24 @@ pub fn run(retailer: Retailer, date: String) -> Result<()> {
     writer.write_all(data.as_slice())?;
     writer.finish()?;
 
+    write(index_path, serde_json::to_string(&index)?)?;
+
     Ok(())
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+pub struct RawPriceIndex {
+    pub stores: BTreeSet<u32>,
+    pub products: BTreeSet<u32>,
+}
+
+impl RawPriceIndex {
+    fn new() -> Self {
+        Self {
+            stores: BTreeSet::new(),
+            products: BTreeSet::new(),
+        }
+    }
 }
 
 #[derive(Debug, Serialize, Deserialize)]
