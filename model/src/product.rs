@@ -4,12 +4,12 @@ use crate::Retailer;
 
 #[derive(Clone, Debug, PartialEq, Eq, PartialOrd, Ord, Serialize, Deserialize)]
 #[serde(rename_all = "kebab-case")]
-pub enum ProductID {
+pub enum ProductId {
     Coles(u32),
     Woolworths(u32),
 }
 
-impl ProductID {
+impl ProductId {
     pub fn retailer(&self) -> Retailer {
         match self {
             Self::Coles(_) => Retailer::Coles,
@@ -33,16 +33,16 @@ impl ProductID {
 }
 
 impl Retailer {
-    pub fn parse_product_id(&self, id: &str) -> Option<ProductID> {
+    pub fn parse_product_id(&self, id: &str) -> Option<ProductId> {
         Some(match self {
-            Self::Coles => ProductID::Coles(id.parse().ok()?),
-            Self::Woolworths => ProductID::Woolworths(id.parse().ok()?),
+            Self::Coles => ProductId::Coles(id.parse().ok()?),
+            Self::Woolworths => ProductId::Woolworths(id.parse().ok()?),
         })
     }
 
-    pub fn parse_product_link(&self, url: &str) -> Option<ProductID> {
+    pub fn parse_product_link(&self, url: &str) -> Option<ProductId> {
         Some(match self {
-            Self::Coles => ProductID::Coles(
+            Self::Coles => ProductId::Coles(
                 url.strip_prefix("https://www.coles.com.au/product/")?
                     .rsplit_once("-")?
                     .1
@@ -56,7 +56,7 @@ impl Retailer {
                     return None;
                 }
 
-                ProductID::Woolworths(slug.split_once("/")?.0.parse().ok()?)
+                ProductId::Woolworths(slug.split_once("/")?.0.parse().ok()?)
             }
         })
     }
@@ -70,7 +70,7 @@ mod tests {
     fn parse_product_link() {
         assert_eq!(
             Retailer::Coles.parse_product_link("https://www.coles.com.au/product/slug-1234"),
-            Some(ProductID::Coles(1234))
+            Some(ProductId::Coles(1234))
         );
         assert_eq!(
             Retailer::Coles.parse_product_link("https://www.coles.com.au/product/slug"),
@@ -80,7 +80,7 @@ mod tests {
         assert_eq!(
             Retailer::Woolworths
                 .parse_product_link("https://www.woolworths.com.au/shop/productdetails/1234/slug"),
-            Some(ProductID::Woolworths(1234))
+            Some(ProductId::Woolworths(1234))
         );
         assert_eq!(
             // in sitemap

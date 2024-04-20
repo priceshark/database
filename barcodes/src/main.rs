@@ -4,12 +4,12 @@ use std::{
     io::{BufRead, BufReader},
 };
 
-use _model::{ProductID, Retailer};
+use _model::{ProductId, Retailer};
 use anyhow::Result;
 use serde::Deserialize;
 
 fn main() -> Result<()> {
-    let mut barcodes: BTreeMap<String, Vec<ProductID>> = BTreeMap::new();
+    let mut barcodes: BTreeMap<String, Vec<ProductId>> = BTreeMap::new();
 
     for r in [Retailer::Coles, Retailer::Woolworths] {
         let path = format!("raw/{}.jsonl.zst", r.slug());
@@ -21,7 +21,7 @@ fn main() -> Result<()> {
             if let Some(id) = r.parse_product_id(&product.id) {
                 match id {
                     // ignore everyday marketplace
-                    ProductID::Woolworths(x) if x >= 1_000_000_000 => continue,
+                    ProductId::Woolworths(x) if x >= 1_000_000_000 => continue,
                     _ => (),
                 }
 
