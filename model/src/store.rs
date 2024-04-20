@@ -1,3 +1,5 @@
+use std::fmt;
+
 use serde::{Deserialize, Serialize};
 
 use crate::{osm::OsmId, Retailer};
@@ -10,7 +12,7 @@ pub struct Store {
     pub name: String,
 }
 
-#[derive(Clone, Debug, PartialEq, Eq, PartialOrd, Ord, Serialize, Deserialize)]
+#[derive(Clone, PartialEq, Eq, PartialOrd, Ord, Serialize, Deserialize)]
 #[serde(rename_all = "kebab-case")]
 pub enum StoreId {
     Coles(u32),
@@ -65,6 +67,21 @@ impl Retailer {
                     .ok()?,
             ),
         })
+    }
+}
+
+impl fmt::Debug for StoreId {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        match self {
+            Self::Coles(x) => write!(
+                f,
+                "[Coles Store {x}](https://www.coles.com.au/find-stores/coles/-/-{x})"
+            ),
+            Self::Woolworths(x) => write!(
+                f,
+                "[Woolworths Store {x}](https://www.woolworths.com.au/shop/storelocator/{x})"
+            ),
+        }
     }
 }
 

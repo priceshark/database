@@ -41,7 +41,7 @@ fn main() -> Result<()> {
     let mut stores = BTreeMap::new();
     for (retailer, osm) in &osm {
         let prev_count = stores.len();
-        println!("# {retailer:?}");
+        println!("# {retailer:?}\n");
 
         let mut raw = Vec::new();
         for x in read_to_string(format!(
@@ -61,16 +61,16 @@ fn main() -> Result<()> {
                     forced.insert(x.id.clone());
                     if let Some(conflict) = stores.insert(id.clone(), x) {
                         bail!(
-                            "Two elements reference store {id:?}: {} {}",
-                            x.id.link(),
-                            conflict.id.link()
+                            "Two elements reference store {id:?}: {:?} {:?}",
+                            x.id,
+                            conflict.id
                         );
                     }
                 }
             }
         }
 
-        println!("## Warnings");
+        println!("## Warnings\n");
         let mut nearby: BTreeMap<StoreId, Vec<(f64, &OsmElement)>> = BTreeMap::new();
         let mut nearest: BTreeMap<OsmId, f64> = BTreeMap::new();
         for store in &raw {
@@ -121,13 +121,21 @@ fn main() -> Result<()> {
 
                     if *nearest.get(&next.id).unwrap() == d {
                         if let Some(x) = stores.get(store) {
-                            println!("- {store:?} conflict: {} {}", x.id.link(), next.id.link());
+                            println!(
+                                "- {store:?} is conflicted with {:?} and {:?}",
+                                x.id, next.id
+                            );
                         } else {
-                            if d > 400.0 || pass > 1 {
+                            if pass > 1 {
+                                println!(
+                                    "- {:?} is #{pass} closest to {store:?} ({d:.00}m)",
+                                    next.id
+                                );
+                            } else if d > 400.0 {
                                 // TODO: keep decreasing and reviewing warning distance
                                 println!(
-                                    "- {store:?} is #{pass} closest ({d:.00}m) to {}",
-                                    next.id.link()
+                                    "- {store:?}: {:?} is {d:.00}m away from raw location",
+                                    next.id
                                 );
                             }
                             stores.insert(store.clone(), next);
@@ -138,7 +146,7 @@ fn main() -> Result<()> {
         }
 
         let new = stores.len() - prev_count;
-        println!("## Statistics");
+        println!("\n## Statistics\n");
         println!("- {} raw, {} osm", raw.len(), osm.len());
         println!("- {} sourced from url", forced.len());
         println!("- {} matched on distance", new - forced.len());

@@ -27,11 +27,4 @@ impl Retailer {
             Self::Woolworths => "woolworths",
         }
     }
-
-    pub fn wikidata(&self) -> &'static str {
-        match self {
-            Self::Coles => "Q1108172",
-            Self::Woolworths => "Q3249145",
-        }
-    }
 }
