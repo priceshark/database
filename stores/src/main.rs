@@ -70,7 +70,7 @@ fn main() -> Result<()> {
             }
         }
 
-        println!("## Warnings\n");
+        println!("## Issues\n");
         let mut nearby: BTreeMap<StoreId, Vec<(f64, &OsmElement)>> = BTreeMap::new();
         let mut nearest: BTreeMap<OsmId, f64> = BTreeMap::new();
         for store in &raw {
@@ -110,6 +110,18 @@ fn main() -> Result<()> {
             nearby.insert(id, this_nearby);
         }
 
+        let missing = nearby
+            .iter()
+            .filter(|(_, x)| x.len() == 0)
+            .collect::<Vec<_>>();
+
+        if missing.len() > 0 {
+            println!("- didn't match with osm:");
+            for (k, _) in missing {
+                println!("  - {k:?}");
+            }
+        }
+
         let mut keep_going: bool = true;
         let mut pass = 0;
         while keep_going {
@@ -143,6 +155,20 @@ fn main() -> Result<()> {
                         }
                     }
                 }
+            }
+        }
+
+        let mut existing = BTreeSet::from_iter(forced.iter());
+        existing.extend(stores.iter().map(|(_, v)| &v.id));
+        let missing = osm
+            .iter()
+            .map(|x| &x.id)
+            .filter(|x| !existing.contains(x))
+            .collect::<Vec<_>>();
+        if missing.len() > 0 {
+            println!("- didn't match with raw:");
+            for x in missing {
+                println!("  - {x:?}");
             }
         }
 
