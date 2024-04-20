@@ -6497,21 +6497,6 @@
       }
     },
     {
-      "node": 3387441979,
-      "x": -26.6273397,
-      "y": 152.9571804,
-      "tags": {
-        "branch": "Nambour",
-        "brand": "Coles",
-        "brand:wikidata": "Q1108172",
-        "brand:wikipedia": "en:Coles Supermarkets",
-        "name": "Coles",
-        "operator": "Coles",
-        "shop": "supermarket",
-        "website": "https://www.coles.com.au/"
-      }
-    },
-    {
       "node": 3390252746,
       "x": -33.9048457,
       "y": 151.2131902,
@@ -9014,23 +8999,6 @@
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
         "shop": "supermarket"
-      }
-    },
-    {
-      "node": 7092060788,
-      "x": -27.523855,
-      "y": 153.1939866,
-      "tags": {
-        "addr:housenumber": "38-62",
-        "addr:street": "Moreton Bay Road",
-        "brand": "Coles",
-        "brand:wikidata": "Q1108172",
-        "brand:wikipedia": "en:Coles Supermarkets",
-        "name": "Coles",
-        "operator": "Coles Group",
-        "operator:wikidata": "Q1339055",
-        "shop": "supermarket",
-        "wheelchair": "yes"
       }
     },
     {
@@ -12195,7 +12163,7 @@
         "brand:wikipedia": "en:Coles Supermarkets",
         "building": "yes",
         "name": "Coles",
-        "operator": "Coles",
+        "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
         "shop": "supermarket",
         "website": "https://www.coles.com.au/"
@@ -29516,19 +29484,6 @@
       }
     },
     {
-      "node": 1750511053,
-      "x": -37.8840031,
-      "y": 144.9976889,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience"
-      }
-    },
-    {
       "node": 2088105245,
       "x": -37.7888884,
       "y": 144.9910691,
@@ -29918,19 +29873,6 @@
       }
     },
     {
-      "node": 10243705320,
-      "x": -37.7760267,
-      "y": 144.9285011,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience"
-      }
-    },
-    {
       "node": 10614020296,
       "x": -37.8100673,
       "y": 144.9587799,
@@ -29973,19 +29915,6 @@
         "operator": "Woolworths Group",
         "operator:wikidata": "Q607272",
         "shop": "supermarket"
-      }
-    },
-    {
-      "node": 11189565189,
-      "x": -33.9513314,
-      "y": 151.0925058,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience"
       }
     },
     {
@@ -30046,84 +29975,6 @@
       }
     },
     {
-      "way": 357293310,
-      "x": -24.8711616,
-      "y": 152.350929,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "brand:wikipedia": "en:Caltex Woolworths",
-        "building": "yes",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience"
-      }
-    },
-    {
-      "way": 433203104,
-      "x": -37.7516638,
-      "y": 145.0025137,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "brand:wikipedia": "en:Caltex Woolworths",
-        "building": "retail",
-        "building:levels": "1",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience",
-        "website": "https://www.woolworthspetrol.com.au/"
-      }
-    },
-    {
-      "way": 496390517,
-      "x": -33.4094901,
-      "y": 151.3497893,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "building": "yes",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience"
-      }
-    },
-    {
-      "way": 544431958,
-      "x": -34.6914716,
-      "y": 138.6879157,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "brand:wikipedia": "en:EG Australia",
-        "building": "yes",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience"
-      }
-    },
-    {
-      "way": 550384664,
-      "x": -26.4148607,
-      "y": 153.0479585,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "building": "yes",
-        "name": "Woolworths MetroGo",
-        "opening_hours": "Mo-Th 05:30-21:00; Fr 05:30-18:00; Sa-Su 06:00-20:00",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "phone": "+61 7 4082 7414",
-        "shop": "convenience",
-        "website": "https://eg-australia.com/"
-      }
-    },
-    {
       "way": 728082171,
       "x": -33.8846881,
       "y": 151.26863,
@@ -30156,35 +30007,6 @@
       }
     },
     {
-      "way": 971243680,
-      "x": -34.7679591,
-      "y": 138.6226114,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "brand:wikipedia": "en:EG Australia",
-        "building": "yes",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience"
-      }
-    },
-    {
-      "way": 978393626,
-      "x": -37.8049768,
-      "y": 145.2442891,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "building": "yes",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience"
-      }
-    },
-    {
       "way": 989027834,
       "x": -33.9140572,
       "y": 151.2062247,
@@ -30200,21 +30022,6 @@
         "payment:contactless": "yes",
         "payment:credit_cards": "yes",
         "shop": "supermarket"
-      }
-    },
-    {
-      "way": 1041070788,
-      "x": -34.856104,
-      "y": 138.6545359,
-      "tags": {
-        "brand": "Woolworths MetroGo",
-        "brand:wikidata": "Q111772555",
-        "brand:wikipedia": "en:EG Australia",
-        "building": "yes",
-        "name": "Woolworths MetroGo",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "convenience"
       }
     }
   ]

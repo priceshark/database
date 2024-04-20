@@ -83,7 +83,7 @@ fn main() -> Result<()> {
                 continue;
             }
 
-            // find stores within 1km
+            // find osm objects nearby
             let mut this_nearby = Vec::new();
             for x in osm {
                 if forced.contains(&x.id) {
@@ -92,7 +92,8 @@ fn main() -> Result<()> {
                 }
 
                 let distance = store.point.haversine_distance(&x.point);
-                if distance < 1000.0 {
+                // 500m
+                if distance < 500.0 {
                     if let Some(x) = nearest.get_mut(&x.id) {
                         if *x > distance {
                             *x = distance;
