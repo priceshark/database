@@ -21,10 +21,11 @@ fn main() -> Result<()> {
             .build();
         osm = BTreeMap::new();
         for x in Retailer::all() {
-            let brand = x.wikidata();
-            let payload =
-                format!("[out:json][timeout:25];nwr['brand:wikidata'='{brand}'];out tags center;");
-            eprintln!("Fetching {x:?} ({brand})...");
+            let payload = match x {
+                Retailer::Coles => include_str!("coles.overpassql"),
+                Retailer::Woolworths => include_str!("woolworths.overpassql"),
+            };
+            eprintln!("Fetching {x:?} OSM data...");
             let response: OverpassResponse = agent
                 .post("https://overpass-api.de/api/interpreter")
                 .send_form(&[("data", &payload)])?
@@ -69,6 +70,7 @@ fn main() -> Result<()> {
             }
         }
 
+        println!("## Warnings");
         let mut nearby: BTreeMap<StoreId, Vec<(f64, &OsmElement)>> = BTreeMap::new();
         let mut nearest: BTreeMap<OsmId, f64> = BTreeMap::new();
         for store in &raw {
@@ -136,7 +138,7 @@ fn main() -> Result<()> {
         }
 
         let new = stores.len() - prev_count;
-        println!("## stats");
+        println!("## Statistics");
         println!("- {} raw, {} osm", raw.len(), osm.len());
         println!("- {} sourced from url", forced.len());
         println!("- {} matched on distance", new - forced.len());

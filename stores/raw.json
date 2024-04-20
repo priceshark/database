@@ -8823,7 +8823,7 @@
         "brand": "Coles",
         "brand:wikidata": "Q1108172",
         "brand:wikipedia": "en:Coles Supermarkets",
-        "name": "Coles Express",
+        "name": "Coles",
         "opening_hours": "Mo-Su 06:00-00:00",
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
@@ -9901,6 +9901,23 @@
       }
     },
     {
+      "node": 9551714744,
+      "x": -28.213663,
+      "y": 153.5214311,
+      "tags": {
+        "addr:housenumber": "259-275",
+        "addr:street": "Fraser Drive",
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "phone": "+61 7 5506 3900",
+        "shop": "supermarket",
+        "website": "https://www.coles.com.au"
+      }
+    },
+    {
       "node": 9584001094,
       "x": -37.8302752,
       "y": 140.7828991,
@@ -10465,6 +10482,30 @@
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
         "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11413306247,
+      "x": -37.8784912,
+      "y": 145.0923339,
+      "tags": {
+        "addr:housenumber": "695",
+        "addr:street": "Warrigal Road",
+        "addr:suburb": "Ashwood",
+        "branch": "Chadstone Village",
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "check_date": "2023-12-12",
+        "name": "Coles",
+        "note": "Approximate location",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "phone": "+61 3 7005 6900",
+        "shop": "supermarket",
+        "source": "survey",
+        "start_date": "2023-12-13",
+        "wheelchair": "yes"
       }
     },
     {
@@ -15653,20 +15694,6 @@
       }
     },
     {
-      "node": 703004282,
-      "x": -28.0963715,
-      "y": 153.4418771,
-      "tags": {
-        "brand": "Woolworths",
-        "brand:wikidata": "Q3249145",
-        "brand:wikipedia": "en:Woolworths Supermarkets",
-        "internet_access": "wlan",
-        "name": "Woolworths",
-        "shop": "supermarket",
-        "website": "https://www.woolworths.com.au/"
-      }
-    },
-    {
       "node": 703160534,
       "x": -32.068476,
       "y": 115.9491666,
@@ -18036,7 +18063,7 @@
         "brand": "Woolworths",
         "brand:wikidata": "Q3249145",
         "brand:wikipedia": "en:Woolworths Supermarkets",
-        "full_name": "Safeway Newcomb",
+        "full_name": "Woolworths Newcomb",
         "name": "Woolworths",
         "operator": "Woolworths Group",
         "operator:wikidata": "Q607272",
@@ -19295,6 +19322,24 @@
         "operator": "Woolworths Group",
         "operator:wikidata": "Q607272",
         "shop": "supermarket"
+      }
+    },
+    {
+      "node": 2501058116,
+      "x": -33.8716758,
+      "y": 151.0320995,
+      "tags": {
+        "addr:city": "Berala",
+        "addr:postcode": "2141",
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "full_name": "Woolworths Berala",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/",
+        "wheelchair": "yes"
       }
     },
     {
@@ -20853,6 +20898,20 @@
         "name": "Woolworths",
         "opening_hours": "Mo-Fr 08:00-18:00; Th 08:00-21:00; Sa 08:00-17:00",
         "phone": "+61 8 9949 9200",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/"
+      }
+    },
+    {
+      "node": 3751435276,
+      "x": -12.4008033,
+      "y": 130.9155059,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket",
         "website": "https://www.woolworths.com.au/"
       }
@@ -23193,6 +23252,20 @@
         "name": "Woolworths",
         "shop": "supermarket",
         "website": "https://www.woolworths.com.au/"
+      }
+    },
+    {
+      "node": 6970525764,
+      "x": -37.8489987,
+      "y": 145.1339749,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/shop/storelocator/vic-burwood-east-3060"
       }
     },
     {
@@ -29300,6 +29373,848 @@
         "roof:levels": "0",
         "shop": "supermarket",
         "type": "multipolygon"
+      }
+    },
+    {
+      "node": 570698933,
+      "x": -37.8591642,
+      "y": 144.9777767,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "full_name": "Woolworths St Kilda West",
+        "name": "Woolworths Metro",
+        "note": "full name is taken from Woolworths store listing on website",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/"
+      }
+    },
+    {
+      "node": 703004282,
+      "x": -28.0963715,
+      "y": 153.4418771,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "internet_access": "wlan",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/"
+      }
+    },
+    {
+      "node": 726967748,
+      "x": -37.810488,
+      "y": 144.97004,
+      "tags": {
+        "addr:housenumber": "222",
+        "addr:street": "Exhibition Street",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-21:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "node": 739081648,
+      "x": -27.4538128,
+      "y": 153.014616,
+      "tags": {
+        "addr:city": "Brisbane",
+        "addr:housenumber": "57",
+        "addr:postcode": "4059",
+        "addr:state": "QLD",
+        "addr:street": "Musk Avenue",
+        "addr:suburb": "Kelvin Grove",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "node": 780160558,
+      "x": -33.8648113,
+      "y": 151.2064613,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "source": "local_knowledge"
+      }
+    },
+    {
+      "node": 917798156,
+      "x": -27.456682,
+      "y": 153.033426,
+      "tags": {
+        "addr:housenumber": "Valley metro 230",
+        "addr:street": "Brunswick Street",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "phone": "+61 7 3252 8498",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "node": 1670437204,
+      "x": -33.9390492,
+      "y": 151.1149829,
+      "tags": {
+        "branch": "Bexley North",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 1722871177,
+      "x": -33.8701406,
+      "y": 151.2252405,
+      "tags": {
+        "addr:housenumber": "81",
+        "addr:postcode": "2011",
+        "addr:street": "Macleay Street",
+        "air_conditioning": "yes",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Su 06:30-23:30",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "phone": "+61 2 9308 7391",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/shop/storelocator/nsw-potts-point-1055"
+      }
+    },
+    {
+      "node": 1750511053,
+      "x": -37.8840031,
+      "y": 144.9976889,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience"
+      }
+    },
+    {
+      "node": 2088105245,
+      "x": -37.7888884,
+      "y": 144.9910691,
+      "tags": {
+        "addr:housenumber": "141-147",
+        "addr:postcode": "3068",
+        "addr:street": "Queens Parade",
+        "branch": "Clifton Hill",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "website": "https://www.appliancewarehouse.com.au/"
+      }
+    },
+    {
+      "node": 2179111958,
+      "x": -33.8833118,
+      "y": 151.2159415,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/"
+      }
+    },
+    {
+      "node": 2270185600,
+      "x": -37.8268606,
+      "y": 144.9593308,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "level": "0",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/shop/storelocator/vic-southbank-3453",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "node": 2534813061,
+      "x": -33.8821203,
+      "y": 151.2278234,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "check_date": "2023-04-23",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 2972865045,
+      "x": -33.870228,
+      "y": 151.1929945,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-23:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "source": "survey",
+        "source:location": "extrapolation"
+      }
+    },
+    {
+      "node": 3109239968,
+      "x": -27.4391357,
+      "y": 153.0667145,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 4017563989,
+      "x": -33.8837104,
+      "y": 151.2084909,
+      "tags": {
+        "addr:city": "Sydney",
+        "addr:housenumber": "302-306",
+        "addr:postcode": "2000",
+        "addr:street": "Elizabeth Street",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "level": "0",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 08:00-22:00",
+        "operator": "Woolworths Group",
+        "operator:abn": "88 000 014 675",
+        "operator:wikidata": "Q607272",
+        "phone": "+61 2 8736 7401",
+        "ref": "1669 Central Station",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/Shop/ShopLocator/NSW-Surry-Hills-1669"
+      }
+    },
+    {
+      "node": 4312299658,
+      "x": -33.8678218,
+      "y": 151.2058387,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "internet_access": "wlan",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-We 06:00-21:00; Th,Fr 06:00-22:00; Sa 08:00-19:00; Su 10:00-18:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "node": 4677441389,
+      "x": -37.8095589,
+      "y": 144.9612274,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "name": "Woolworths Metro",
+        "name:en": "Woolworths Metro",
+        "opening_hours": "Mo-Fr 06:00-23:00; Sa,Su 07:00-23:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/"
+      }
+    },
+    {
+      "node": 4984760726,
+      "x": -27.4823072,
+      "y": 153.0236606,
+      "tags": {
+        "addr:housenumber": "217",
+        "addr:postcode": "4101",
+        "addr:state": "QLD",
+        "addr:street": "Grey Street",
+        "addr:suburb": "South Brisbane",
+        "air_conditioning": "yes",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "node": 5229563124,
+      "x": -37.8166713,
+      "y": 144.9645325,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 5796006229,
+      "x": -33.9062962,
+      "y": 151.2046662,
+      "tags": {
+        "addr:housenumber": "20-26",
+        "addr:postcode": "2017",
+        "addr:state": "NSW",
+        "addr:street": "Ebsworth Street",
+        "addr:suburb": "Zetland",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "check_date:opening_hours": "2022-10-16",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Sa 06:00-23:00; Su 07:00-23:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "source": "local knowledge",
+        "website": "https://www.woolworths.com.au/Shop/StoreLocator/NSW-Zetland-1638"
+      }
+    },
+    {
+      "node": 6920201485,
+      "x": -33.8461441,
+      "y": 151.2129315,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "check_date": "2022-07-18",
+        "level": "0",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 7015942366,
+      "x": -33.8693268,
+      "y": 151.2081628,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "check_date": "2022-07-17",
+        "level": "-1",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "node": 7607930885,
+      "x": -33.8743762,
+      "y": 151.22275,
+      "tags": {
+        "addr:housenumber": "111-139",
+        "addr:street": "Darlinghurst Road",
+        "air_conditioning": "yes",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "level": "1",
+        "name": "Woolworths Metro",
+        "opening_hours": "07:00-22:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "phone": "+61 2 8565 9381",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/shop/storelocator/nsw-potts-point-1270"
+      }
+    },
+    {
+      "node": 7814358092,
+      "x": -28.863667,
+      "y": 153.0493135,
+      "tags": {
+        "addr:housenumber": "169",
+        "addr:postcode": "2470",
+        "addr:state": "NSW",
+        "addr:street": "Canterbury Street",
+        "addr:suburb": "Casino",
+        "air_conditioning": "yes",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "not:brand:wikidata": "Q3249145",
+        "opening_hours": "Mo-Sa 06:00-21:00, Su 07:00-21:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+61 2 6663 6100",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 8282446083,
+      "x": -27.4740003,
+      "y": 153.0179918,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "level": "0",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 8423843985,
+      "x": -27.4668479,
+      "y": 153.025684,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 09:00-18:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 8475688717,
+      "x": -27.4682006,
+      "y": 153.0205927,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 8519004440,
+      "x": -32.9272486,
+      "y": 151.7791758,
+      "tags": {
+        "addr:housenumber": "169-185",
+        "addr:postcode": "2300",
+        "addr:state": "NSW",
+        "addr:street": "Hunter Street",
+        "addr:suburb": "Newcastle",
+        "branch": "East Newcastle",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 9198333805,
+      "x": -33.7127394,
+      "y": 151.1469326,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 9685531436,
+      "x": -27.4542373,
+      "y": 153.0470045,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 10125608625,
+      "x": -33.9242586,
+      "y": 151.2119291,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 10243705320,
+      "x": -37.7760267,
+      "y": 144.9285011,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience"
+      }
+    },
+    {
+      "node": 10614020296,
+      "x": -37.8100673,
+      "y": 144.9587799,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 10762278869,
+      "x": -28.0490221,
+      "y": 153.4356558,
+      "tags": {
+        "branch": "Mermaid Plaza",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-20:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "phone": "+61 7 5591 9404",
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/shop/storelocator/qld-mermaid-beach-8381"
+      }
+    },
+    {
+      "node": 11074264390,
+      "x": -27.4835561,
+      "y": 153.1261439,
+      "tags": {
+        "addr:state": "QLD",
+        "addr:suburb": "Belmont",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11189565189,
+      "x": -33.9513314,
+      "y": 151.0925058,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience"
+      }
+    },
+    {
+      "node": 11319842831,
+      "x": -33.8506453,
+      "y": 151.0603977,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11418748770,
+      "x": -37.8072174,
+      "y": 144.943022,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11749863708,
+      "x": -33.8920493,
+      "y": 151.1998321,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "way": 23965085,
+      "x": -27.3926289,
+      "y": 153.0117695,
+      "tags": {
+        "addr:housenumber": "734",
+        "addr:street": "Rode Road",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Coles Supermarkets",
+        "building": "yes",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "way": 357293310,
+      "x": -24.8711616,
+      "y": 152.350929,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Caltex Woolworths",
+        "building": "yes",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience"
+      }
+    },
+    {
+      "way": 433203104,
+      "x": -37.7516638,
+      "y": 145.0025137,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Caltex Woolworths",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience",
+        "website": "https://www.woolworthspetrol.com.au/"
+      }
+    },
+    {
+      "way": 496390517,
+      "x": -33.4094901,
+      "y": 151.3497893,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "building": "yes",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience"
+      }
+    },
+    {
+      "way": 544431958,
+      "x": -34.6914716,
+      "y": 138.6879157,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:EG Australia",
+        "building": "yes",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience"
+      }
+    },
+    {
+      "way": 550384664,
+      "x": -26.4148607,
+      "y": 153.0479585,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "building": "yes",
+        "name": "Woolworths MetroGo",
+        "opening_hours": "Mo-Th 05:30-21:00; Fr 05:30-18:00; Sa-Su 06:00-20:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "phone": "+61 7 4082 7414",
+        "shop": "convenience",
+        "website": "https://eg-australia.com/"
+      }
+    },
+    {
+      "way": 728082171,
+      "x": -33.8846881,
+      "y": 151.26863,
+      "tags": {
+        "addr:city": "Sydney",
+        "addr:country": "AU",
+        "addr:housenumber": "321",
+        "addr:postcode": "2026",
+        "addr:state": "NSW",
+        "addr:street": "Old South Head Road",
+        "addr:suburb": "North Bondi",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "building": "yes",
+        "capacity": "8",
+        "fixme": "toilets=*",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:cryptocurrencies": "no",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "phone": "+61 2 9130 3082",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "way": 971243680,
+      "x": -34.7679591,
+      "y": 138.6226114,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:EG Australia",
+        "building": "yes",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience"
+      }
+    },
+    {
+      "way": 978393626,
+      "x": -37.8049768,
+      "y": 145.2442891,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "building": "yes",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience"
+      }
+    },
+    {
+      "way": 989027834,
+      "x": -33.9140572,
+      "y": 151.2062247,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "building": "yes",
+        "building:part": "yes",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "way": 1041070788,
+      "x": -34.856104,
+      "y": 138.6545359,
+      "tags": {
+        "brand": "Woolworths MetroGo",
+        "brand:wikidata": "Q111772555",
+        "brand:wikipedia": "en:EG Australia",
+        "building": "yes",
+        "name": "Woolworths MetroGo",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "convenience"
       }
     }
   ]
