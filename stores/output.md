@@ -12,13 +12,11 @@
 - 92.0% conflated
 
 # Woolworths
-- Woolworths(2300) is #1 closest (492m) to https://www.openstreetmap.org/node/3853176682
-- Woolworths(1257) conflict: https://www.openstreetmap.org/node/18319578 https://www.openstreetmap.org/node/10125608625
 - Woolworths(1472) conflict: https://www.openstreetmap.org/node/6314939218 https://www.openstreetmap.org/node/6419134853
 - Woolworths(2657) conflict: https://www.openstreetmap.org/way/1239527310 https://www.openstreetmap.org/way/25505345
 ## stats
-- 1113 raw, 994 osm
-- 27 sourced from url
-- 946 matched on distance
+- 1113 raw, 993 osm
+- 29 sourced from url
+- 944 matched on distance
 - 87.4% conflated
 
