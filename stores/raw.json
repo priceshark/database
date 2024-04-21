@@ -312,9 +312,13 @@
         "brand": "Coles",
         "brand:wikidata": "Q1108172",
         "brand:wikipedia": "en:Coles Supermarkets",
+        "check_date": "2024-04-21",
         "name": "Coles",
+        "name:en": "Coles",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+        "phone": "+61 8 9293 3099",
         "shop": "supermarket",
-        "website": "https://www.coles.com.au/"
+        "website": "https://www.coles.com.au/find-stores/coles/wa/kalamunda-394"
       }
     },
     {
@@ -1888,20 +1892,6 @@
       }
     },
     {
-      "node": 634805439,
-      "x": -35.5515804,
-      "y": 138.6220122,
-      "tags": {
-        "brand": "Coles",
-        "brand:wikidata": "Q1108172",
-        "brand:wikipedia": "en:Coles Supermarkets",
-        "name": "Coles",
-        "operator": "Coles Group",
-        "operator:wikidata": "Q1339055",
-        "shop": "supermarket"
-      }
-    },
-    {
       "node": 636217129,
       "x": -37.7272917,
       "y": 144.895358,
@@ -2411,20 +2401,6 @@
         "source": "local_knowledge",
         "website": "https://www.coles.com.au/find-stores/coles/tas/kingston-7629",
         "wheelchair": "yes"
-      }
-    },
-    {
-      "node": 885844421,
-      "x": -34.8613695,
-      "y": 138.5930372,
-      "tags": {
-        "branch": "Blair Athol",
-        "brand": "Coles",
-        "brand:wikidata": "Q1108172",
-        "brand:wikipedia": "en:Coles Supermarkets",
-        "name": "Coles",
-        "operator": "Coles",
-        "shop": "supermarket"
       }
     },
     {
@@ -3525,6 +3501,19 @@
       }
     },
     {
+      "node": 1364005492,
+      "x": -36.1283141,
+      "y": 146.8641891,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
       "node": 1392002621,
       "x": -37.7417028,
       "y": 142.0249015,
@@ -4601,6 +4590,19 @@
       }
     },
     {
+      "node": 2143716409,
+      "x": -34.1918841,
+      "y": 150.982152,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
       "node": 2149048524,
       "x": -27.5023811,
       "y": 153.1029906,
@@ -4817,8 +4819,10 @@
         "brand:wikipedia": "en:Coles Supermarkets",
         "level": "0",
         "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
         "shop": "supermarket",
-        "website": "https://www.coles.com.au/"
+        "website": "https://www.coles.com.au/find-stores/coles/wa/cannington-322"
       }
     },
     {
@@ -5615,6 +5619,19 @@
       }
     },
     {
+      "node": 2624345614,
+      "x": -33.9163633,
+      "y": 151.0373091,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
       "node": 2626880955,
       "x": -35.2769647,
       "y": 138.4603118,
@@ -5661,8 +5678,8 @@
     },
     {
       "node": 2690125720,
-      "x": -33.9345136,
-      "y": 151.0690925,
+      "x": -33.9343534,
+      "y": 151.0690979,
       "tags": {
         "addr:housenumber": "24",
         "addr:street": "Roseland Avenue",
@@ -5670,6 +5687,8 @@
         "brand:wikidata": "Q1108172",
         "brand:wikipedia": "en:Coles Supermarkets",
         "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
         "shop": "supermarket"
       }
     },
@@ -8011,21 +8030,6 @@
       }
     },
     {
-      "node": 5040209721,
-      "x": -32.0980921,
-      "y": 115.783281,
-      "tags": {
-        "addr:country": "AU",
-        "addr:state": "WA",
-        "brand": "Coles",
-        "brand:wikidata": "Q1108172",
-        "brand:wikipedia": "en:Coles Supermarkets",
-        "name": "Coles",
-        "shop": "supermarket",
-        "website": "https://www.coles.com.au/"
-      }
-    },
-    {
       "node": 5068608821,
       "x": -16.8970583,
       "y": 145.698944,
@@ -8435,6 +8439,22 @@
         "level": "4",
         "name": "Coles",
         "opening_hours": "Mo-Sa 07:00-21:00, Su 09:00-18:00",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 5834618561,
+      "x": -21.1585297,
+      "y": 149.169382,
+      "tags": {
+        "addr:housenumber": "249",
+        "addr:street": "Bridge Road",
+        "branch": "Parkside",
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
         "shop": "supermarket"
@@ -10101,7 +10121,8 @@
         "name": "Coles",
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
-        "shop": "supermarket"
+        "shop": "supermarket",
+        "website": "https://www.coles.com.au/find-stores/coles/vic/botanic-ridge-7733"
       }
     },
     {
@@ -10690,6 +10711,521 @@
       "node": 11827017634,
       "x": -33.7511556,
       "y": 150.6937139,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11832459505,
+      "x": -19.2720301,
+      "y": 146.7895883,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket",
+        "website": "https://www.coles.com.au/find-stores/coles/qld/pimlico-4689"
+      }
+    },
+    {
+      "node": 11832528792,
+      "x": -33.2337086,
+      "y": 151.5539219,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834037943,
+      "x": -34.371469,
+      "y": 150.8976815,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "fixme": "location",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834089618,
+      "x": -33.8759889,
+      "y": 150.8771575,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834090034,
+      "x": -34.3944416,
+      "y": 150.8939052,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834093772,
+      "x": -33.7698348,
+      "y": 150.9059279,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834093840,
+      "x": -32.5614132,
+      "y": 115.6886714,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834094256,
+      "x": -33.2159664,
+      "y": 151.5108061,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834095403,
+      "x": -31.8765744,
+      "y": 115.9259113,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "fixme": "location",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834167628,
+      "x": -31.8769266,
+      "y": 115.8961439,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834180913,
+      "x": -35.1136679,
+      "y": 147.3705424,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834181804,
+      "x": -31.831252,
+      "y": 115.8029527,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834184542,
+      "x": -31.8886649,
+      "y": 116.0470939,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834184811,
+      "x": -34.9825287,
+      "y": 138.5724363,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834188176,
+      "x": -32.4926529,
+      "y": 115.7483645,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834192055,
+      "x": -27.3300378,
+      "y": 153.02697,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834192916,
+      "x": -32.1280906,
+      "y": 115.7980553,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834275550,
+      "x": -31.8299267,
+      "y": 115.8542105,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834276096,
+      "x": -23.9512175,
+      "y": 151.3700316,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "fixme": "location",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834282070,
+      "x": -34.8859206,
+      "y": 138.6907907,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834282694,
+      "x": -19.247344,
+      "y": 146.6779256,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834288794,
+      "x": -37.8386433,
+      "y": 144.9417288,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834301371,
+      "x": -33.8360618,
+      "y": 151.0845422,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834315437,
+      "x": -27.7631124,
+      "y": 153.2449637,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834318316,
+      "x": -19.3168651,
+      "y": 146.7905073,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834321951,
+      "x": -21.0982384,
+      "y": 149.1855101,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834328360,
+      "x": -31.6280801,
+      "y": 115.6925736,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "fixme": "location",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834329696,
+      "x": -33.729953,
+      "y": 151.1592138,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "level": "2",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834355856,
+      "x": -33.4668663,
+      "y": 151.3827401,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834381816,
+      "x": -34.870184,
+      "y": 138.6351233,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834387821,
+      "x": -33.83502,
+      "y": 148.6889694,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "fixme": "location",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834409050,
+      "x": -34.7088169,
+      "y": 138.7054412,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834411783,
+      "x": -31.7055668,
+      "y": 115.8011981,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834413687,
+      "x": -31.8677455,
+      "y": 115.9669194,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "fixme": "location",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834415588,
+      "x": -31.9016049,
+      "y": 115.8003459,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834417685,
+      "x": -32.2199142,
+      "y": 116.0068198,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834430075,
+      "x": -31.9028304,
+      "y": 115.953361,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834432297,
+      "x": -37.7752157,
+      "y": 144.8866386,
+      "tags": {
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834437309,
+      "x": -37.5733957,
+      "y": 144.8994405,
       "tags": {
         "brand": "Coles",
         "brand:wikidata": "Q1108172",
@@ -11479,18 +12015,6 @@
         "building": "yes",
         "name": "Coles",
         "shop": "supermarket"
-      }
-    },
-    {
-      "way": 162128686,
-      "x": -31.9599487,
-      "y": 115.973512,
-      "tags": {
-        "brand": "Coles",
-        "brand:wikidata": "Q1108172",
-        "brand:wikipedia": "en:Coles Supermarkets",
-        "building": "warehouse",
-        "name": "Coles Distribution Centre"
       }
     },
     {
@@ -12465,23 +12989,6 @@
       }
     },
     {
-      "way": 451868981,
-      "x": -34.8749713,
-      "y": 138.5507648,
-      "tags": {
-        "brand": "Coles",
-        "brand:wikidata": "Q1108172",
-        "brand:wikipedia": "en:Coles Supermarkets",
-        "indoor": "shop",
-        "name": "Coles",
-        "opening_hours": "Mo-Fr 06:00-21:00; Sa 06:00-17:00; Su 11:00-17:00",
-        "operator": "Coles Group",
-        "operator:wikidata": "Q1339055",
-        "shop": "supermarket",
-        "source:name": "survey"
-      }
-    },
-    {
       "way": 463590329,
       "x": -31.9810555,
       "y": 115.8625077,
@@ -12815,9 +13322,12 @@
         "brand:wikipedia": "en:Coles Supermarkets",
         "building": "yes",
         "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
         "phone": "+61 7 4755 9300",
         "shop": "supermarket",
-        "source:geometry": "Esri World Imagery"
+        "source:geometry": "Esri World Imagery",
+        "website": "https://www.coles.com.au/find-stores/coles/qld/thuringowa-4655"
       }
     },
     {
@@ -13461,7 +13971,8 @@
         "name": "Coles",
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
-        "shop": "supermarket"
+        "shop": "supermarket",
+        "website": "https://www.coles.com.au/find-stores/coles/qld/buderim-7835"
       }
     },
     {
@@ -13623,6 +14134,184 @@
         "operator:wikidata": "Q1339055",
         "shop": "supermarket",
         "type": "multipolygon"
+      }
+    },
+    {
+      "node": 2365234206,
+      "x": -27.487294,
+      "y": 153.0354953,
+      "tags": {
+        "addr:housenumber": "759",
+        "addr:postcode": "4102",
+        "addr:state": "QLD",
+        "addr:street": "Stanley Street",
+        "addr:suburb": "Woolloongabba",
+        "brand": "Coles Local",
+        "brand:wikidata": "Q104850818",
+        "brand:wikipedia": "en:Coles Supermarkets",
+        "name": "Coles Local",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 4401054992,
+      "x": -27.4692732,
+      "y": 153.024566,
+      "tags": {
+        "addr:city": "Brisbane",
+        "addr:postcode": "4000",
+        "addr:state": "QLD",
+        "addr:street": "226 Queen Street",
+        "addr:suburb": "Brisbane City",
+        "brand": "Coles Local",
+        "brand:wikidata": "Q104850818",
+        "brand:wikipedia": "en:Coles Supermarkets",
+        "name": "Coles Local",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Narrow aisles. Products shelves are too high. Difficulty opening door of refrigerator as it needs be manually pulled open. No wheel-in space at self check-out and cashier counters. Difficulty communicating with staff over high meat counters."
+      }
+    },
+    {
+      "node": 4742485532,
+      "x": -33.7989581,
+      "y": 151.2852807,
+      "tags": {
+        "addr:housenumber": "8-28",
+        "addr:street": "The Corso",
+        "brand": "Coles Local",
+        "brand:wikidata": "Q104850818",
+        "brand:wikipedia": "en:Coles Supermarkets",
+        "check_date": "2024-01-01",
+        "name": "Coles Local",
+        "name:en": "Coles",
+        "opening_hours": "07:00-22:00",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.coles.com.au/find-stores/coles-local/nsw/manly-815",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "node": 8745976197,
+      "x": -33.8704197,
+      "y": 151.2065633,
+      "tags": {
+        "addr:housenumber": "68",
+        "addr:postcode": "2000",
+        "addr:state": "NSW",
+        "addr:street": "York Street",
+        "addr:suburb": "Sydney",
+        "air_conditioning": "yes",
+        "brand": "Coles Local",
+        "brand:wikidata": "Q104850818",
+        "check_date": "2022-07-25",
+        "currency:AUD": "yes",
+        "level": "1",
+        "name": "Coles Local",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 09:00-19:00",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "organic": "yes",
+        "payment:american_express": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "shop": "supermarket",
+        "stroller": "yes",
+        "website": "https://www.coles.com.au",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "way": 418527092,
+      "x": -27.4338665,
+      "y": 153.0655323,
+      "tags": {
+        "addr:housenumber": "111-117",
+        "addr:street": "Racecourse Road",
+        "brand": "Coles Local",
+        "brand:wikidata": "Q104850818",
+        "brand:wikipedia": "en:Coles Supermarkets",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Coles Local",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "way": 1149050187,
+      "x": -37.8241567,
+      "y": 145.0972292,
+      "tags": {
+        "addr:housenumber": "126",
+        "addr:postcode": "3127",
+        "addr:state": "VIC",
+        "addr:street": "Union Road",
+        "addr:suburb": "Surrey Hills",
+        "air_conditioning": "yes",
+        "branch": "Surrey Hills",
+        "brand": "Coles Local",
+        "brand:wikidata": "Q104850818",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Coles Local",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+61 3 7022 9900",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "stroller": "yes",
+        "website": "https://www.coles.com.au/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "way": 1245440680,
+      "x": -27.4933963,
+      "y": 152.9782482,
+      "tags": {
+        "addr:housenumber": "216",
+        "addr:street": "Moggill Road",
+        "brand": "Coles Local",
+        "brand:wikidata": "Q104850818",
+        "building": "retail",
+        "name": "Coles Local",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "shop": "supermarket",
+        "wheelchair": "yes"
       }
     }
   ],
@@ -16217,6 +16906,8 @@
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "name": "Woolworths",
         "opening_hours": "Mo-Su 07:00-20:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket",
         "website": "https://www.woolworths.com.au/"
       }
@@ -18195,6 +18886,7 @@
         "brand:wikidata": "Q3249145",
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "name": "Woolworths",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
         "shop": "supermarket"
       }
     },
@@ -22858,13 +23550,15 @@
     },
     {
       "node": 6314939218,
-      "x": -33.7530537,
-      "y": 151.2876535,
+      "x": -33.7528634,
+      "y": 151.2880313,
       "tags": {
         "brand": "Woolworths",
         "brand:wikidata": "Q3249145",
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket"
       }
     },
@@ -22962,18 +23656,6 @@
         "opening_hours": "Mo-Su 07:00-22:00",
         "operator": "Woolworths Group",
         "operator:wikidata": "Q607272",
-        "shop": "supermarket"
-      }
-    },
-    {
-      "node": 6419134853,
-      "x": -33.752292,
-      "y": 151.2884733,
-      "tags": {
-        "brand": "Woolworths",
-        "brand:wikidata": "Q3249145",
-        "brand:wikipedia": "en:Woolworths Supermarkets",
-        "name": "Woolworths",
         "shop": "supermarket"
       }
     },
@@ -25094,6 +25776,98 @@
       }
     },
     {
+      "node": 11832456776,
+      "x": -19.253496,
+      "y": 146.6996734,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834093866,
+      "x": -34.885978,
+      "y": 138.6900507,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "level": "0",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834167629,
+      "x": -31.8769478,
+      "y": 115.8945958,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834275556,
+      "x": -31.8291508,
+      "y": 115.8539763,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834411795,
+      "x": -31.7045669,
+      "y": 115.8026672,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834415589,
+      "x": -31.9003008,
+      "y": 115.7997246,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834454570,
+      "x": -33.9353534,
+      "y": 151.0690219,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
       "way": 5078930,
       "x": -37.7697835,
       "y": 144.9600119,
@@ -25170,7 +25944,8 @@
         "name": "Woolworths",
         "operator": "Woolworths Group",
         "operator:wikidata": "Q607272",
-        "shop": "supermarket"
+        "shop": "supermarket",
+        "website": "https://www.woolworths.com.au/shop/storelocator/qld-taigum-2657"
       }
     },
     {
@@ -28101,6 +28876,20 @@
       }
     },
     {
+      "way": 477617878,
+      "x": -36.0156398,
+      "y": 146.0035057,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "building": "yes",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
       "way": 482165285,
       "x": -37.8427366,
       "y": 144.8448831,
@@ -29948,6 +30737,19 @@
       "node": 11749863708,
       "x": -33.8920493,
       "y": 151.1998321,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "node": 11834403438,
+      "x": -33.7131375,
+      "y": 150.9941859,
       "tags": {
         "brand": "Woolworths Metro",
         "brand:wikidata": "Q111772555",

@@ -3,97 +3,36 @@
 ## Issues
 
 - didn't match with osm:
-  - [Coles Store 260](https://www.coles.com.au/find-stores/coles/-/-260)
-  - [Coles Store 262](https://www.coles.com.au/find-stores/coles/-/-262)
-  - [Coles Store 263](https://www.coles.com.au/find-stores/coles/-/-263)
-  - [Coles Store 298](https://www.coles.com.au/find-stores/coles/-/-298)
-  - [Coles Store 303](https://www.coles.com.au/find-stores/coles/-/-303)
-  - [Coles Store 344](https://www.coles.com.au/find-stores/coles/-/-344)
-  - [Coles Store 348](https://www.coles.com.au/find-stores/coles/-/-348)
-  - [Coles Store 362](https://www.coles.com.au/find-stores/coles/-/-362)
-  - [Coles Store 363](https://www.coles.com.au/find-stores/coles/-/-363)
-  - [Coles Store 365](https://www.coles.com.au/find-stores/coles/-/-365)
-  - [Coles Store 395](https://www.coles.com.au/find-stores/coles/-/-395)
-  - [Coles Store 398](https://www.coles.com.au/find-stores/coles/-/-398)
-  - [Coles Store 446](https://www.coles.com.au/find-stores/coles/-/-446)
-  - [Coles Store 452](https://www.coles.com.au/find-stores/coles/-/-452)
-  - [Coles Store 494](https://www.coles.com.au/find-stores/coles/-/-494)
   - [Coles Store 596](https://www.coles.com.au/find-stores/coles/-/-596)
-  - [Coles Store 646](https://www.coles.com.au/find-stores/coles/-/-646)
-  - [Coles Store 658](https://www.coles.com.au/find-stores/coles/-/-658)
-  - [Coles Store 704](https://www.coles.com.au/find-stores/coles/-/-704)
-  - [Coles Store 706](https://www.coles.com.au/find-stores/coles/-/-706)
   - [Coles Store 749](https://www.coles.com.au/find-stores/coles/-/-749)
-  - [Coles Store 815](https://www.coles.com.au/find-stores/coles/-/-815)
-  - [Coles Store 862](https://www.coles.com.au/find-stores/coles/-/-862)
-  - [Coles Store 882](https://www.coles.com.au/find-stores/coles/-/-882)
-  - [Coles Store 890](https://www.coles.com.au/find-stores/coles/-/-890)
-  - [Coles Store 927](https://www.coles.com.au/find-stores/coles/-/-927)
-  - [Coles Store 936](https://www.coles.com.au/find-stores/coles/-/-936)
   - [Coles Store 944](https://www.coles.com.au/find-stores/coles/-/-944)
-  - [Coles Store 4334](https://www.coles.com.au/find-stores/coles/-/-4334)
   - [Coles Store 4387](https://www.coles.com.au/find-stores/coles/-/-4387)
-  - [Coles Store 4389](https://www.coles.com.au/find-stores/coles/-/-4389)
-  - [Coles Store 4425](https://www.coles.com.au/find-stores/coles/-/-4425)
   - [Coles Store 4427](https://www.coles.com.au/find-stores/coles/-/-4427)
-  - [Coles Store 4524](https://www.coles.com.au/find-stores/coles/-/-4524)
-  - [Coles Store 4563](https://www.coles.com.au/find-stores/coles/-/-4563)
-  - [Coles Store 4564](https://www.coles.com.au/find-stores/coles/-/-4564)
-  - [Coles Store 4568](https://www.coles.com.au/find-stores/coles/-/-4568)
-  - [Coles Store 4569](https://www.coles.com.au/find-stores/coles/-/-4569)
-  - [Coles Store 4571](https://www.coles.com.au/find-stores/coles/-/-4571)
-  - [Coles Store 4580](https://www.coles.com.au/find-stores/coles/-/-4580)
-  - [Coles Store 4655](https://www.coles.com.au/find-stores/coles/-/-4655)
-  - [Coles Store 4689](https://www.coles.com.au/find-stores/coles/-/-4689)
-  - [Coles Store 4694](https://www.coles.com.au/find-stores/coles/-/-4694)
-  - [Coles Store 4815](https://www.coles.com.au/find-stores/coles/-/-4815)
-  - [Coles Store 4921](https://www.coles.com.au/find-stores/coles/-/-4921)
-  - [Coles Store 4948](https://www.coles.com.au/find-stores/coles/-/-4948)
   - [Coles Store 5558](https://www.coles.com.au/find-stores/coles/-/-5558)
-  - [Coles Store 5676](https://www.coles.com.au/find-stores/coles/-/-5676)
-  - [Coles Store 5730](https://www.coles.com.au/find-stores/coles/-/-5730)
-  - [Coles Store 5736](https://www.coles.com.au/find-stores/coles/-/-5736)
-  - [Coles Store 5749](https://www.coles.com.au/find-stores/coles/-/-5749)
-  - [Coles Store 5759](https://www.coles.com.au/find-stores/coles/-/-5759)
   - [Coles Store 7542](https://www.coles.com.au/find-stores/coles/-/-7542)
-  - [Coles Store 7662](https://www.coles.com.au/find-stores/coles/-/-7662)
-  - [Coles Store 7664](https://www.coles.com.au/find-stores/coles/-/-7664)
-  - [Coles Store 7669](https://www.coles.com.au/find-stores/coles/-/-7669)
   - [Coles Store 7670](https://www.coles.com.au/find-stores/coles/-/-7670)
   - [Coles Store 7680](https://www.coles.com.au/find-stores/coles/-/-7680)
   - [Coles Store 7682](https://www.coles.com.au/find-stores/coles/-/-7682)
   - [Coles Store 7720](https://www.coles.com.au/find-stores/coles/-/-7720)
-  - [Coles Store 7802](https://www.coles.com.au/find-stores/coles/-/-7802)
-  - [Coles Store 8736](https://www.coles.com.au/find-stores/coles/-/-8736)
-- [Coles Store 322](https://www.coles.com.au/find-stores/coles/-/-322): [n2206032459](https://www.openstreetmap.org/node/2206032459) is 469m away from raw location
-- [Coles Store 7733](https://www.coles.com.au/find-stores/coles/-/-7733): [n10212909074](https://www.openstreetmap.org/node/10212909074) is 466m away from raw location
-- [Coles Store 7835](https://www.coles.com.au/find-stores/coles/-/-7835): [w1126675745](https://www.openstreetmap.org/way/1126675745) is 481m away from raw location
 - [Coles Store 4837](https://www.coles.com.au/find-stores/coles/-/-4837) is conflicted with [w1228972108](https://www.openstreetmap.org/way/1228972108) and [n1650883977](https://www.openstreetmap.org/node/1650883977)
 - didn't match with raw:
-  - [n634805439](https://www.openstreetmap.org/node/634805439)
-  - [n885844421](https://www.openstreetmap.org/node/885844421)
   - [n1650883977](https://www.openstreetmap.org/node/1650883977)
   - [n1924155592](https://www.openstreetmap.org/node/1924155592)
   - [n3776153491](https://www.openstreetmap.org/node/3776153491)
-  - [n5040209721](https://www.openstreetmap.org/node/5040209721)
   - [w151021229](https://www.openstreetmap.org/way/151021229)
-  - [w162128686](https://www.openstreetmap.org/way/162128686)
-  - [w451868981](https://www.openstreetmap.org/way/451868981)
-  - [w581441408](https://www.openstreetmap.org/way/581441408)
 
 ## Statistics
 
-- 851 raw, 795 osm
-- 43 sourced from url
-- 742 matched on distance
-- 92.2% conflated
+- 851 raw, 840 osm
+- 49 sourced from url
+- 787 matched on distance
+- 98.2% conflated
 
 # Woolworths
 
 ## Issues
 
 - didn't match with osm:
-  - [Woolworths Store 1009](https://www.woolworths.com.au/shop/storelocator/1009)
   - [Woolworths Store 1052](https://www.woolworths.com.au/shop/storelocator/1052)
   - [Woolworths Store 1065](https://www.woolworths.com.au/shop/storelocator/1065)
   - [Woolworths Store 1066](https://www.woolworths.com.au/shop/storelocator/1066)
@@ -106,7 +45,6 @@
   - [Woolworths Store 1360](https://www.woolworths.com.au/shop/storelocator/1360)
   - [Woolworths Store 1376](https://www.woolworths.com.au/shop/storelocator/1376)
   - [Woolworths Store 1385](https://www.woolworths.com.au/shop/storelocator/1385)
-  - [Woolworths Store 1409](https://www.woolworths.com.au/shop/storelocator/1409)
   - [Woolworths Store 1413](https://www.woolworths.com.au/shop/storelocator/1413)
   - [Woolworths Store 1577](https://www.woolworths.com.au/shop/storelocator/1577)
   - [Woolworths Store 1600](https://www.woolworths.com.au/shop/storelocator/1600)
@@ -139,14 +77,12 @@
   - [Woolworths Store 2714](https://www.woolworths.com.au/shop/storelocator/2714)
   - [Woolworths Store 2715](https://www.woolworths.com.au/shop/storelocator/2715)
   - [Woolworths Store 2723](https://www.woolworths.com.au/shop/storelocator/2723)
-  - [Woolworths Store 2785](https://www.woolworths.com.au/shop/storelocator/2785)
   - [Woolworths Store 2797](https://www.woolworths.com.au/shop/storelocator/2797)
   - [Woolworths Store 2853](https://www.woolworths.com.au/shop/storelocator/2853)
   - [Woolworths Store 2864](https://www.woolworths.com.au/shop/storelocator/2864)
   - [Woolworths Store 2939](https://www.woolworths.com.au/shop/storelocator/2939)
   - [Woolworths Store 2945](https://www.woolworths.com.au/shop/storelocator/2945)
   - [Woolworths Store 3094](https://www.woolworths.com.au/shop/storelocator/3094)
-  - [Woolworths Store 3321](https://www.woolworths.com.au/shop/storelocator/3321)
   - [Woolworths Store 3361](https://www.woolworths.com.au/shop/storelocator/3361)
   - [Woolworths Store 3376](https://www.woolworths.com.au/shop/storelocator/3376)
   - [Woolworths Store 3576](https://www.woolworths.com.au/shop/storelocator/3576)
@@ -154,12 +90,8 @@
   - [Woolworths Store 3763](https://www.woolworths.com.au/shop/storelocator/3763)
   - [Woolworths Store 3819](https://www.woolworths.com.au/shop/storelocator/3819)
   - [Woolworths Store 4155](https://www.woolworths.com.au/shop/storelocator/4155)
-  - [Woolworths Store 4231](https://www.woolworths.com.au/shop/storelocator/4231)
   - [Woolworths Store 4310](https://www.woolworths.com.au/shop/storelocator/4310)
-  - [Woolworths Store 4313](https://www.woolworths.com.au/shop/storelocator/4313)
-  - [Woolworths Store 4314](https://www.woolworths.com.au/shop/storelocator/4314)
   - [Woolworths Store 4319](https://www.woolworths.com.au/shop/storelocator/4319)
-  - [Woolworths Store 4321](https://www.woolworths.com.au/shop/storelocator/4321)
   - [Woolworths Store 4339](https://www.woolworths.com.au/shop/storelocator/4339)
   - [Woolworths Store 4346](https://www.woolworths.com.au/shop/storelocator/4346)
   - [Woolworths Store 4352](https://www.woolworths.com.au/shop/storelocator/4352)
@@ -178,7 +110,6 @@
   - [Woolworths Store 5612](https://www.woolworths.com.au/shop/storelocator/5612)
   - [Woolworths Store 5631](https://www.woolworths.com.au/shop/storelocator/5631)
   - [Woolworths Store 5632](https://www.woolworths.com.au/shop/storelocator/5632)
-  - [Woolworths Store 5643](https://www.woolworths.com.au/shop/storelocator/5643)
   - [Woolworths Store 5645](https://www.woolworths.com.au/shop/storelocator/5645)
   - [Woolworths Store 5670](https://www.woolworths.com.au/shop/storelocator/5670)
   - [Woolworths Store 5689](https://www.woolworths.com.au/shop/storelocator/5689)
@@ -188,9 +119,7 @@
   - [Woolworths Store 8533](https://www.woolworths.com.au/shop/storelocator/8533)
   - [Woolworths Store 8882](https://www.woolworths.com.au/shop/storelocator/8882)
   - [Woolworths Store 8963](https://www.woolworths.com.au/shop/storelocator/8963)
-- [Woolworths Store 1472](https://www.woolworths.com.au/shop/storelocator/1472) is conflicted with [n6314939218](https://www.openstreetmap.org/node/6314939218) and [n6419134853](https://www.openstreetmap.org/node/6419134853)
 - [Woolworths Store 1550](https://www.woolworths.com.au/shop/storelocator/1550) is conflicted with [n780160558](https://www.openstreetmap.org/node/780160558) and [n4312299658](https://www.openstreetmap.org/node/4312299658)
-- [Woolworths Store 2657](https://www.woolworths.com.au/shop/storelocator/2657) is conflicted with [w1239527310](https://www.openstreetmap.org/way/1239527310) and [w25505345](https://www.openstreetmap.org/way/25505345)
 - didn't match with raw:
   - [n280897094](https://www.openstreetmap.org/node/280897094)
   - [n300281972](https://www.openstreetmap.org/node/300281972)
@@ -205,20 +134,19 @@
   - [n2268930957](https://www.openstreetmap.org/node/2268930957)
   - [n3741106299](https://www.openstreetmap.org/node/3741106299)
   - [n4154124869](https://www.openstreetmap.org/node/4154124869)
-  - [n6419134853](https://www.openstreetmap.org/node/6419134853)
   - [n6495414133](https://www.openstreetmap.org/node/6495414133)
   - [n7007527854](https://www.openstreetmap.org/node/7007527854)
   - [n7808386452](https://www.openstreetmap.org/node/7808386452)
   - [n11768947860](https://www.openstreetmap.org/node/11768947860)
-  - [w25505345](https://www.openstreetmap.org/way/25505345)
   - [w100829003](https://www.openstreetmap.org/way/100829003)
+  - [w1239527310](https://www.openstreetmap.org/way/1239527310)
   - [n4312299658](https://www.openstreetmap.org/node/4312299658)
   - [w728082171](https://www.openstreetmap.org/way/728082171)
 
 ## Statistics
 
-- 1113 raw, 1035 osm
-- 34 sourced from url
-- 979 matched on distance
-- 91.0% conflated
+- 1113 raw, 1043 osm
+- 35 sourced from url
+- 987 matched on distance
+- 91.8% conflated
 

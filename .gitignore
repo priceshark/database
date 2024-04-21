@@ -8,5 +8,7 @@ raw/
 *raw.jsonl
 !stores/raw.json
 
+output.html
+
 barcodes/output.json
 ps.db
