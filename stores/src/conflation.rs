@@ -8,9 +8,9 @@ use std::{
 use _model::{OsmId, Retailer, StoreId};
 use anyhow::{bail, Context, Result};
 use geo::{HaversineDistance, Point};
-use serde::{Deserialize, Serialize};
+use serde::Deserialize;
 
-use crate::Store;
+use crate::{OsmElement, OverpassResponse, Store};
 
 // metres
 const MATCH_RADIUS: f64 = 500.0;
@@ -196,75 +196,6 @@ fn elements(retailer: &Retailer) -> Result<Vec<OsmElement>> {
     ))?)?;
     Ok(response.elements.into_iter().map(|x| x.refine()).collect())
 }
-
-#[derive(Deserialize)]
-struct OverpassResponse {
-    elements: Vec<RawElement>,
-}
-
-#[derive(Deserialize)]
-#[serde(tag = "type", rename_all = "kebab-case")]
-pub enum RawElement {
-    Node {
-        id: u64,
-        #[serde(flatten)]
-        center: RawPosition,
-        tags: BTreeMap<String, String>,
-    },
-    Way {
-        id: u64,
-        center: RawPosition,
-        tags: BTreeMap<String, String>,
-    },
-    Relation {
-        id: u64,
-        center: RawPosition,
-        tags: BTreeMap<String, String>,
-    },
-}
-
-impl RawElement {
-    fn refine(self) -> OsmElement {
-        match self {
-            Self::Node { id, center, tags } => OsmElement {
-                id: OsmId::Node(id),
-                point: center.refine(),
-                tags,
-            },
-            Self::Way { id, center, tags } => OsmElement {
-                id: OsmId::Way(id),
-                point: center.refine(),
-                tags,
-            },
-            Self::Relation { id, center, tags } => OsmElement {
-                id: OsmId::Relation(id),
-                point: center.refine(),
-                tags,
-            },
-        }
-    }
-}
-
-#[derive(Serialize, Deserialize)]
-pub struct RawPosition {
-    lat: f64,
-    lon: f64,
-}
-impl RawPosition {
-    fn refine(self) -> Point {
-        Point::new(self.lat, self.lon)
-    }
-}
-
-#[derive(Serialize, Deserialize)]
-pub struct OsmElement {
-    #[serde(flatten)]
-    id: OsmId,
-    #[serde(flatten)]
-    point: Point,
-    tags: BTreeMap<String, String>,
-}
-
 #[derive(Deserialize)]
 struct RawStore {
     id: u32,

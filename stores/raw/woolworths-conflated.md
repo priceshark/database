@@ -118,4 +118,3 @@
   - [n4312299658](https://www.openstreetmap.org/node/4312299658)
   - [w728082171](https://www.openstreetmap.org/way/728082171)
 
-

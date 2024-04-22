@@ -26,4 +26,3 @@
   - [n3776153491](https://www.openstreetmap.org/node/3776153491)
   - [w151021229](https://www.openstreetmap.org/way/151021229)
 
-

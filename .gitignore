@@ -6,9 +6,7 @@ raw/
 !**/src/raw
 *raw.json
 *raw.jsonl
-!stores/raw.json
-
-output.html
+!stores/raw
 
 barcodes/output.json
 ps.db
