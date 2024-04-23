@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-04-22T00:25:45Z",
+    "timestamp_osm_base": "2024-04-23T02:21:13Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -451,6 +451,8 @@
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
     "name": "Coles",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
     "shop": "supermarket"
   }
 },
@@ -852,6 +854,8 @@
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
     "name": "Coles",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
     "shop": "supermarket",
     "website": "https://www.coles.com.au/"
   }
@@ -7856,6 +7860,8 @@
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
     "name": "Coles",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
     "shop": "supermarket",
     "website": "https://www.coles.com.au/"
   }
@@ -9294,6 +9300,8 @@
     "brand:wikipedia": "en:Coles Supermarkets",
     "name": "Coles",
     "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
     "payment:cash": "yes",
     "payment:credit_cards": "yes",
     "shop": "supermarket",
@@ -9736,6 +9744,8 @@
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
     "name": "Coles",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
     "shop": "supermarket",
     "website": "https://www.coles.com.au/"
   }
@@ -9957,8 +9967,8 @@
 {
   "type": "node",
   "id": 8508535994,
-  "lat": -38.1518662,
-  "lon": 145.1670108,
+  "lat": -38.1517473,
+  "lon": 145.1667323,
   "tags": {
     "addr:housenumber": "330",
     "addr:street": "Cranbourne Road",
@@ -10224,6 +10234,7 @@
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
     "name": "Coles",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
     "operator": "Coles Group",
     "operator:wikidata": "Q1339055",
     "shop": "supermarket"
@@ -10346,7 +10357,7 @@
   "tags": {
     "addr:housenumber": "522-530",
     "addr:street": "Port Road",
-    "branch": "(Welland)",
+    "branch": "Welland",
     "brand": "Coles",
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
@@ -13677,6 +13688,8 @@
     "building": "yes",
     "name": "Coles",
     "opening_hours": "Mo-Fr 08:00-21:00, Sa 08:30-17:30, Su 09:00-18:00",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
     "payment:american_express": "yes",
     "payment:coins": "yes",
     "payment:cryptocurrencies": "no",
@@ -14660,15 +14673,14 @@
   "type": "way",
   "id": 805125979,
   "center": {
-    "lat": -27.8024819,
-    "lon": 153.1018807
+    "lat": -27.8024939,
+    "lon": 153.1019124
   },
   "tags": {
     "addr:housenumber": "2-24",
     "addr:street": "Waldron Street",
     "brand": "Coles",
     "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
     "building": "yes",
     "name": "Coles",
     "operator": "Coles Group",

@@ -8,6 +8,7 @@ _model = { path = "../model" }
 anyhow = "1.0.82"
 geo = { version = "0.28.0", features = ["use-serde"] }
 indicatif = "0.17.8"
+itertools = "0.12.1"
 serde = { version = "1.0.198", features = ["derive"] }
 serde_json = "1.0.116"
 terminal-link = "0.1.0"

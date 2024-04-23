@@ -6,6 +6,7 @@ use geo::Point;
 use serde::{Deserialize, Serialize};
 
 mod conflation;
+mod nominatim;
 mod parents;
 
 fn main() -> Result<()> {
@@ -14,7 +15,42 @@ fn main() -> Result<()> {
         stores.extend(conflation::run(&retailer)?);
     }
 
-    parents::run(&stores)?;
+    let parents = parents::run(&stores)?;
+    let addresses = nominatim::run(&stores)?;
+
+    for store in stores {
+        let parent = parents.get(&store.osm);
+        let address = addresses.get(&store.osm).unwrap();
+        let retailer = store.id.retailer();
+        let mut output = format!("{retailer}");
+        if let Some(x) = address.places.first() {
+            output.push(' ');
+            output.push_str(x);
+        }
+
+        println!("{:?}", store.id);
+        println!("{output}");
+        let mut context = String::new();
+        if let Some(p) = parent {
+            context.push_str(p);
+        }
+
+        for place in address.places.iter() {
+            if !context.is_empty() {
+                context.push(',');
+                context.push(' ');
+            }
+            context.push_str(place);
+        }
+
+        context.push_str(&format!(
+            " {} {}",
+            address.state,
+            address.postcode.as_deref().unwrap_or_default()
+        ));
+        println!("{context}");
+        println!();
+    }
 
     Ok(())
 }

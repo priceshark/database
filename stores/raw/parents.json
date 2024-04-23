@@ -862,7 +862,6 @@
       "tags": {
         "building": "commercial",
         "building:levels": "2",
-        "name": "Orion Woolworths",
         "shop": "mall",
         "source": "interpolated from surrounding street network"
       }
@@ -874,9 +873,9 @@
       "tags": {
         "addr:postcode": "4300",
         "addr:suburb": "Springfield Central",
-        "alt_name": "Orion Springfield Central",
         "landuse": "retail",
-        "name": "Orion Shopping Centre"
+        "name": "Orion Springfield Central",
+        "website": "https://www.orionspringfieldcentral.com.au/"
       }
     }
   ],
@@ -1072,7 +1071,9 @@
       "y": 149.0524176,
       "tags": {
         "landuse": "retail",
-        "name": "Weston Creek Centre"
+        "name": "Cooleman Court",
+        "website": "https://www.coolemancourt.com.au/",
+        "website:map": "https://www.coolemancourt.com.au/Visit/Centre-Map"
       }
     }
   ],
@@ -1157,9 +1158,10 @@
       "y": 149.0658624,
       "tags": {
         "landuse": "retail",
-        "name": "South.Point",
-        "old_name": "Tuggeranong Hyperdome",
+        "name": "South Point Tuggeranong",
+        "official_name": "South.Point Tuggeranong",
         "website": "https://southpointcanberra.com.au/",
+        "website:map": "https://southpointcanberra.com.au/centre-map/",
         "wikidata": "Q7851640",
         "wikipedia": "en:South.Point Tuggeranong"
       }
@@ -1171,10 +1173,8 @@
       "tags": {
         "building": "retail",
         "building:levels": "2",
-        "name": "South Point Tuggeranong",
         "nohousenumber": "yes",
         "roof:levels": "0",
-        "shop": "mall",
         "source:geometry": "bing",
         "toilets": "yes"
       }
@@ -1267,7 +1267,7 @@
         "air_conditioning": "yes",
         "building": "retail",
         "building:levels": "0",
-        "name": "Mt Omaney Centre",
+        "name": "Mt Ommaney Centre",
         "operator": "Retail First",
         "shop": "mall",
         "toilets": "yes",
@@ -1299,7 +1299,7 @@
         "air_conditioning": "yes",
         "building": "retail",
         "building:levels": "0",
-        "name": "Mt Omaney Centre",
+        "name": "Mt Ommaney Centre",
         "operator": "Retail First",
         "shop": "mall",
         "toilets": "yes",
@@ -2166,7 +2166,8 @@
         "landuse": "retail",
         "name": "Mornington Central",
         "shop": "mall",
-        "website": "https://www.morningtoncentral.com.au/"
+        "website": "https://www.morningtoncentral.com.au/",
+        "website:map": "https://www.morningtoncentral.com.au/directions/centre-map"
       }
     },
     {
@@ -2176,8 +2177,7 @@
       "tags": {
         "building": "retail",
         "building:colour": "tan",
-        "height": "6 m",
-        "name": "Mornington Central Shopping Centre"
+        "height": "6 m"
       }
     }
   ],
@@ -2325,7 +2325,7 @@
       "y": 115.757277,
       "tags": {
         "building": "yes",
-        "name": "Luna Shopping Center",
+        "name": "Luna Maxi Mart",
         "shop": "mall"
       }
     }
@@ -2510,7 +2510,9 @@
         "building:levels": "1",
         "name": "Wallsend Village",
         "old_name": "Stockland Wallsend",
-        "shop": "mall"
+        "shop": "mall",
+        "website": "https://www.wallsendvillage.com.au/",
+        "website:map": "https://www.wallsendvillage.com.au/stores#centre-map"
       }
     },
     {
@@ -2518,9 +2520,7 @@
       "x": -32.9026088,
       "y": 151.6671423,
       "tags": {
-        "landuse": "retail",
-        "name": "Wallsend Shopping Center",
-        "source:name": "sign"
+        "landuse": "retail"
       }
     }
   ],
@@ -3851,9 +3851,10 @@
       "y": 150.6581278,
       "tags": {
         "landuse": "retail",
-        "name": "Lennox Shopping Centre",
+        "name": "Lennox Village Shopping Centre",
         "shop": "mall",
-        "website": "http://visit.federationcentres.com.au/centres/NSW/Lennox.aspx"
+        "website": "https://www.lennoxvillage.com.au/",
+        "website:map": "https://assets-us-01.kc-usercontent.com/e3c8cbfe-5426-00c4-0bc3-8e47e238a0e7/0b189372-3e2f-4290-8b52-5b7d8f3eedd1/Lennox-Tenant-Directory_website_LRGWEB.jpg"
       }
     },
     {
@@ -3861,10 +3862,7 @@
       "x": -33.7525945,
       "y": 150.6590081,
       "tags": {
-        "building": "yes",
-        "name": "Lennox Village",
-        "shop": "mall",
-        "website": "https://www.lennoxvillage.com.au"
+        "building": "retail"
       }
     }
   ],
@@ -4707,9 +4705,7 @@
       "x": -37.8877313,
       "y": 144.6077905,
       "tags": {
-        "landuse": "retail",
-        "name": "Wyndham Vale Square Shopping Centre",
-        "shop": "mall"
+        "landuse": "retail"
       }
     },
     {
@@ -4719,8 +4715,10 @@
       "tags": {
         "building": "retail",
         "layer": "1",
-        "name": "Wyndham Vale Square",
-        "shop": "mall"
+        "name": "Wyndham Vale Square Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.wyndhamvalesquareshoppingcentre.com.au/",
+        "website:map": "https://www.wyndhamvalesquareshoppingcentre.com.au/centre-map"
       }
     }
   ],
@@ -6551,13 +6549,8 @@
       "x": -34.8298471,
       "y": 138.6480725,
       "tags": {
-        "building": "yes",
-        "landuse": "retail",
-        "layer": "1",
-        "name": "Ingle Farm Plaza",
-        "shop": "mall",
-        "website": "https://inglefarmplaza.com.au/",
-        "website:map": "https://inglefarmplaza.com.au/centre-map/"
+        "building": "retail",
+        "layer": "1"
       }
     },
     {
@@ -6566,9 +6559,10 @@
       "y": 138.6479329,
       "tags": {
         "landuse": "retail",
-        "name": "Ingle Farm Shopping Centre",
+        "name": "Ingle Farm Plaza",
         "shop": "mall",
-        "website": "https://inglefarmshopping.com.au/"
+        "website": "https://inglefarmplaza.com.au/",
+        "website:map": "https://inglefarmplaza.com.au/centre-map/"
       }
     }
   ],
@@ -6578,13 +6572,8 @@
       "x": -34.8298471,
       "y": 138.6480725,
       "tags": {
-        "building": "yes",
-        "landuse": "retail",
-        "layer": "1",
-        "name": "Ingle Farm Plaza",
-        "shop": "mall",
-        "website": "https://inglefarmplaza.com.au/",
-        "website:map": "https://inglefarmplaza.com.au/centre-map/"
+        "building": "retail",
+        "layer": "1"
       }
     },
     {
@@ -6593,9 +6582,10 @@
       "y": 138.6479329,
       "tags": {
         "landuse": "retail",
-        "name": "Ingle Farm Shopping Centre",
+        "name": "Ingle Farm Plaza",
         "shop": "mall",
-        "website": "https://inglefarmshopping.com.au/"
+        "website": "https://inglefarmplaza.com.au/",
+        "website:map": "https://inglefarmplaza.com.au/centre-map/"
       }
     }
   ],
@@ -6784,7 +6774,19 @@
       }
     }
   ],
-  "n922268821": [],
+  "n922268821": [
+    {
+      "id": "r2065908",
+      "x": -27.723431,
+      "y": 153.1975365,
+      "tags": {
+        "landuse": "retail",
+        "name": "Mount Warren Park Shopping Centre",
+        "shop": "mall",
+        "type": "multipolygon"
+      }
+    }
+  ],
   "n922481061": [
     {
       "id": "w686748113",
@@ -8236,9 +8238,9 @@
       "y": 144.7746823,
       "tags": {
         "landuse": "retail",
-        "name": "Brimbank Central Shopping Centre",
+        "name": "Brimbank Shopping Centre",
         "shop": "mall",
-        "website": "www.brimbankshopping.com.au",
+        "website": "https://www.brimbankshoppingcentre.com.au/",
         "wikidata": "Q4968101"
       }
     },
@@ -8247,9 +8249,7 @@
       "x": -37.7510206,
       "y": 144.774765,
       "tags": {
-        "building": "yes",
-        "name": "Brimbank Shopping Centre",
-        "shop": "mall"
+        "building": "retail"
       }
     }
   ],
@@ -8260,9 +8260,9 @@
       "y": 144.7746823,
       "tags": {
         "landuse": "retail",
-        "name": "Brimbank Central Shopping Centre",
+        "name": "Brimbank Shopping Centre",
         "shop": "mall",
-        "website": "www.brimbankshopping.com.au",
+        "website": "https://www.brimbankshoppingcentre.com.au/",
         "wikidata": "Q4968101"
       }
     },
@@ -8271,9 +8271,7 @@
       "x": -37.7510206,
       "y": 144.774765,
       "tags": {
-        "building": "yes",
-        "name": "Brimbank Shopping Centre",
-        "shop": "mall"
+        "building": "retail"
       }
     }
   ],
@@ -9351,8 +9349,9 @@
       "y": 117.8773634,
       "tags": {
         "building": "yes",
-        "name": "Brooks Garden Shopping Center",
-        "shop": "mall"
+        "name": "Chester Pass Mall",
+        "shop": "mall",
+        "website": "https://retail.centuria.com.au/retail-centre/chester-pass-mall/"
       }
     },
     {
@@ -13558,9 +13557,9 @@
         "building:levels": "3",
         "commercial": "yes",
         "landuse": "commercial",
-        "name": "Australia Fair Shopping Center",
+        "name": "Australia Fair Shopping Centre",
         "shop": "mall",
-        "website": "https://www.australiafair.com.au/stores.html",
+        "website": "https://www.australiafair.com.au/",
         "wheelchair": "yes"
       }
     }
@@ -13580,9 +13579,9 @@
         "building:levels": "3",
         "commercial": "yes",
         "landuse": "commercial",
-        "name": "Australia Fair Shopping Center",
+        "name": "Australia Fair Shopping Centre",
         "shop": "mall",
-        "website": "https://www.australiafair.com.au/stores.html",
+        "website": "https://www.australiafair.com.au/",
         "wheelchair": "yes"
       }
     }
@@ -14334,7 +14333,7 @@
       "y": 144.9593849,
       "tags": {
         "landuse": "retail",
-        "name": "Cambellfield Plaza",
+        "name": "Campbellfield Plaza",
         "shop": "mall",
         "website": "http://www.specialtymallleasing.com/Campbellfield-Plaza"
       }
@@ -17685,7 +17684,7 @@
       "y": 145.7404868,
       "tags": {
         "landuse": "retail",
-        "name": "Mt Sheridan Plaza",
+        "name": "Mount Sheridan Plaza",
         "shop": "mall",
         "website": "https://www.mtsheridanplaza.com.au/"
       }
@@ -17697,7 +17696,6 @@
       "tags": {
         "building": "yes",
         "building:levels": "1",
-        "name": "Mount Sheridan Shopping Center",
         "operator": "The Green Group",
         "shop": "mall",
         "wheelchair": "yes"
@@ -17711,7 +17709,6 @@
       "y": 146.7264048,
       "tags": {
         "building": "retail",
-        "name": "Willows Shoppingtown",
         "shop": "mall"
       }
     },
@@ -17720,10 +17717,13 @@
       "x": -19.3160594,
       "y": 146.7263909,
       "tags": {
+        "contact:facebook": "https://www.facebook.com/WillowsShoppingCentre/",
+        "contact:instagram": "https://www.instagram.com/willowsshoppingcentre/",
         "landuse": "retail",
-        "name": "Willows Shoppingtown",
+        "name": "Willows Shopping Centre",
         "shop": "mall",
-        "website": "https://www.willowsshoppingcentre.com.au/"
+        "website": "https://www.willowsshoppingcentre.com.au/",
+        "website:map": "https://www.willowsshoppingcentre.com.au/-/media/retail-sites/willows/images/maps/willows-map-nov-2023.pdf"
       }
     }
   ],
@@ -17734,7 +17734,6 @@
       "y": 146.7264048,
       "tags": {
         "building": "retail",
-        "name": "Willows Shoppingtown",
         "shop": "mall"
       }
     },
@@ -17743,10 +17742,13 @@
       "x": -19.3160594,
       "y": 146.7263909,
       "tags": {
+        "contact:facebook": "https://www.facebook.com/WillowsShoppingCentre/",
+        "contact:instagram": "https://www.instagram.com/willowsshoppingcentre/",
         "landuse": "retail",
-        "name": "Willows Shoppingtown",
+        "name": "Willows Shopping Centre",
         "shop": "mall",
-        "website": "https://www.willowsshoppingcentre.com.au/"
+        "website": "https://www.willowsshoppingcentre.com.au/",
+        "website:map": "https://www.willowsshoppingcentre.com.au/-/media/retail-sites/willows/images/maps/willows-map-nov-2023.pdf"
       }
     }
   ],
@@ -17860,12 +17862,7 @@
       "x": -33.7298015,
       "y": 151.1590472,
       "tags": {
-        "landuse": "retail",
-        "name": "St Ives Village",
-        "opening_hours": "Mo-We,Fr 09:00-17:30; Th 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
-        "shop": "mall",
-        "toilets": "yes",
-        "website": "https://stivesvillage.com.au/"
+        "landuse": "retail"
       }
     }
   ],
@@ -18265,10 +18262,8 @@
       "y": 148.1645327,
       "tags": {
         "landuse": "retail",
-        "name": "The Plaza @Emerald",
-        "shop": "mall",
-        "source": "Bing",
-        "website": "http://www.sentinelpm.com.au/property/the-plaza-emerald-32"
+        "name": "The Plaza at Emerald",
+        "shop": "mall"
       }
     },
     {
@@ -18277,8 +18272,8 @@
       "y": 148.1644061,
       "tags": {
         "building": "retail",
-        "name": "Emerald Plaza",
-        "source": "Bing"
+        "name": "The Plaza at Emerald",
+        "website": "https://theplazaemerald.com.au/"
       }
     }
   ],
@@ -19954,7 +19949,6 @@
       "tags": {
         "building": "commercial",
         "building:levels": "3",
-        "name": "Orion Coles",
         "shop": "mall"
       }
     },
@@ -19965,9 +19959,9 @@
       "tags": {
         "addr:postcode": "4300",
         "addr:suburb": "Springfield Central",
-        "alt_name": "Orion Springfield Central",
         "landuse": "retail",
-        "name": "Orion Shopping Centre"
+        "name": "Orion Springfield Central",
+        "website": "https://www.orionspringfieldcentral.com.au/"
       }
     }
   ],
@@ -20423,7 +20417,9 @@
       "y": 153.0923222,
       "tags": {
         "building": "retail",
-        "name": "Toormina Gardens Shopping Centre"
+        "name": "Toormina Gardens Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.toorminagardens.com.au/"
       }
     },
     {
@@ -20431,10 +20427,7 @@
       "x": -30.353895,
       "y": 153.091681,
       "tags": {
-        "landuse": "retail",
-        "name": "Toormina Gardens",
-        "shop": "mall",
-        "website": "https://www.toorminagardens.com.au/"
+        "landuse": "retail"
       }
     }
   ],
@@ -20445,7 +20438,9 @@
       "y": 153.0923222,
       "tags": {
         "building": "retail",
-        "name": "Toormina Gardens Shopping Centre"
+        "name": "Toormina Gardens Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.toorminagardens.com.au/"
       }
     },
     {
@@ -20453,10 +20448,7 @@
       "x": -30.353895,
       "y": 153.091681,
       "tags": {
-        "landuse": "retail",
-        "name": "Toormina Gardens",
-        "shop": "mall",
-        "website": "https://www.toorminagardens.com.au/"
+        "landuse": "retail"
       }
     }
   ],
@@ -21454,7 +21446,7 @@
       "y": 144.7270481,
       "tags": {
         "landuse": "retail",
-        "name": "Featherbook Shopping Centre"
+        "name": "Featherbrook Shopping Centre"
       }
     },
     {
@@ -23926,7 +23918,6 @@
         "building": "yes",
         "building:levels": "1",
         "name": "Deepwater Plaza Shopping Centre",
-        "note": "Shopping Center",
         "shop": "mall",
         "website": "https://www.deepwaterplaza.com.au/"
       }
@@ -24088,7 +24079,19 @@
       }
     }
   ],
-  "n6594078628": [],
+  "n6594078628": [
+    {
+      "id": "r17500020",
+      "x": -37.8636914,
+      "y": 145.0103651,
+      "tags": {
+        "landuse": "retail",
+        "name": "Alma Village",
+        "type": "multipolygon",
+        "website": "https://www.almavillage.com.au/"
+      }
+    }
+  ],
   "n6594152038": [],
   "n6632403651": [
     {
@@ -25236,9 +25239,11 @@
       "x": -17.0195042,
       "y": 145.7279277,
       "tags": {
+        "contact:facebook": "https://www.facebook.com/Sugarworldshoppingcentre",
         "landuse": "retail",
-        "name": "Sugarworld Shopping Center",
-        "shop": "mall"
+        "name": "Sugarworld Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.sugarworldshoppingcentre.com.au/"
       }
     }
   ],
@@ -25814,9 +25819,10 @@
       "y": 145.1656559,
       "tags": {
         "landuse": "retail",
-        "name": "Karingal Hub",
+        "name": "Karingal Hub Shopping Centre",
         "shop": "mall",
-        "website": "https://www.karingalhub.com.au/",
+        "website": "https://karingalhub.com.au/",
+        "website:map": "https://karingalhub.com.au/karingal-hub-centre-map/",
         "wikidata": "Q5062846",
         "wikipedia": "en:Karingal Hub Shopping Centre"
       }
@@ -25827,8 +25833,7 @@
       "y": 145.1657282,
       "tags": {
         "building": "retail",
-        "layer": "3",
-        "name": "Karingal Hub Shopping Centre"
+        "layer": "3"
       }
     }
   ],
@@ -25911,9 +25916,10 @@
       "y": 149.0658624,
       "tags": {
         "landuse": "retail",
-        "name": "South.Point",
-        "old_name": "Tuggeranong Hyperdome",
+        "name": "South Point Tuggeranong",
+        "official_name": "South.Point Tuggeranong",
         "website": "https://southpointcanberra.com.au/",
+        "website:map": "https://southpointcanberra.com.au/centre-map/",
         "wikidata": "Q7851640",
         "wikipedia": "en:South.Point Tuggeranong"
       }
@@ -25925,10 +25931,8 @@
       "tags": {
         "building": "retail",
         "building:levels": "2",
-        "name": "South Point Tuggeranong",
         "nohousenumber": "yes",
         "roof:levels": "0",
-        "shop": "mall",
         "source:geometry": "bing",
         "toilets": "yes"
       }
@@ -26973,6 +26977,7 @@
         "landuse": "retail",
         "name": "Warwick Grove",
         "phone": "+61 8 9447 4800",
+        "shop": "mall",
         "website": "https://www.warwickgrove.com.au/"
       }
     },
@@ -26981,9 +26986,7 @@
       "x": -31.8440903,
       "y": 115.8109087,
       "tags": {
-        "building": "yes",
-        "name": "Centro Warwick Grove",
-        "website": "https://www.warwickgrove.com.au/"
+        "building": "retail"
       }
     }
   ],
@@ -27407,7 +27410,8 @@
         "landuse": "retail",
         "name": "Mornington Central",
         "shop": "mall",
-        "website": "https://www.morningtoncentral.com.au/"
+        "website": "https://www.morningtoncentral.com.au/",
+        "website:map": "https://www.morningtoncentral.com.au/directions/centre-map"
       }
     },
     {
@@ -27418,8 +27422,7 @@
         "building": "retail",
         "building:colour": "tan",
         "height": "6 m",
-        "layer": "1",
-        "name": "Mornington Central Shopping Centre"
+        "layer": "1"
       }
     }
   ],
@@ -27701,8 +27704,11 @@
       "x": -19.2519048,
       "y": 146.8143237,
       "tags": {
+        "contact:facebook": "https://www.facebook.com/NorthWardShoppingVillage/",
+        "contact:instagram": "https://www.instagram.com/northwardshoppingvillage/",
         "landuse": "retail",
-        "name": "North Ward Shopping Village"
+        "name": "North Ward Shopping Village",
+        "shop": "mall"
       }
     }
   ],
@@ -28947,9 +28953,10 @@
         "addr:street": "Albany Creek Road",
         "addr:suburb": "Aspley",
         "landuse": "retail",
-        "name": "Aslpey Hypermarket",
+        "name": "Aspley Hypermarket",
         "shop": "mall",
-        "type": "multipolygon"
+        "type": "multipolygon",
+        "website": "https://www.aspleyhypermarket.com.au/"
       }
     },
     {
@@ -28977,9 +28984,10 @@
         "addr:street": "Albany Creek Road",
         "addr:suburb": "Aspley",
         "landuse": "retail",
-        "name": "Aslpey Hypermarket",
+        "name": "Aspley Hypermarket",
         "shop": "mall",
-        "type": "multipolygon"
+        "type": "multipolygon",
+        "website": "https://www.aspleyhypermarket.com.au/"
       }
     },
     {
@@ -30103,12 +30111,7 @@
       "x": -33.7298015,
       "y": 151.1590472,
       "tags": {
-        "landuse": "retail",
-        "name": "St Ives Village",
-        "opening_hours": "Mo-We,Fr 09:00-17:30; Th 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
-        "shop": "mall",
-        "toilets": "yes",
-        "website": "https://stivesvillage.com.au/"
+        "landuse": "retail"
       }
     }
   ],
@@ -32712,7 +32715,8 @@
         "layer": "-1",
         "name": "Northland Shopping Centre",
         "shop": "mall",
-        "website": "www.nortlandsc.com.au"
+        "website": "https://www.northlandsc.com.au/",
+        "website:map": "https://www.northlandsc.com.au/directions/centre-map"
       }
     }
   ],
@@ -35773,7 +35777,8 @@
         "layer": "-1",
         "name": "Northland Shopping Centre",
         "shop": "mall",
-        "website": "www.nortlandsc.com.au"
+        "website": "https://www.northlandsc.com.au/",
+        "website:map": "https://www.northlandsc.com.au/directions/centre-map"
       }
     }
   ],
@@ -35808,9 +35813,10 @@
       "y": 145.1656559,
       "tags": {
         "landuse": "retail",
-        "name": "Karingal Hub",
+        "name": "Karingal Hub Shopping Centre",
         "shop": "mall",
-        "website": "https://www.karingalhub.com.au/",
+        "website": "https://karingalhub.com.au/",
+        "website:map": "https://karingalhub.com.au/karingal-hub-centre-map/",
         "wikidata": "Q5062846",
         "wikipedia": "en:Karingal Hub Shopping Centre"
       }
@@ -35821,8 +35827,7 @@
       "y": 145.1657282,
       "tags": {
         "building": "retail",
-        "layer": "3",
-        "name": "Karingal Hub Shopping Centre"
+        "layer": "3"
       }
     }
   ],
@@ -36380,7 +36385,7 @@
       "y": 145.7404868,
       "tags": {
         "landuse": "retail",
-        "name": "Mt Sheridan Plaza",
+        "name": "Mount Sheridan Plaza",
         "shop": "mall",
         "website": "https://www.mtsheridanplaza.com.au/"
       }
@@ -36398,6 +36403,8 @@
         "building": "yes",
         "name": "Coles",
         "opening_hours": "Mo-Fr 08:00-21:00, Sa 08:30-17:30, Su 09:00-18:00",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
         "payment:american_express": "yes",
         "payment:coins": "yes",
         "payment:cryptocurrencies": "no",
@@ -36418,7 +36425,6 @@
       "tags": {
         "building": "yes",
         "building:levels": "1",
-        "name": "Mount Sheridan Shopping Center",
         "operator": "The Green Group",
         "shop": "mall",
         "wheelchair": "yes"

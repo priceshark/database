@@ -1,10 +1,14 @@
+use core::fmt;
+
 use clap::ValueEnum;
 use serde::{Deserialize, Serialize};
 
+mod address;
 mod osm;
 mod product;
 mod store;
 
+pub use address::{Address, State};
 pub use osm::OsmId;
 pub use product::ProductId;
 pub use store::StoreId;
@@ -14,6 +18,15 @@ pub use store::StoreId;
 pub enum Retailer {
     Coles,
     Woolworths,
+}
+
+impl fmt::Display for Retailer {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        match self {
+            Self::Coles => write!(f, "Coles"),
+            Self::Woolworths => write!(f, "Woolworths"),
+        }
+    }
 }
 
 impl Retailer {

@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-04-22T00:26:40Z",
+    "timestamp_osm_base": "2024-04-23T02:21:13Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1367,13 +1367,15 @@
 {
   "type": "node",
   "id": 559971467,
-  "lat": -33.7527658,
-  "lon": 150.6587848,
+  "lat": -33.7527828,
+  "lon": 150.6587144,
   "tags": {
     "brand": "Woolworths",
     "brand:wikidata": "Q3249145",
     "brand:wikipedia": "en:Woolworths Supermarkets",
     "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
     "shop": "supermarket"
   }
 },
@@ -3723,8 +3725,8 @@
 {
   "type": "node",
   "id": 1432754177,
-  "lat": -34.9902384,
-  "lon": 117.8774251,
+  "lat": -34.9903721,
+  "lon": 117.8776412,
   "tags": {
     "addr:country": "AU",
     "addr:state": "WA",
@@ -3732,6 +3734,8 @@
     "brand:wikidata": "Q3249145",
     "brand:wikipedia": "en:Woolworths Supermarkets",
     "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
     "phone": "+61 8 6819 6605",
     "shop": "supermarket",
     "website": "https://www.woolworths.com.au/"
@@ -7170,6 +7174,8 @@
     "brand:wikidata": "Q3249145",
     "brand:wikipedia": "en:Woolworths Supermarkets",
     "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
     "shop": "supermarket",
     "website": "https://www.woolworths.com.au/"
   }
@@ -7249,6 +7255,8 @@
     "brand:wikipedia": "en:Woolworths Supermarkets",
     "name": "Woolworths",
     "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
     "shop": "supermarket",
     "website": "https://www.woolworths.com.au/"
   }
@@ -8520,6 +8528,8 @@
     "brand:wikidata": "Q3249145",
     "brand:wikipedia": "en:Woolworths Supermarkets",
     "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
     "shop": "supermarket",
     "website": "https://www.woolworths.com.au/"
   }
@@ -10048,8 +10058,8 @@
 {
   "type": "node",
   "id": 6594078628,
-  "lat": -37.8630862,
-  "lon": 145.0101130,
+  "lat": -37.8630952,
+  "lon": 145.0101814,
   "tags": {
     "brand": "Woolworths",
     "brand:wikidata": "Q3249145",
@@ -10397,21 +10407,6 @@
     "brand:wikidata": "Q3249145",
     "brand:wikipedia": "en:Woolworths Supermarkets",
     "name": "Woolworths",
-    "shop": "supermarket"
-  }
-},
-{
-  "type": "node",
-  "id": 7168119185,
-  "lat": -33.7391128,
-  "lon": 151.2097290,
-  "tags": {
-    "brand": "Woolworths",
-    "brand:wikidata": "Q3249145",
-    "brand:wikipedia": "en:Woolworths Supermarkets",
-    "name": "Woolworths",
-    "operator": "Woolworths Group",
-    "operator:wikidata": "Q607272",
     "shop": "supermarket"
   }
 },
@@ -10821,6 +10816,8 @@
     "brand:wikidata": "Q3249145",
     "brand:wikipedia": "en:Woolworths Supermarkets",
     "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
     "shop": "supermarket"
   }
 },
@@ -11378,6 +11375,8 @@
     "brand": "Woolworths",
     "brand:wikidata": "Q3249145",
     "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
     "shop": "supermarket"
   }
 },
@@ -17283,6 +17282,24 @@
     "brand:wikipedia": "en:Woolworths Supermarkets",
     "building": "retail",
     "layer": "1",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 1275123571,
+  "center": {
+    "lat": -33.7392461,
+    "lon": 151.2094431
+  },
+  "tags": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "indoor": "room",
     "name": "Woolworths",
     "operator": "Woolworths Group",
     "operator:wikidata": "Q607272",
