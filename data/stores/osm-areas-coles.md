@@ -1,0 +1,73 @@
+- [Coles Store 353](https://www.coles.com.au/find-stores/coles/-/-353) [w835224336](https://www.openstreetmap.org/way/835224336) has conflicting parent names: {"Forrestfield Forum", "Forrestfield Shopping"}
+- [Coles Store 356](https://www.coles.com.au/find-stores/coles/-/-356) [n454837973](https://www.openstreetmap.org/node/454837973) has conflicting parent names: {"Coles Mall Village Green", "Village Green"}
+- [Coles Store 383](https://www.coles.com.au/find-stores/coles/-/-383) [w145169229](https://www.openstreetmap.org/way/145169229) has no parents
+- [Coles Store 384](https://www.coles.com.au/find-stores/coles/-/-384) [w553155802](https://www.openstreetmap.org/way/553155802) has no parents
+- [Coles Store 390](https://www.coles.com.au/find-stores/coles/-/-390) [n11806192946](https://www.openstreetmap.org/node/11806192946) has no parents
+- [Coles Store 392](https://www.coles.com.au/find-stores/coles/-/-392) [n4646407492](https://www.openstreetmap.org/node/4646407492) has no parents
+- [Coles Store 445](https://www.coles.com.au/find-stores/coles/-/-445) [w132181982](https://www.openstreetmap.org/way/132181982) has no parents
+- [Coles Store 488](https://www.coles.com.au/find-stores/coles/-/-488) [n11826874479](https://www.openstreetmap.org/node/11826874479) has conflicting parent names: {"Kwinana Hub Shopping Centre", "Kwinana Shopping Centre"}
+- [Coles Store 492](https://www.coles.com.au/find-stores/coles/-/-492) [n3925399930](https://www.openstreetmap.org/node/3925399930) has no parents
+- [Coles Store 511](https://www.coles.com.au/find-stores/coles/-/-511) [n1311737974](https://www.openstreetmap.org/node/1311737974) has conflicting parent names: {"Corio Shopping Centre", "Corio Village"}
+- [Coles Store 520](https://www.coles.com.au/find-stores/coles/-/-520) [w326037694](https://www.openstreetmap.org/way/326037694) has no parents
+- [Coles Store 523](https://www.coles.com.au/find-stores/coles/-/-523) [w262518576](https://www.openstreetmap.org/way/262518576) has no parents
+- [Coles Store 594](https://www.coles.com.au/find-stores/coles/-/-594) [w295344976](https://www.openstreetmap.org/way/295344976) has no parents
+- [Coles Store 595](https://www.coles.com.au/find-stores/coles/-/-595) [w38225804](https://www.openstreetmap.org/way/38225804) has no parents
+- [Coles Store 603](https://www.coles.com.au/find-stores/coles/-/-603) [n364658541](https://www.openstreetmap.org/node/364658541) has conflicting parent names: {"Heritage Springs Shopping Village", "Hertiage Springs Shopping Centre"}
+- [Coles Store 620](https://www.coles.com.au/find-stores/coles/-/-620) [w113338781](https://www.openstreetmap.org/way/113338781) has no parents
+- [Coles Store 638](https://www.coles.com.au/find-stores/coles/-/-638) [w51469747](https://www.openstreetmap.org/way/51469747) has no parents
+- [Coles Store 647](https://www.coles.com.au/find-stores/coles/-/-647) [n260710477](https://www.openstreetmap.org/node/260710477) has no parents
+- [Coles Store 670](https://www.coles.com.au/find-stores/coles/-/-670) [w897346810](https://www.openstreetmap.org/way/897346810) has conflicting parent names: {"The Gateway", "The Gateway Shopping Centre"}
+- [Coles Store 678](https://www.coles.com.au/find-stores/coles/-/-678) [n531399027](https://www.openstreetmap.org/node/531399027) has conflicting parent names: {"Eltham Town", "Eltham Village Shopping Centre"}
+- [Coles Store 695](https://www.coles.com.au/find-stores/coles/-/-695) [w894009103](https://www.openstreetmap.org/way/894009103) has no parents
+- [Coles Store 710](https://www.coles.com.au/find-stores/coles/-/-710) [n20827870](https://www.openstreetmap.org/node/20827870) has conflicting parent names: {"Hordern Towers", "World Square", "World Square Shopping Centre"}
+- [Coles Store 780](https://www.coles.com.au/find-stores/coles/-/-780) [w435253538](https://www.openstreetmap.org/way/435253538) has no parents
+- [Coles Store 784](https://www.coles.com.au/find-stores/coles/-/-784) [w392196354](https://www.openstreetmap.org/way/392196354) has no parents
+- [Coles Store 797](https://www.coles.com.au/find-stores/coles/-/-797) [n2267893633](https://www.openstreetmap.org/node/2267893633) has conflicting parent names: {"Warriewood Square", "Warriewood Square Shopping Centre"}
+- [Coles Store 847](https://www.coles.com.au/find-stores/coles/-/-847) [n3007866611](https://www.openstreetmap.org/node/3007866611) has no parents
+- [Coles Store 858](https://www.coles.com.au/find-stores/coles/-/-858) [n2156896056](https://www.openstreetmap.org/node/2156896056) has conflicting parent names: {"Chisholm Centre", "Chisholm Shopping Centre"}
+- [Coles Store 859](https://www.coles.com.au/find-stores/coles/-/-859) [n358293199](https://www.openstreetmap.org/node/358293199) has conflicting parent names: {"Manuka Shops", "Manuka Terrace"}
+- [Coles Store 886](https://www.coles.com.au/find-stores/coles/-/-886) [n2200909693](https://www.openstreetmap.org/node/2200909693) has no parents
+- [Coles Store 921](https://www.coles.com.au/find-stores/coles/-/-921) [n2327813591](https://www.openstreetmap.org/node/2327813591) has conflicting parent names: {"Blue Mountains Cultural Centre", "Katoomba Village"}
+- [Coles Store 924](https://www.coles.com.au/find-stores/coles/-/-924) [n1974473597](https://www.openstreetmap.org/node/1974473597) has conflicting parent names: {"Price Attack Rouse hill", "Rouse Hill Town Centre"}
+- [Coles Store 927](https://www.coles.com.au/find-stores/coles/-/-927) [n11834090034](https://www.openstreetmap.org/node/11834090034) has no parents
+- [Coles Store 989](https://www.coles.com.au/find-stores/coles/-/-989) [n11806315971](https://www.openstreetmap.org/node/11806315971) has no parents
+- [Coles Store 4091](https://www.coles.com.au/find-stores/coles/-/-4091) [n10221032691](https://www.openstreetmap.org/node/10221032691) has no parents
+- [Coles Store 4166](https://www.coles.com.au/find-stores/coles/-/-4166) [n9828663372](https://www.openstreetmap.org/node/9828663372) has conflicting parent names: {"Marrickville Metro", "Smidmore Street - Marrickville Metro"}
+- [Coles Store 4384](https://www.coles.com.au/find-stores/coles/-/-4384) [w447968449](https://www.openstreetmap.org/way/447968449) has no parents
+- [Coles Store 4409](https://www.coles.com.au/find-stores/coles/-/-4409) [n3355139144](https://www.openstreetmap.org/node/3355139144) has conflicting parent names: {"Earlville Shopping Town", "Stockland Cairns"}
+- [Coles Store 4435](https://www.coles.com.au/find-stores/coles/-/-4435) [n3033914408](https://www.openstreetmap.org/node/3033914408) has conflicting parent names: {"Kawana Shopping World", "Kawana Shoppingtown"}
+- [Coles Store 4444](https://www.coles.com.au/find-stores/coles/-/-4444) [w1006309843](https://www.openstreetmap.org/way/1006309843) has no parents
+- [Coles Store 4467](https://www.coles.com.au/find-stores/coles/-/-4467) [w467733976](https://www.openstreetmap.org/way/467733976) has no parents
+- [Coles Store 4528](https://www.coles.com.au/find-stores/coles/-/-4528) [n699591219](https://www.openstreetmap.org/node/699591219) has conflicting parent names: {"Newmarket", "Reading Newmarket"}
+- [Coles Store 4529](https://www.coles.com.au/find-stores/coles/-/-4529) [w534403706](https://www.openstreetmap.org/way/534403706) has no parents
+- [Coles Store 4551](https://www.coles.com.au/find-stores/coles/-/-4551) [n402306616](https://www.openstreetmap.org/node/402306616) has conflicting parent names: {"Yamba Fair", "Yamba Shopping Fair"}
+- [Coles Store 4566](https://www.coles.com.au/find-stores/coles/-/-4566) [w32829722](https://www.openstreetmap.org/way/32829722) has no parents
+- [Coles Store 4569](https://www.coles.com.au/find-stores/coles/-/-4569) [n11834282694](https://www.openstreetmap.org/node/11834282694) has no parents
+- [Coles Store 4581](https://www.coles.com.au/find-stores/coles/-/-4581) [n1494008798](https://www.openstreetmap.org/node/1494008798) has conflicting parent names: {"Clifton Village", "Clifton Village Shopping Centre"}
+- [Coles Store 4647](https://www.coles.com.au/find-stores/coles/-/-4647) [w515720020](https://www.openstreetmap.org/way/515720020) has no parents
+- [Coles Store 4655](https://www.coles.com.au/find-stores/coles/-/-4655) [w581441408](https://www.openstreetmap.org/way/581441408) has no parents
+- [Coles Store 4659](https://www.coles.com.au/find-stores/coles/-/-4659) [n1928762464](https://www.openstreetmap.org/node/1928762464) has conflicting parent names: {"Station Square", "Station Square Shopping Centre"}
+- [Coles Store 4784](https://www.coles.com.au/find-stores/coles/-/-4784) [w805125979](https://www.openstreetmap.org/way/805125979) has no parents
+- [Coles Store 4788](https://www.coles.com.au/find-stores/coles/-/-4788) [n551463636](https://www.openstreetmap.org/node/551463636) has no parents
+- [Coles Store 4796](https://www.coles.com.au/find-stores/coles/-/-4796) [n11818520804](https://www.openstreetmap.org/node/11818520804) has conflicting parent names: {"Lakelands", "Lakelands Shopping Centre"}
+- [Coles Store 4814](https://www.coles.com.au/find-stores/coles/-/-4814) [n11337142525](https://www.openstreetmap.org/node/11337142525) has conflicting parent names: {"Dickson Shops", "Dickson Village"}
+- [Coles Store 4961](https://www.coles.com.au/find-stores/coles/-/-4961) [w270799025](https://www.openstreetmap.org/way/270799025) has no parents
+- [Coles Store 5679](https://www.coles.com.au/find-stores/coles/-/-5679) [w343815683](https://www.openstreetmap.org/way/343815683) has no parents
+- [Coles Store 5686](https://www.coles.com.au/find-stores/coles/-/-5686) [w328300135](https://www.openstreetmap.org/way/328300135) has no parents
+- [Coles Store 5733](https://www.coles.com.au/find-stores/coles/-/-5733) [w294903993](https://www.openstreetmap.org/way/294903993) has no parents
+- [Coles Store 5757](https://www.coles.com.au/find-stores/coles/-/-5757) [w836623647](https://www.openstreetmap.org/way/836623647) has no parents
+- [Coles Store 5803](https://www.coles.com.au/find-stores/coles/-/-5803) [w685844544](https://www.openstreetmap.org/way/685844544) has no parents
+- [Coles Store 7523](https://www.coles.com.au/find-stores/coles/-/-7523) [n476031171](https://www.openstreetmap.org/node/476031171) has conflicting parent names: {"Centro New Town", "New Town Plaza"}
+- [Coles Store 7543](https://www.coles.com.au/find-stores/coles/-/-7543) [w966014172](https://www.openstreetmap.org/way/966014172) has no parents
+- [Coles Store 7545](https://www.coles.com.au/find-stores/coles/-/-7545) [w1156834170](https://www.openstreetmap.org/way/1156834170) has no parents
+- [Coles Store 7596](https://www.coles.com.au/find-stores/coles/-/-7596) [n9467594908](https://www.openstreetmap.org/node/9467594908) has conflicting parent names: {"Stockland Wetherill Park", "Stockland Wetherill Park Shopping Centre"}
+- [Coles Store 7646](https://www.coles.com.au/find-stores/coles/-/-7646) [n392159314](https://www.openstreetmap.org/node/392159314) has conflicting parent names: {"Meadow Mews", "Meadow Mews Shopping Centre"}
+- [Coles Store 7647](https://www.coles.com.au/find-stores/coles/-/-7647) [n1055752546](https://www.openstreetmap.org/node/1055752546) has conflicting parent names: {"Cove Hill", "Covehill Fair Shopping Centre"}
+- [Coles Store 7697](https://www.coles.com.au/find-stores/coles/-/-7697) [n480460754](https://www.openstreetmap.org/node/480460754) has conflicting parent names: {"Casey Central", "Casey Central Shopping Centre"}
+- [Coles Store 7730](https://www.coles.com.au/find-stores/coles/-/-7730) [w524354199](https://www.openstreetmap.org/way/524354199) has no parents
+- [Coles Store 7774](https://www.coles.com.au/find-stores/coles/-/-7774) [w329099952](https://www.openstreetmap.org/way/329099952) has no parents
+- [Coles Store 7786](https://www.coles.com.au/find-stores/coles/-/-7786) [n1282664873](https://www.openstreetmap.org/node/1282664873) has conflicting parent names: {"Lalor Plaza", "Lalor Plaza Shopping Centre"}
+- [Coles Store 7789](https://www.coles.com.au/find-stores/coles/-/-7789) [w236242345](https://www.openstreetmap.org/way/236242345) has no parents
+- [Coles Store 7812](https://www.coles.com.au/find-stores/coles/-/-7812) [n3398088890](https://www.openstreetmap.org/node/3398088890) has conflicting parent names: {"Summerhill Shopping Centre", "Summerhill Village"}
+- [Coles Store 7836](https://www.coles.com.au/find-stores/coles/-/-7836) [n6907985653](https://www.openstreetmap.org/node/6907985653) has conflicting parent names: {"Birtinya Town Centre", "Stockland Birtinya"}
+- [Coles Store 7868](https://www.coles.com.au/find-stores/coles/-/-7868) [w255432027](https://www.openstreetmap.org/way/255432027) has no parents

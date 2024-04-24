@@ -4,24 +4,18 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-anyhow = "1.0.81"
+anyhow = "1.0.82"
 clap = { version = "4.5.4", features = ["derive"] }
-serde = { version = "1.0.197", features = ["derive"] }
-serde_json = "1.0.115"
-tokio = { version = "1.37.0", features = ["full"] }
-futures-util = "0.3.30"
-fantoccini = "0.19.3"
-reqwest = "0.12.2"
-sha256 = "1.5.0"
-url = "2.5.0"
-httpdate = "1.0.3"
-indexmap = { version = "2.2.6", features = ["serde"] }
-inquire = "0.7.4"
-counter = "0.5.7"
-sqlx = { version = "0.7.4", features = ["sqlite", "runtime-tokio", "macros"] }
-serde_repr = "0.1.18"
-serde_with = { version = "3.7.0", features = ["chrono"] }
-typed_floats = { version = "1.0.1", features = ["serde"] }
+geo = { version = "0.28.0", features = ["use-serde"] }
 indicatif = "0.17.8"
-rayon = "1.10.0"
 itertools = "0.12.1"
+postcard = { version = "1.0.8", features = ["alloc"] }
+rayon = "1.10.0"
+ron = "0.8.1"
+serde = { version = "1.0.198", features = ["derive"] }
+serde_json = "1.0.116"
+serde_repr = "0.1.19"
+serde_with = "3.7.0"
+typed_floats = { version = "1.0.1", features = ["serde"] }
+ureq = { version = "2.9.6", features = ["json"] }
+zstd = "0.13.1"

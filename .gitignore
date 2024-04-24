@@ -2,11 +2,7 @@ cache
 target
 .ipynb_checkpoints
 
-raw/
-!**/src/raw
-*raw.json
-*raw.jsonl
-!stores/raw
+data/prices/*
 
 barcodes/output.json
 ps.db
