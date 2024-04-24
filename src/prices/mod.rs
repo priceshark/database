@@ -123,6 +123,14 @@ pub fn main() -> Result<()> {
     Ok(())
 }
 
+pub fn load(name: &str, vendor: Vendor) -> Result<RawPrices> {
+    let data = zstd::decode_all(File::open(format!(
+        "data/prices/{name}-{}.bin.zst",
+        vendor.slug()
+    ))?)?;
+    Ok(postcard::from_bytes(&data)?)
+}
+
 #[derive(Debug, Serialize, Deserialize)]
 pub struct RawPriceIndex {
     pub stores: BTreeSet<u32>,

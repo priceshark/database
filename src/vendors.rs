@@ -1,5 +1,7 @@
 use core::fmt;
+use std::str::FromStr;
 
+use anyhow::bail;
 use clap::ValueEnum;
 use serde::{Deserialize, Serialize};
 
@@ -13,6 +15,18 @@ pub enum Vendor {
 impl fmt::Display for Vendor {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         write!(f, "{}", self.name())
+    }
+}
+
+impl FromStr for Vendor {
+    type Err = anyhow::Error;
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        Ok(match s {
+            "coles" => Self::Coles,
+            "woolworths" => Self::Woolworths,
+            _ => bail!("Unknown vendor: {s}"),
+        })
     }
 }
 

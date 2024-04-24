@@ -2,7 +2,10 @@ cache
 target
 .ipynb_checkpoints
 
-data/prices/*
+# due to size and lack of changes to be tracked
+/data/prices/*
+# changes completely each update
+/data/ranks/*
 
 barcodes/output.json
 ps.db
