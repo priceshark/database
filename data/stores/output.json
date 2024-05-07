@@ -6589,6 +6589,15 @@
   },
   {
     "vendor": "coles",
+    "id": 7681,
+    "name": "Coles Thornlands",
+    "desc": "Paradise Garden Shopping Village, Brisbane QLD 4164",
+    "osm": "n11847331109",
+    "x": -27.566969,
+    "y": 153.2494766
+  },
+  {
+    "vendor": "coles",
     "id": 7689,
     "name": "Coles Local Sydney",
     "desc": "Skyview, Sydney NSW 2000",

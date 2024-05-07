@@ -1,8 +1,8 @@
 ## Statistics
 
-- 851 raw, 840 osm
+- 852 raw, 840 osm
 - 50 sourced from url
-- 786 matched on distance
+- 787 matched on distance
 - 98.2% conflated
 
 ## Todo
@@ -22,6 +22,5 @@
 - didn't match with raw:
   - [n1924155592](https://www.openstreetmap.org/node/1924155592)
   - [n3776153491](https://www.openstreetmap.org/node/3776153491)
-  - [n11847331109](https://www.openstreetmap.org/node/11847331109)
   - [w151021229](https://www.openstreetmap.org/way/151021229)
 

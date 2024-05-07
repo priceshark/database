@@ -14313,6 +14313,36 @@
       }
     }
   ],
+  "n11847331109": [
+    {
+      "id": "w1179657403",
+      "x": -27.5667612,
+      "y": 153.2495206,
+      "tags": {
+        "addr:housenumber": "124-144",
+        "addr:postcode": "4164",
+        "addr:state": "QLD",
+        "addr:street": "Boundary Road",
+        "addr:suburb": "Thornlands",
+        "building": "retail",
+        "contact:facebook": "https://www.facebook.com/paradisegardensv",
+        "email": "info@paradisegardenshoppingvillage.com.au",
+        "name": "Paradise Garden Shopping Village",
+        "opening_date": "2024-05-03",
+        "operator": "CBRE",
+        "shop": "mall",
+        "website": "https://paradisegardenshoppingvillage.com.au/"
+      }
+    },
+    {
+      "id": "w1276091199",
+      "x": -27.5667169,
+      "y": 153.2496496,
+      "tags": {
+        "landuse": "retail"
+      }
+    }
+  ],
   "r15074857": [
     {
       "id": "r15074857",

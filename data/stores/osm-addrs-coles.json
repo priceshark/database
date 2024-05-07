@@ -8667,6 +8667,19 @@
     "state": "Victoria",
     "suburb": "Craigieburn"
   },
+  "n11847331109": {
+    "ISO3166-2-lvl4": "AU-QLD",
+    "city_district": "Thornlands",
+    "country": "Australia",
+    "country_code": "au",
+    "district": "Greater Brisbane",
+    "house_number": "128-144",
+    "municipality": "Redland City",
+    "postcode": "4164",
+    "road": "Boundary Road",
+    "shop": "Coles",
+    "state": "Queensland"
+  },
   "r15074857": {
     "ISO3166-2-lvl4": "AU-QLD",
     "country": "Australia",
