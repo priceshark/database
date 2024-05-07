@@ -70,6 +70,27 @@
       }
     }
   ],
+  "n18488859": [
+    {
+      "id": "w937026849",
+      "x": -33.9514748,
+      "y": 151.2498124,
+      "tags": {
+        "landuse": "retail"
+      }
+    },
+    {
+      "id": "w1277821248",
+      "x": -33.9513039,
+      "y": 151.2497474,
+      "tags": {
+        "area": "yes",
+        "building": "yes",
+        "name": "South Maroubra Shopping Village",
+        "shop": "mall"
+      }
+    }
+  ],
   "n21279660": [
     {
       "id": "w429790850",
@@ -606,7 +627,7 @@
     {
       "id": "w25888027",
       "x": -35.3652444,
-      "y": 149.094634,
+      "y": 149.0946308,
       "tags": {
         "landuse": "retail",
         "name": "Southlands",
@@ -880,6 +901,14 @@
         "wheelchair": "yes",
         "wheelchair:description": "Multi levelled (2) shopping centre. Underground parking available. No lifts, but escalators and ramps are present. Disabled toilets present."
       }
+    },
+    {
+      "id": "w32227587",
+      "x": -27.5709035,
+      "y": 153.0654111,
+      "tags": {
+        "landuse": "retail"
+      }
     }
   ],
   "n331124791": [
@@ -1137,13 +1166,16 @@
   ],
   "n369959816": [
     {
-      "id": "w47027181",
-      "x": -31.9527601,
-      "y": 115.8605237,
+      "id": "w47027180",
+      "x": -31.9526366,
+      "y": 115.8601336,
       "tags": {
-        "building": "yes",
+        "building": "retail",
         "building:levels": "5",
-        "old_name": "166 City Central",
+        "name": "Forrest Chase",
+        "name:etymology:wikidata": "Q921617",
+        "name:etymology:wikipedia": "en:John Forrest",
+        "website": "https://forrestchase.com.au/",
         "wikidata": "Q5470442",
         "wikipedia": "en:Forrest Chase"
       }
@@ -1282,6 +1314,27 @@
       }
     }
   ],
+  "n441354390": [
+    {
+      "id": "w215963188",
+      "x": -35.2431435,
+      "y": 149.0440974,
+      "tags": {
+        "building": "retail",
+        "building:levels": "1",
+        "roof:colour": "#C4A682",
+        "roof:levels": "0"
+      }
+    },
+    {
+      "id": "w826972905",
+      "x": -35.2433035,
+      "y": 149.0438332,
+      "tags": {
+        "landuse": "retail"
+      }
+    }
+  ],
   "n444677702": [
     {
       "id": "w823295997",
@@ -1295,6 +1348,32 @@
         "layer": "1",
         "note": "Way has been simplified using a maximum error criterion of 0.5m.",
         "source:geometry": "ACTBlocks"
+      }
+    }
+  ],
+  "n445359202": [
+    {
+      "id": "w825808185",
+      "x": -35.222144,
+      "y": 149.0199818,
+      "tags": {
+        "landuse": "retail",
+        "note": "Way has been simplified using a maximum error criterion of 0.5m.",
+        "source:geometry": "ACTBlocks"
+      }
+    },
+    {
+      "id": "r9912221",
+      "x": -35.2222113,
+      "y": 149.01993,
+      "tags": {
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Kippax Fair Shopping Centre",
+        "roof:levels": "0",
+        "type": "multipolygon",
+        "wikidata": "Q6414675",
+        "wikipedia": "en:Kippax Centre"
       }
     }
   ],
@@ -1360,7 +1439,7 @@
     {
       "id": "w209941292",
       "x": -33.8865567,
-      "y": 150.8886176,
+      "y": 150.8886483,
       "tags": {
         "addr:housenumber": "100",
         "addr:postcode": "2177",
@@ -1929,8 +2008,9 @@
       "x": -36.415067,
       "y": 148.6203807,
       "tags": {
+        "addr:street": "Kosciuszko Road",
         "landuse": "retail",
-        "name": "Nuggets Crossing",
+        "name": "Nuggets Crossing Shopping Centre",
         "shop": "mall",
         "website": "http://www.nuggetscrossing.com.au/"
       }
@@ -1941,8 +2021,6 @@
       "y": 148.6201426,
       "tags": {
         "building": "retail",
-        "name": "Jindabyne Town Centre",
-        "shop": "mall",
         "type": "multipolygon"
       }
     }
@@ -1989,7 +2067,7 @@
     {
       "id": "r9505276",
       "x": -35.1853823,
-      "y": 149.1335709,
+      "y": 149.1335735,
       "tags": {
         "building": "retail",
         "building:levels": "1",
@@ -2132,6 +2210,27 @@
         "building:levels": "1",
         "height": "7",
         "layer": "1"
+      }
+    }
+  ],
+  "n606203399": [
+    {
+      "id": "w56995851",
+      "x": -33.8289481,
+      "y": 150.9514732,
+      "tags": {
+        "landuse": "retail",
+        "name": "Greystanes Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.greystanesshoppingcentre.com.au/"
+      }
+    },
+    {
+      "id": "w384614315",
+      "x": -33.8288662,
+      "y": 150.951903,
+      "tags": {
+        "building": "retail"
       }
     }
   ],
@@ -3285,7 +3384,7 @@
     {
       "id": "w48570205",
       "x": -33.7591266,
-      "y": 150.9915059,
+      "y": 150.9915089,
       "tags": {
         "addr:housenumber": "375-383",
         "addr:street": "Windsor Road",
@@ -3300,7 +3399,7 @@
     },
     {
       "id": "w370017167",
-      "x": -33.7591422,
+      "x": -33.7591455,
       "y": 150.9915626,
       "tags": {
         "building": "retail"
@@ -4156,7 +4255,7 @@
         "designation": "Shopping Centre",
         "internet_access": "wlan",
         "layer": "2",
-        "name": "Macquarie Centre Shopping Centre",
+        "name": "Macquarie Centre",
         "opening_hours": "Mo-We 09:00-17:30; Fr 09:00-23:00; Sa 09:30-23:00; Th 09:00-21:00; Su 10:00-16:00",
         "phone": "+61 2 9887 0800",
         "shop": "mall",
@@ -4210,7 +4309,7 @@
         "addr:city": "Melbourne",
         "addr:housenumber": "80",
         "addr:postcode": "3020",
-        "addr:state": "Victoria",
+        "addr:state": "VIC",
         "addr:street": "Harvester Road",
         "addr:suburb": "Sunshine",
         "landuse": "retail",
@@ -4320,7 +4419,7 @@
   "n1292972857": [
     {
       "id": "w418574775",
-      "x": -17.5248411,
+      "x": -17.5248471,
       "y": 146.0310761,
       "tags": {
         "building": "commercial",
@@ -4599,14 +4698,14 @@
       "x": -31.9544734,
       "y": 115.8577537,
       "tags": {
-        "addr:housename": "Enex100",
         "addr:housenumber": "100",
         "addr:postcode": "6000",
         "addr:street": "St Georges Terrace",
         "building": "yes",
         "building:levels": "4",
-        "name": "Enex100",
-        "shop": "mall"
+        "name": "Enex Perth",
+        "shop": "mall",
+        "website": "https://enexperth.com.au/"
       }
     },
     {
@@ -4622,15 +4721,9 @@
       "x": -31.9546329,
       "y": 115.8576702,
       "tags": {
-        "addr:city": "Perth",
-        "addr:housenumber": "100",
-        "addr:postcode": "6000",
-        "addr:province": "WA",
-        "addr:street": "St Georges Terrace",
         "building": "commercial",
         "building:levels": "24",
-        "building:part": "yes",
-        "name": "enex100"
+        "building:part": "yes"
       }
     }
   ],
@@ -5408,6 +5501,26 @@
       }
     }
   ],
+  "n1646866462": [
+    {
+      "id": "w160191330",
+      "x": -21.1607711,
+      "y": 149.0648011,
+      "tags": {
+        "landuse": "retail",
+        "name": "Walkerston Village",
+        "source": "nearmap"
+      }
+    },
+    {
+      "id": "w194580613",
+      "x": -21.1609044,
+      "y": 149.0651862,
+      "tags": {
+        "building": "yes"
+      }
+    }
+  ],
   "n1670437204": [
     {
       "id": "w502800738",
@@ -5659,7 +5772,7 @@
       "tags": {
         "addr:housenumber": "2-14",
         "addr:postcode": "3037",
-        "addr:state": "Victoria",
+        "addr:state": "VIC",
         "addr:street": "Calder Park Drive",
         "addr:suburb": "Taylors Hill",
         "building": "retail",
@@ -5826,8 +5939,6 @@
       "y": 145.0609091,
       "tags": {
         "building": "retail",
-        "name": "Mill Park Stables",
-        "shop": "mall",
         "source": "bing",
         "type": "multipolygon"
       }
@@ -6032,6 +6143,24 @@
         "building": "yes",
         "building:colour": "darkgray",
         "height": "5.454"
+      }
+    }
+  ],
+  "n1908326060": [
+    {
+      "id": "w180382080",
+      "x": -21.1749681,
+      "y": 149.1509476,
+      "tags": {
+        "landuse": "retail"
+      }
+    },
+    {
+      "id": "w255894981",
+      "x": -21.1752785,
+      "y": 149.151179,
+      "tags": {
+        "building": "yes"
       }
     }
   ],
@@ -6388,6 +6517,16 @@
       }
     }
   ],
+  "n2045302638": [
+    {
+      "id": "w888783564",
+      "x": -33.8221831,
+      "y": 151.1337465,
+      "tags": {
+        "landuse": "retail"
+      }
+    }
+  ],
   "n2045666756": [
     {
       "id": "w11787362",
@@ -6513,20 +6652,19 @@
   ],
   "n2115990806": [
     {
-      "id": "w899073446",
-      "x": -17.8982462,
-      "y": 146.0923368,
-      "tags": {
-        "landuse": "retail",
-        "name": "Cassowary Shopping Village"
-      }
-    },
-    {
       "id": "w1170535268",
       "x": -17.8983478,
       "y": 146.0922705,
       "tags": {
-        "building": "commercial",
+        "building": "commercial"
+      }
+    },
+    {
+      "id": "w1277780817",
+      "x": -17.8986417,
+      "y": 146.0923114,
+      "tags": {
+        "landuse": "retail",
         "name": "Mission Beach Marketplace"
       }
     }
@@ -6722,6 +6860,31 @@
         "landuse": "retail",
         "name": "Village Epsom Shopping Centre",
         "shop": "mall"
+      }
+    }
+  ],
+  "n2162081328": [
+    {
+      "id": "w585923592",
+      "x": -27.4578793,
+      "y": 152.6542036,
+      "tags": {
+        "landuse": "retail",
+        "name": "Fernvale Village",
+        "website": "https://fernvalevillage.com.au/"
+      }
+    },
+    {
+      "id": "w585923593",
+      "x": -27.4578157,
+      "y": 152.6540139,
+      "tags": {
+        "addr:housenumber": "1455",
+        "addr:postcode": "4306",
+        "addr:state": "QLD",
+        "addr:street": "Brisbane Valley Highway",
+        "addr:suburb": "Fernvale",
+        "building": "retail"
       }
     }
   ],
@@ -7007,7 +7170,7 @@
     {
       "id": "w209944895",
       "x": -34.0350684,
-      "y": 151.1005578,
+      "y": 151.1005435,
       "tags": {
         "branch": "Miranda",
         "brand": "Westfield",
@@ -7030,7 +7193,8 @@
       "x": -32.0193314,
       "y": 115.9381466,
       "tags": {
-        "building": "retail"
+        "building": "retail",
+        "layer": "2"
       }
     },
     {
@@ -7165,8 +7329,10 @@
       "y": 115.9168176,
       "tags": {
         "landuse": "retail",
-        "name": "Livingston Marketplace Shopping Centre",
-        "shop": "mall"
+        "name": "Livingston Marketplace",
+        "shop": "mall",
+        "website": "https://www.livingstonmarketplace.com.au/",
+        "website:map": "https://www.livingstonmarketplace.com.au/directions/centre-map"
       }
     },
     {
@@ -7182,10 +7348,7 @@
         "air_conditioning": "yes",
         "building": "retail",
         "building:levels": "1",
-        "name": "Livingston Marketplace",
-        "shop": "mall",
-        "toilets": "yes",
-        "website": "https://www.livingstonmarketplace.com.au/"
+        "toilets": "yes"
       }
     }
   ],
@@ -7596,7 +7759,17 @@
       }
     }
   ],
-  "n2360902304": [],
+  "n2360902304": [
+    {
+      "id": "w542684616",
+      "x": -35.1613942,
+      "y": 149.1390417,
+      "tags": {
+        "landuse": "retail",
+        "source:geometry": "ACTBlocks"
+      }
+    }
+  ],
   "n2363015783": [
     {
       "id": "w327576241",
@@ -7621,8 +7794,8 @@
   "n2377802761": [
     {
       "id": "w173277767",
-      "x": -33.9330496,
-      "y": 150.9494606,
+      "x": -33.9330419,
+      "y": 150.949457,
       "tags": {
         "landuse": "retail",
         "name": "Moorebank Shopping Village",
@@ -7984,6 +8157,57 @@
       }
     }
   ],
+  "n2546432329": [
+    {
+      "id": "w247783257",
+      "x": -21.1473194,
+      "y": 148.9526274,
+      "tags": {
+        "landuse": "retail",
+        "name": "Marian Town Centre"
+      }
+    },
+    {
+      "id": "w331473612",
+      "x": -21.1470627,
+      "y": 148.9517497,
+      "tags": {
+        "building": "commercial",
+        "name": "Marian Town Centre",
+        "smoking": "outside",
+        "website": "https://www.mariantowncentre.com.au/",
+        "website:map": "https://www.mariantowncentre.com.au/centre-plan",
+        "wheelchair": "yes"
+      }
+    }
+  ],
+  "n2579023535": [
+    {
+      "id": "w297301186",
+      "x": -33.7921199,
+      "y": 151.0813849,
+      "tags": {
+        "addr:housenumber": "160",
+        "addr:postcode": "2122",
+        "addr:street": "Rowe Street",
+        "building": "retail",
+        "building:levels": "5",
+        "name": "Eastwood Shopping Centre",
+        "shop": "mall",
+        "website": "https://eastwoodshoppingcentre.com.au/",
+        "website:map": "https://eastwoodshoppingcentre.com.au/map/"
+      }
+    },
+    {
+      "id": "w355060671",
+      "x": -33.7912024,
+      "y": 151.0797173,
+      "tags": {
+        "landuse": "retail",
+        "source": "bing + knowledge"
+      }
+    }
+  ],
   "n2583203053": [
     {
       "id": "w807721939",
@@ -8009,6 +8233,28 @@
       "y": 149.8410358,
       "tags": {
         "building": "retail"
+      }
+    }
+  ],
+  "n2605964831": [
+    {
+      "id": "w151011239",
+      "x": -21.0657039,
+      "y": 149.1606937,
+      "tags": {
+        "building": "commercial"
+      }
+    },
+    {
+      "id": "w194918344",
+      "x": -21.065244,
+      "y": 149.1596113,
+      "tags": {
+        "landuse": "retail",
+        "name": "Northern Beaches Central Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.northernbeachescentral.com.au/",
+        "website:map": "https://www.northernbeachescentral.com.au/centre-directory"
       }
     }
   ],
@@ -8290,7 +8536,7 @@
       "y": 153.3854659,
       "tags": {
         "addr:postcode": "4230",
-        "addr:province": "Queensland",
+        "addr:state": "QLD",
         "addr:street": "Robina Town Centre Drive",
         "building": "retail",
         "internet_access": "wlan",
@@ -8360,20 +8606,21 @@
   ],
   "n2866280635": [
     {
-      "id": "w332670507",
-      "x": -37.7128198,
-      "y": 145.0474314,
-      "tags": {
-        "landuse": "retail",
-        "name": "Polaris Retail Precinct (Larundel)"
-      }
-    },
-    {
       "id": "w332670511",
       "x": -37.7127981,
       "y": 145.0474795,
       "tags": {
         "building": "yes"
+      }
+    },
+    {
+      "id": "r17548347",
+      "x": -37.7128198,
+      "y": 145.0474314,
+      "tags": {
+        "landuse": "retail",
+        "name": "Polaris Retail Precinct (Larundel)",
+        "type": "multipolygon"
       }
     }
   ],
@@ -8501,6 +8748,23 @@
       "tags": {
         "landuse": "retail",
         "source": "bing"
+      }
+    }
+  ],
+  "n2946812694": [
+    {
+      "id": "w51768531",
+      "x": -27.0441015,
+      "y": 153.1369034,
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:state": "QLD",
+        "addr:street": "Sunderland Drive",
+        "addr:suburb": "Banksia Beach",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/bribieharbourshoppingvillage/",
+        "name": "Bribie Harbour Shopping Village",
+        "shop": "mall"
       }
     }
   ],
@@ -8716,7 +8980,7 @@
       "tags": {
         "addr:city": "Leichhardt",
         "addr:postcode": "2040",
-        "addr:province": "NSW",
+        "addr:state": "NSW",
         "addr:street": "Marion Street",
         "building": "retail",
         "layer": "1",
@@ -9344,7 +9608,9 @@
         "building": "yes",
         "layer": "1",
         "name": "Earlville Shopping Town",
-        "shop": "mall"
+        "shop": "mall",
+        "website": "https://earlvilleshoppingtown.com.au/centre-map/",
+        "website:map": "https://earlvilleshoppingtown.com.au/"
       }
     },
     {
@@ -9352,10 +9618,7 @@
       "x": -16.9441546,
       "y": 145.7401268,
       "tags": {
-        "landuse": "retail",
-        "name": "Stockland Cairns",
-        "shop": "mall",
-        "website": "https://shoppingcentres.stockland.com.au/shopping-centres/stockland-cairns"
+        "landuse": "retail"
       }
     }
   ],
@@ -9869,7 +10132,7 @@
         "addr:housenumber": "340",
         "addr:street": "Craigieburn Road",
         "landuse": "retail",
-        "name": "Craigieburn Central Shopping Centre",
+        "name": "Craigieburn Central",
         "shop": "mall",
         "website": "https://www.craigieburncentral.com.au/"
       }
@@ -9991,7 +10254,8 @@
         "landuse": "retail",
         "name": "Stockland Wetherill Park",
         "shop": "mall",
-        "website": "https://www.stockland.com.au/shopping-centres/nsw/stockland-wetherill-park.htm"
+        "website": "https://www.stockland.com.au/shopping-centres/centres/stockland-wetherill-park",
+        "website:map": "https://www.stockland.com.au/shopping-centres/centres/stockland-wetherill-park/visit/centre-map"
       }
     },
     {
@@ -10002,11 +10266,9 @@
         "addr:city": "Wetherill Park",
         "addr:housenumber": "561-583",
         "addr:postcode": "2164",
-        "addr:province": "NSW",
+        "addr:state": "NSW",
         "addr:street": "Polding Street",
-        "building": "yes",
-        "name": "Stockland Wetherill Park Shopping Centre",
-        "shop": "mall"
+        "building": "retail"
       }
     }
   ],
@@ -10025,7 +10287,7 @@
   "n3750531779": [
     {
       "id": "w121671218",
-      "x": -31.8179038,
+      "x": -31.8179172,
       "y": 115.8233402,
       "tags": {
         "building": "yes",
@@ -10257,12 +10519,10 @@
         "addr:housename": "The Hyperdome",
         "addr:postcode": "4129",
         "addr:street": "Pacific Highway",
-        "building": "yes",
+        "building": "retail",
         "changing_table": "yes",
         "changing_table:fee": "no",
         "kids_area": "yes",
-        "name": "Hyperdome",
-        "shop": "mall",
         "toilets": "yes",
         "toilets:access": "yes",
         "toilets:wheelchair": "yes",
@@ -10275,10 +10535,10 @@
       "y": 153.171858,
       "tags": {
         "landuse": "retail",
-        "name": "Logan Hyperdome",
+        "name": "Hyperdome Shopping Centre",
         "shop": "mall",
         "toilets": "yes",
-        "website": "https://www.hyperdomeshopping.com.au/",
+        "website": "https://hyperdomeshopping.qicre.com/",
         "website:map": "https://hyperdomeshopping.qicre.com/Centre-Information/Centre-Map",
         "wheelchair": "yes"
       }
@@ -10370,12 +10630,7 @@
       "x": -34.4466932,
       "y": 150.4382475,
       "tags": {
-        "addr:housenumber": "193-203",
-        "addr:street": "Old Hume Highway",
-        "building": "yes",
-        "name": "Highlands Marketplace",
-        "shop": "mall",
-        "source:addr": "LPI Base Map June 2018"
+        "building": "retail"
       }
     },
     {
@@ -10383,9 +10638,16 @@
       "x": -34.446864,
       "y": 150.4386225,
       "tags": {
+        "addr:housenumber": "197",
+        "addr:postcode": "2575",
+        "addr:state": "NSW",
+        "addr:street": "Old Hume Highway",
+        "addr:suburb": "Mittagong",
         "landuse": "retail",
-        "name": "Mittagong Marketplace",
-        "shop": "mall"
+        "name": "Highlands Marketplace",
+        "shop": "mall",
+        "website": "https://www.highlandsmarketplace.com.au/",
+        "website:map": "https://www.highlandsmarketplace.com.au/shop-guide#store-listing"
       }
     }
   ],
@@ -10449,7 +10711,7 @@
         "addr:city": "Lidcombe",
         "addr:housenumber": "92",
         "addr:postcode": "2141",
-        "addr:province": "NSW",
+        "addr:state": "NSW",
         "addr:street": "Parramatta Road",
         "building": "retail",
         "building:levels": "3"
@@ -10463,7 +10725,7 @@
         "addr:city": "Lidcombe",
         "addr:housenumber": "92",
         "addr:postcode": "2141",
-        "addr:province": "NSW",
+        "addr:state": "NSW",
         "addr:street": "Parramatta Road",
         "landuse": "retail",
         "name": "Lidcombe Shopping Centre",
@@ -11223,10 +11485,18 @@
   "n4394218680": [
     {
       "id": "w376064172",
-      "x": -33.7059587,
-      "y": 150.9114293,
+      "x": -33.7059543,
+      "y": 150.9115071,
       "tags": {
-        "landuse": "retail"
+        "addr:housenumber": "91",
+        "addr:postcode": "2769",
+        "addr:state": "NSW",
+        "addr:street": "The Ponds Boulevard",
+        "addr:suburb": "The Ponds",
+        "landuse": "retail",
+        "name": "The Ponds Shopping Centre",
+        "smoking": "no",
+        "website": "https://www.shopattheponds.com.au/"
       }
     },
     {
@@ -11234,15 +11504,9 @@
       "x": -33.7060662,
       "y": 150.9116826,
       "tags": {
-        "addr:postcode": "2769",
-        "addr:state": "NSW",
-        "addr:street": "cnr The Ponds Boulevard and Riverbank Drive",
-        "addr:suburb": "The Ponds",
         "building": "retail",
         "building:levels": "1",
-        "name": "The Ponds Shopping Centre",
-        "smoking": "no",
-        "website": "https://www.shopattheponds.com.au/"
+        "smoking": "no"
       }
     }
   ],
@@ -11839,6 +12103,31 @@
       }
     }
   ],
+  "n5199558487": [
+    {
+      "id": "w344173721",
+      "x": -27.6635195,
+      "y": 152.8914357,
+      "tags": {
+        "landuse": "retail",
+        "name": "Brookwater Village",
+        "website": "https://www.brookwatervillageshoppingcentre.com.au/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "w344614073",
+      "x": -27.6635388,
+      "y": 152.8916588,
+      "tags": {
+        "addr:city": "Springfield",
+        "addr:housenumber": "2",
+        "addr:postcode": "4300",
+        "addr:street": "Tournament Drive",
+        "building": "retail"
+      }
+    }
+  ],
   "n5219780268": [
     {
       "id": "w494305823",
@@ -12048,11 +12337,29 @@
       }
     }
   ],
+  "n5393335939": [
+    {
+      "id": "w1257047177",
+      "x": -27.6022381,
+      "y": 151.9139295,
+      "tags": {
+        "building": "yes"
+      }
+    },
+    {
+      "id": "w1257047179",
+      "x": -27.6019909,
+      "y": 151.9138004,
+      "tags": {
+        "landuse": "retail"
+      }
+    }
+  ],
   "n5430747733": [
     {
       "id": "w240342049",
       "x": -37.543511,
-      "y": 143.7858931,
+      "y": 143.7859055,
       "tags": {
         "addr:city": "Lucas",
         "addr:housenumber": "6",
@@ -12070,8 +12377,8 @@
     },
     {
       "id": "w1194662010",
-      "x": -37.543966,
-      "y": 143.784643,
+      "x": -37.5439818,
+      "y": 143.7846591,
       "tags": {
         "landuse": "retail"
       }
@@ -12263,16 +12570,16 @@
       "x": -31.9107573,
       "y": 115.8473243,
       "tags": {
+        "addr:housenumber": "6",
+        "addr:postcode": "6060",
+        "addr:state": "WA",
+        "addr:street": "Wanneroo Road",
+        "addr:suburb": "Yokine",
         "landuse": "retail",
-        "name": "Dog Swamp Shopping Centre"
-      }
-    },
-    {
-      "id": "w261596294",
-      "x": -31.9106057,
-      "y": 115.8471113,
-      "tags": {
-        "landuse": "retail"
+        "name": "Dog Swamp Shopping Centre",
+        "shop": "mall",
+        "website": "https://dogswampsc.com.au/",
+        "website:map": "https://dogswampsc.com.au/"
       }
     },
     {
@@ -12288,9 +12595,7 @@
       "x": -31.910623,
       "y": 115.8471478,
       "tags": {
-        "building": "yes",
-        "check_date": "2022-01-19",
-        "source": "microsoft/BuildingFootprints"
+        "building": "retail"
       }
     }
   ],
@@ -12424,6 +12729,16 @@
         "addr:suburb": "Carseldine",
         "landuse": "retail",
         "name": "Carseldine Central"
+      }
+    }
+  ],
+  "n5784049580": [
+    {
+      "id": "w554791441",
+      "x": -33.8379271,
+      "y": 151.2066199,
+      "tags": {
+        "building": "office"
       }
     }
   ],
@@ -12917,7 +13232,7 @@
         "addr:city": "Spring Farm",
         "addr:housenumber": "254",
         "addr:postcode": "2570",
-        "addr:province": "NSW",
+        "addr:state": "NSW",
         "addr:street": "Springs Road",
         "building": "yes",
         "name": "Spring Farm Shopping Centre",
@@ -12932,7 +13247,7 @@
         "addr:city": "Spring Farm",
         "addr:housenumber": "254",
         "addr:postcode": "2570",
-        "addr:province": "NSW",
+        "addr:state": "NSW",
         "addr:street": "Springs Road",
         "landuse": "retail",
         "name": "Spring Farm Shopping Centre",
@@ -13249,7 +13564,9 @@
       "tags": {
         "landuse": "retail",
         "name": "Burwood Brickworks Shopping Centre",
-        "shop": "mall"
+        "shop": "mall",
+        "website": "https://www.burwoodbrickworks.shopping/",
+        "website:map": "https://www.burwoodbrickworks.shopping/Centre-Maps/Centre-Map"
       }
     },
     {
@@ -13257,9 +13574,7 @@
       "x": -37.849148,
       "y": 145.1340452,
       "tags": {
-        "building": "yes",
-        "name": "Burwood Brickworks",
-        "shop": "mall"
+        "building": "retail"
       }
     }
   ],
@@ -13722,6 +14037,16 @@
       }
     }
   ],
+  "n7808386452": [
+    {
+      "id": "w578276703",
+      "x": -35.3596199,
+      "y": 150.4732102,
+      "tags": {
+        "building": "retail"
+      }
+    }
+  ],
   "n7814358092": [
     {
       "id": "w778536090",
@@ -13748,7 +14073,7 @@
         "addr:city": "Maitland",
         "addr:housenumber": "44",
         "addr:postcode": "2320",
-        "addr:province": "New South Wales",
+        "addr:state": "NSW",
         "addr:street": "Elgin Street",
         "building": "retail",
         "name": "Pender Place Shopping Centre",
@@ -14013,8 +14338,15 @@
       "x": -28.822719,
       "y": 153.3279385,
       "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "2480",
+        "addr:state": "NSW",
+        "addr:street": "Simeoni Drive",
+        "addr:suburb": "Goonellabah",
         "building": "yes",
-        "shop": "mall"
+        "shop": "mall",
+        "website": "https://www.goonellabahshoppingcentre.com.au/",
+        "website:map": "https://www.goonellabahshoppingcentre.com.au/centre-plan"
       }
     }
   ],
@@ -14551,6 +14883,31 @@
       }
     }
   ],
+  "n9481772893": [
+    {
+      "id": "w4979682",
+      "x": -31.8444017,
+      "y": 115.8105083,
+      "tags": {
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "landuse": "retail",
+        "name": "Warwick Grove",
+        "phone": "+61 8 9447 4800",
+        "shop": "mall",
+        "website": "https://www.warwickgrove.com.au/",
+        "website:map": "https://www.warwickgrove.com.au/directions/centre-map"
+      }
+    },
+    {
+      "id": "w85932414",
+      "x": -31.8440903,
+      "y": 115.8109087,
+      "tags": {
+        "building": "retail"
+      }
+    }
+  ],
   "n9526576734": [
     {
       "id": "w292027300",
@@ -15008,6 +15365,19 @@
     }
   ],
   "n10241202752": [],
+  "n10243705320": [
+    {
+      "id": "w305373191",
+      "x": -37.7759918,
+      "y": 144.928377,
+      "tags": {
+        "addr:housenumber": "327",
+        "addr:street": "Mount Alexander Road",
+        "building": "apartments",
+        "postal_code": "3032"
+      }
+    }
+  ],
   "n10246046158": [
     {
       "id": "w338241745",
@@ -15096,8 +15466,7 @@
       "x": -37.9745846,
       "y": 145.2049104,
       "tags": {
-        "landuse": "retail",
-        "name": "Woolworths Dandenong Junction"
+        "landuse": "retail"
       }
     },
     {
@@ -15166,6 +15535,17 @@
       }
     }
   ],
+  "n10567429114": [
+    {
+      "id": "w671177342",
+      "x": -37.9738657,
+      "y": 145.0162524,
+      "tags": {
+        "building": "retail",
+        "source": "EsriWorldImagery"
+      }
+    }
+  ],
   "n10568103910": [
     {
       "id": "w112458199",
@@ -15185,7 +15565,7 @@
       "tags": {
         "addr:housenumber": "29-35",
         "addr:postcode": "3023",
-        "addr:state": "Victoria",
+        "addr:state": "VIC",
         "addr:street": "Lake Street",
         "addr:suburb": "Caroline Springs",
         "building": "yes",
@@ -15536,15 +15916,6 @@
   ],
   "n11074264392": [
     {
-      "id": "w430271633",
-      "x": -27.5759577,
-      "y": 153.0258356,
-      "tags": {
-        "landuse": "retail",
-        "name": "Acacia Marketplace"
-      }
-    },
-    {
       "id": "w1154876762",
       "x": -27.5759824,
       "y": 153.0260744,
@@ -15555,6 +15926,16 @@
         "addr:street": "Beaudesert Road",
         "addr:suburb": "Acacia Ridge",
         "building": "commercial"
+      }
+    },
+    {
+      "id": "r17552018",
+      "x": -27.575945,
+      "y": 153.025819,
+      "tags": {
+        "landuse": "retail",
+        "name": "Acacia Marketplace",
+        "type": "multipolygon"
       }
     }
   ],
@@ -15720,6 +16101,20 @@
         "addr:housenumber": "13",
         "addr:street": "Carter Street",
         "building": "apartments"
+      }
+    }
+  ],
+  "n11330383922": [
+    {
+      "id": "w1221666558",
+      "x": -24.8705404,
+      "y": 152.3809861,
+      "tags": {
+        "building": "retail",
+        "name": "Kepnock Town Centre",
+        "note": "Estimated location",
+        "shop": "mall",
+        "website": "https://www.kepnocktowncentre.com.au/"
       }
     }
   ],
@@ -16138,6 +16533,833 @@
       }
     }
   ],
+  "n11861578458": [
+    {
+      "id": "w564840869",
+      "x": -33.8302182,
+      "y": 151.0860794,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Walker Street",
+        "addr:suburb": "Rhodes",
+        "building": "retail",
+        "building:levels": "3",
+        "description": "Shopping centre with Supermarkets and Food Court",
+        "image": "https://rhodescentral.com.au/wp-content/uploads/2021/06/Rhodes-Central-Logo-32.png",
+        "name": "Rhodes Central",
+        "smoking": "separated",
+        "website": "https://rhodescentral.com.au/",
+        "website:map": "https://rhodescentral.com.au/centre-map/"
+      }
+    },
+    {
+      "id": "w1219269860",
+      "x": -33.8301139,
+      "y": 151.0860895,
+      "tags": {
+        "description": "mixed-use landuse",
+        "landuse": "retail"
+      }
+    }
+  ],
+  "n11861587839": [
+    {
+      "id": "w951849160",
+      "x": -34.7734445,
+      "y": 138.7293945,
+      "tags": {
+        "building": "yes",
+        "name": "The Stables Shopping Centre",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:00-17:00; Su 09:00-17:00",
+        "shop": "mall",
+        "source": "microsoft/BuildingFootprints",
+        "toilets": "yes",
+        "website": "https://thestablesshoppingcentre.com.au/"
+      }
+    }
+  ],
+  "n11861587861": [
+    {
+      "id": "w49765101",
+      "x": -34.8947182,
+      "y": 138.5309261,
+      "tags": {
+        "landuse": "retail"
+      }
+    },
+    {
+      "id": "w230675095",
+      "x": -34.8946415,
+      "y": 138.531226,
+      "tags": {
+        "addr:street": "Findon Road",
+        "building": "yes",
+        "name": "Westside Findon",
+        "shop": "mall",
+        "website": "https://westsidefindon.com.au/"
+      }
+    }
+  ],
+  "n11861594858": [
+    {
+      "id": "w1067864525",
+      "x": -32.4478737,
+      "y": 115.7646757,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Redwood Avenue",
+        "building": "yes",
+        "name": "Singleton Village Shopping Centre",
+        "shop": "mall",
+        "source": "microsoft/BuildingFootprints",
+        "website": "https://singletonshopping.com.au/",
+        "website:map": "https://singletonshopping.com.au/wp-content/uploads/2024/02/Singleton-Village-Marketing-Plan-2048x1015.jpg"
+      }
+    }
+  ],
+  "n11861602758": [
+    {
+      "id": "w41447213",
+      "x": -34.8571235,
+      "y": 138.6351881,
+      "tags": {
+        "landuse": "retail",
+        "name": "Northgate Village",
+        "shop": "mall",
+        "website": "https://northgatevillage.com.au/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "id": "w184735279",
+      "x": -34.8569449,
+      "y": 138.6351775,
+      "tags": {
+        "building": "retail"
+      }
+    }
+  ],
+  "n11861607520": [
+    {
+      "id": "w397729616",
+      "x": -34.3740911,
+      "y": 150.8976039,
+      "tags": {
+        "addr:housenumber": "270",
+        "addr:postcode": "2518",
+        "addr:state": "NSW",
+        "addr:street": "Princes Highway",
+        "addr:suburb": "Corrimal",
+        "building": "yes",
+        "landuse": "retail",
+        "layer": "1",
+        "name": "Lederer Corrimal",
+        "old_name": "Stockland Corrimal",
+        "shop": "mall",
+        "source": "survey;local knowledge",
+        "website": "http://lederer1.compcodigital.net/",
+        "website:map": "http://lederer1.compcodigital.net/stores/map"
+      }
+    },
+    {
+      "id": "w771861825",
+      "x": -34.3741683,
+      "y": 150.8976066,
+      "tags": {
+        "landuse": "retail"
+      }
+    }
+  ],
+  "n11861629964": [
+    {
+      "id": "w1198190489",
+      "x": -32.221054,
+      "y": 116.0047218,
+      "tags": {
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/ByfordMarketPlace/",
+        "name": "Byford Market Place",
+        "shop": "mall"
+      }
+    }
+  ],
+  "n11861629986": [
+    {
+      "id": "w1015841963",
+      "x": -27.8777314,
+      "y": 153.3644075,
+      "tags": {
+        "addr:housenumber": "99-103",
+        "addr:postcode": "4212",
+        "addr:state": "QLD",
+        "addr:street": "Broadwater Avenue",
+        "addr:suburb": "Hope Island",
+        "building": "yes",
+        "name": "Hope Island Marketplace",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
+        "shop": "mall",
+        "website": "https://hopeislandmarketplace.com.au/",
+        "website:map": "https://hopeislandmarketplace.com.au/store-directory/"
+      }
+    },
+    {
+      "id": "w1277762266",
+      "x": -27.8776146,
+      "y": 153.3639542,
+      "tags": {
+        "landuse": "retail"
+      }
+    }
+  ],
+  "n11861648350": [
+    {
+      "id": "w89940988",
+      "x": -34.0386884,
+      "y": 151.1427227,
+      "tags": {
+        "addr:housenumber": "453A",
+        "addr:street": "Captain Cook Drive",
+        "landuse": "retail",
+        "name": "Bay Central",
+        "shop": "mall",
+        "website": "https://www.baycentralwoolooware.com.au/"
+      }
+    }
+  ],
+  "n11861653791": [
+    {
+      "id": "w355855539",
+      "x": -31.8465357,
+      "y": 115.9068736,
+      "tags": {
+        "building": "yes",
+        "name": "Glenview Shopping Centre",
+        "shop": "supermarket"
+      }
+    }
+  ],
+  "n11861656908": [
+    {
+      "id": "w509141132",
+      "x": -32.5210015,
+      "y": 115.7526498,
+      "tags": {
+        "building": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "id": "w556111909",
+      "x": -32.5192612,
+      "y": 115.752798,
+      "tags": {
+        "landuse": "retail"
+      }
+    }
+  ],
+  "n11861660234": [
+    {
+      "id": "w1040993805",
+      "x": -31.8893334,
+      "y": 115.8205775,
+      "tags": {
+        "addr:housenumber": "732",
+        "addr:street": "Karrinyup Road",
+        "building": "yes",
+        "name": "Roselea Shopping Centre",
+        "shop": "mall",
+        "website": "https://roseleashoppingcentre.com.au/",
+        "website:map": "https://roseleashoppingcentre.com.au/store-directory/"
+      }
+    }
+  ],
+  "n11861672210": [
+    {
+      "id": "w40095332",
+      "x": -31.8903838,
+      "y": 116.0021366,
+      "tags": {
+        "addr:postcode": "6056",
+        "addr:state": "WA",
+        "addr:street": "Great Eastern Highway",
+        "addr:suburb": "Midland",
+        "building": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "id": "w132963740",
+      "x": -31.8904243,
+      "y": 116.0014227,
+      "tags": {
+        "landuse": "retail",
+        "name": "Centrepoint Midland Shopping Centre",
+        "shop": "mall",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.centrepointshoppingcentre.com.au/",
+        "website:map": "https://www.centrepointshoppingcentre.com.au/stores",
+        "wheelchair": "limited"
+      }
+    }
+  ],
+  "n11861673561": [
+    {
+      "id": "w492250929",
+      "x": -33.3981649,
+      "y": 115.6347008,
+      "tags": {
+        "building": "yes",
+        "name": "Dalyellup Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.dalyellupshoppingcentre.com.au/"
+      }
+    }
+  ],
+  "n11861697941": [
+    {
+      "id": "w42341691",
+      "x": -27.5617487,
+      "y": 151.9498201,
+      "tags": {
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Grand Central Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.grandcentralshopping.com.au/",
+        "wikidata": "Q5594415",
+        "wikipedia": "en:Grand Central Shopping Centre"
+      }
+    }
+  ],
+  "n11861738585": [
+    {
+      "id": "w27749359",
+      "x": -42.9764974,
+      "y": 147.3098495,
+      "tags": {
+        "addr:housenumber": "29",
+        "addr:postcode": "7050",
+        "addr:state": "TAS",
+        "addr:street": "Channel Highway",
+        "addr:suburb": "Kingston",
+        "changing_table": "yes",
+        "landuse": "retail",
+        "name": "Channel Court Shopping Centre",
+        "opening_hours:signed": "no",
+        "shop": "mall",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.channelcourt.com.au/",
+        "website:map": "https://www.channelcourt.com.au/visit/channel-court-centre-map/",
+        "wheelchair": "yes",
+        "wikidata": "Q5072387"
+      }
+    },
+    {
+      "id": "w220966956",
+      "x": -42.9764411,
+      "y": 147.3090373,
+      "tags": {
+        "building": "retail",
+        "layer": "-1",
+        "location": "surface"
+      }
+    }
+  ],
+  "n11861747851": [
+    {
+      "id": "w622590482",
+      "x": -27.6117374,
+      "y": 153.3021829,
+      "tags": {
+        "landuse": "retail",
+        "name": "Redland Bay Shopping Village",
+        "shop": "mall",
+        "website": "https://redlandbayshoppingvillage.com.au/",
+        "website:map": "https://redlandbayshoppingvillage.com.au/centre-map/"
+      }
+    },
+    {
+      "id": "w1277774713",
+      "x": -27.6121462,
+      "y": 153.3022021,
+      "tags": {
+        "building": "retail",
+        "layer": "1"
+      }
+    }
+  ],
+  "n11861751246": [
+    {
+      "id": "w824424180",
+      "x": -31.6365046,
+      "y": 115.6993968,
+      "tags": {
+        "addr:housenumber": "175",
+        "addr:street": "Butler Boulevard",
+        "building": "yes",
+        "layer": "1",
+        "name": "Butler Central",
+        "shop": "mall",
+        "website": "https://www.butlercentral.com.au/",
+        "website:map": "https://www.butlercentral.com.au/shop-guide"
+      }
+    },
+    {
+      "id": "w835243745",
+      "x": -31.6374661,
+      "y": 115.6957488,
+      "tags": {
+        "landuse": "retail",
+        "name": "Butler Homemaker Centre"
+      }
+    }
+  ],
+  "n11861788588": [
+    {
+      "id": "w26561713",
+      "x": -34.4864835,
+      "y": 150.8898775,
+      "tags": {
+        "landuse": "retail",
+        "name": "Warrawong Plaza",
+        "shop": "mall",
+        "website": "https://warrawongplaza.com.au/",
+        "website:map": "https://warrawongplaza.com.au/wp-content/uploads/2022/09/Map-3-2.png"
+      }
+    },
+    {
+      "id": "w142733190",
+      "x": -34.4863601,
+      "y": 150.88959,
+      "tags": {
+        "addr:postcode": "2502",
+        "addr:suburb": "Warrawong",
+        "building": "retail"
+      }
+    }
+  ],
+  "n11861796046": [
+    {
+      "id": "w25498681",
+      "x": -31.8625479,
+      "y": 115.8292427,
+      "tags": {
+        "building": "yes",
+        "name": "Stirling Central Shopping Centre",
+        "phone": "+61 8 9246 1043",
+        "shop": "mall",
+        "website": "https://www.stirlingcentral.com.au/",
+        "website:map": "https://www.stirlingcentral.com.au/wp-content/uploads/2024/02/CENTRE-DIRECTORY-31.01.2024-HR-scaled.jpg"
+      }
+    }
+  ],
+  "n11861804173": [
+    {
+      "id": "w9888502",
+      "x": -31.9380012,
+      "y": 115.7933425,
+      "tags": {
+        "addr:city": "Floreat",
+        "addr:country": "AU",
+        "addr:postcode": "6014",
+        "addr:state": "WA",
+        "addr:street": "Howtree Place",
+        "addr:suburb": "Floreat",
+        "check_date": "2024-01-24",
+        "landuse": "retail",
+        "name": "Floreat Forum",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+        "phone": "+61 8 9387 4722",
+        "shop": "mall",
+        "website": "https://www.floreatforum.com.au/",
+        "website:map": "https://www.floreatforum.com.au/wp-content/uploads/2024/04/FLOR0215_Centre-Directory_APRIL24_WEB-scaled.jpg"
+      }
+    }
+  ],
+  "n11861949375": [
+    {
+      "id": "w684555820",
+      "x": -31.8592032,
+      "y": 115.9259927,
+      "tags": {
+        "building": "retail",
+        "name": "Springs Shopping Centre"
+      }
+    },
+    {
+      "id": "r17530950",
+      "x": -31.8589106,
+      "y": 115.9257582,
+      "tags": {
+        "landuse": "retail",
+        "name": "Springs Shopping Centre",
+        "type": "multipolygon",
+        "website": "https://springscentre.com.au/",
+        "website:map": "https://springscentre.com.au/centre-info/#map"
+      }
+    }
+  ],
+  "n11861982374": [
+    {
+      "id": "w4848995",
+      "x": -16.9248914,
+      "y": 145.7721833,
+      "tags": {
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Cairns Central",
+        "opening_hours": "Mo-We,Fr,Sa 09:00-17:30; Th 09:00-21:00; Su 10:30-16:00",
+        "roof:colour": "green",
+        "shop": "mall",
+        "website": "https://www.cairnscentral.com.au/",
+        "website:map": "https://cairnscentral.com.au/centre-map/"
+      }
+    }
+  ],
+  "n11861985480": [
+    {
+      "id": "w1277796748",
+      "x": -19.3636992,
+      "y": 146.7307938,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/Riverwayplaza/",
+        "landuse": "retail",
+        "name": "Riverway Plaza",
+        "shop": "mall"
+      }
+    },
+    {
+      "id": "w1277796749",
+      "x": -19.3634621,
+      "y": 146.7306053,
+      "tags": {
+        "building": "retail"
+      }
+    }
+  ],
+  "n11861989155": [
+    {
+      "id": "w391520763",
+      "x": -27.2446791,
+      "y": 153.1079262,
+      "tags": {
+        "addr:housenumber": "270",
+        "addr:postcode": "4019",
+        "addr:state": "QLD",
+        "addr:street": "Oxley Avenue",
+        "addr:suburb": "Margate",
+        "building": "retail",
+        "name": "Margate Village Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.margatevillage.com.au/",
+        "website:map": "https://www.retailfirst.com.au/wp-content/uploads/2024/04/836RET-Margate-Village-Profile-2024-04-v30.pdf"
+      }
+    },
+    {
+      "id": "w713824168",
+      "x": -27.2432269,
+      "y": 153.1075919,
+      "tags": {
+        "landuse": "retail"
+      }
+    }
+  ],
+  "n11861998389": [
+    {
+      "id": "w192825530",
+      "x": -34.8095783,
+      "y": 138.6855026,
+      "tags": {
+        "addr:housenumber": "172",
+        "addr:street": "Ladywood Road",
+        "building": "yes",
+        "name": "Modbury Heights Shopping Centre",
+        "shop": "mall",
+        "source": "bing"
+      }
+    }
+  ],
+  "n11862005933": [
+    {
+      "id": "w1277804514",
+      "x": -27.0900835,
+      "y": 152.926788,
+      "tags": {
+        "addr:housenumber": "96",
+        "addr:postcode": "4510",
+        "addr:state": "QLD",
+        "addr:street": "Bellmere Road",
+        "addr:suburb": "Bellmere",
+        "landuse": "retail",
+        "name": "Warbu Bellmere Shopping Village",
+        "website": "https://warbubellmereshoppingvillage.com.au/"
+      }
+    },
+    {
+      "id": "w1277804515",
+      "x": -27.0904015,
+      "y": 152.9268783,
+      "tags": {
+        "building": "retail"
+      }
+    }
+  ],
+  "n11862006321": [
+    {
+      "id": "w215501268",
+      "x": -19.2869521,
+      "y": 146.7617473,
+      "tags": {
+        "building": "retail",
+        "name": "Vincent Shopping Centre",
+        "source": "bing"
+      }
+    }
+  ],
+  "n11862007063": [
+    {
+      "id": "w660119743",
+      "x": -32.2630919,
+      "y": 115.8160583,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "The Strand",
+        "addr:suburb": "Wellard",
+        "building": "retail"
+      }
+    },
+    {
+      "id": "w1277800841",
+      "x": -32.2630327,
+      "y": 115.8160787,
+      "tags": {
+        "landuse": "retail",
+        "name": "Wellard Square",
+        "shop": "mall",
+        "website": "https://wellardsquare.com.au/"
+      }
+    }
+  ],
+  "n11862027426": [
+    {
+      "id": "w581723967",
+      "x": -19.3036804,
+      "y": 146.7417334,
+      "tags": {
+        "addr:housenumber": "148",
+        "addr:state": "QLD",
+        "addr:street": "Bamford Lane",
+        "addr:suburb": "Kirwan",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/ParksidePlazaKirwanBamfordLane/",
+        "name": "Parkside Plaza",
+        "shop": "mall"
+      }
+    }
+  ],
+  "n11862028676": [
+    {
+      "id": "w656881841",
+      "x": -27.5241326,
+      "y": 153.0125122,
+      "tags": {
+        "area": "yes",
+        "landuse": "retail",
+        "name": "Yeerongpilly Green Riverside Village",
+        "website": "https://www.ygriverside.com.au/village/"
+      }
+    }
+  ],
+  "n11862049490": [
+    {
+      "id": "w532084522",
+      "x": -33.7877613,
+      "y": 150.9493006,
+      "tags": {
+        "landuse": "retail",
+        "name": "Portico Plaza Shopping Centre",
+        "shop": "mall",
+        "website": "https://porticoplaza.com.au/",
+        "website:map": "https://porticoplaza.com.au/store-map/",
+        "wheelchair": "yes"
+      }
+    }
+  ],
+  "n11862055220": [
+    {
+      "id": "w25092602",
+      "x": -32.3140886,
+      "y": 115.7535172,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/waikikivillageshoppingcentre",
+        "landuse": "retail",
+        "name": "Waikiki Village Shopping Centre",
+        "shop": "mall"
+      }
+    },
+    {
+      "id": "w1277806796",
+      "x": -32.31358,
+      "y": 115.7533768,
+      "tags": {
+        "building": "retail"
+      }
+    }
+  ],
+  "n11862061525": [
+    {
+      "id": "w25739550",
+      "x": -34.4364351,
+      "y": 150.8630145,
+      "tags": {
+        "landuse": "retail"
+      }
+    },
+    {
+      "id": "w52082269",
+      "x": -34.4360346,
+      "y": 150.8632121,
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "name": "Figtree Grove",
+        "shop": "mall",
+        "website": "https://figtreegrove.com.au/",
+        "website:map": "https://figtreegrove.com.au/find-stores/"
+      }
+    }
+  ],
+  "n11862064985": [
+    {
+      "id": "w249136133",
+      "x": -32.584356,
+      "y": 115.6613483,
+      "tags": {
+        "building": "yes",
+        "name": "Miami Plaza Shopping centre",
+        "shop": "mall",
+        "website": "https://www.miamiplazasc.com.au/",
+        "website:map": "https://www.miamiplazasc.com.au/all-stores-1"
+      }
+    }
+  ],
+  "n11862077354": [
+    {
+      "id": "w25354490",
+      "x": -34.8102518,
+      "y": 138.6532328,
+      "tags": {
+        "addr:housenumber": "1a",
+        "addr:street": "Wilkinson Road",
+        "addr:suburb": "Para Hills",
+        "building": "retail",
+        "landuse": "retail",
+        "name": "Para Hills Shopping Centre",
+        "shop": "mall"
+      }
+    }
+  ],
+  "n11862084962": [
+    {
+      "id": "w164434859",
+      "x": -23.9475336,
+      "y": 151.3532465,
+      "tags": {
+        "building": "yes",
+        "name": "Boyne Plaza",
+        "shop": "mall"
+      }
+    }
+  ],
+  "n11862112540": [
+    {
+      "id": "w365786811",
+      "x": -33.8869124,
+      "y": 150.8488471,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "2171",
+        "addr:state": "NSW",
+        "addr:street": "Lancaster Avenue",
+        "addr:suburb": "Cecil Hills",
+        "building": "retail"
+      }
+    },
+    {
+      "id": "w365786866",
+      "x": -33.8868264,
+      "y": 150.8488243,
+      "tags": {
+        "landuse": "retail",
+        "name": "Cecil Hills Shopping Village",
+        "shop": "mall",
+        "website": "https://cecil-village.edan.io/"
+      }
+    }
+  ],
+  "n11862126589": [
+    {
+      "id": "w500674597",
+      "x": -28.1063122,
+      "y": 153.4051037,
+      "tags": {
+        "building": "retail",
+        "name": "Reedy Creek Shopping Centre",
+        "shop": "mall"
+      }
+    }
+  ],
+  "n11862153338": [
+    {
+      "id": "w69709319",
+      "x": -31.9212844,
+      "y": 115.8394728,
+      "tags": {
+        "building": "retail",
+        "building:levels": "2",
+        "landuse": "retail",
+        "name": "Hawaiian's The Mezz",
+        "roof:levels": "0",
+        "shop": "mall",
+        "website": "https://www.hawaiian.com.au/the-mezz/"
+      }
+    }
+  ],
+  "n11862154384": [
+    {
+      "id": "w130578599",
+      "x": -31.8704275,
+      "y": 115.9458484,
+      "tags": {
+        "building": "yes",
+        "name": "Altone Park Shopping Centre",
+        "shop": "mall",
+        "website": "https://altonepark.com.au/",
+        "website:map": "https://altonepark.com.au/stores/"
+      }
+    },
+    {
+      "id": "w130649203",
+      "x": -31.8705034,
+      "y": 115.9457049,
+      "tags": {
+        "landuse": "retail"
+      }
+    }
+  ],
+  "n11862159585": [
+    {
+      "id": "w1100979072",
+      "x": -33.8324159,
+      "y": 151.0133659,
+      "tags": {
+        "building": "apartments",
+        "name": "Granville Place",
+        "website": "https://granvilleplace.com.au/"
+      }
+    }
+  ],
   "r9389462": [
     {
       "id": "w676135374",
@@ -16196,7 +17418,6 @@
         "addr:street": "Rode Road",
         "brand": "Woolworths Metro",
         "brand:wikidata": "Q111772555",
-        "brand:wikipedia": "en:Coles Supermarkets",
         "building": "yes",
         "name": "Woolworths Metro",
         "operator": "Woolworths Group",
@@ -16342,13 +17563,20 @@
       "x": -37.7677535,
       "y": 144.9214136,
       "tags": {
+        "addr:housenumber": "13",
+        "addr:postcode": "3039",
+        "addr:state": "VIC",
+        "addr:street": "Pratt Street",
+        "addr:suburb": "Moonee Ponds",
         "brand": "Woolworths",
         "brand:wikidata": "Q3249145",
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "building": "yes",
         "name": "Woolworths",
+        "opening_hours": "Mo-Su 07:00-23:00",
         "operator": "Woolworths Group",
         "operator:wikidata": "Q607272",
+        "phone": "+61 03 8347 6569",
         "shop": "supermarket",
         "source": "nearmap",
         "source:name": "survey"
@@ -17468,8 +18696,8 @@
   "w108178136": [
     {
       "id": "w24853578",
-      "x": -37.8838401,
-      "y": 145.2758392,
+      "x": -37.8838642,
+      "y": 145.2758482,
       "tags": {
         "landuse": "retail",
         "name": "Mountain Gate Shopping Centre",
@@ -18301,7 +19529,7 @@
     {
       "id": "w351040240",
       "x": -36.3540134,
-      "y": 146.3236959,
+      "y": 146.3236855,
       "tags": {
         "landuse": "retail"
       }
@@ -18815,7 +20043,7 @@
       "tags": {
         "addr:housenumber": "76",
         "addr:postcode": "5165",
-        "addr:province": "SA",
+        "addr:state": "SA",
         "addr:street": "Beach Road",
         "addr:suburb": "Christies Beach",
         "brand": "Woolworths",
@@ -19073,13 +20301,13 @@
         "addr:housenumber": "21-23",
         "addr:postcode": "2042",
         "addr:street": "Erskineville Road",
-        "brand": "Woolworths",
-        "brand:wikidata": "Q3249145",
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "building": "yes",
         "building:levels": "1",
         "full_name": "Woolworths Metro Erskineville",
-        "name": "Woolworths",
+        "name": "Woolworths Metro",
         "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-22:00",
         "operator": "Woolworths Group",
         "operator:wikidata": "Q607272",
@@ -19574,6 +20802,8 @@
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "building": "yes",
         "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket",
         "website": "https://www.woolworths.com.au/"
       }
@@ -19889,7 +21119,7 @@
       "y": 147.5313719,
       "tags": {
         "addr:city": "Temora",
-        "addr:housenumber": "104/110",
+        "addr:housenumber": "104-110",
         "addr:postcode": "2666",
         "addr:street": "Hoskins Street",
         "brand": "Woolworths",
@@ -20463,7 +21693,7 @@
     {
       "id": "w207664231",
       "x": -33.7955093,
-      "y": 151.1840302,
+      "y": 151.1840658,
       "tags": {
         "landuse": "retail",
         "source": "knowledge"
@@ -20598,6 +21828,8 @@
       "x": -23.8955872,
       "y": 151.2456476,
       "tags": {
+        "addr:street": "Kirkwood Road",
+        "addr:suburb": "Kirkwood",
         "branch": "Kirkwood",
         "brand": "Woolworths",
         "brand:wikidata": "Q3249145",
@@ -21008,7 +22240,7 @@
   "w567779730": [
     {
       "id": "w9308623",
-      "x": -27.4995411,
+      "x": -27.4995078,
       "y": 152.9729256,
       "tags": {
         "landuse": "retail"
@@ -21016,7 +22248,7 @@
     },
     {
       "id": "w301724993",
-      "x": -27.4995913,
+      "x": -27.499587,
       "y": 152.9729524,
       "tags": {
         "addr:city": "Brisbane",
@@ -21030,6 +22262,7 @@
         "layer": "1",
         "name": "Indooroopilly Shopping Centre",
         "opening_hours": "Mo-We,Fr 09:00-17:30; Th 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
+        "roof:shape": "many",
         "shop": "mall",
         "smoking": "outside",
         "toilets": "yes",
@@ -21212,12 +22445,9 @@
       "x": -33.9067684,
       "y": 151.1718585,
       "tags": {
-        "addr:city": "Marrickville",
         "building": "retail",
         "building:levels": "1",
         "location": "roof",
-        "name": "Marrickville Metro",
-        "shop": "mall",
         "toilets": "yes"
       }
     },
@@ -21226,11 +22456,13 @@
       "x": -33.9071244,
       "y": 151.1716954,
       "tags": {
+        "addr:city": "Marrickville",
         "landuse": "retail",
         "name": "Marrickville Metro",
         "shop": "mall",
         "toilets": "yes",
-        "website": "https://www.marrickvillemetro.com.au/"
+        "website": "https://www.marrickvillemetro.com.au/",
+        "website:map": "https://www.marrickvillemetro.com.au/centre-info/centre-map"
       }
     }
   ],
@@ -21585,6 +22817,22 @@
       }
     }
   ],
+  "w828431500": [
+    {
+      "id": "w828431500",
+      "x": -33.8611528,
+      "y": 151.1712275,
+      "tags": {
+        "brand": "Woolworths Metro",
+        "brand:wikidata": "Q111772555",
+        "building": "retail",
+        "name": "Woolworths Metro",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    }
+  ],
   "w835224325": [
     {
       "id": "w25322542",
@@ -21701,6 +22949,7 @@
         "building:colour": "black",
         "building:levels": "3",
         "building:material": "glass",
+        "fare_gates": "yes",
         "height": "25 m",
         "internet_access": "wlan",
         "layer": "1",
@@ -22365,7 +23614,7 @@
         "addr:state": "VIC",
         "addr:street": "Doncaster Road",
         "addr:suburb": "Doncaster East",
-        "branch": "Doncaster",
+        "branch": "Doncaster East",
         "brand": "Woolworths",
         "brand:wikidata": "Q3249145",
         "building": "yes",
@@ -22386,6 +23635,23 @@
       }
     }
   ],
+  "w1188874629": [
+    {
+      "id": "w1188874629",
+      "x": -37.5347675,
+      "y": 144.9605796,
+      "tags": {
+        "branch": "Kalllo Towncentre",
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "building": "yes",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    }
+  ],
   "w1223391922": [
     {
       "id": "w191179054",
@@ -22394,7 +23660,7 @@
       "tags": {
         "addr:housenumber": "91",
         "addr:postcode": "4370",
-        "addr:state": "Queensland",
+        "addr:state": "QLD",
         "addr:street": "Palmerin Street",
         "addr:suburb": "Warwick",
         "building": "retail",
@@ -22518,6 +23784,8 @@
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "building": "yes",
         "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket",
         "source": "local_knowledge;microsoft/BuildingFootprints",
         "website": "https://www.woolworths.com.au/",
@@ -22576,6 +23844,22 @@
         "parking": "underground",
         "shop": "mall",
         "website": "https://www.glenrosevillage.com.au/"
+      }
+    }
+  ],
+  "w1277807885": [
+    {
+      "id": "w1277807885",
+      "x": -17.0874799,
+      "y": 145.7741822,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "building": "yes",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
       }
     }
   ]

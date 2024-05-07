@@ -1,3 +1,4 @@
+use std::fmt;
 use std::sync::OnceLock;
 
 use indicatif::ProgressStyle;
@@ -17,4 +18,22 @@ pub fn agent() -> Agent {
 pub fn progress_style() -> ProgressStyle {
     ProgressStyle::with_template("{percent}% {human_pos}/{human_len} {per_sec} ({eta_precise})")
         .expect("hardcoded")
+}
+
+pub fn title_case(s: &str) -> String {
+    let mut should_caps: bool = true;
+    let mut new = String::new();
+    for x in s.chars() {
+        let x = if should_caps {
+            should_caps = false;
+            x
+        } else {
+            if x == ' ' {
+                should_caps = true;
+            }
+            x.to_ascii_lowercase()
+        };
+        new.push(x);
+    }
+    new
 }

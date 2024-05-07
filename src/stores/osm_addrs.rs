@@ -9,7 +9,6 @@ use anyhow::{bail, Result};
 use indicatif::ProgressBar;
 use itertools::Itertools;
 use serde::Deserialize;
-use serde_json::Value;
 use ureq::Agent;
 
 use crate::{
@@ -19,12 +18,9 @@ use crate::{
 
 use super::models::StoreId;
 
-pub fn load(
-    vendor: Vendor,
-    osm_ids: &BTreeMap<StoreId, OsmId>,
-) -> Result<BTreeMap<OsmId, Address>> {
+pub fn load(vendor: Vendor, osm_ids: &BTreeMap<StoreId, OsmId>) -> Result<BTreeMap<OsmId, String>> {
     let raw_path = PathBuf::from(format!("data/stores/osm-addrs-{}.json", vendor.slug()));
-    let mut raw: BTreeMap<OsmId, Value> = if raw_path.exists() {
+    let mut raw: BTreeMap<OsmId, BTreeMap<String, String>> = if raw_path.exists() {
         serde_json::from_str(&read_to_string(&raw_path)?)?
     } else {
         BTreeMap::new()
@@ -41,7 +37,7 @@ pub fn load(
         let agent = Agent::new();
 
         eprintln!(
-            "Fetching addresses for {} {vendor} stores...",
+            "Fetching OSM addresses for {} {vendor} stores...",
             missing.len()
         );
         let pb = ProgressBar::new(missing.len() as u64).with_style(progress_style());
@@ -66,46 +62,37 @@ pub fn load(
 
     let mut output = BTreeMap::new();
     for (osm, addr) in raw {
-        let addr: RawAddress = serde_json::from_value(addr)?;
+        let mut name = String::new();
+        for k in ["village", "town", "district", "city"] {
+            if let Some(v) = addr.get(k) {
+                if !name.is_empty() {
+                    name.push(',');
+                    name.push(' ');
+                }
 
-        let state = match addr.state_code.as_str() {
-            "AU-ACT" => State::ACT,
-            "AU-NSW" => State::NSW,
-            "AU-NT" => State::NT,
-            "AU-QLD" => State::QLD,
-            "AU-SA" => State::SA,
-            "AU-TAS" => State::TAS,
-            "AU-VIC" => State::VIC,
-            "AU-WA" => State::WA,
-            x => bail!("Unknown state code: {x}"),
-        };
-
-        if let Some(x) = &addr.postcode {
-            let _: u32 = x.parse()?;
-            if x.len() != 4 {
-                bail!("invalid postcode: {x}");
+                name.push_str(
+                    match v
+                        .trim_end_matches(" City Council")
+                        .trim_start_matches("District of ")
+                    {
+                        "Greater Brisbane" => "Brisbane",
+                        "Gold Coast City" => "Gold Coast",
+                        "Sunshine Coast Regional" => "Sunshine Coast",
+                        x => x,
+                    },
+                )
             }
         }
+        output.insert(osm, name);
 
-        let town = addr
-            .town
-            .map(|x| x.trim_start_matches("District of ").to_string());
-        let city = addr.city.map(|x| {
-            x.trim_end_matches(" Council")
-                .trim_end_matches(" City")
-                .to_string()
-        });
-
-        output.insert(
-            osm,
-            Address {
-                state,
-                postcode: addr.postcode,
-                suburb: addr.suburb,
-                town,
-                city,
-            },
-        );
+        // let town = addr
+        //     .town
+        //     .map(|x| x.trim_start_matches("District of ").to_string());
+        // let city = addr.city.map(|x| {
+        //     x.trim_end_matches(" Council")
+        //         .trim_end_matches(" City")
+        //         .to_string()
+        // });
     }
 
     Ok(output)
@@ -115,7 +102,7 @@ pub fn load(
 struct Geocoding {
     osm_type: OsmType,
     osm_id: u64,
-    address: Value,
+    address: BTreeMap<String, String>,
 }
 
 impl Geocoding {
@@ -136,50 +123,34 @@ enum OsmType {
     Relation,
 }
 
-// ignoring for now:
-// - house numbers: less than half have one
-// - roads: lots of parking aisle, bus stop, drive through names
-#[derive(Debug, Deserialize)]
-struct RawAddress {
-    #[serde(rename = "ISO3166-2-lvl4")]
-    state_code: String,
-    postcode: Option<String>,
-    suburb: Option<String>,
-    town: Option<String>,
-    city: Option<String>,
+#[derive(Deserialize)]
+pub struct OSMAddress {
+    pub road: Option<String>,
 }
 
-pub struct Address {
-    state: State,
-    postcode: Option<String>,
-    suburb: Option<String>,
-    town: Option<String>,
-    city: Option<String>,
-}
+// #[derive(Debug)]
+// pub enum State {
+//     NSW,
+//     VIC,
+//     QLD,
+//     SA,
+//     WA,
+//     TAS,
+//     NT,
+//     ACT,
+// }
 
-#[derive(Debug)]
-pub enum State {
-    NSW,
-    VIC,
-    QLD,
-    SA,
-    WA,
-    TAS,
-    NT,
-    ACT,
-}
-
-impl fmt::Display for State {
-    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
-        match self {
-            Self::NSW => write!(f, "NSW"),
-            Self::VIC => write!(f, "VIC"),
-            Self::QLD => write!(f, "QLD"),
-            Self::SA => write!(f, "SA"),
-            Self::WA => write!(f, "WA"),
-            Self::TAS => write!(f, "TAS"),
-            Self::NT => write!(f, "NT"),
-            Self::ACT => write!(f, "ACT"),
-        }
-    }
-}
+// impl fmt::Display for State {
+//     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+//         match self {
+//             Self::NSW => write!(f, "NSW"),
+//             Self::VIC => write!(f, "VIC"),
+//             Self::QLD => write!(f, "QLD"),
+//             Self::SA => write!(f, "SA"),
+//             Self::WA => write!(f, "WA"),
+//             Self::TAS => write!(f, "TAS"),
+//             Self::NT => write!(f, "NT"),
+//             Self::ACT => write!(f, "ACT"),
+//         }
+//     }
+// }

@@ -102,7 +102,7 @@
     {
       "id": "w207664231",
       "x": -33.7955093,
-      "y": 151.1840302,
+      "y": 151.1840658,
       "tags": {
         "landuse": "retail",
         "source": "knowledge"
@@ -934,7 +934,6 @@
       "tags": {
         "building": "retail",
         "building:levels": "1",
-        "name": "Hertiage Springs Shopping Centre",
         "toilets": "yes",
         "wheelchair": "yes"
       }
@@ -945,9 +944,9 @@
       "y": 145.471355,
       "tags": {
         "landuse": "retail",
-        "name": "Heritage Springs Shopping Village",
+        "name": "The Heritage Shopping Centre",
         "shop": "mall",
-        "website": "www.heritagespringsshoppingvillage.com.au/"
+        "website": "https://theheritagesc.com.au/"
       }
     }
   ],
@@ -1456,6 +1455,7 @@
         "building": "retail",
         "building:levels": "1",
         "name": "Coles Mall Village Green",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
         "shop": "mall"
       }
     },
@@ -1667,10 +1667,12 @@
         "addr:street": "Risdon Road",
         "addr:suburb": "New Town",
         "landuse": "retail",
-        "name": "Centro New Town",
-        "opening_hours": "24/7",
+        "name": "New Town Plaza",
+        "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-20:00; Sa 09:00-17:00; Su 10:00-16:00",
+        "phone": "+61 3 6220 6999",
         "shop": "mall",
-        "toilets": "yes"
+        "toilets": "yes",
+        "website": "https://www.newtownplaza.com.au/"
       }
     },
     {
@@ -1678,20 +1680,7 @@
       "x": -42.8559596,
       "y": 147.3057074,
       "tags": {
-        "addr:housenumber": "1",
-        "addr:postcode": "7008",
-        "addr:state": "TAS",
-        "addr:street": "Risdon Road",
-        "addr:suburb": "New Town",
-        "building": "retail",
-        "name": "New Town Plaza",
-        "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-20:00; Sa 09:00-17:00; Su 10:00-16:00",
-        "phone": "+61 3 6220 6999",
-        "shop": "mall",
-        "source:name": "data.gov.au",
-        "source_ref:name": "http://data.gov.au/dataset/36f1ca48-ed2d-4a58-a15b-6fb4b97fdbd7",
-        "toilets": "yes",
-        "website": "https://www.newtownplaza.com.au/"
+        "building": "retail"
       }
     }
   ],
@@ -2945,7 +2934,9 @@
         "opening_hours": "Mo-We,Fr 09:00-17:30; Th 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00",
         "operator": "QIC Global Real Estate",
         "shop": "mall",
+        "toilets:wheelchair": "yes",
         "website": "https://www.castletowers.com.au",
+        "wheelchair": "yes",
         "wikidata": "Q5050315",
         "wikipedia": "en:Castle Towers"
       }
@@ -3008,7 +2999,7 @@
     {
       "id": "w48570205",
       "x": -33.7591266,
-      "y": 150.9915059,
+      "y": 150.9915089,
       "tags": {
         "addr:housenumber": "375-383",
         "addr:street": "Windsor Road",
@@ -3023,7 +3014,7 @@
     },
     {
       "id": "w370017167",
-      "x": -33.7591422,
+      "x": -33.7591455,
       "y": 150.9915626,
       "tags": {
         "building": "retail"
@@ -3396,7 +3387,8 @@
         "opening_hours": "Mo-We,Fr,Sa 09:00-17:30; Th 09:00-21:00; Su 10:30-16:00",
         "roof:colour": "green",
         "shop": "mall",
-        "website": "https://www.cairnscentral.com.au/"
+        "website": "https://www.cairnscentral.com.au/",
+        "website:map": "https://cairnscentral.com.au/centre-map/"
       }
     }
   ],
@@ -3825,7 +3817,7 @@
         "designation": "Shopping Centre",
         "internet_access": "wlan",
         "layer": "2",
-        "name": "Macquarie Centre Shopping Centre",
+        "name": "Macquarie Centre",
         "opening_hours": "Mo-We 09:00-17:30; Fr 09:00-23:00; Sa 09:30-23:00; Th 09:00-21:00; Su 10:00-16:00",
         "phone": "+61 2 9887 0800",
         "shop": "mall",
@@ -4001,7 +3993,7 @@
       "tags": {
         "addr:housenumber": "29-35",
         "addr:postcode": "3023",
-        "addr:state": "Victoria",
+        "addr:state": "VIC",
         "addr:street": "Lake Street",
         "addr:suburb": "Caroline Springs",
         "building": "yes",
@@ -4128,8 +4120,8 @@
   "n1292972855": [
     {
       "id": "w418574697",
-      "x": -17.5233601,
-      "y": 146.0285303,
+      "x": -17.5233759,
+      "y": 146.0285399,
       "tags": {
         "building": "yes",
         "source": "Bing"
@@ -4827,11 +4819,10 @@
   "n1631266458": [
     {
       "id": "w151015657",
-      "x": -21.0650921,
-      "y": 149.1579346,
+      "x": -21.0650505,
+      "y": 149.157945,
       "tags": {
-        "building": "yes",
-        "shop": "supermarket"
+        "building": "retail"
       }
     },
     {
@@ -4840,7 +4831,10 @@
       "y": 149.1596113,
       "tags": {
         "landuse": "retail",
-        "name": "Northern Beaches Central Shopping Centre"
+        "name": "Northern Beaches Central Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.northernbeachescentral.com.au/",
+        "website:map": "https://www.northernbeachescentral.com.au/centre-directory"
       }
     }
   ],
@@ -5069,7 +5063,7 @@
       "tags": {
         "addr:city": "Kialla",
         "addr:postcode": "3631",
-        "addr:province": "Victoria",
+        "addr:state": "VIC",
         "addr:street": "Riverview Drive",
         "building": "yes",
         "building:levels": "1",
@@ -6104,7 +6098,8 @@
       "x": -32.0193314,
       "y": 115.9381466,
       "tags": {
-        "building": "retail"
+        "building": "retail",
+        "layer": "2"
       }
     },
     {
@@ -6729,7 +6724,7 @@
       "tags": {
         "addr:housenumber": "74",
         "addr:postcode": "4211",
-        "addr:state": "Qld",
+        "addr:state": "QLD",
         "addr:street": "Beaudesert - Nerang Road",
         "addr:suburb": "Nerang",
         "building": "supermarket",
@@ -6809,8 +6804,7 @@
       "y": 153.0625549,
       "tags": {
         "landuse": "retail",
-        "name": "Sunnybank Plaza",
-        "shop": "mall"
+        "name": "Sunnybank Plaza"
       }
     }
   ],
@@ -8082,8 +8076,8 @@
         "landuse": "retail",
         "name": "Warrawong Plaza",
         "shop": "mall",
-        "source": "nearmap",
-        "website": "https://www.westfield.com.au/warrawong/"
+        "website": "https://warrawongplaza.com.au/",
+        "website:map": "https://warrawongplaza.com.au/wp-content/uploads/2022/09/Map-3-2.png"
       }
     },
     {
@@ -8093,10 +8087,7 @@
       "tags": {
         "addr:postcode": "2502",
         "addr:suburb": "Warrawong",
-        "building": "yes",
-        "name": "Warrawong Plaza",
-        "old_name": "Westfield Warrawong",
-        "shop": "mall"
+        "building": "retail"
       }
     }
   ],
@@ -8302,7 +8293,9 @@
         "building": "yes",
         "layer": "1",
         "name": "Earlville Shopping Town",
-        "shop": "mall"
+        "shop": "mall",
+        "website": "https://earlvilleshoppingtown.com.au/centre-map/",
+        "website:map": "https://earlvilleshoppingtown.com.au/"
       }
     },
     {
@@ -8310,10 +8303,7 @@
       "x": -16.9441546,
       "y": 145.7401268,
       "tags": {
-        "landuse": "retail",
-        "name": "Stockland Cairns",
-        "shop": "mall",
-        "website": "https://shoppingcentres.stockland.com.au/shopping-centres/stockland-cairns"
+        "landuse": "retail"
       }
     }
   ],
@@ -8398,10 +8388,7 @@
       "x": -37.7246693,
       "y": 145.0271844,
       "tags": {
-        "landuse": "retail",
-        "name": "Summerhill Village",
-        "note": "Re-opened 11 March 2015, after 15 Months. Various other smaller retaillers.",
-        "shop": "mall"
+        "landuse": "retail"
       }
     },
     {
@@ -8410,9 +8397,12 @@
       "y": 145.0287515,
       "tags": {
         "addr:housenumber": "850",
+        "addr:postcode": "3073",
         "addr:street": "Plenty Road",
         "building": "yes",
-        "name": "Summerhill Shopping Centre"
+        "name": "Summerhill Shopping Centre",
+        "shop": "mall",
+        "website": "https://summerhillshoppingcentre.com.au/"
       }
     }
   ],
@@ -8578,7 +8568,7 @@
       "tags": {
         "addr:housenumber": "100",
         "addr:postcode": "4215",
-        "addr:state": "Qld",
+        "addr:state": "QLD",
         "addr:street": "Brisbane Road",
         "addr:suburb": "Labrador",
         "landuse": "retail",
@@ -8747,7 +8737,7 @@
         "addr:housenumber": "340",
         "addr:street": "Craigieburn Road",
         "landuse": "retail",
-        "name": "Craigieburn Central Shopping Centre",
+        "name": "Craigieburn Central",
         "shop": "mall",
         "website": "https://www.craigieburncentral.com.au/"
       }
@@ -8978,10 +8968,10 @@
       "y": 153.171858,
       "tags": {
         "landuse": "retail",
-        "name": "Logan Hyperdome",
+        "name": "Hyperdome Shopping Centre",
         "shop": "mall",
         "toilets": "yes",
-        "website": "https://www.hyperdomeshopping.com.au/",
+        "website": "https://hyperdomeshopping.qicre.com/",
         "website:map": "https://hyperdomeshopping.qicre.com/Centre-Information/Centre-Map",
         "wheelchair": "yes"
       }
@@ -9039,8 +9029,8 @@
   "n3897655338": [
     {
       "id": "w368390131",
-      "x": -34.2910579,
-      "y": 146.0545578,
+      "x": -34.2910591,
+      "y": 146.0545692,
       "tags": {
         "building": "yes",
         "name": "Griffith Plaza",
@@ -9568,7 +9558,7 @@
     {
       "id": "w207664231",
       "x": -33.7955093,
-      "y": 151.1840302,
+      "y": 151.1840658,
       "tags": {
         "landuse": "retail",
         "source": "knowledge"
@@ -9725,7 +9715,24 @@
       }
     }
   ],
-  "n4646407492": [],
+  "n4646407492": [
+    {
+      "id": "w9215814",
+      "x": -32.0085366,
+      "y": 115.761772,
+      "tags": {
+        "landuse": "retail"
+      }
+    },
+    {
+      "id": "w1279857885",
+      "x": -32.0086909,
+      "y": 115.7617671,
+      "tags": {
+        "building": "retail"
+      }
+    }
+  ],
   "n4655090289": [
     {
       "id": "w279932700",
@@ -10454,8 +10461,8 @@
   "n5686459525": [
     {
       "id": "w23114119",
-      "x": -34.0350831,
-      "y": 151.1030516,
+      "x": -34.0350798,
+      "y": 151.1030373,
       "tags": {
         "alt_name": "Miranda Fair",
         "building": "retail",
@@ -10470,7 +10477,7 @@
     {
       "id": "w209944895",
       "x": -34.0350684,
-      "y": 151.1005578,
+      "y": 151.1005435,
       "tags": {
         "branch": "Miranda",
         "brand": "Westfield",
@@ -10555,17 +10562,23 @@
   "n5785372990": [
     {
       "id": "w9888502",
-      "x": -31.9379918,
-      "y": 115.7933181,
+      "x": -31.9380012,
+      "y": 115.7933425,
       "tags": {
         "addr:city": "Floreat",
         "addr:country": "AU",
         "addr:postcode": "6014",
         "addr:state": "WA",
+        "addr:street": "Howtree Place",
         "addr:suburb": "Floreat",
+        "check_date": "2024-01-24",
         "landuse": "retail",
         "name": "Floreat Forum",
-        "website": "https://www.floreatforum.com.au/"
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+        "phone": "+61 8 9387 4722",
+        "shop": "mall",
+        "website": "https://www.floreatforum.com.au/",
+        "website:map": "https://www.floreatforum.com.au/wp-content/uploads/2024/04/FLOR0215_Centre-Directory_APRIL24_WEB-scaled.jpg"
       }
     }
   ],
@@ -10633,7 +10646,7 @@
         "addr:city": "Ingleburn",
         "addr:housenumber": "100",
         "addr:postcode": "2565",
-        "addr:province": "NSW",
+        "addr:state": "NSW",
         "addr:street": "Macquarie Road",
         "building": "yes",
         "name": "Ingleburn Village",
@@ -11168,8 +11181,15 @@
       "x": -26.7394678,
       "y": 153.1170202,
       "tags": {
+        "addr:housenumber": "8",
+        "addr:postcode": "4575",
+        "addr:street": "The Avenue",
+        "addr:suburb": "Birtinya",
         "landuse": "retail",
-        "name": "Birtinya Town Centre"
+        "name": "Stockland Birtinya",
+        "shop": "mall",
+        "website": "https://www.stockland.com.au/shopping-centres/centres/stockland-birtinya",
+        "website:map": "https://www.stockland.com.au/shopping-centres/centres/stockland-birtinya/visit/centre-map"
       }
     },
     {
@@ -11177,10 +11197,8 @@
       "x": -26.7397751,
       "y": 153.1163348,
       "tags": {
-        "building": "yes",
-        "layer": "1",
-        "name": "Stockland Birtinya",
-        "shop": "mall"
+        "building": "retail",
+        "layer": "1"
       }
     }
   ],
@@ -11320,7 +11338,9 @@
       "y": 153.0826315,
       "tags": {
         "landuse": "retail",
-        "name": "North Shore Village"
+        "name": "North Shore Village",
+        "shop": "mall",
+        "website": "https://www.northshorevillagesc.com.au/"
       }
     }
   ],
@@ -11533,7 +11553,7 @@
       "tags": {
         "addr:housenumber": "605",
         "addr:postcode": "4034",
-        "addr:state": "Qld",
+        "addr:state": "QLD",
         "addr:street": "Robinson Road West",
         "addr:suburb": "Aspley",
         "building": "retail",
@@ -11675,7 +11695,9 @@
         "building": "yes",
         "layer": "1",
         "name": "Figtree Grove",
-        "shop": "mall"
+        "shop": "mall",
+        "website": "https://figtreegrove.com.au/",
+        "website:map": "https://figtreegrove.com.au/find-stores/"
       }
     }
   ],
@@ -11808,7 +11830,12 @@
       "x": -28.8225693,
       "y": 153.326812,
       "tags": {
+        "addr:housenumber": "1",
+        "addr:state": "NSW",
+        "addr:street": "Simeoni Drive",
+        "addr:suburb": "Goonellabah",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/TheVillageGoonellabah/",
         "name": "Goonellabah Shopping Village",
         "shop": "mall"
       }
@@ -12065,7 +12092,7 @@
       "tags": {
         "addr:housenumber": "24-32",
         "addr:postcode": "3222",
-        "addr:state": "Victoria",
+        "addr:state": "VIC",
         "addr:street": "Murradoc Road",
         "addr:suburb": "Drysdale",
         "building": "retail"
@@ -12293,7 +12320,7 @@
       "tags": {
         "addr:housenumber": "488",
         "addr:postcode": "4305",
-        "addr:state": "Qld",
+        "addr:state": "QLD",
         "addr:street": "Warwick Road",
         "addr:suburb": "Yamanto",
         "building": "retail",
@@ -12368,7 +12395,8 @@
         "landuse": "retail",
         "name": "Stockland Wetherill Park",
         "shop": "mall",
-        "website": "https://www.stockland.com.au/shopping-centres/nsw/stockland-wetherill-park.htm"
+        "website": "https://www.stockland.com.au/shopping-centres/centres/stockland-wetherill-park",
+        "website:map": "https://www.stockland.com.au/shopping-centres/centres/stockland-wetherill-park/visit/centre-map"
       }
     },
     {
@@ -12379,11 +12407,9 @@
         "addr:city": "Wetherill Park",
         "addr:housenumber": "561-583",
         "addr:postcode": "2164",
-        "addr:province": "NSW",
+        "addr:state": "NSW",
         "addr:street": "Polding Street",
-        "building": "yes",
-        "name": "Stockland Wetherill Park Shopping Centre",
-        "shop": "mall"
+        "building": "retail"
       }
     }
   ],
@@ -12399,7 +12425,8 @@
         "name": "Warwick Grove",
         "phone": "+61 8 9447 4800",
         "shop": "mall",
-        "website": "https://www.warwickgrove.com.au/"
+        "website": "https://www.warwickgrove.com.au/",
+        "website:map": "https://www.warwickgrove.com.au/directions/centre-map"
       }
     },
     {
@@ -12652,11 +12679,8 @@
       "x": -33.9081533,
       "y": 151.1716202,
       "tags": {
-        "building": "yes",
-        "building:levels": "2",
-        "name": "Smidmore Street - Marrickville Metro",
-        "shop": "mall",
-        "source": "nearmap"
+        "building": "retail",
+        "building:levels": "2"
       }
     },
     {
@@ -12664,11 +12688,13 @@
       "x": -33.9071244,
       "y": 151.1716954,
       "tags": {
+        "addr:city": "Marrickville",
         "landuse": "retail",
         "name": "Marrickville Metro",
         "shop": "mall",
         "toilets": "yes",
-        "website": "https://www.marrickvillemetro.com.au/"
+        "website": "https://www.marrickvillemetro.com.au/",
+        "website:map": "https://www.marrickvillemetro.com.au/centre-info/centre-map"
       }
     }
   ],
@@ -14004,6 +14030,14 @@
         "shop": "mall",
         "website": "https://www.trinityvillage.com.au/"
       }
+    },
+    {
+      "id": "w1276484878",
+      "x": -31.6280917,
+      "y": 115.6918936,
+      "tags": {
+        "landuse": "retail"
+      }
     }
   ],
   "n11834329696": [
@@ -14871,8 +14905,8 @@
   "w90625912": [
     {
       "id": "w24853578",
-      "x": -37.8838401,
-      "y": 145.2758392,
+      "x": -37.8838642,
+      "y": 145.2758482,
       "tags": {
         "landuse": "retail",
         "name": "Mountain Gate Shopping Centre",
@@ -14882,21 +14916,25 @@
     },
     {
       "id": "w90625912",
-      "x": -37.8836877,
-      "y": 145.2753114,
+      "x": -37.8836854,
+      "y": 145.2753186,
       "tags": {
         "addr:housenumber": "1880",
+        "addr:postcode": "3156",
+        "addr:state": "VIC",
         "addr:street": "Ferntree Gully Road",
+        "addr:suburb": "Ferntree Gully",
         "brand": "Coles",
         "brand:wikidata": "Q1108172",
         "brand:wikipedia": "en:Coles Supermarkets",
         "building": "retail",
         "full_name": "Coles Mountain Gate",
         "name": "Coles",
-        "opening_hours": "Mo-Su 06:00-22:00",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
         "phone": "+61 3 9758 5432",
         "shop": "supermarket",
-        "source": "nearmap",
         "website": "https://www.coles.com.au"
       }
     }
@@ -15998,7 +16036,7 @@
       "tags": {
         "addr:housenumber": "101",
         "addr:postcode": "5165",
-        "addr:province": "SA",
+        "addr:state": "SA",
         "addr:street": "Beach Road",
         "addr:suburb": "Christies Beach",
         "brand": "Coles",
@@ -17255,7 +17293,7 @@
   "w567779726": [
     {
       "id": "w9308623",
-      "x": -27.4995411,
+      "x": -27.4995078,
       "y": 152.9729256,
       "tags": {
         "landuse": "retail"
@@ -17263,7 +17301,7 @@
     },
     {
       "id": "w301724993",
-      "x": -27.4995913,
+      "x": -27.499587,
       "y": 152.9729524,
       "tags": {
         "addr:city": "Brisbane",
@@ -17277,6 +17315,7 @@
         "layer": "1",
         "name": "Indooroopilly Shopping Centre",
         "opening_hours": "Mo-We,Fr 09:00-17:30; Th 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
+        "roof:shape": "many",
         "shop": "mall",
         "smoking": "outside",
         "toilets": "yes",
@@ -17350,7 +17389,7 @@
         "addr:city": "Benalla",
         "addr:housenumber": "45",
         "addr:postcode": "3672",
-        "addr:province": "Victoria",
+        "addr:state": "VIC",
         "addr:street": "Carrier Street",
         "brand": "Coles",
         "brand:wikidata": "Q1108172",
@@ -17893,10 +17932,11 @@
       "y": 145.1965867,
       "tags": {
         "landuse": "retail",
-        "name": "The Gateway",
+        "name": "The Gateway Shopping Centre",
         "operator": "Federation Centres",
         "shop": "mall",
-        "website": "https://www.thegatewaysc.com.au/"
+        "website": "https://www.thegatewaysc.com.au/",
+        "website:map": "https://www.thegatewaysc.com.au/centre-plan"
       }
     },
     {
@@ -17904,10 +17944,8 @@
       "x": -38.1507375,
       "y": 145.1966397,
       "tags": {
-        "building": "yes",
-        "layer": "1",
-        "name": "The Gateway Shopping Centre",
-        "shop": "mall"
+        "building": "retail",
+        "layer": "1"
       }
     }
   ],
@@ -17939,20 +17977,18 @@
   "w966014172": [
     {
       "id": "w966014172",
-      "x": -32.6300686,
-      "y": 115.6308666,
+      "x": -32.6301251,
+      "y": 115.6314772,
       "tags": {
         "addr:housenumber": "71",
         "addr:postcode": "6211",
         "addr:state": "WA",
         "addr:street": "Dandaragan Drive",
         "addr:suburb": "Dawesville",
-        "branch": "Coles Florida",
+        "branch": "Florida",
         "brand": "Coles",
         "brand:wikidata": "Q1108172",
         "building": "yes",
-        "currency:AUD": "yes",
-        "fixme": "Needs a survey of the building outline.",
         "name": "Coles",
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
@@ -18149,7 +18185,7 @@
       "tags": {
         "addr:housenumber": "89",
         "addr:postcode": "3138",
-        "addr:state": "Victoria",
+        "addr:state": "VIC",
         "addr:street": "Brice Avenue",
         "addr:suburb": "Mooroolbark",
         "air_conditioning": "yes",
@@ -18361,7 +18397,7 @@
       "tags": {
         "addr:housenumber": "91",
         "addr:postcode": "4370",
-        "addr:state": "Queensland",
+        "addr:state": "QLD",
         "addr:street": "Palmerin Street",
         "addr:suburb": "Warwick",
         "building": "retail",

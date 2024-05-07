@@ -2,7 +2,6 @@
 - [Woolworths Store 1080](https://www.woolworths.com.au/shop/storelocator/1080) [w30753389](https://www.openstreetmap.org/way/30753389) has no parents
 - [Woolworths Store 1101](https://www.woolworths.com.au/shop/storelocator/1101) [w376026745](https://www.openstreetmap.org/way/376026745) has no parents
 - [Woolworths Store 1113](https://www.woolworths.com.au/shop/storelocator/1113) [w27327200](https://www.openstreetmap.org/way/27327200) has no parents
-- [Woolworths Store 1114](https://www.woolworths.com.au/shop/storelocator/1114) [n3894051980](https://www.openstreetmap.org/node/3894051980) has conflicting parent names: {"Highlands Marketplace", "Mittagong Marketplace"}
 - [Woolworths Store 1119](https://www.woolworths.com.au/shop/storelocator/1119) [w389803891](https://www.openstreetmap.org/way/389803891) has no parents
 - [Woolworths Store 1120](https://www.woolworths.com.au/shop/storelocator/1120) [w444405078](https://www.openstreetmap.org/way/444405078) has no parents
 - [Woolworths Store 1134](https://www.woolworths.com.au/shop/storelocator/1134) [n2156915851](https://www.openstreetmap.org/node/2156915851) has conflicting parent names: {"Calwell Centre", "Calwell Shopping Centre"}
@@ -28,32 +27,28 @@
 - [Woolworths Store 1377](https://www.woolworths.com.au/shop/storelocator/1377) [n11005255148](https://www.openstreetmap.org/node/11005255148) has no parents
 - [Woolworths Store 1379](https://www.woolworths.com.au/shop/storelocator/1379) [n2618190721](https://www.openstreetmap.org/node/2618190721) has no parents
 - [Woolworths Store 1380](https://www.woolworths.com.au/shop/storelocator/1380) [w294903990](https://www.openstreetmap.org/way/294903990) has no parents
-- [Woolworths Store 1386](https://www.woolworths.com.au/shop/storelocator/1386) [n3737469457](https://www.openstreetmap.org/node/3737469457) has conflicting parent names: {"Stockland Wetherill Park", "Stockland Wetherill Park Shopping Centre"}
 - [Woolworths Store 1389](https://www.woolworths.com.au/shop/storelocator/1389) [w249653000](https://www.openstreetmap.org/way/249653000) has no parents
 - [Woolworths Store 1392](https://www.woolworths.com.au/shop/storelocator/1392) [w363545584](https://www.openstreetmap.org/way/363545584) has no parents
-- [Woolworths Store 1401](https://www.woolworths.com.au/shop/storelocator/1401) [n581881641](https://www.openstreetmap.org/node/581881641) has conflicting parent names: {"Jindabyne Town Centre", "Nuggets Crossing"}
 - [Woolworths Store 1419](https://www.woolworths.com.au/shop/storelocator/1419) [n2130926379](https://www.openstreetmap.org/node/2130926379) has conflicting parent names: {"Majura Park", "Majura Park Shopping Centre"}
-- [Woolworths Store 1457](https://www.woolworths.com.au/shop/storelocator/1457) [n2360902304](https://www.openstreetmap.org/node/2360902304) has no parents
 - [Woolworths Store 1479](https://www.woolworths.com.au/shop/storelocator/1479) [n3885546802](https://www.openstreetmap.org/node/3885546802) has conflicting parent names: {"Minto Mall", "Minto Marketplace"}
 - [Woolworths Store 1550](https://www.woolworths.com.au/shop/storelocator/1550) [n780160558](https://www.openstreetmap.org/node/780160558) has no parents
 - [Woolworths Store 1556](https://www.woolworths.com.au/shop/storelocator/1556) [w1112685719](https://www.openstreetmap.org/way/1112685719) has conflicting parent names: {"Cranebrook Village", "Cranebrook Village Shopping Centre"}
+- [Woolworths Store 1577](https://www.woolworths.com.au/shop/storelocator/1577) [w828431500](https://www.openstreetmap.org/way/828431500) has no parents
 - [Woolworths Store 1621](https://www.woolworths.com.au/shop/storelocator/1621) [n2267893632](https://www.openstreetmap.org/node/2267893632) has conflicting parent names: {"Warriewood Square", "Warriewood Square Shopping Centre"}
 - [Woolworths Store 1770](https://www.woolworths.com.au/shop/storelocator/1770) [n6594152038](https://www.openstreetmap.org/node/6594152038) has no parents
 - [Woolworths Store 1785](https://www.woolworths.com.au/shop/storelocator/1785) [w597614565](https://www.openstreetmap.org/way/597614565) has no parents
 - [Woolworths Store 1813](https://www.woolworths.com.au/shop/storelocator/1813) [n11493806434](https://www.openstreetmap.org/node/11493806434) has no parents
 - [Woolworths Store 1864](https://www.woolworths.com.au/shop/storelocator/1864) [n3522832393](https://www.openstreetmap.org/node/3522832393) has no parents
 - [Woolworths Store 1961](https://www.woolworths.com.au/shop/storelocator/1961) [w1081289291](https://www.openstreetmap.org/way/1081289291) has no parents
-- [Woolworths Store 2055](https://www.woolworths.com.au/shop/storelocator/2055) [n2115990806](https://www.openstreetmap.org/node/2115990806) has conflicting parent names: {"Cassowary Shopping Village", "Mission Beach Marketplace"}
-- [Woolworths Store 2300](https://www.woolworths.com.au/shop/storelocator/2300) [n3853176682](https://www.openstreetmap.org/node/3853176682) has conflicting parent names: {"Hyperdome", "Logan Hyperdome"}
 - [Woolworths Store 2514](https://www.woolworths.com.au/shop/storelocator/2514) [n1535820882](https://www.openstreetmap.org/node/1535820882) has conflicting parent names: {"Highfields Village", "Highfields Village Shopping Centre"}
 - [Woolworths Store 2523](https://www.woolworths.com.au/shop/storelocator/2523) [n474981739](https://www.openstreetmap.org/node/474981739) has conflicting parent names: {"Skygate Centre", "Skygate DFO"}
 - [Woolworths Store 2539](https://www.woolworths.com.au/shop/storelocator/2539) [w221065575](https://www.openstreetmap.org/way/221065575) has no parents
-- [Woolworths Store 2566](https://www.woolworths.com.au/shop/storelocator/2566) [n3355139143](https://www.openstreetmap.org/node/3355139143) has conflicting parent names: {"Earlville Shopping Town", "Stockland Cairns"}
 - [Woolworths Store 2570](https://www.woolworths.com.au/shop/storelocator/2570) [n3033914409](https://www.openstreetmap.org/node/3033914409) has conflicting parent names: {"Kawana Shopping World", "Kawana Shoppingtown"}
 - [Woolworths Store 2583](https://www.woolworths.com.au/shop/storelocator/2583) [n158448470](https://www.openstreetmap.org/node/158448470) has conflicting parent names: {"Stafford City", "Stafford City Shopping Centre"}
 - [Woolworths Store 2612](https://www.woolworths.com.au/shop/storelocator/2612) [n250763048](https://www.openstreetmap.org/node/250763048) has conflicting parent names: {"Whitsunday Plaza", "Whitsunday Plaza (prev. Centro Whitsundays)"}
 - [Woolworths Store 2622](https://www.woolworths.com.au/shop/storelocator/2622) [w600716067](https://www.openstreetmap.org/way/600716067) has no parents
 - [Woolworths Store 2626](https://www.woolworths.com.au/shop/storelocator/2626) [n249774363](https://www.openstreetmap.org/node/249774363) has conflicting parent names: {"Circa Nundah Village", "Nundah Village Shopping Centre"}
+- [Woolworths Store 2642](https://www.woolworths.com.au/shop/storelocator/2642) [w1277807885](https://www.openstreetmap.org/way/1277807885) has no parents
 - [Woolworths Store 2643](https://www.woolworths.com.au/shop/storelocator/2643) [n6329107258](https://www.openstreetmap.org/node/6329107258) has conflicting parent names: {"Plaza Parade Shopping Village", "Sunshine Plaza"}
 - [Woolworths Store 2662](https://www.woolworths.com.au/shop/storelocator/2662) [n7092060787](https://www.openstreetmap.org/node/7092060787) has conflicting parent names: {"Capalaba Central", "Capalaba Central Shopping Centre"}
 - [Woolworths Store 2665](https://www.woolworths.com.au/shop/storelocator/2665) [n4381296201](https://www.openstreetmap.org/node/4381296201) has conflicting parent names: {"Yamanto Village", "Yamanto Village Shopping Centre"}
@@ -64,13 +59,11 @@
 - [Woolworths Store 2703](https://www.woolworths.com.au/shop/storelocator/2703) [n7140603105](https://www.openstreetmap.org/node/7140603105) has no parents
 - [Woolworths Store 2719](https://www.woolworths.com.au/shop/storelocator/2719) [n9685531436](https://www.openstreetmap.org/node/9685531436) has no parents
 - [Woolworths Store 2759](https://www.woolworths.com.au/shop/storelocator/2759) [n2617762720](https://www.openstreetmap.org/node/2617762720) has conflicting parent names: {"Harbour Town", "Harbour Town Outlet Shopping Centre"}
-- [Woolworths Store 3060](https://www.woolworths.com.au/shop/storelocator/3060) [n6970525764](https://www.openstreetmap.org/node/6970525764) has conflicting parent names: {"Burwood Brickworks", "Burwood Brickworks Shopping Centre"}
 - [Woolworths Store 3089](https://www.woolworths.com.au/shop/storelocator/3089) [w902713937](https://www.openstreetmap.org/way/902713937) has conflicting parent names: {"Hungry Jack's", "Southern Cross", "V/Line Tickets"}
 - [Woolworths Store 3092](https://www.woolworths.com.au/shop/storelocator/3092) [w400523729](https://www.openstreetmap.org/way/400523729) has no parents
 - [Woolworths Store 3124](https://www.woolworths.com.au/shop/storelocator/3124) [w45231460](https://www.openstreetmap.org/way/45231460) has no parents
 - [Woolworths Store 3134](https://www.woolworths.com.au/shop/storelocator/3134) [n367127279](https://www.openstreetmap.org/node/367127279) has conflicting parent names: {"Eliza Square", "Mt Eliza Village"}
 - [Woolworths Store 3155](https://www.woolworths.com.au/shop/storelocator/3155) [n773517588](https://www.openstreetmap.org/node/773517588) has conflicting parent names: {"Macedon Plaza", "Macedon Square"}
-- [Woolworths Store 3171](https://www.woolworths.com.au/shop/storelocator/3171) [n1865223677](https://www.openstreetmap.org/node/1865223677) has conflicting parent names: {"Mill Park Stables", "Mill Park Stables Shopping Centre"}
 - [Woolworths Store 3177](https://www.woolworths.com.au/shop/storelocator/3177) [w317937786](https://www.openstreetmap.org/way/317937786) has no parents
 - [Woolworths Store 3179](https://www.woolworths.com.au/shop/storelocator/3179) [w49742215](https://www.openstreetmap.org/way/49742215) has no parents
 - [Woolworths Store 3181](https://www.woolworths.com.au/shop/storelocator/3181) [w137381684](https://www.openstreetmap.org/way/137381684) has no parents
@@ -85,15 +78,16 @@
 - [Woolworths Store 3319](https://www.woolworths.com.au/shop/storelocator/3319) [w105576440](https://www.openstreetmap.org/way/105576440) has no parents
 - [Woolworths Store 3329](https://www.woolworths.com.au/shop/storelocator/3329) [w242170433](https://www.openstreetmap.org/way/242170433) has no parents
 - [Woolworths Store 3352](https://www.woolworths.com.au/shop/storelocator/3352) [w119107097](https://www.openstreetmap.org/way/119107097) has no parents
+- [Woolworths Store 3376](https://www.woolworths.com.au/shop/storelocator/3376) [w1188874629](https://www.openstreetmap.org/way/1188874629) has no parents
 - [Woolworths Store 3384](https://www.woolworths.com.au/shop/storelocator/3384) [w26585550](https://www.openstreetmap.org/way/26585550) has no parents
 - [Woolworths Store 3389](https://www.woolworths.com.au/shop/storelocator/3389) [w38313264](https://www.openstreetmap.org/way/38313264) has no parents
 - [Woolworths Store 3803](https://www.woolworths.com.au/shop/storelocator/3803) [n3712913960](https://www.openstreetmap.org/node/3712913960) has conflicting parent names: {"Casey Central", "Casey Central Shopping Centre"}
-- [Woolworths Store 4301](https://www.woolworths.com.au/shop/storelocator/4301) [n1361238034](https://www.openstreetmap.org/node/1361238034) has conflicting parent names: {"Enex100", "enex100"}
 - [Woolworths Store 4309](https://www.woolworths.com.au/shop/storelocator/4309) [n4715914696](https://www.openstreetmap.org/node/4715914696) has no parents
+- [Woolworths Store 4310](https://www.woolworths.com.au/shop/storelocator/4310) [n11861751246](https://www.openstreetmap.org/node/11861751246) has conflicting parent names: {"Butler Central", "Butler Homemaker Centre"}
 - [Woolworths Store 4329](https://www.woolworths.com.au/shop/storelocator/4329) [n10241202752](https://www.openstreetmap.org/node/10241202752) has no parents
 - [Woolworths Store 4335](https://www.woolworths.com.au/shop/storelocator/4335) [n11826874480](https://www.openstreetmap.org/node/11826874480) has conflicting parent names: {"Kwinana Hub Shopping Centre", "Kwinana Shopping Centre"}
+- [Woolworths Store 4339](https://www.woolworths.com.au/shop/storelocator/4339) [n11861653791](https://www.openstreetmap.org/node/11861653791) has no parents
 - [Woolworths Store 4343](https://www.woolworths.com.au/shop/storelocator/4343) [w835224325](https://www.openstreetmap.org/way/835224325) has conflicting parent names: {"Forrestfield Marketplace", "Forrestfield Shopping"}
-- [Woolworths Store 4361](https://www.woolworths.com.au/shop/storelocator/4361) [n2256539081](https://www.openstreetmap.org/node/2256539081) has conflicting parent names: {"Livingston Marketplace", "Livingston Marketplace Shopping Centre"}
 - [Woolworths Store 4376](https://www.woolworths.com.au/shop/storelocator/4376) [w255376491](https://www.openstreetmap.org/way/255376491) has no parents
 - [Woolworths Store 4397](https://www.woolworths.com.au/shop/storelocator/4397) [w1269009619](https://www.openstreetmap.org/way/1269009619) has no parents
 - [Woolworths Store 4416](https://www.woolworths.com.au/shop/storelocator/4416) [w314585704](https://www.openstreetmap.org/way/314585704) has no parents

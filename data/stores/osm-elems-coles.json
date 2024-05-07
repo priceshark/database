@@ -6,10 +6,13 @@
     "tags": {
       "addr:housenumber": "100",
       "addr:street": "Ocean Drive",
+      "branch": "Lighthouse Beach",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -849,6 +852,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
       "opening_hours": "Mo-Su 08:00-20:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "source": "survey",
       "website": "https://www.coles.com.au/",
@@ -1224,14 +1229,16 @@
   },
   "n476031171": {
     "id": "n476031171",
-    "x": -42.855639,
-    "y": 147.305931,
+    "x": -42.8556046,
+    "y": 147.3061599,
     "tags": {
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
       "opening_hours": "Mo-Su 06:00-24:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/",
       "wheelchair": "limited"
@@ -1595,10 +1602,13 @@
     "tags": {
       "addr:housenumber": "10",
       "addr:street": "Park Street",
+      "addr:suburb": "Mona Vale",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -1656,7 +1666,7 @@
     "tags": {
       "addr:housenumber": "276",
       "addr:street": "Flinders Street",
-      "branch": "Central",
+      "branch": "Melbourne Central",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
@@ -1946,6 +1956,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -2076,6 +2088,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -2106,6 +2120,7 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "shop": "supermarket"
@@ -2282,7 +2297,8 @@
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "shop": "supermarket",
-      "website": "https://www.coles.com.au/"
+      "website": "https://www.coles.com.au/",
+      "wheelchair": "yes"
     }
   },
   "n836083881": {
@@ -2355,7 +2371,7 @@
     "tags": {
       "addr:housenumber": "1244",
       "addr:street": "North East Road",
-      "branch": "Tea Tree Gully",
+      "branch": "St Agnes",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
@@ -3147,7 +3163,7 @@
     "tags": {
       "addr:housenumber": "29-35",
       "addr:postcode": "3023",
-      "addr:state": "Victoria",
+      "addr:state": "VIC",
       "addr:street": "Lake Street",
       "addr:suburb": "Caroline Springs",
       "addr:unit": "M1",
@@ -3816,8 +3832,8 @@
   },
   "n1631266458": {
     "id": "n1631266458",
-    "x": -21.0650643,
-    "y": 149.1579845,
+    "x": -21.0651342,
+    "y": 149.1579377,
     "tags": {
       "addr:housenumber": "10",
       "addr:street": "Eimeo Road",
@@ -3843,27 +3859,6 @@
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "shop": "supermarket"
-    }
-  },
-  "n1650883977": {
-    "id": "n1650883977",
-    "x": -30.7477289,
-    "y": 121.4707946,
-    "tags": {
-      "addr:country": "AU",
-      "addr:housenumber": "101",
-      "addr:state": "WA",
-      "addr:street": "Brookman Street",
-      "brand": "Coles",
-      "brand:wikidata": "Q1108172",
-      "brand:wikipedia": "en:Coles Supermarkets",
-      "name": "Coles",
-      "opening_hours": "Mo-Fr 07:00-19:00; Th 07:00-21:00; Sa 07:00-18:00",
-      "operator": "Coles Group",
-      "operator:wikidata": "Q1339055",
-      "phone": "+61 8 9021 8466",
-      "shop": "supermarket",
-      "website": "https://www.coles.com.au/"
     }
   },
   "n1668375381": {
@@ -3909,6 +3904,7 @@
     "tags": {
       "addr:housenumber": "11-15",
       "addr:street": "Wentworth Street",
+      "addr:suburb": "Manly",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
@@ -4243,8 +4239,8 @@
   },
   "n1937616038": {
     "id": "n1937616038",
-    "x": -37.7824892,
-    "y": 144.9148871,
+    "x": -37.7824349,
+    "y": 144.9148103,
     "tags": {
       "addr:housenumber": "320-380",
       "addr:street": "Epsom Road",
@@ -4254,7 +4250,8 @@
       "name": "Coles",
       "opening_hours": "Mo-Su 07:00-23:00",
       "shop": "supermarket",
-      "website": "https://www.coles.com.au/"
+      "website": "https://www.coles.com.au/",
+      "wheelchair": "yes"
     }
   },
   "n1939135844": {
@@ -4801,6 +4798,7 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "long_name": "Coles Baldivis",
       "name": "Coles",
+      "opening_hours": "Mo-Fr 08:00-21:00; Sa 8:00-17:00; Su 11:00-17:00",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "shop": "supermarket",
@@ -5435,6 +5433,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -5694,6 +5694,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -6018,6 +6020,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -6951,6 +6955,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -7178,7 +7184,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
-      "operator": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -7545,6 +7552,7 @@
       "brand:wikidata": "Q104850818",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles Local",
+      "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "shop": "supermarket",
@@ -7736,18 +7744,20 @@
   },
   "n4646407492": {
     "id": "n4646407492",
-    "x": -32.008655,
-    "y": 115.7612049,
+    "x": -32.0085539,
+    "y": 115.7616232,
     "tags": {
       "addr:country": "AU",
       "addr:housenumber": "50",
       "addr:state": "WA",
       "addr:street": "Harvey Street",
-      "brand": "Coles",
-      "brand:wikidata": "Q1108172",
+      "brand": "Coles Local",
+      "brand:wikidata": "Q104850818",
       "brand:wikipedia": "en:Coles Supermarkets",
-      "name": "Coles",
+      "name": "Coles Local",
       "opening_hours:signed": "no",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -7956,9 +7966,11 @@
     "tags": {
       "addr:housenumber": "47-55",
       "addr:street": "Lannercost Street",
-      "brand": "Coles Supermarkets",
+      "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -8480,8 +8492,8 @@
   },
   "n5785372990": {
     "id": "n5785372990",
-    "x": -31.9372711,
-    "y": 115.7929688,
+    "x": -31.9373759,
+    "y": 115.7926134,
     "tags": {
       "addr:country": "AU",
       "addr:housenumber": "5",
@@ -8492,6 +8504,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "check_date": "2024-01-24",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -8990,6 +9004,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -9382,7 +9398,10 @@
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
+      "level": "0",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -9484,10 +9503,13 @@
     "x": -28.8223778,
     "y": 153.3266223,
     "tags": {
+      "branch": "Goonellabah",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
-      "name": "Coles Goonellabah",
+      "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -9665,6 +9687,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -9694,6 +9718,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "check_date": "2022-10-11",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -9969,6 +9995,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -10040,13 +10068,15 @@
     "tags": {
       "addr:housenumber": "110",
       "addr:street": "Ashmole Road",
+      "branch": "Redcliffe",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
-      "shop": "supermarket"
+      "shop": "supermarket",
+      "website": "https://www.coles.com.au/find-stores/coles/qld/redcliffe-4422"
     }
   },
   "n9610209441": {
@@ -10753,7 +10783,7 @@
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "name": "Coles",
-      "opening_hours": "Mo-Fr 08:00-21:00, Sa 08:00-17:00, Su 11:00-17:00",
+      "opening_hours": "Mo-Fr 8:00-21:00; Sa 8:00-17:00; Su 11:00-17:00",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "payment:apple_pay": "yes",
@@ -11349,6 +11379,29 @@
       "shop": "supermarket"
     }
   },
+  "n11847331109": {
+    "id": "n11847331109",
+    "x": -27.566969,
+    "y": 153.2494766,
+    "tags": {
+      "addr:housenumber": "128-144",
+      "addr:postcode": "4164",
+      "addr:state": "QLD",
+      "addr:street": "Boundary Road",
+      "addr:suburb": "Thornlands",
+      "addr:unit": "T1",
+      "branch": "Thornlands",
+      "brand": "Coles",
+      "brand:wikidata": "Q1108172",
+      "name": "Coles",
+      "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
+      "phone": "+61 7 3164 3100",
+      "shop": "supermarket",
+      "start_date": "2024-05-03"
+    }
+  },
   "r15074857": {
     "id": "r15074857",
     "x": -27.242524,
@@ -11545,7 +11598,7 @@
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
-      "full_name": "Coles West Brunswick",
+      "full_name": "Coles Brunswick West",
       "name": "Coles",
       "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00",
       "operator": "Coles Group",
@@ -11758,21 +11811,25 @@
   },
   "w90625912": {
     "id": "w90625912",
-    "x": -37.8836877,
-    "y": 145.2753114,
+    "x": -37.8836854,
+    "y": 145.2753186,
     "tags": {
       "addr:housenumber": "1880",
+      "addr:postcode": "3156",
+      "addr:state": "VIC",
       "addr:street": "Ferntree Gully Road",
+      "addr:suburb": "Ferntree Gully",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "building": "retail",
       "full_name": "Coles Mountain Gate",
       "name": "Coles",
-      "opening_hours": "Mo-Su 06:00-22:00",
+      "opening_hours": "Mo-Su 07:00-21:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "phone": "+61 3 9758 5432",
       "shop": "supermarket",
-      "source": "nearmap",
       "website": "https://www.coles.com.au"
     }
   },
@@ -12537,7 +12594,7 @@
     "tags": {
       "addr:housenumber": "101",
       "addr:postcode": "5165",
-      "addr:province": "SA",
+      "addr:state": "SA",
       "addr:street": "Beach Road",
       "addr:suburb": "Christies Beach",
       "brand": "Coles",
@@ -12601,7 +12658,8 @@
       "height": "6.541",
       "name": "Coles",
       "shop": "supermarket",
-      "website": "https://www.coles.com.au/"
+      "website": "https://www.coles.com.au/",
+      "wheelchair": "yes"
     }
   },
   "w266677771": {
@@ -13492,7 +13550,7 @@
       "addr:city": "Benalla",
       "addr:housenumber": "45",
       "addr:postcode": "3672",
-      "addr:province": "Victoria",
+      "addr:state": "VIC",
       "addr:street": "Carrier Street",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
@@ -13939,20 +13997,18 @@
   },
   "w966014172": {
     "id": "w966014172",
-    "x": -32.6300686,
-    "y": 115.6308666,
+    "x": -32.6301251,
+    "y": 115.6314772,
     "tags": {
       "addr:housenumber": "71",
       "addr:postcode": "6211",
       "addr:state": "WA",
       "addr:street": "Dandaragan Drive",
       "addr:suburb": "Dawesville",
-      "branch": "Coles Florida",
+      "branch": "Florida",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "building": "yes",
-      "currency:AUD": "yes",
-      "fixme": "Needs a survey of the building outline.",
       "name": "Coles",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
@@ -14079,7 +14135,7 @@
     "tags": {
       "addr:housenumber": "89",
       "addr:postcode": "3138",
-      "addr:state": "Victoria",
+      "addr:state": "VIC",
       "addr:street": "Brice Avenue",
       "addr:suburb": "Mooroolbark",
       "air_conditioning": "yes",

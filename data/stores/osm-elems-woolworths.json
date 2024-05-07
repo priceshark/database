@@ -42,6 +42,19 @@
       "shop": "supermarket"
     }
   },
+  "n18488859": {
+    "id": "n18488859",
+    "x": -33.9512672,
+    "y": 151.2499369,
+    "tags": {
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
+      "name": "Woolworths Metro",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
   "n21279660": {
     "id": "n21279660",
     "x": -27.1808961,
@@ -374,6 +387,7 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "check_date": "2023-04-13",
       "name": "Woolworths",
+      "opening_hours": "closed; \"Temporarily closed\"",
       "operator": "Woolworths Group",
       "operator:ref:abn": "88000014675",
       "operator:wikidata": "Q607272",
@@ -441,18 +455,6 @@
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
-    }
-  },
-  "n300281972": {
-    "id": "n300281972",
-    "x": -33.9218561,
-    "y": 18.4222065,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "name": "Woolworths",
-      "shop": "supermarket",
-      "wheelchair": "yes"
     }
   },
   "n302129542": {
@@ -915,6 +917,23 @@
       "website": "https://www.woolworths.com.au/"
     }
   },
+  "n441354390": {
+    "id": "n441354390",
+    "x": -35.2432314,
+    "y": 149.0441214,
+    "tags": {
+      "branch": "Hawker",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "check_date": "2023-10-25",
+      "name": "Woolworths",
+      "opening_hours": "Mo-Su 08:00-22:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket",
+      "website": "https://www.woolworths.com.au/shop/storelocator/act-hawker-1089"
+    }
+  },
   "n444677702": {
     "id": "n444677702",
     "x": -35.2047136,
@@ -929,6 +948,22 @@
       "operator": "Woolworths Limited",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/Shop/StoreLocator/ACT-Charnwood-1358",
+      "wheelchair": "yes"
+    }
+  },
+  "n445359202": {
+    "id": "n445359202",
+    "x": -35.222821,
+    "y": 149.0201102,
+    "tags": {
+      "branch": "Kippax",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "check_date": "2023-10-19",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket",
       "wheelchair": "yes"
     }
   },
@@ -1001,19 +1036,6 @@
       "source:name": "survey"
     }
   },
-  "n454398397": {
-    "id": "n454398397",
-    "x": -34.0429273,
-    "y": 18.3571837,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "name": "Woolworths",
-      "opening_hours": "Mo-Su 08:00-19:00",
-      "shop": "supermarket",
-      "wheelchair": "yes"
-    }
-  },
   "n458680006": {
     "id": "n458680006",
     "x": -33.789278,
@@ -1032,6 +1054,7 @@
     "x": -37.7869012,
     "y": 145.1264487,
     "tags": {
+      "branch": "Doncaster",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
@@ -1206,12 +1229,14 @@
     "x": -41.4802852,
     "y": 147.1246927,
     "tags": {
-      "branch": "Prospect",
+      "branch": "Prospect Vale",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "full_name": "Woolworths Prospect Vale",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -1352,9 +1377,8 @@
       "brand": "Woolworths Metro",
       "brand:wikidata": "Q111772555",
       "brand:wikipedia": "en:Woolworths Supermarkets",
-      "full_name": "Woolworths St Kilda West",
+      "full_name": "Woolworths Metro St Kilda West",
       "name": "Woolworths Metro",
-      "note": "full name is taken from Woolworths store listing on website",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket",
@@ -1400,13 +1424,15 @@
   },
   "n581881641": {
     "id": "n581881641",
-    "x": -36.4148746,
-    "y": 148.6206501,
+    "x": -36.4149572,
+    "y": 148.6206192,
     "tags": {
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -1560,6 +1586,19 @@
       "name": "Woolworths",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
+    }
+  },
+  "n606203399": {
+    "id": "n606203399",
+    "x": -33.8287254,
+    "y": 150.9514098,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
     }
   },
   "n606308650": {
@@ -1862,8 +1901,10 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
-      "full_name": "Woolworths 3283",
+      "full_name": "Woolworths Clarinda",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -1933,6 +1974,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
       "opening_hours": "Mo-Fr 08:00-18:00; Th 08:00-21:00; Sa 08:00-17:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "phone": "+61 8 9071 3922",
       "shop": "supermarket",
       "source": "survey",
@@ -1964,6 +2007,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -2294,6 +2339,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -2918,33 +2965,6 @@
       "shop": "supermarket"
     }
   },
-  "n1056217650": {
-    "id": "n1056217650",
-    "x": -26.1342579,
-    "y": 28.2320655,
-    "tags": {
-      "addr:housename": "OR Tambo International Airport",
-      "addr:unit": "Shop IDR 16",
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "check_date": "2024-02-29",
-      "diet:vegetarian": "yes",
-      "level": "1",
-      "name": "Woolworths",
-      "organic": "yes",
-      "payment:cash": "yes",
-      "payment:credit_cards": "yes",
-      "payment:debit_cards": "yes",
-      "phone": "+27860022002",
-      "ref:vatin": "4550102216",
-      "second_hand": "no",
-      "shop": "supermarket",
-      "source": "survey",
-      "stroller": "yes",
-      "website": "https://www.woolworths.co.za",
-      "wheelchair": "yes"
-    }
-  },
   "n1076237346": {
     "id": "n1076237346",
     "x": -27.6128381,
@@ -3093,25 +3113,6 @@
       "website": "https://www.woolworths.com.au/"
     }
   },
-  "n1225902039": {
-    "id": "n1225902039",
-    "x": -33.9912761,
-    "y": 25.554703,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "check_date": "2024-03-03",
-      "level": "0",
-      "name": "Woolworths Food",
-      "organic": "yes",
-      "payment:cash": "yes",
-      "payment:credit_cards": "yes",
-      "payment:debit_cards": "yes",
-      "second_hand": "no",
-      "shop": "supermarket",
-      "source": "survey"
-    }
-  },
   "n1237251100": {
     "id": "n1237251100",
     "x": -37.7146375,
@@ -3163,7 +3164,6 @@
       "addr:country": "AU",
       "addr:postcode": "2113",
       "addr:state": "NSW",
-      "addr:street": "Cnr Waterloo & Herring Roads",
       "addr:suburb": "North Ryde",
       "branch": "Macquarie Ryde",
       "brand": "Woolworths",
@@ -3171,7 +3171,7 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "layer": "1",
-      "name": "Woolworths Macquarie Ryde",
+      "name": "Woolworths",
       "opening_hours": "Mo-Su 07:00-22:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
@@ -3450,17 +3450,14 @@
     "x": -31.9546971,
     "y": 115.8576471,
     "tags": {
-      "addr:country": "AU",
-      "addr:housename": "Enex",
-      "addr:housenumber": "100",
-      "addr:state": "WA",
-      "addr:street": "St Georges Terrace",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "level": "0",
       "name": "Woolworths",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 8:00-17:00; Su 11:00-17:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -4107,6 +4104,20 @@
       "wheelchair": "yes"
     }
   },
+  "n1646866462": {
+    "id": "n1646866462",
+    "x": -21.1609024,
+    "y": 149.0652594,
+    "tags": {
+      "branch": "Walkerston",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
   "n1670437204": {
     "id": "n1670437204",
     "x": -33.9390492,
@@ -4345,18 +4356,6 @@
       "website": "https://www.woolworths.com.au/"
     }
   },
-  "n1827440577": {
-    "id": "n1827440577",
-    "x": -33.9357543,
-    "y": 18.8601595,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "level": "1",
-      "name": "Woolworths",
-      "shop": "supermarket"
-    }
-  },
   "n1841274156": {
     "id": "n1841274156",
     "x": -28.8577796,
@@ -4383,20 +4382,10 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
-    }
-  },
-  "n1859920457": {
-    "id": "n1859920457",
-    "x": -34.0707607,
-    "y": 18.8218463,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "name": "Woolworths",
-      "opening_hours": "Mo-Su 08:00-21:00",
-      "shop": "supermarket"
     }
   },
   "n1861087263": {
@@ -4570,6 +4559,20 @@
       "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
+    }
+  },
+  "n1908326060": {
+    "id": "n1908326060",
+    "x": -21.1752899,
+    "y": 149.15137,
+    "tags": {
+      "branch": "Ooralea",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
     }
   },
   "n1912625493": {
@@ -4815,6 +4818,20 @@
       "shop": "supermarket"
     }
   },
+  "n2045302638": {
+    "id": "n2045302638",
+    "x": -33.8220911,
+    "y": 151.1339111,
+    "tags": {
+      "branch": "Boronia Park",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
+      "name": "Woolworths Metro",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
   "n2045666756": {
     "id": "n2045666756",
     "x": -37.7621241,
@@ -4878,7 +4895,7 @@
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket",
-      "website": "https://www.appliancewarehouse.com.au/"
+      "website": "https://www.woolworths.com.au/shop/storelocator/vic-clifton-hill-3579"
     }
   },
   "n2089354734": {
@@ -5076,6 +5093,19 @@
       "website": "https://www.woolworths.com.au/"
     }
   },
+  "n2162081328": {
+    "id": "n2162081328",
+    "x": -27.4576259,
+    "y": 152.6538279,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
   "n2172299027": {
     "id": "n2172299027",
     "x": -37.6803737,
@@ -5271,6 +5301,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -5332,8 +5364,8 @@
   },
   "n2256539081": {
     "id": "n2256539081",
-    "x": -32.0855963,
-    "y": 115.9163245,
+    "x": -32.0855719,
+    "y": 115.9163773,
     "tags": {
       "addr:country": "AU",
       "addr:state": "WA",
@@ -5341,6 +5373,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -5680,6 +5714,7 @@
     "x": -32.92881,
     "y": 151.7638337,
     "tags": {
+      "branch": "Newcastle West",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
@@ -5937,6 +5972,36 @@
       "shop": "supermarket"
     }
   },
+  "n2546432329": {
+    "id": "n2546432329",
+    "x": -21.1470942,
+    "y": 148.9517141,
+    "tags": {
+      "branch": "Marian",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n2579023535": {
+    "id": "n2579023535",
+    "x": -33.7922012,
+    "y": 151.0817153,
+    "tags": {
+      "branch": "Eastwood",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "layer": "1",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket",
+      "wheelchair": "yes"
+    }
+  },
   "n2583203053": {
     "id": "n2583203053",
     "x": -32.0387596,
@@ -5968,6 +6033,19 @@
       "opening_hours": "Mo-Su 07:00-21:00",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
+    }
+  },
+  "n2605964831": {
+    "id": "n2605964831",
+    "x": -21.065883,
+    "y": 149.1607191,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
     }
   },
   "n2617762720": {
@@ -6014,6 +6092,8 @@
       "internet_access": "wlan",
       "name": "Woolworths",
       "opening_hours": "Mo-Sa 07:00-20:00; Th 07:00-21:00; Su 07:00-18:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "phone": "+61 8 9941 5400",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
@@ -6352,6 +6432,21 @@
       "website": "https://www.woolworths.com.au/"
     }
   },
+  "n2946812694": {
+    "id": "n2946812694",
+    "x": -27.0440497,
+    "y": 153.1369821,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket",
+      "toilets:wheelchair": "yes",
+      "wheelchair": "yes"
+    }
+  },
   "n2946813592": {
     "id": "n2946813592",
     "x": -27.0638075,
@@ -6375,6 +6470,7 @@
     "tags": {
       "brand": "Woolworths Metro",
       "brand:wikidata": "Q111772555",
+      "check_date:opening_hours": "2024-04-30",
       "name": "Woolworths Metro",
       "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-23:00",
       "operator": "Woolworths Group",
@@ -6421,16 +6517,16 @@
       "addr:state": "VIC",
       "addr:street": "Anderson Street",
       "addr:suburb": "Yarraville",
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "brand:wikipedia": "en:Woolworths Supermarkets",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
       "internet_access": "wlan",
       "name": "Woolworths Metro",
       "opening_hours": "Mo-Su 07:00-22:00",
-      "operator": "Woolworths Group Ltd.",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "payment:contactless": "yes",
       "phone": "+61 3 9258 8417",
-      "shop": "convenience",
+      "shop": "supermarket",
       "website": "https://www.woolworths.com.au/shop/storelocator/vic-yarraville-3431"
     }
   },
@@ -7082,9 +7178,10 @@
     "x": -28.8106032,
     "y": 153.2766415,
     "tags": {
-      "addr:housenumber": "36/44",
+      "addr:housenumber": "44",
       "addr:postcode": "2480",
       "addr:street": "Carrington Street",
+      "addr:unit": "36",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
@@ -7174,7 +7271,7 @@
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket",
-      "website": "http://wwww.woolworths.com.au",
+      "website": "https://www.woolworths.com.au/shop/storelocator/nsw-kingsgrove-1864",
       "wheelchair": "yes"
     }
   },
@@ -7352,6 +7449,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -7412,13 +7511,15 @@
   },
   "n3737469457": {
     "id": "n3737469457",
-    "x": -33.8599855,
-    "y": 150.8976673,
+    "x": -33.8600863,
+    "y": 150.8977335,
     "tags": {
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -7438,19 +7539,6 @@
       "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
-    }
-  },
-  "n3741106299": {
-    "id": "n3741106299",
-    "x": -19.9775985,
-    "y": 23.4317999,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "brand:wikipedia": "en:Woolworths Supermarkets",
-      "name": "Woolworths",
-      "opening_hours": "Mo-Fr 09:00-18:00; Sa 08:00-17:00; Su 08:00-15:00",
-      "shop": "supermarket"
     }
   },
   "n3750531779": {
@@ -7509,6 +7597,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
       "opening_hours": "06:00-22:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "source": "company website"
     }
@@ -7884,12 +7974,13 @@
       "addr:street": "New South Head Road",
       "alt_name": "Woolworths Metro Rose Bay",
       "branch": "Rose Bay",
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "brand:wikipedia": "en:Woolworths Supermarkets",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
       "name": "Woolworths Metro",
       "opening_hours": "Mo-Su 07:00-22:00",
+      "operator": "Woolworths Group",
       "operator:ref": "88 000 014 675",
+      "operator:wikidata": "Q607272",
       "phone": "+61 2 8565 9315",
       "ref": "1901",
       "shop": "supermarket",
@@ -7995,7 +8086,7 @@
       "payment:credit_cards": "yes",
       "phone": "+61 2 6618 8610",
       "shop": "supermarket",
-      "website": "https://www.northernstar.com.au/news/defamation-loss-for-universal-medicine-founder/3550048/",
+      "website": "https://www.woolworths.com.au/shop/storelocator/nsw-ballina-2782",
       "wheelchair": "yes"
     }
   },
@@ -8059,17 +8150,6 @@
       "website": "https://www.woolworths.com.au/"
     }
   },
-  "n4154124869": {
-    "id": "n4154124869",
-    "x": -33.8660339,
-    "y": 18.5723777,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "name": "Woolworths",
-      "shop": "supermarket"
-    }
-  },
   "n4161090168": {
     "id": "n4161090168",
     "x": -32.2559791,
@@ -8119,12 +8199,11 @@
       "addr:state": "NSW",
       "addr:street": "Campbell Parade",
       "addr:suburb": "Bondi",
-      "branch": "Metro Bondi Beach",
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
+      "branch": "Bondi Beach",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
       "lgbtq": "welcome",
-      "name": "Woolworths",
-      "note": "ABN 88 000 014 675",
+      "name": "Woolworths Metro",
       "opening_hours": "Mo-Su 06:00-24:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
@@ -8258,23 +8337,6 @@
       "website": "https://www.woolworths.com.au/"
     }
   },
-  "n4312299658": {
-    "id": "n4312299658",
-    "x": -33.8678218,
-    "y": 151.2058387,
-    "tags": {
-      "brand": "Woolworths Metro",
-      "brand:wikidata": "Q111772555",
-      "brand:wikipedia": "en:Woolworths Supermarkets",
-      "internet_access": "wlan",
-      "name": "Woolworths Metro",
-      "opening_hours": "Mo-We 06:00-21:00; Th,Fr 06:00-22:00; Sa 08:00-19:00; Su 10:00-18:00",
-      "operator": "Woolworths Group",
-      "operator:wikidata": "Q607272",
-      "shop": "supermarket",
-      "wheelchair": "no"
-    }
-  },
   "n4315516148": {
     "id": "n4315516148",
     "x": -31.7766987,
@@ -8405,14 +8467,17 @@
     "tags": {
       "addr:housenumber": "10",
       "addr:street": "Falcon Street",
-      "brand": "Woolworths Supermarkets",
+      "branch": "Crows Nest",
+      "brand": "Woolworths",
       "brand:website": "https://www.woolworths.com.au",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "contact:website": "https://www.woolworths.com.au/shop/storelocator/nsw-crows-nest-1318",
-      "name": "Woolworths Crows Nest",
+      "name": "Woolworths",
       "name:en": "Woolworths Crows Nest",
       "opening_hours": "Mo-Su 07:00-23:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "phone": "+61 2 8565 9336",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/shop/storelocator/nsw-crows-nest-1318",
@@ -8612,6 +8677,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -8757,13 +8824,15 @@
     "x": -38.0117526,
     "y": 145.1606959,
     "tags": {
-      "branch": "Keysborough",
+      "branch": "Keysborough South",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "full_name": "Woolworths Keysborough South",
       "name": "Woolworths",
       "opening_hours": "Mo-Su 07:00-23:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -8900,8 +8969,9 @@
     "x": -34.8959123,
     "y": 138.616859,
     "tags": {
-      "addr:housenumber": "14/104",
+      "addr:housenumber": "104",
       "addr:street": "Walkerville Terrace",
+      "addr:unit": "14",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
@@ -8925,6 +8995,21 @@
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
+    }
+  },
+  "n5199558487": {
+    "id": "n5199558487",
+    "x": -27.6635709,
+    "y": 152.8916418,
+    "tags": {
+      "branch": "Brookwater",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket",
+      "wheelchair": "yes"
     }
   },
   "n5219780268": {
@@ -9044,8 +9129,9 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
+      "check_date": "2024-04-28",
       "name": "Woolworths",
-      "opening_hours": "Mo-Fr 07:00-21:00; Su 11:00-17:00; Sa 07:00-17:00",
+      "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:00-17:00; Su 09:00-17:00",
       "phone": "+61 8 8383 5158",
       "shop": "supermarket"
     }
@@ -9061,6 +9147,20 @@
       "name": "Woolworths",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
+    }
+  },
+  "n5393335939": {
+    "id": "n5393335939",
+    "x": -27.6023479,
+    "y": 151.9139028,
+    "tags": {
+      "branch": "Drayton",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
     }
   },
   "n5430747733": {
@@ -9126,6 +9226,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -9194,12 +9296,14 @@
     "x": -37.8159063,
     "y": 144.9560406,
     "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "level": "0",
       "name": "Woolworths Metro",
       "opening_hours": "Mo-Fr 06:00-19:30; Sa-Su closed; PH closed",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "organic": "yes",
       "shop": "supermarket",
       "wheelchair": "yes"
@@ -9207,16 +9311,17 @@
   },
   "n5649806273": {
     "id": "n5649806273",
-    "x": -31.9104752,
-    "y": 115.8472167,
+    "x": -31.9104114,
+    "y": 115.847619,
     "tags": {
       "addr:country": "AU",
       "addr:state": "WA",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
-      "long_name": "Woolworths Yokine",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -9243,7 +9348,7 @@
       "addr:city": "Tamworth",
       "addr:housenumber": "502-504",
       "addr:postcode": "2340",
-      "addr:province": "NSW",
+      "addr:state": "NSW",
       "addr:street": "Peel Street",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
@@ -9305,6 +9410,20 @@
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
+    }
+  },
+  "n5784049580": {
+    "id": "n5784049580",
+    "x": -33.8378122,
+    "y": 151.2069382,
+    "tags": {
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
+      "name": "Woolworths Metro",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket",
+      "wheelchair": "yes"
     }
   },
   "n5796006229": {
@@ -9737,17 +9856,6 @@
       "shop": "supermarket"
     }
   },
-  "n6495414133": {
-    "id": "n6495414133",
-    "x": -34.0880752,
-    "y": 18.8213044,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "name": "Woolworths",
-      "shop": "supermarket"
-    }
-  },
   "n6522469061": {
     "id": "n6522469061",
     "x": -33.9660028,
@@ -9784,11 +9892,10 @@
     "x": -37.8630952,
     "y": 145.0101814,
     "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
       "brand:wikipedia": "en:Woolworths Supermarkets",
-      "description": "Woolworths Metro",
-      "name": "Woolworths",
+      "name": "Woolworths Metro",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
@@ -9836,6 +9943,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -9857,11 +9966,13 @@
     "x": -33.8779123,
     "y": 151.2443505,
     "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths Metro",
       "opening_hours": "Mo-Su 07:00-21:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/shop/storelocator/nsw-double-bay-1527"
     }
@@ -9974,31 +10085,6 @@
       "website": "https://www.woolworths.com.au/shop/storelocator/vic-burwood-east-3060"
     }
   },
-  "n7007527854": {
-    "id": "n7007527854",
-    "x": -33.9955497,
-    "y": 18.4690697,
-    "tags": {
-      "addr:city": "Kenilworth",
-      "addr:housenumber": "321",
-      "addr:postcode": "7708",
-      "addr:street": "Main Road",
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "name": "Woolworths",
-      "opening_hours": "Mo-Sa 08:00-18:00",
-      "operator": "Woolworths",
-      "payment:cash": "yes",
-      "payment:coins": "yes",
-      "payment:credit_cards": "yes",
-      "payment:debit_cards": "yes",
-      "payment:mastercard": "yes",
-      "payment:notes": "yes",
-      "payment:visa": "yes",
-      "payment:visa_debit": "yes",
-      "shop": "supermarket"
-    }
-  },
   "n7015942366": {
     "id": "n7015942366",
     "x": -33.8693268,
@@ -10028,11 +10114,12 @@
       "addr:state": "VIC",
       "addr:street": "Johnston Street",
       "addr:suburb": "Abbotsford",
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths Metro",
-      "operator": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -10164,8 +10251,8 @@
   },
   "n7238007781": {
     "id": "n7238007781",
-    "x": -34.2898916,
-    "y": 146.0541235,
+    "x": -34.2897104,
+    "y": 146.0542119,
     "tags": {
       "addr:housenumber": "88",
       "addr:postcode": "2680",
@@ -10177,6 +10264,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
       "opening_hours": "Mo-Su 07:00-22:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -10373,7 +10462,8 @@
       "opening_hours": "Mo-Su 07:00-22:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
-      "shop": "supermarket"
+      "shop": "supermarket",
+      "website": "https://www.woolworths.com.au/shop/storelocator/nsw-ulladulla-1136"
     }
   },
   "n7814358092": {
@@ -10598,10 +10688,13 @@
     "x": -28.8229945,
     "y": 153.3279956,
     "tags": {
+      "branch": "Goonellabah",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
-      "name": "Woolworths Goonellabah",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -10615,7 +10708,7 @@
       "addr:state": "NSW",
       "addr:street": "Hunter Street",
       "addr:suburb": "Newcastle",
-      "branch": "East Newcastle",
+      "branch": "Newcastle East",
       "brand": "Woolworths Metro",
       "brand:wikidata": "Q111772555",
       "brand:wikipedia": "en:Woolworths Supermarkets",
@@ -10797,6 +10890,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -10809,6 +10904,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -10823,6 +10920,7 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "opening_hours": "Mo-Fr 08:00-21:00; Sa 8:00-17:00; Su 11:00-17:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket",
@@ -11024,6 +11122,19 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n9481772893": {
+    "id": "n9481772893",
+    "x": -31.8440362,
+    "y": 115.811653,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
       "name": "Woolworths",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
@@ -11371,6 +11482,19 @@
       "shop": "supermarket"
     }
   },
+  "n10243705320": {
+    "id": "n10243705320",
+    "x": -37.7761084,
+    "y": 144.9285108,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
   "n10246046158": {
     "id": "n10246046158",
     "x": -27.6700768,
@@ -11470,6 +11594,25 @@
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
+    }
+  },
+  "n10567429114": {
+    "id": "n10567429114",
+    "x": -37.9738785,
+    "y": 145.0163098,
+    "tags": {
+      "addr:city": "Black Rock",
+      "addr:housenumber": "39-41A",
+      "addr:postcode": "3193",
+      "addr:street": "Bluff Road",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
+      "name": "Woolworths Metro",
+      "opening_hours": "Mo-Su 07:00-22:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket",
+      "source": "survey"
     }
   },
   "n10568103910": {
@@ -11887,6 +12030,19 @@
       "shop": "supermarket"
     }
   },
+  "n11330383922": {
+    "id": "n11330383922",
+    "x": -24.870951,
+    "y": 152.3807895,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
   "n11377244456": {
     "id": "n11377244456",
     "x": -27.3608124,
@@ -12006,18 +12162,6 @@
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
-    }
-  },
-  "n11768947860": {
-    "id": "n11768947860",
-    "x": -33.9357741,
-    "y": 18.8599648,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "level": "1",
-      "name": "Woolworths",
-      "shop": "clothes"
     }
   },
   "n11820771232": {
@@ -12177,6 +12321,563 @@
       "shop": "supermarket"
     }
   },
+  "n11861578458": {
+    "id": "n11861578458",
+    "x": -33.830338,
+    "y": 151.086121,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "level": "-1",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861587839": {
+    "id": "n11861587839",
+    "x": -34.7736921,
+    "y": 138.7294631,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861587861": {
+    "id": "n11861587861",
+    "x": -34.8944401,
+    "y": 138.5314269,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861594858": {
+    "id": "n11861594858",
+    "x": -32.4479491,
+    "y": 115.7646814,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861602758": {
+    "id": "n11861602758",
+    "x": -34.8567438,
+    "y": 138.6350575,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "phone": "+61 8 8314 5489",
+      "shop": "supermarket"
+    }
+  },
+  "n11861607520": {
+    "id": "n11861607520",
+    "x": -34.3742104,
+    "y": 150.8978546,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861629964": {
+    "id": "n11861629964",
+    "x": -32.2209349,
+    "y": 116.004573,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861629986": {
+    "id": "n11861629986",
+    "x": -27.8778976,
+    "y": 153.3647499,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861648350": {
+    "id": "n11861648350",
+    "x": -34.0388029,
+    "y": 151.1430318,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861653791": {
+    "id": "n11861653791",
+    "x": -31.846455,
+    "y": 115.9066402,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "note": "location based on street sign",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861656908": {
+    "id": "n11861656908",
+    "x": -32.5208306,
+    "y": 115.7525022,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861660234": {
+    "id": "n11861660234",
+    "x": -31.8893506,
+    "y": 115.8205665,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861672210": {
+    "id": "n11861672210",
+    "x": -31.8903639,
+    "y": 116.0023163,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861673561": {
+    "id": "n11861673561",
+    "x": -33.3979476,
+    "y": 115.6347781,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861697941": {
+    "id": "n11861697941",
+    "x": -27.5612664,
+    "y": 151.9517714,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861738585": {
+    "id": "n11861738585",
+    "x": -42.9765903,
+    "y": 147.3088837,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861747851": {
+    "id": "n11861747851",
+    "x": -27.612026,
+    "y": 153.3019811,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "level": "1",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861751246": {
+    "id": "n11861751246",
+    "x": -31.6366312,
+    "y": 115.6995156,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861788588": {
+    "id": "n11861788588",
+    "x": -34.4859404,
+    "y": 150.8890526,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861796046": {
+    "id": "n11861796046",
+    "x": -31.8623097,
+    "y": 115.8295369,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861804173": {
+    "id": "n11861804173",
+    "x": -31.9387559,
+    "y": 115.7925616,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861949375": {
+    "id": "n11861949375",
+    "x": -31.8593041,
+    "y": 115.9260375,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861982374": {
+    "id": "n11861982374",
+    "x": -16.9258943,
+    "y": 145.7731886,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "level": "1",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861985480": {
+    "id": "n11861985480",
+    "x": -19.3632915,
+    "y": 146.730305,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861989155": {
+    "id": "n11861989155",
+    "x": -27.2447771,
+    "y": 153.1078617,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11861998389": {
+    "id": "n11861998389",
+    "x": -34.8093683,
+    "y": 138.6853491,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "note": "location is not accurate",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862005933": {
+    "id": "n11862005933",
+    "x": -27.0903437,
+    "y": 152.9265096,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862006321": {
+    "id": "n11862006321",
+    "x": -19.2868799,
+    "y": 146.7614565,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862007063": {
+    "id": "n11862007063",
+    "x": -32.2632085,
+    "y": 115.8159419,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862027426": {
+    "id": "n11862027426",
+    "x": -19.3035529,
+    "y": 146.7416005,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862028676": {
+    "id": "n11862028676",
+    "x": -27.5238778,
+    "y": 153.0124774,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862049490": {
+    "id": "n11862049490",
+    "x": -33.7876027,
+    "y": 150.9492426,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "level": "1",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862055220": {
+    "id": "n11862055220",
+    "x": -32.3132434,
+    "y": 115.753506,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862061525": {
+    "id": "n11862061525",
+    "x": -34.4360611,
+    "y": 150.8635403,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "level": "0",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862064985": {
+    "id": "n11862064985",
+    "x": -32.5842423,
+    "y": 115.6615295,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862077354": {
+    "id": "n11862077354",
+    "x": -34.8103511,
+    "y": 138.6531254,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862084962": {
+    "id": "n11862084962",
+    "x": -23.9476275,
+    "y": 151.3529068,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "note": "in-store location guessed",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862112540": {
+    "id": "n11862112540",
+    "x": -33.8868041,
+    "y": 150.8489957,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "note": "indoor location guessed",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862126589": {
+    "id": "n11862126589",
+    "x": -28.1063068,
+    "y": 153.4050397,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862153338": {
+    "id": "n11862153338",
+    "x": -31.9211814,
+    "y": 115.8397095,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862154384": {
+    "id": "n11862154384",
+    "x": -31.8699277,
+    "y": 115.9458814,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11862159585": {
+    "id": "n11862159585",
+    "x": -33.8323973,
+    "y": 151.0134885,
+    "tags": {
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
+      "name": "Woolworths Metro",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket",
+      "source": "https://www.granvilleplaceshopping.com.au/directory/"
+    }
+  },
   "r9389462": {
     "id": "r9389462",
     "x": -35.1944256,
@@ -12220,7 +12921,6 @@
       "addr:street": "Rode Road",
       "brand": "Woolworths Metro",
       "brand:wikidata": "Q111772555",
-      "brand:wikipedia": "en:Coles Supermarkets",
       "building": "yes",
       "name": "Woolworths Metro",
       "operator": "Woolworths Group",
@@ -12297,13 +12997,20 @@
     "x": -37.7677535,
     "y": 144.9214136,
     "tags": {
+      "addr:housenumber": "13",
+      "addr:postcode": "3039",
+      "addr:state": "VIC",
+      "addr:street": "Pratt Street",
+      "addr:suburb": "Moonee Ponds",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "building": "yes",
       "name": "Woolworths",
+      "opening_hours": "Mo-Su 07:00-23:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
+      "phone": "+61 03 8347 6569",
       "shop": "supermarket",
       "source": "nearmap",
       "source:name": "survey"
@@ -12992,19 +13699,6 @@
       "name": "Woolworths",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
-    }
-  },
-  "w100829003": {
-    "id": "w100829003",
-    "x": -34.0826675,
-    "y": 18.8228255,
-    "tags": {
-      "branch": "Somerset Mall",
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "name": "Woolworths",
-      "phone": "+27218501600",
-      "shop": "supermarket"
     }
   },
   "w104449851": {
@@ -14006,7 +14700,7 @@
     "tags": {
       "addr:housenumber": "76",
       "addr:postcode": "5165",
-      "addr:province": "SA",
+      "addr:state": "SA",
       "addr:street": "Beach Road",
       "addr:suburb": "Christies Beach",
       "brand": "Woolworths",
@@ -14194,13 +14888,13 @@
       "addr:housenumber": "21-23",
       "addr:postcode": "2042",
       "addr:street": "Erskineville Road",
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "building": "yes",
       "building:levels": "1",
       "full_name": "Woolworths Metro Erskineville",
-      "name": "Woolworths",
+      "name": "Woolworths Metro",
       "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-22:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
@@ -14504,6 +15198,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "building": "yes",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -14720,7 +15416,7 @@
     "y": 147.5313719,
     "tags": {
       "addr:city": "Temora",
-      "addr:housenumber": "104/110",
+      "addr:housenumber": "104-110",
       "addr:postcode": "2666",
       "addr:street": "Hoskins Street",
       "brand": "Woolworths",
@@ -15127,14 +15823,16 @@
     "tags": {
       "branch": "Chatswood",
       "brand": "Woolworths Metro",
-      "brand:wikidata": "Q3249145",
+      "brand:wikidata": "Q111772555",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "contact:phone": "+61 2 8565 9350",
       "indoor": "room",
       "level": "0",
       "level:ref": "G",
-      "name": "Woolworths Metro Chatswood",
+      "name": "Woolworths Metro",
+      "operator": "Woolworths Group",
       "operator:abn": "88 000 014 675",
+      "operator:wikidata": "Q607272",
       "room": "shop",
       "shop": "supermarket",
       "wheelchair": "yes"
@@ -15209,6 +15907,8 @@
     "x": -23.8955872,
     "y": 151.2456476,
     "tags": {
+      "addr:street": "Kirkwood Road",
+      "addr:suburb": "Kirkwood",
       "branch": "Kirkwood",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
@@ -15899,6 +16599,20 @@
       "shop": "supermarket"
     }
   },
+  "w828431500": {
+    "id": "w828431500",
+    "x": -33.8611528,
+    "y": 151.1712275,
+    "tags": {
+      "brand": "Woolworths Metro",
+      "brand:wikidata": "Q111772555",
+      "building": "retail",
+      "name": "Woolworths Metro",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
   "w835224325": {
     "id": "w835224325",
     "x": -31.9866278,
@@ -16377,7 +17091,7 @@
       "addr:state": "VIC",
       "addr:street": "Doncaster Road",
       "addr:suburb": "Doncaster East",
-      "branch": "Doncaster",
+      "branch": "Doncaster East",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "building": "yes",
@@ -16385,6 +17099,21 @@
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "phone": "+61 3 8841 7612",
+      "shop": "supermarket"
+    }
+  },
+  "w1188874629": {
+    "id": "w1188874629",
+    "x": -37.5347675,
+    "y": 144.9605796,
+    "tags": {
+      "branch": "Kalllo Towncentre",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "building": "yes",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -16494,6 +17223,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "building": "yes",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "source": "local_knowledge;microsoft/BuildingFootprints",
       "website": "https://www.woolworths.com.au/",
@@ -16525,6 +17256,37 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "indoor": "room",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "w1277807885": {
+    "id": "w1277807885",
+    "x": -17.0874799,
+    "y": 145.7741822,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "building": "yes",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "w1279897391": {
+    "id": "w1279897391",
+    "x": -27.708777,
+    "y": 153.0964003,
+    "tags": {
+      "addr:postcode": "4133",
+      "addr:state": "QLD",
+      "addr:suburb": "Logan Reserve",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "building": "yes",
       "name": "Woolworths",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",

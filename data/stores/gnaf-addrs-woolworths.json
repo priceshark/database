@@ -1,0 +1,7667 @@
+{
+  "n18255251": {
+    "latitude": -34.04333492,
+    "longitude": 151.1184714,
+    "locality": "CARINGBAH",
+    "postcode": "2229",
+    "state": "NSW"
+  },
+  "n18319578": {
+    "latitude": -33.92528264,
+    "longitude": 151.21139944,
+    "locality": "EASTLAKES",
+    "postcode": "2018",
+    "state": "NSW"
+  },
+  "n18465889": {
+    "latitude": -33.94479941,
+    "longitude": 151.22426155,
+    "locality": "EASTGARDENS",
+    "postcode": "2036",
+    "state": "NSW"
+  },
+  "n18488859": {
+    "latitude": -33.9510212,
+    "longitude": 151.24972109,
+    "locality": "MAROUBRA",
+    "postcode": "2035",
+    "state": "NSW"
+  },
+  "n21279660": {
+    "latitude": -27.18063826,
+    "longitude": 151.26807092,
+    "locality": "DALBY",
+    "postcode": "4405",
+    "state": "QLD"
+  },
+  "n21312750": {
+    "latitude": -27.57123425,
+    "longitude": 151.97599866,
+    "locality": "EAST TOOWOOMBA",
+    "postcode": "4350",
+    "state": "QLD"
+  },
+  "n93840980": {
+    "latitude": -34.9311574,
+    "longitude": 138.56244869,
+    "locality": "HILTON",
+    "postcode": "5033",
+    "state": "SA"
+  },
+  "n158010473": {
+    "latitude": -27.53243729,
+    "longitude": 152.98127495,
+    "locality": "SHERWOOD",
+    "postcode": "4075",
+    "state": "QLD"
+  },
+  "n158448470": {
+    "latitude": -27.41207227,
+    "longitude": 153.01238083,
+    "locality": "STAFFORD",
+    "postcode": "4053",
+    "state": "QLD"
+  },
+  "n201642290": {
+    "latitude": -33.88916637,
+    "longitude": 151.12354074,
+    "locality": "ASHFIELD",
+    "postcode": "2131",
+    "state": "NSW"
+  },
+  "n207334338": {
+    "latitude": -33.87474202,
+    "longitude": 151.10457413,
+    "locality": "BURWOOD",
+    "postcode": "2134",
+    "state": "NSW"
+  },
+  "n218159462": {
+    "latitude": -33.77878346,
+    "longitude": 151.10786404,
+    "locality": "MARSFIELD",
+    "postcode": "2122",
+    "state": "NSW"
+  },
+  "n222261948": {
+    "latitude": -26.1989482,
+    "longitude": 152.6676665,
+    "locality": "GYMPIE",
+    "postcode": "4570",
+    "state": "QLD"
+  },
+  "n247283912": {
+    "latitude": -17.95238626,
+    "longitude": 122.22878929,
+    "locality": "DJUGUN",
+    "postcode": "6725",
+    "state": "WA"
+  },
+  "n248181056": {
+    "latitude": -33.73152592,
+    "longitude": 151.08177871,
+    "locality": "THORNLEIGH",
+    "postcode": "2120",
+    "state": "NSW"
+  },
+  "n248252452": {
+    "latitude": -33.75536481,
+    "longitude": 151.15184896,
+    "locality": "GORDON",
+    "postcode": "2072",
+    "state": "NSW"
+  },
+  "n249774363": {
+    "latitude": -27.40294173,
+    "longitude": 153.06113285,
+    "locality": "NUNDAH",
+    "postcode": "4012",
+    "state": "QLD"
+  },
+  "n250763048": {
+    "latitude": -20.29047527,
+    "longitude": 148.67275062,
+    "locality": "CANNONVALE",
+    "postcode": "4802",
+    "state": "QLD"
+  },
+  "n259143486": {
+    "latitude": -42.97993018,
+    "longitude": 147.30277765,
+    "locality": "KINGSTON",
+    "postcode": "7050",
+    "state": "TAS"
+  },
+  "n260099291": {
+    "latitude": -27.39357392,
+    "longitude": 152.99679182,
+    "locality": "MCDOWALL",
+    "postcode": "4053",
+    "state": "QLD"
+  },
+  "n260710501": {
+    "latitude": -37.83690385,
+    "longitude": 145.1636849,
+    "locality": "FOREST HILL",
+    "postcode": "3131",
+    "state": "VIC"
+  },
+  "n268173355": {
+    "latitude": -34.06378632,
+    "longitude": 151.01384183,
+    "locality": "ENGADINE",
+    "postcode": "2233",
+    "state": "NSW"
+  },
+  "n270223662": {
+    "latitude": -27.67887854,
+    "longitude": 152.902404,
+    "locality": "SPRINGFIELD CENTRAL",
+    "postcode": "4300",
+    "state": "QLD"
+  },
+  "n278116482": {
+    "latitude": -34.59776223,
+    "longitude": 138.74777516,
+    "locality": "GAWLER",
+    "postcode": "5118",
+    "state": "SA"
+  },
+  "n280897094": {
+    "latitude": -37.88893485,
+    "longitude": 145.08419491,
+    "locality": "MALVERN EAST",
+    "postcode": "3145",
+    "state": "VIC"
+  },
+  "n286272243": {
+    "latitude": -16.83835703,
+    "longitude": 145.69120389,
+    "locality": "SMITHFIELD",
+    "postcode": "4878",
+    "state": "QLD"
+  },
+  "n287864647": {
+    "latitude": -35.3412242,
+    "longitude": 149.05246745,
+    "locality": "WESTON",
+    "postcode": "2611",
+    "state": "ACT"
+  },
+  "n288983014": {
+    "latitude": -35.38029406,
+    "longitude": 149.05729848,
+    "locality": "KAMBAH",
+    "postcode": "2902",
+    "state": "ACT"
+  },
+  "n290081135": {
+    "latitude": -27.46246845,
+    "longitude": 153.02973885,
+    "locality": "SPRING HILL",
+    "postcode": "4000",
+    "state": "QLD"
+  },
+  "n302129542": {
+    "latitude": -37.79840134,
+    "longitude": 144.96857034,
+    "locality": "CARLTON",
+    "postcode": "3053",
+    "state": "VIC"
+  },
+  "n309018219": {
+    "latitude": -35.3655075,
+    "longitude": 149.09466087,
+    "locality": "MAWSON",
+    "postcode": "2607",
+    "state": "ACT"
+  },
+  "n311429437": {
+    "latitude": -27.54954609,
+    "longitude": 152.93884721,
+    "locality": "MOUNT OMMANEY",
+    "postcode": "4074",
+    "state": "QLD"
+  },
+  "n314933815": {
+    "latitude": -34.92733482,
+    "longitude": 138.65069743,
+    "locality": "LEABROOK",
+    "postcode": "5068",
+    "state": "SA"
+  },
+  "n319601982": {
+    "latitude": -37.87381785,
+    "longitude": 145.1648519,
+    "locality": "GLEN WAVERLEY",
+    "postcode": "3150",
+    "state": "VIC"
+  },
+  "n320839137": {
+    "latitude": -37.82327722,
+    "longitude": 145.30255393,
+    "locality": "BAYSWATER NORTH",
+    "postcode": "3153",
+    "state": "VIC"
+  },
+  "n323466241": {
+    "latitude": -37.80357201,
+    "longitude": 145.31117211,
+    "locality": "KILSYTH",
+    "postcode": "3137",
+    "state": "VIC"
+  },
+  "n324207736": {
+    "latitude": -37.91002289,
+    "longitude": 145.19030611,
+    "locality": "WHEELERS HILL",
+    "postcode": "3150",
+    "state": "VIC"
+  },
+  "n324892693": {
+    "latitude": -14.46581466,
+    "longitude": 132.26505401,
+    "locality": "KATHERINE",
+    "postcode": "0850",
+    "state": "NT"
+  },
+  "n324902795": {
+    "latitude": -27.35911086,
+    "longitude": 152.9695323,
+    "locality": "ALBANY CREEK",
+    "postcode": "4035",
+    "state": "QLD"
+  },
+  "n325276537": {
+    "latitude": -37.68549573,
+    "longitude": 144.56696163,
+    "locality": "MELTON WEST",
+    "postcode": "3337",
+    "state": "VIC"
+  },
+  "n329902917": {
+    "latitude": -27.57092496,
+    "longitude": 153.06488542,
+    "locality": "SUNNYBANK",
+    "postcode": "4109",
+    "state": "QLD"
+  },
+  "n331124791": {
+    "latitude": -27.47108206,
+    "longitude": 153.09961809,
+    "locality": "CANNON HILL",
+    "postcode": "4170",
+    "state": "QLD"
+  },
+  "n338906162": {
+    "latitude": -37.76010606,
+    "longitude": 145.34872622,
+    "locality": "LILYDALE",
+    "postcode": "3140",
+    "state": "VIC"
+  },
+  "n355763256": {
+    "latitude": -37.87804957,
+    "longitude": 145.12772115,
+    "locality": "MOUNT WAVERLEY",
+    "postcode": "3149",
+    "state": "VIC"
+  },
+  "n359881667": {
+    "latitude": -33.73411202,
+    "longitude": 150.92815208,
+    "locality": "GLENWOOD",
+    "postcode": "2768",
+    "state": "NSW"
+  },
+  "n364050366": {
+    "latitude": -33.4195141,
+    "longitude": 149.58190611,
+    "locality": "BATHURST",
+    "postcode": "2795",
+    "state": "NSW"
+  },
+  "n364050520": {
+    "latitude": -33.41772044,
+    "longitude": 149.58316933,
+    "locality": "BATHURST",
+    "postcode": "2795",
+    "state": "NSW"
+  },
+  "n364632405": {
+    "latitude": -38.08119686,
+    "longitude": 145.27843685,
+    "locality": "CRANBOURNE NORTH",
+    "postcode": "3977",
+    "state": "VIC"
+  },
+  "n365210772": {
+    "latitude": -38.14080946,
+    "longitude": 145.12636587,
+    "locality": "FRANKSTON",
+    "postcode": "3199",
+    "state": "VIC"
+  },
+  "n365211158": {
+    "latitude": -37.98364011,
+    "longitude": 145.133013,
+    "locality": "DINGLEY VILLAGE",
+    "postcode": "3172",
+    "state": "VIC"
+  },
+  "n367127279": {
+    "latitude": -38.18359814,
+    "longitude": 145.08970998,
+    "locality": "MOUNT ELIZA",
+    "postcode": "3930",
+    "state": "VIC"
+  },
+  "n368387444": {
+    "latitude": -38.22344854,
+    "longitude": 145.17151907,
+    "locality": "SOMERVILLE",
+    "postcode": "3912",
+    "state": "VIC"
+  },
+  "n369959816": {
+    "latitude": -31.95303357,
+    "longitude": 115.86066267,
+    "locality": "PERTH",
+    "postcode": "6000",
+    "state": "WA"
+  },
+  "n373593096": {
+    "latitude": -34.31134048,
+    "longitude": 148.2913972,
+    "locality": "YOUNG",
+    "postcode": "2594",
+    "state": "NSW"
+  },
+  "n396596377": {
+    "latitude": -27.69613602,
+    "longitude": 153.03829628,
+    "locality": "PARK RIDGE",
+    "postcode": "4125",
+    "state": "QLD"
+  },
+  "n410043848": {
+    "latitude": -30.6444129,
+    "longitude": 153.00328076,
+    "locality": "NAMBUCCA HEADS",
+    "postcode": "2448",
+    "state": "NSW"
+  },
+  "n427864919": {
+    "latitude": -37.99386675,
+    "longitude": 145.17287822,
+    "locality": "KEYSBOROUGH",
+    "postcode": "3173",
+    "state": "VIC"
+  },
+  "n429669571": {
+    "latitude": -41.36385562,
+    "longitude": 147.04343664,
+    "locality": "LEGANA",
+    "postcode": "7277",
+    "state": "TAS"
+  },
+  "n441038763": {
+    "latitude": -27.56487854,
+    "longitude": 151.93241302,
+    "locality": "NEWTOWN",
+    "postcode": "4350",
+    "state": "QLD"
+  },
+  "n441354390": {
+    "latitude": -35.24322592,
+    "longitude": 149.04421392,
+    "locality": "HAWKER",
+    "postcode": "2614",
+    "state": "ACT"
+  },
+  "n444677702": {
+    "latitude": -35.20488379,
+    "longitude": 149.03302218,
+    "locality": "CHARNWOOD",
+    "postcode": "2615",
+    "state": "ACT"
+  },
+  "n445359202": {
+    "latitude": -35.22323285,
+    "longitude": 149.02044324,
+    "locality": "HOLT",
+    "postcode": "2615",
+    "state": "ACT"
+  },
+  "n446876543": {
+    "latitude": -32.8870991,
+    "longitude": 151.71991447,
+    "locality": "WARABROOK",
+    "postcode": "2304",
+    "state": "NSW"
+  },
+  "n448598894": {
+    "latitude": -33.91885074,
+    "longitude": 150.92437521,
+    "locality": "LIVERPOOL",
+    "postcode": "2170",
+    "state": "NSW"
+  },
+  "n448610224": {
+    "latitude": -33.88666004,
+    "longitude": 150.89061521,
+    "locality": "BONNYRIGG",
+    "postcode": "2177",
+    "state": "NSW"
+  },
+  "n449383332": {
+    "latitude": -37.88449201,
+    "longitude": 145.05816108,
+    "locality": "CARNEGIE",
+    "postcode": "3163",
+    "state": "VIC"
+  },
+  "n454146675": {
+    "latitude": -27.73706219,
+    "longitude": 152.98343529,
+    "locality": "GREENBANK",
+    "postcode": "4124",
+    "state": "QLD"
+  },
+  "n458680006": {
+    "latitude": -33.78888668,
+    "longitude": 150.66865099,
+    "locality": "GLENMORE PARK",
+    "postcode": "2745",
+    "state": "NSW"
+  },
+  "n465186446": {
+    "latitude": -37.78707233,
+    "longitude": 145.12599627,
+    "locality": "DONCASTER",
+    "postcode": "3108",
+    "state": "VIC"
+  },
+  "n469459628": {
+    "latitude": -37.86236984,
+    "longitude": 145.02707092,
+    "locality": "ARMADALE",
+    "postcode": "3143",
+    "state": "VIC"
+  },
+  "n473363977": {
+    "latitude": -37.70668045,
+    "longitude": 144.93859144,
+    "locality": "HADFIELD",
+    "postcode": "3046",
+    "state": "VIC"
+  },
+  "n474981739": {
+    "latitude": -27.4159172,
+    "longitude": 153.08234893,
+    "locality": "BRISBANE AIRPORT",
+    "postcode": "4008",
+    "state": "QLD"
+  },
+  "n475019463": {
+    "latitude": -27.3812658,
+    "longitude": 153.03128528,
+    "locality": "CHERMSIDE",
+    "postcode": "4032",
+    "state": "QLD"
+  },
+  "n489379485": {
+    "latitude": -38.31409984,
+    "longitude": 146.42028458,
+    "locality": "CHURCHILL",
+    "postcode": "3842",
+    "state": "VIC"
+  },
+  "n492905311": {
+    "latitude": -37.65330684,
+    "longitude": 145.07572593,
+    "locality": "MILL PARK",
+    "postcode": "3082",
+    "state": "VIC"
+  },
+  "n493149747": {
+    "latitude": -36.3882204,
+    "longitude": 145.4254706,
+    "locality": "SHEPPARTON",
+    "postcode": "3630",
+    "state": "VIC"
+  },
+  "n493879801": {
+    "latitude": -31.79909761,
+    "longitude": 115.7949987,
+    "locality": "WOODVALE",
+    "postcode": "6026",
+    "state": "WA"
+  },
+  "n506153647": {
+    "latitude": -37.82034611,
+    "longitude": 144.94376712,
+    "locality": "DOCKLANDS",
+    "postcode": "3008",
+    "state": "VIC"
+  },
+  "n506459207": {
+    "latitude": -27.54365495,
+    "longitude": 151.92530385,
+    "locality": "WILSONTON",
+    "postcode": "4350",
+    "state": "QLD"
+  },
+  "n515973822": {
+    "latitude": -38.16007828,
+    "longitude": 145.93016655,
+    "locality": "WARRAGUL",
+    "postcode": "3820",
+    "state": "VIC"
+  },
+  "n522283409": {
+    "latitude": -41.48046215,
+    "longitude": 147.12527138,
+    "locality": "PROSPECT VALE",
+    "postcode": "7250",
+    "state": "TAS"
+  },
+  "n528523533": {
+    "latitude": -27.59472108,
+    "longitude": 151.95056785,
+    "locality": "KEARNEYS SPRING",
+    "postcode": "4350",
+    "state": "QLD"
+  },
+  "n539945824": {
+    "latitude": -32.76298236,
+    "longitude": 151.74181712,
+    "locality": "RAYMOND TERRACE",
+    "postcode": "2324",
+    "state": "NSW"
+  },
+  "n539945895": {
+    "latitude": -32.76102243,
+    "longitude": 151.7440699,
+    "locality": "RAYMOND TERRACE",
+    "postcode": "2324",
+    "state": "NSW"
+  },
+  "n557288844": {
+    "latitude": -35.40373464,
+    "longitude": 149.09909605,
+    "locality": "WANNIASSA",
+    "postcode": "2903",
+    "state": "ACT"
+  },
+  "n559971467": {
+    "latitude": -33.75274859,
+    "longitude": 150.65905716,
+    "locality": "EMU PLAINS",
+    "postcode": "2750",
+    "state": "NSW"
+  },
+  "n563705087": {
+    "latitude": -37.41122104,
+    "longitude": 144.97774557,
+    "locality": "WALLAN",
+    "postcode": "3756",
+    "state": "VIC"
+  },
+  "n567375070": {
+    "latitude": -31.90123853,
+    "longitude": 116.16443827,
+    "locality": "MUNDARING",
+    "postcode": "6073",
+    "state": "WA"
+  },
+  "n570482501": {
+    "latitude": -37.84816684,
+    "longitude": 145.00510593,
+    "locality": "TOORAK",
+    "postcode": "3142",
+    "state": "VIC"
+  },
+  "n570577952": {
+    "latitude": -33.67567698,
+    "longitude": 151.30287615,
+    "locality": "MONA VALE",
+    "postcode": "2103",
+    "state": "NSW"
+  },
+  "n570698933": {
+    "latitude": -37.85919847,
+    "longitude": 144.97778009,
+    "locality": "ST KILDA",
+    "postcode": "3182",
+    "state": "VIC"
+  },
+  "n570758510": {
+    "latitude": -37.86885914,
+    "longitude": 144.97885984,
+    "locality": "ST KILDA",
+    "postcode": "3182",
+    "state": "VIC"
+  },
+  "n575752355": {
+    "latitude": -32.06452097,
+    "longitude": 115.85697448,
+    "locality": "BULL CREEK",
+    "postcode": "6149",
+    "state": "WA"
+  },
+  "n581881641": {
+    "latitude": -36.41508396,
+    "longitude": 148.62042078,
+    "locality": "JINDABYNE",
+    "postcode": "2627",
+    "state": "NSW"
+  },
+  "n592109271": {
+    "latitude": -37.90052333,
+    "longitude": 145.09070613,
+    "locality": "OAKLEIGH",
+    "postcode": "3166",
+    "state": "VIC"
+  },
+  "n596068077": {
+    "latitude": -35.18523868,
+    "longitude": 149.13412945,
+    "locality": "GUNGAHLIN",
+    "postcode": "2912",
+    "state": "ACT"
+  },
+  "n596136746": {
+    "latitude": -38.34534504,
+    "longitude": 141.60351719,
+    "locality": "PORTLAND",
+    "postcode": "3305",
+    "state": "VIC"
+  },
+  "n596833679": {
+    "latitude": -28.07921057,
+    "longitude": 153.36530194,
+    "locality": "MUDGEERABA",
+    "postcode": "4213",
+    "state": "QLD"
+  },
+  "n598419215": {
+    "latitude": -32.93543082,
+    "longitude": 151.64062223,
+    "locality": "ARGENTON",
+    "postcode": "2284",
+    "state": "NSW"
+  },
+  "n598781927": {
+    "latitude": -31.09050462,
+    "longitude": 150.91964513,
+    "locality": "WEST TAMWORTH",
+    "postcode": "2340",
+    "state": "NSW"
+  },
+  "n599918443": {
+    "latitude": -33.48662878,
+    "longitude": 151.32564206,
+    "locality": "WOY WOY",
+    "postcode": "2256",
+    "state": "NSW"
+  },
+  "n602318242": {
+    "latitude": -41.17719775,
+    "longitude": 146.35632351,
+    "locality": "DEVONPORT",
+    "postcode": "7310",
+    "state": "TAS"
+  },
+  "n602904712": {
+    "latitude": -37.69806932,
+    "longitude": 144.77608083,
+    "locality": "TAYLORS LAKES",
+    "postcode": "3038",
+    "state": "VIC"
+  },
+  "n606203399": {
+    "latitude": -33.82892316,
+    "longitude": 150.95204012,
+    "locality": "GREYSTANES",
+    "postcode": "2145",
+    "state": "NSW"
+  },
+  "n606308650": {
+    "latitude": -35.07545459,
+    "longitude": 138.59281021,
+    "locality": "ABERFOYLE PARK",
+    "postcode": "5159",
+    "state": "SA"
+  },
+  "n606771186": {
+    "latitude": -31.94374615,
+    "longitude": 115.82402171,
+    "locality": "SUBIACO",
+    "postcode": "6008",
+    "state": "WA"
+  },
+  "n611543589": {
+    "latitude": -32.98461833,
+    "longitude": 151.67256908,
+    "locality": "MOUNT HUTTON",
+    "postcode": "2290",
+    "state": "NSW"
+  },
+  "n613996660": {
+    "latitude": -37.81118826,
+    "longitude": 144.96522936,
+    "locality": "MELBOURNE",
+    "postcode": "3000",
+    "state": "VIC"
+  },
+  "n615107046": {
+    "latitude": -27.3206044,
+    "longitude": 153.06893838,
+    "locality": "SANDGATE",
+    "postcode": "4017",
+    "state": "QLD"
+  },
+  "n616884117": {
+    "latitude": -12.63904805,
+    "longitude": 141.86446805,
+    "locality": "NANUM",
+    "postcode": "4874",
+    "state": "QLD"
+  },
+  "n617503540": {
+    "latitude": -27.25121998,
+    "longitude": 152.99918707,
+    "locality": "KALLANGUR",
+    "postcode": "4503",
+    "state": "QLD"
+  },
+  "n617986048": {
+    "latitude": -33.8181199,
+    "longitude": 150.93274778,
+    "locality": "PEMULWUY",
+    "postcode": "2145",
+    "state": "NSW"
+  },
+  "n621539656": {
+    "latitude": -37.88838682,
+    "longitude": 144.60678857,
+    "locality": "WYNDHAM VALE",
+    "postcode": "3024",
+    "state": "VIC"
+  },
+  "n621763511": {
+    "latitude": -35.14148541,
+    "longitude": 147.37624658,
+    "locality": "KOORINGAL",
+    "postcode": "2650",
+    "state": "NSW"
+  },
+  "n623810970": {
+    "latitude": -33.42562223,
+    "longitude": 151.34358261,
+    "locality": "GOSFORD",
+    "postcode": "2250",
+    "state": "NSW"
+  },
+  "n625525246": {
+    "latitude": -38.02977927,
+    "longitude": 145.34691202,
+    "locality": "BERWICK",
+    "postcode": "3806",
+    "state": "VIC"
+  },
+  "n632873556": {
+    "latitude": -27.61100072,
+    "longitude": 152.89640434,
+    "locality": "GOODNA",
+    "postcode": "4300",
+    "state": "QLD"
+  },
+  "n634805672": {
+    "latitude": -35.5531374,
+    "longitude": 138.62030021,
+    "locality": "VICTOR HARBOR",
+    "postcode": "5211",
+    "state": "SA"
+  },
+  "n653304918": {
+    "latitude": -37.78167151,
+    "longitude": 145.61271206,
+    "locality": "YARRA JUNCTION",
+    "postcode": "3797",
+    "state": "VIC"
+  },
+  "n655118656": {
+    "latitude": -37.53307115,
+    "longitude": 143.82599591,
+    "locality": "WENDOUREE",
+    "postcode": "3355",
+    "state": "VIC"
+  },
+  "n661600405": {
+    "latitude": -37.78708367,
+    "longitude": 144.92821144,
+    "locality": "FLEMINGTON",
+    "postcode": "3031",
+    "state": "VIC"
+  },
+  "n662714517": {
+    "latitude": -32.07437689,
+    "longitude": 115.7589609,
+    "locality": "SOUTH FREMANTLE",
+    "postcode": "6162",
+    "state": "WA"
+  },
+  "n663618674": {
+    "latitude": -23.356849,
+    "longitude": 119.73229792,
+    "locality": "NEWMAN",
+    "postcode": "6753",
+    "state": "WA"
+  },
+  "n666494359": {
+    "latitude": -37.93986685,
+    "longitude": 145.1040609,
+    "locality": "CLARINDA",
+    "postcode": "3169",
+    "state": "VIC"
+  },
+  "n666846427": {
+    "latitude": -37.77623898,
+    "longitude": 144.96192846,
+    "locality": "BRUNSWICK",
+    "postcode": "3056",
+    "state": "VIC"
+  },
+  "n677412574": {
+    "latitude": -35.01906213,
+    "longitude": 117.88455103,
+    "locality": "ALBANY",
+    "postcode": "6330",
+    "state": "WA"
+  },
+  "n677419678": {
+    "latitude": -33.81515875,
+    "longitude": 151.16921703,
+    "locality": "LANE COVE",
+    "postcode": "2066",
+    "state": "NSW"
+  },
+  "n683788407": {
+    "latitude": -33.85828636,
+    "longitude": 121.89097992,
+    "locality": "ESPERANCE",
+    "postcode": "6450",
+    "state": "WA"
+  },
+  "n690176499": {
+    "latitude": -27.63087455,
+    "longitude": 153.04505215,
+    "locality": "CALAMVALE",
+    "postcode": "4116",
+    "state": "QLD"
+  },
+  "n691541483": {
+    "latitude": -33.33762662,
+    "longitude": 115.64152085,
+    "locality": "SOUTH BUNBURY",
+    "postcode": "6230",
+    "state": "WA"
+  },
+  "n692509445": {
+    "latitude": -33.74626549,
+    "longitude": 150.95222537,
+    "locality": "BELLA VISTA",
+    "postcode": "2153",
+    "state": "NSW"
+  },
+  "n692570445": {
+    "latitude": -38.24443585,
+    "longitude": 145.04826187,
+    "locality": "MORNINGTON",
+    "postcode": "3931",
+    "state": "VIC"
+  },
+  "n697190767": {
+    "latitude": -37.85746834,
+    "longitude": 144.88256358,
+    "locality": "WILLIAMSTOWN",
+    "postcode": "3016",
+    "state": "VIC"
+  },
+  "n700498632": {
+    "latitude": -27.45867136,
+    "longitude": 152.99803387,
+    "locality": "PADDINGTON",
+    "postcode": "4064",
+    "state": "QLD"
+  },
+  "n701359486": {
+    "latitude": -34.76180024,
+    "longitude": 138.64566296,
+    "locality": "SALISBURY",
+    "postcode": "5108",
+    "state": "SA"
+  },
+  "n703004282": {
+    "latitude": -28.09567597,
+    "longitude": 153.44145598,
+    "locality": "BURLEIGH WATERS",
+    "postcode": "4220",
+    "state": "QLD"
+  },
+  "n703160534": {
+    "latitude": -32.06886247,
+    "longitude": 115.9487599,
+    "locality": "THORNLIE",
+    "postcode": "6108",
+    "state": "WA"
+  },
+  "n705816747": {
+    "latitude": -35.34551014,
+    "longitude": 149.08489103,
+    "locality": "PHILLIP",
+    "postcode": "2606",
+    "state": "ACT"
+  },
+  "n709966598": {
+    "latitude": -32.56722252,
+    "longitude": 151.16394753,
+    "locality": "SINGLETON",
+    "postcode": "2330",
+    "state": "NSW"
+  },
+  "n712794234": {
+    "latitude": -34.71847875,
+    "longitude": 138.66834966,
+    "locality": "ELIZABETH",
+    "postcode": "5112",
+    "state": "SA"
+  },
+  "n726967748": {
+    "latitude": -37.81029528,
+    "longitude": 144.9700391,
+    "locality": "MELBOURNE",
+    "postcode": "3000",
+    "state": "VIC"
+  },
+  "n727513764": {
+    "latitude": -33.31830662,
+    "longitude": 115.71483083,
+    "locality": "EATON",
+    "postcode": "6232",
+    "state": "WA"
+  },
+  "n735998263": {
+    "latitude": -27.85268908,
+    "longitude": 153.30134581,
+    "locality": "UPPER COOMERA",
+    "postcode": "4209",
+    "state": "QLD"
+  },
+  "n738299902": {
+    "latitude": -37.87554687,
+    "longitude": 145.40867285,
+    "locality": "MONBULK",
+    "postcode": "3793",
+    "state": "VIC"
+  },
+  "n739081648": {
+    "latitude": -27.45382668,
+    "longitude": 153.01459391,
+    "locality": "KELVIN GROVE",
+    "postcode": "4059",
+    "state": "QLD"
+  },
+  "n740301552": {
+    "latitude": -38.25811931,
+    "longitude": 144.54952302,
+    "locality": "OCEAN GROVE",
+    "postcode": "3226",
+    "state": "VIC"
+  },
+  "n745976311": {
+    "latitude": -27.71770624,
+    "longitude": 153.20668374,
+    "locality": "BEENLEIGH",
+    "postcode": "4207",
+    "state": "QLD"
+  },
+  "n755815129": {
+    "latitude": -12.18403225,
+    "longitude": 136.78684127,
+    "locality": "NHULUNBUY",
+    "postcode": "0880",
+    "state": "NT"
+  },
+  "n761253665": {
+    "latitude": -26.77281671,
+    "longitude": 153.12220795,
+    "locality": "CURRIMUNDI",
+    "postcode": "4551",
+    "state": "QLD"
+  },
+  "n761868380": {
+    "latitude": -31.97368068,
+    "longitude": 115.89794037,
+    "locality": "VICTORIA PARK",
+    "postcode": "6100",
+    "state": "WA"
+  },
+  "n762177599": {
+    "latitude": -34.95093362,
+    "longitude": 138.60564838,
+    "locality": "UNLEY",
+    "postcode": "5061",
+    "state": "SA"
+  },
+  "n764726553": {
+    "latitude": -42.84595194,
+    "longitude": 147.29391345,
+    "locality": "MOONAH",
+    "postcode": "7009",
+    "state": "TAS"
+  },
+  "n771196393": {
+    "latitude": -37.04660594,
+    "longitude": 143.74048976,
+    "locality": "MARYBOROUGH",
+    "postcode": "3465",
+    "state": "VIC"
+  },
+  "n773517588": {
+    "latitude": -37.77302952,
+    "longitude": 145.11372479,
+    "locality": "TEMPLESTOWE LOWER",
+    "postcode": "3107",
+    "state": "VIC"
+  },
+  "n778230949": {
+    "latitude": -20.31103752,
+    "longitude": 118.60864985,
+    "locality": "PORT HEDLAND",
+    "postcode": "6721",
+    "state": "WA"
+  },
+  "n780160558": {
+    "latitude": -33.86475746,
+    "longitude": 151.2067819,
+    "locality": "SYDNEY",
+    "postcode": "2000",
+    "state": "NSW"
+  },
+  "n794940019": {
+    "latitude": -27.56303608,
+    "longitude": 153.08278545,
+    "locality": "UPPER MOUNT GRAVATT",
+    "postcode": "4122",
+    "state": "QLD"
+  },
+  "n804667874": {
+    "latitude": -27.64534571,
+    "longitude": 152.8697217,
+    "locality": "REDBANK PLAINS",
+    "postcode": "4301",
+    "state": "QLD"
+  },
+  "n821389445": {
+    "latitude": -33.83603882,
+    "longitude": 148.69161998,
+    "locality": "COWRA",
+    "postcode": "2794",
+    "state": "NSW"
+  },
+  "n828422261": {
+    "latitude": -27.47480498,
+    "longitude": 153.15589219,
+    "locality": "MANLY WEST",
+    "postcode": "4179",
+    "state": "QLD"
+  },
+  "n832516580": {
+    "latitude": -19.57357813,
+    "longitude": 147.40820757,
+    "locality": "AYR",
+    "postcode": "4807",
+    "state": "QLD"
+  },
+  "n836018813": {
+    "latitude": -33.75825434,
+    "longitude": 150.99236596,
+    "locality": "BAULKHAM HILLS",
+    "postcode": "2153",
+    "state": "NSW"
+  },
+  "n848442300": {
+    "latitude": -37.6565156,
+    "longitude": 145.08165374,
+    "locality": "MILL PARK",
+    "postcode": "3082",
+    "state": "VIC"
+  },
+  "n865473418": {
+    "latitude": -41.41329795,
+    "longitude": 147.10138867,
+    "locality": "RIVERSIDE",
+    "postcode": "7250",
+    "state": "TAS"
+  },
+  "n879573514": {
+    "latitude": -37.89970115,
+    "longitude": 144.6627451,
+    "locality": "WERRIBEE",
+    "postcode": "3030",
+    "state": "VIC"
+  },
+  "n880098050": {
+    "latitude": -38.13669124,
+    "longitude": 144.34783323,
+    "locality": "GEELONG WEST",
+    "postcode": "3218",
+    "state": "VIC"
+  },
+  "n880532438": {
+    "latitude": -17.26220595,
+    "longitude": 145.47890779,
+    "locality": "ATHERTON",
+    "postcode": "4883",
+    "state": "QLD"
+  },
+  "n881751151": {
+    "latitude": -37.68714683,
+    "longitude": 144.88495496,
+    "locality": "GLADSTONE PARK",
+    "postcode": "3043",
+    "state": "VIC"
+  },
+  "n885685987": {
+    "latitude": -33.85793935,
+    "longitude": 151.1811232,
+    "locality": "BALMAIN",
+    "postcode": "2041",
+    "state": "NSW"
+  },
+  "n888758479": {
+    "latitude": -34.94673798,
+    "longitude": 138.51957284,
+    "locality": "ADELAIDE AIRPORT",
+    "postcode": "5950",
+    "state": "SA"
+  },
+  "n892661424": {
+    "latitude": -12.52490407,
+    "longitude": 131.04240262,
+    "locality": "COOLALINGA",
+    "postcode": "0839",
+    "state": "NT"
+  },
+  "n900947985": {
+    "latitude": -20.67535545,
+    "longitude": 117.1429826,
+    "locality": "WICKHAM",
+    "postcode": "6720",
+    "state": "WA"
+  },
+  "n907672698": {
+    "latitude": -37.75768901,
+    "longitude": 145.31375216,
+    "locality": "CHIRNSIDE PARK",
+    "postcode": "3116",
+    "state": "VIC"
+  },
+  "n907674176": {
+    "latitude": -37.8120767,
+    "longitude": 145.22713316,
+    "locality": "RINGWOOD",
+    "postcode": "3134",
+    "state": "VIC"
+  },
+  "n915079439": {
+    "latitude": -34.20627407,
+    "longitude": 142.13853131,
+    "locality": "MILDURA",
+    "postcode": "3500",
+    "state": "VIC"
+  },
+  "n917798156": {
+    "latitude": -27.45678781,
+    "longitude": 153.03337146,
+    "locality": "FORTITUDE VALLEY",
+    "postcode": "4006",
+    "state": "QLD"
+  },
+  "n932432827": {
+    "latitude": -37.86829764,
+    "longitude": 144.99120638,
+    "locality": "BALACLAVA",
+    "postcode": "3183",
+    "state": "VIC"
+  },
+  "n937425973": {
+    "latitude": -34.78879493,
+    "longitude": 138.69459242,
+    "locality": "GOLDEN GROVE",
+    "postcode": "5125",
+    "state": "SA"
+  },
+  "n960803840": {
+    "latitude": -37.93531861,
+    "longitude": 145.18805053,
+    "locality": "MULGRAVE",
+    "postcode": "3170",
+    "state": "VIC"
+  },
+  "n974244034": {
+    "latitude": -37.80986106,
+    "longitude": 144.99551763,
+    "locality": "ABBOTSFORD",
+    "postcode": "3067",
+    "state": "VIC"
+  },
+  "n983328267": {
+    "latitude": -30.71277166,
+    "longitude": 152.92211478,
+    "locality": "MACKSVILLE",
+    "postcode": "2447",
+    "state": "NSW"
+  },
+  "n990051886": {
+    "latitude": -31.91073419,
+    "longitude": 152.45758432,
+    "locality": "TAREE",
+    "postcode": "2430",
+    "state": "NSW"
+  },
+  "n997429632": {
+    "latitude": -16.92235986,
+    "longitude": 145.77716555,
+    "locality": "CAIRNS CITY",
+    "postcode": "4870",
+    "state": "QLD"
+  },
+  "n1001429277": {
+    "latitude": -35.99917415,
+    "longitude": 146.39063562,
+    "locality": "COROWA",
+    "postcode": "2646",
+    "state": "NSW"
+  },
+  "n1004721228": {
+    "latitude": -33.74465116,
+    "longitude": 150.80902809,
+    "locality": "EMERTON",
+    "postcode": "2770",
+    "state": "NSW"
+  },
+  "n1010812796": {
+    "latitude": -32.04780355,
+    "longitude": 150.86878056,
+    "locality": "SCONE",
+    "postcode": "2337",
+    "state": "NSW"
+  },
+  "n1034829090": {
+    "latitude": -41.40421135,
+    "longitude": 147.1348243,
+    "locality": "MOWBRAY",
+    "postcode": "7248",
+    "state": "TAS"
+  },
+  "n1037984533": {
+    "latitude": -32.80169598,
+    "longitude": 151.65790398,
+    "locality": "BERESFIELD",
+    "postcode": "2322",
+    "state": "NSW"
+  },
+  "n1047220515": {
+    "latitude": -40.84096554,
+    "longitude": 145.1229043,
+    "locality": "SMITHTON",
+    "postcode": "7330",
+    "state": "TAS"
+  },
+  "n1047224295": {
+    "latitude": -40.98986077,
+    "longitude": 145.72675646,
+    "locality": "WYNYARD",
+    "postcode": "7325",
+    "state": "TAS"
+  },
+  "n1076237346": {
+    "latitude": -27.61361669,
+    "longitude": 153.05190591,
+    "locality": "CALAMVALE",
+    "postcode": "4116",
+    "state": "QLD"
+  },
+  "n1080476560": {
+    "latitude": -33.60519038,
+    "longitude": 150.82152595,
+    "locality": "WINDSOR",
+    "postcode": "2756",
+    "state": "NSW"
+  },
+  "n1081346451": {
+    "latitude": -27.61038565,
+    "longitude": 153.05556194,
+    "locality": "SUNNYBANK HILLS",
+    "postcode": "4109",
+    "state": "QLD"
+  },
+  "n1095964185": {
+    "latitude": -33.9624033,
+    "longitude": 151.1333862,
+    "locality": "KOGARAH",
+    "postcode": "2217",
+    "state": "NSW"
+  },
+  "n1121118008": {
+    "latitude": -37.77010563,
+    "longitude": 145.04175685,
+    "locality": "IVANHOE",
+    "postcode": "3079",
+    "state": "VIC"
+  },
+  "n1125570232": {
+    "latitude": -34.87549844,
+    "longitude": 150.60619883,
+    "locality": "NOWRA",
+    "postcode": "2541",
+    "state": "NSW"
+  },
+  "n1133475660": {
+    "latitude": -27.59720797,
+    "longitude": 152.74654838,
+    "locality": "BRASSALL",
+    "postcode": "4305",
+    "state": "QLD"
+  },
+  "n1143293765": {
+    "latitude": -32.13362678,
+    "longitude": 115.85818604,
+    "locality": "SUCCESS",
+    "postcode": "6164",
+    "state": "WA"
+  },
+  "n1155825329": {
+    "latitude": -42.83464878,
+    "longitude": 147.27565251,
+    "locality": "GLENORCHY",
+    "postcode": "7010",
+    "state": "TAS"
+  },
+  "n1221088334": {
+    "latitude": -38.23646335,
+    "longitude": 146.42855876,
+    "locality": "MORWELL",
+    "postcode": "3840",
+    "state": "VIC"
+  },
+  "n1237251100": {
+    "latitude": -37.71461375,
+    "longitude": 144.8881689,
+    "locality": "AIRPORT WEST",
+    "postcode": "3042",
+    "state": "VIC"
+  },
+  "n1239467020": {
+    "latitude": -34.76800867,
+    "longitude": 138.62645138,
+    "locality": "SALISBURY DOWNS",
+    "postcode": "5108",
+    "state": "SA"
+  },
+  "n1239740988": {
+    "latitude": -38.03207295,
+    "longitude": 145.26558191,
+    "locality": "HAMPTON PARK",
+    "postcode": "3976",
+    "state": "VIC"
+  },
+  "n1248155780": {
+    "latitude": -33.77715297,
+    "longitude": 151.1210606,
+    "locality": "MACQUARIE PARK",
+    "postcode": "2113",
+    "state": "NSW"
+  },
+  "n1251037345": {
+    "latitude": -34.05393055,
+    "longitude": 151.15261739,
+    "locality": "CRONULLA",
+    "postcode": "2230",
+    "state": "NSW"
+  },
+  "n1264365500": {
+    "latitude": -37.77973803,
+    "longitude": 144.83278756,
+    "locality": "SUNSHINE",
+    "postcode": "3020",
+    "state": "VIC"
+  },
+  "n1272611858": {
+    "latitude": -31.2732781,
+    "longitude": 149.27536343,
+    "locality": "COONABARABRAN",
+    "postcode": "2357",
+    "state": "NSW"
+  },
+  "n1272843754": {
+    "latitude": -32.55509822,
+    "longitude": 148.94423331,
+    "locality": "WELLINGTON",
+    "postcode": "2820",
+    "state": "NSW"
+  },
+  "n1278107157": {
+    "latitude": -27.91304036,
+    "longitude": 153.40123393,
+    "locality": "RUNAWAY BAY",
+    "postcode": "4216",
+    "state": "QLD"
+  },
+  "n1278126819": {
+    "latitude": -37.74995882,
+    "longitude": 144.77252798,
+    "locality": "ALBANVALE",
+    "postcode": "3021",
+    "state": "VIC"
+  },
+  "n1285477487": {
+    "latitude": -35.33741557,
+    "longitude": 143.55787257,
+    "locality": "SWAN HILL",
+    "postcode": "3585",
+    "state": "VIC"
+  },
+  "n1292972857": {
+    "latitude": -17.5250059,
+    "longitude": 146.03106473,
+    "locality": "INNISFAIL",
+    "postcode": "4860",
+    "state": "QLD"
+  },
+  "n1301764616": {
+    "latitude": -36.07992493,
+    "longitude": 146.92001047,
+    "locality": "ALBURY",
+    "postcode": "2640",
+    "state": "NSW"
+  },
+  "n1302910676": {
+    "latitude": -33.81004706,
+    "longitude": 151.20879832,
+    "locality": "NORTHBRIDGE",
+    "postcode": "2063",
+    "state": "NSW"
+  },
+  "n1304771493": {
+    "latitude": -30.32234351,
+    "longitude": 149.78095762,
+    "locality": "NARRABRI",
+    "postcode": "2390",
+    "state": "NSW"
+  },
+  "n1304957677": {
+    "latitude": -34.97889019,
+    "longitude": 138.51973083,
+    "locality": "GLENELG",
+    "postcode": "5045",
+    "state": "SA"
+  },
+  "n1308482458": {
+    "latitude": -28.00263013,
+    "longitude": 153.42884805,
+    "locality": "SURFERS PARADISE",
+    "postcode": "4217",
+    "state": "QLD"
+  },
+  "n1311737972": {
+    "latitude": -38.07423755,
+    "longitude": 144.35805237,
+    "locality": "CORIO",
+    "postcode": "3214",
+    "state": "VIC"
+  },
+  "n1314982824": {
+    "latitude": -33.7725774,
+    "longitude": 150.96976948,
+    "locality": "WINSTON HILLS",
+    "postcode": "2153",
+    "state": "NSW"
+  },
+  "n1319911974": {
+    "latitude": -27.57061082,
+    "longitude": 152.79777784,
+    "locality": "CHUWAR",
+    "postcode": "4306",
+    "state": "QLD"
+  },
+  "n1326569195": {
+    "latitude": -35.23969935,
+    "longitude": 149.06506147,
+    "locality": "BELCONNEN",
+    "postcode": "2617",
+    "state": "ACT"
+  },
+  "n1329153398": {
+    "latitude": -33.75130742,
+    "longitude": 150.69025983,
+    "locality": "PENRITH",
+    "postcode": "2750",
+    "state": "NSW"
+  },
+  "n1339617383": {
+    "latitude": -30.5623712,
+    "longitude": 136.89650681,
+    "locality": "ROXBY DOWNS",
+    "postcode": "5725",
+    "state": "SA"
+  },
+  "n1361238034": {
+    "latitude": -31.95447747,
+    "longitude": 115.85781595,
+    "locality": "PERTH",
+    "postcode": "6000",
+    "state": "WA"
+  },
+  "n1361288034": {
+    "latitude": -31.89561355,
+    "longitude": 115.87220834,
+    "locality": "DIANELLA",
+    "postcode": "6059",
+    "state": "WA"
+  },
+  "n1361315776": {
+    "latitude": -31.8990535,
+    "longitude": 115.89887899,
+    "locality": "MORLEY",
+    "postcode": "6062",
+    "state": "WA"
+  },
+  "n1363413262": {
+    "latitude": -27.52611811,
+    "longitude": 153.26767042,
+    "locality": "CLEVELAND",
+    "postcode": "4163",
+    "state": "QLD"
+  },
+  "n1397881073": {
+    "latitude": -37.922143,
+    "longitude": 145.08307902,
+    "locality": "OAKLEIGH SOUTH",
+    "postcode": "3167",
+    "state": "VIC"
+  },
+  "n1417009836": {
+    "latitude": -33.7652215,
+    "longitude": 151.26513058,
+    "locality": "BROOKVALE",
+    "postcode": "2100",
+    "state": "NSW"
+  },
+  "n1417094574": {
+    "latitude": -35.02147026,
+    "longitude": 138.61608144,
+    "locality": "BLACKWOOD",
+    "postcode": "5051",
+    "state": "SA"
+  },
+  "n1419112913": {
+    "latitude": -32.25405561,
+    "longitude": 148.57783119,
+    "locality": "DUBBO",
+    "postcode": "2830",
+    "state": "NSW"
+  },
+  "n1428952003": {
+    "latitude": -37.8296783,
+    "longitude": 145.05974468,
+    "locality": "CAMBERWELL",
+    "postcode": "3124",
+    "state": "VIC"
+  },
+  "n1432754177": {
+    "latitude": -34.99045754,
+    "longitude": 117.87825434,
+    "locality": "LANGE",
+    "postcode": "6330",
+    "state": "WA"
+  },
+  "n1437209172": {
+    "latitude": -42.78064321,
+    "longitude": 147.56426015,
+    "locality": "SORELL",
+    "postcode": "7172",
+    "state": "TAS"
+  },
+  "n1437890133": {
+    "latitude": -28.65387733,
+    "longitude": 151.93586305,
+    "locality": "STANTHORPE",
+    "postcode": "4380",
+    "state": "QLD"
+  },
+  "n1473222546": {
+    "latitude": -31.78383651,
+    "longitude": 115.96733598,
+    "locality": "ELLENBROOK",
+    "postcode": "6069",
+    "state": "WA"
+  },
+  "n1477282994": {
+    "latitude": -42.79076416,
+    "longitude": 147.25531239,
+    "locality": "CLAREMONT",
+    "postcode": "7011",
+    "state": "TAS"
+  },
+  "n1480994671": {
+    "latitude": -33.76877767,
+    "longitude": 150.81959015,
+    "locality": "MOUNT DRUITT",
+    "postcode": "2770",
+    "state": "NSW"
+  },
+  "n1482248521": {
+    "latitude": -36.95730127,
+    "longitude": 140.74315848,
+    "locality": "NARACOORTE",
+    "postcode": "5271",
+    "state": "SA"
+  },
+  "n1482257466": {
+    "latitude": -37.59640146,
+    "longitude": 140.35335632,
+    "locality": "MILLICENT",
+    "postcode": "5280",
+    "state": "SA"
+  },
+  "n1489479515": {
+    "latitude": -37.65423079,
+    "longitude": 145.01752497,
+    "locality": "EPPING",
+    "postcode": "3076",
+    "state": "VIC"
+  },
+  "n1490976827": {
+    "latitude": -35.18846283,
+    "longitude": 138.47793959,
+    "locality": "SEAFORD",
+    "postcode": "5169",
+    "state": "SA"
+  },
+  "n1495125990": {
+    "latitude": -19.26036901,
+    "longitude": 146.81558427,
+    "locality": "TOWNSVILLE CITY",
+    "postcode": "4810",
+    "state": "QLD"
+  },
+  "n1500868929": {
+    "latitude": -19.27263885,
+    "longitude": 146.79288415,
+    "locality": "HYDE PARK",
+    "postcode": "4812",
+    "state": "QLD"
+  },
+  "n1507128265": {
+    "latitude": -38.07668845,
+    "longitude": 145.24978955,
+    "locality": "LYNDHURST",
+    "postcode": "3975",
+    "state": "VIC"
+  },
+  "n1507146935": {
+    "latitude": -38.07688278,
+    "longitude": 145.48335976,
+    "locality": "PAKENHAM",
+    "postcode": "3810",
+    "state": "VIC"
+  },
+  "n1508436210": {
+    "latitude": -38.4528641,
+    "longitude": 145.23925717,
+    "locality": "COWES",
+    "postcode": "3922",
+    "state": "VIC"
+  },
+  "n1522953928": {
+    "latitude": -33.08688692,
+    "longitude": 151.638333,
+    "locality": "SWANSEA",
+    "postcode": "2281",
+    "state": "NSW"
+  },
+  "n1535820882": {
+    "latitude": -27.45071173,
+    "longitude": 151.94477318,
+    "locality": "HIGHFIELDS",
+    "postcode": "4352",
+    "state": "QLD"
+  },
+  "n1536480407": {
+    "latitude": -38.56432972,
+    "longitude": 146.67712486,
+    "locality": "YARRAM",
+    "postcode": "3971",
+    "state": "VIC"
+  },
+  "n1541907423": {
+    "latitude": -27.46860637,
+    "longitude": 153.02774296,
+    "locality": "BRISBANE CITY",
+    "postcode": "4000",
+    "state": "QLD"
+  },
+  "n1557920938": {
+    "latitude": -37.97593239,
+    "longitude": 145.25812064,
+    "locality": "ENDEAVOUR HILLS",
+    "postcode": "3802",
+    "state": "VIC"
+  },
+  "n1559784047": {
+    "latitude": -42.73819566,
+    "longitude": 147.24461924,
+    "locality": "BRIDGEWATER",
+    "postcode": "7030",
+    "state": "TAS"
+  },
+  "n1561048910": {
+    "latitude": -42.88064722,
+    "longitude": 147.32851598,
+    "locality": "HOBART",
+    "postcode": "7000",
+    "state": "TAS"
+  },
+  "n1564720150": {
+    "latitude": -33.89474265,
+    "longitude": 151.20466712,
+    "locality": "REDFERN",
+    "postcode": "2016",
+    "state": "NSW"
+  },
+  "n1583411761": {
+    "latitude": -38.19421718,
+    "longitude": 145.15903794,
+    "locality": "BAXTER",
+    "postcode": "3911",
+    "state": "VIC"
+  },
+  "n1583419365": {
+    "latitude": -37.98418485,
+    "longitude": 145.0778829,
+    "locality": "MENTONE",
+    "postcode": "3194",
+    "state": "VIC"
+  },
+  "n1583423009": {
+    "latitude": -37.91906284,
+    "longitude": 145.04215391,
+    "locality": "BENTLEIGH",
+    "postcode": "3204",
+    "state": "VIC"
+  },
+  "n1583425762": {
+    "latitude": -38.0078476,
+    "longitude": 145.08688337,
+    "locality": "MORDIALLOC",
+    "postcode": "3195",
+    "state": "VIC"
+  },
+  "n1583479969": {
+    "latitude": -27.50068485,
+    "longitude": 153.03644822,
+    "locality": "WOOLLOONGABBA",
+    "postcode": "4102",
+    "state": "QLD"
+  },
+  "n1584517033": {
+    "latitude": -25.28673143,
+    "longitude": 152.81571748,
+    "locality": "ELI WATERS",
+    "postcode": "4655",
+    "state": "QLD"
+  },
+  "n1590653647": {
+    "latitude": -34.94736667,
+    "longitude": 138.62659537,
+    "locality": "FULLARTON",
+    "postcode": "5063",
+    "state": "SA"
+  },
+  "n1602551988": {
+    "latitude": -35.38082684,
+    "longitude": 149.20102929,
+    "locality": "JERRABOMBERRA",
+    "postcode": "2619",
+    "state": "NSW"
+  },
+  "n1635115033": {
+    "latitude": -21.11869245,
+    "longitude": 149.16046235,
+    "locality": "MOUNT PLEASANT",
+    "postcode": "4740",
+    "state": "QLD"
+  },
+  "n1637371488": {
+    "latitude": -37.62795827,
+    "longitude": 145.02723379,
+    "locality": "EPPING",
+    "postcode": "3076",
+    "state": "VIC"
+  },
+  "n1646866462": {
+    "latitude": -21.16086046,
+    "longitude": 149.06505174,
+    "locality": "WALKERSTON",
+    "postcode": "4751",
+    "state": "QLD"
+  },
+  "n1670437204": {
+    "latitude": -33.93903741,
+    "longitude": 151.11500616,
+    "locality": "BEXLEY NORTH",
+    "postcode": "2207",
+    "state": "NSW"
+  },
+  "n1671352490": {
+    "latitude": -38.19840498,
+    "longitude": 145.48718077,
+    "locality": "KOO WEE RUP",
+    "postcode": "3981",
+    "state": "VIC"
+  },
+  "n1716269277": {
+    "latitude": -33.81529246,
+    "longitude": 150.9717084,
+    "locality": "WENTWORTHVILLE",
+    "postcode": "2145",
+    "state": "NSW"
+  },
+  "n1722871177": {
+    "latitude": -33.87002586,
+    "longitude": 151.2252498,
+    "locality": "POTTS POINT",
+    "postcode": "2011",
+    "state": "NSW"
+  },
+  "n1731398348": {
+    "latitude": -33.10892012,
+    "longitude": 151.48570508,
+    "locality": "MORISSET",
+    "postcode": "2264",
+    "state": "NSW"
+  },
+  "n1754560155": {
+    "latitude": -37.80870255,
+    "longitude": 140.79437567,
+    "locality": "MOUNT GAMBIER",
+    "postcode": "5290",
+    "state": "SA"
+  },
+  "n1757115964": {
+    "latitude": -32.90357078,
+    "longitude": 151.69042763,
+    "locality": "JESMOND",
+    "postcode": "2299",
+    "state": "NSW"
+  },
+  "n1766341034": {
+    "latitude": -38.01560686,
+    "longitude": 145.30006286,
+    "locality": "NARRE WARREN",
+    "postcode": "3805",
+    "state": "VIC"
+  },
+  "n1769427536": {
+    "latitude": -37.57510862,
+    "longitude": 144.9199538,
+    "locality": "CRAIGIEBURN",
+    "postcode": "3064",
+    "state": "VIC"
+  },
+  "n1787805222": {
+    "latitude": -24.40326932,
+    "longitude": 150.51334172,
+    "locality": "BILOELA",
+    "postcode": "4715",
+    "state": "QLD"
+  },
+  "n1787891677": {
+    "latitude": -37.75094453,
+    "longitude": 144.8607965,
+    "locality": "AVONDALE HEIGHTS",
+    "postcode": "3034",
+    "state": "VIC"
+  },
+  "n1792730891": {
+    "latitude": -26.54157438,
+    "longitude": 151.83693985,
+    "locality": "KINGAROY",
+    "postcode": "4610",
+    "state": "QLD"
+  },
+  "n1793129409": {
+    "latitude": -37.72322417,
+    "longitude": 144.75091106,
+    "locality": "TAYLORS HILL",
+    "postcode": "3037",
+    "state": "VIC"
+  },
+  "n1797851775": {
+    "latitude": -27.94567118,
+    "longitude": 153.32429908,
+    "locality": "PACIFIC PINES",
+    "postcode": "4211",
+    "state": "QLD"
+  },
+  "n1800662996": {
+    "latitude": -31.99836661,
+    "longitude": 115.76365072,
+    "locality": "PEPPERMINT GROVE",
+    "postcode": "6011",
+    "state": "WA"
+  },
+  "n1814888518": {
+    "latitude": -33.88275483,
+    "longitude": 151.00016986,
+    "locality": "CHESTER HILL",
+    "postcode": "2162",
+    "state": "NSW"
+  },
+  "n1841274156": {
+    "latitude": -28.858348,
+    "longitude": 153.55911082,
+    "locality": "BALLINA",
+    "postcode": "2478",
+    "state": "NSW"
+  },
+  "n1854290832": {
+    "latitude": -33.33599662,
+    "longitude": 115.65947084,
+    "locality": "EAST BUNBURY",
+    "postcode": "6230",
+    "state": "WA"
+  },
+  "n1861087263": {
+    "latitude": -19.30039358,
+    "longitude": 146.72648603,
+    "locality": "KIRWAN",
+    "postcode": "4817",
+    "state": "QLD"
+  },
+  "n1865223677": {
+    "latitude": -37.66689652,
+    "longitude": 145.06133605,
+    "locality": "MILL PARK",
+    "postcode": "3082",
+    "state": "VIC"
+  },
+  "n1872671395": {
+    "latitude": -33.83380715,
+    "longitude": 151.05596773,
+    "locality": "NEWINGTON",
+    "postcode": "2127",
+    "state": "NSW"
+  },
+  "n1874464354": {
+    "latitude": -33.25298117,
+    "longitude": 149.10081988,
+    "locality": "ORANGE",
+    "postcode": "2800",
+    "state": "NSW"
+  },
+  "n1889022226": {
+    "latitude": -21.14000556,
+    "longitude": 149.17908736,
+    "locality": "MACKAY",
+    "postcode": "4740",
+    "state": "QLD"
+  },
+  "n1892916432": {
+    "latitude": -42.88014232,
+    "longitude": 147.40714048,
+    "locality": "HOWRAH",
+    "postcode": "7018",
+    "state": "TAS"
+  },
+  "n1893124557": {
+    "latitude": -33.76681241,
+    "longitude": 150.77087095,
+    "locality": "ST MARYS",
+    "postcode": "2760",
+    "state": "NSW"
+  },
+  "n1894436125": {
+    "latitude": -34.49576744,
+    "longitude": 150.79361362,
+    "locality": "DAPTO",
+    "postcode": "2530",
+    "state": "NSW"
+  },
+  "n1894625634": {
+    "latitude": -33.60155742,
+    "longitude": 151.00693722,
+    "locality": "GLENORIE",
+    "postcode": "2157",
+    "state": "NSW"
+  },
+  "n1897524346": {
+    "latitude": -36.8627272,
+    "longitude": 149.91356144,
+    "locality": "TURA BEACH",
+    "postcode": "2548",
+    "state": "NSW"
+  },
+  "n1908181922": {
+    "latitude": -38.1692831,
+    "longitude": 144.39337121,
+    "locality": "NEWCOMB",
+    "postcode": "3219",
+    "state": "VIC"
+  },
+  "n1908181971": {
+    "latitude": -38.16810836,
+    "longitude": 144.38872579,
+    "locality": "NEWCOMB",
+    "postcode": "3219",
+    "state": "VIC"
+  },
+  "n1908326060": {
+    "latitude": -21.17494302,
+    "longitude": 149.15096941,
+    "locality": "OORALEA",
+    "postcode": "4740",
+    "state": "QLD"
+  },
+  "n1912625493": {
+    "latitude": -37.28292925,
+    "longitude": 142.92734711,
+    "locality": "ARARAT",
+    "postcode": "3377",
+    "state": "VIC"
+  },
+  "n1912645376": {
+    "latitude": -34.75772859,
+    "longitude": 149.7176353,
+    "locality": "GOULBURN",
+    "postcode": "2580",
+    "state": "NSW"
+  },
+  "n1927009559": {
+    "latitude": -38.08936665,
+    "longitude": 144.33807091,
+    "locality": "NORLANE",
+    "postcode": "3214",
+    "state": "VIC"
+  },
+  "n1933328697": {
+    "latitude": -34.92282617,
+    "longitude": 138.60255705,
+    "locality": "ADELAIDE",
+    "postcode": "5000",
+    "state": "SA"
+  },
+  "n1934566383": {
+    "latitude": -12.37775566,
+    "longitude": 130.89608492,
+    "locality": "LEANYER",
+    "postcode": "0812",
+    "state": "NT"
+  },
+  "n1953180303": {
+    "latitude": -31.69276661,
+    "longitude": 115.71760071,
+    "locality": "CLARKSON",
+    "postcode": "6030",
+    "state": "WA"
+  },
+  "n1959936244": {
+    "latitude": -27.60705164,
+    "longitude": 153.10993774,
+    "locality": "UNDERWOOD",
+    "postcode": "4119",
+    "state": "QLD"
+  },
+  "n1959940492": {
+    "latitude": -27.61494955,
+    "longitude": 153.12644914,
+    "locality": "SPRINGWOOD",
+    "postcode": "4127",
+    "state": "QLD"
+  },
+  "n1960888124": {
+    "latitude": -32.2897894,
+    "longitude": 115.74500492,
+    "locality": "ROCKINGHAM",
+    "postcode": "6168",
+    "state": "WA"
+  },
+  "n1973720016": {
+    "latitude": -27.63303366,
+    "longitude": 153.13791981,
+    "locality": "SPRINGWOOD",
+    "postcode": "4127",
+    "state": "QLD"
+  },
+  "n1974473596": {
+    "latitude": -33.69011489,
+    "longitude": 150.92805366,
+    "locality": "ROUSE HILL",
+    "postcode": "2155",
+    "state": "NSW"
+  },
+  "n1975769614": {
+    "latitude": -26.53870364,
+    "longitude": 153.0787522,
+    "locality": "COOLUM BEACH",
+    "postcode": "4573",
+    "state": "QLD"
+  },
+  "n1978769741": {
+    "latitude": -33.89321395,
+    "longitude": 150.93815232,
+    "locality": "CABRAMATTA",
+    "postcode": "2166",
+    "state": "NSW"
+  },
+  "n1984120404": {
+    "latitude": -24.81813522,
+    "longitude": 152.45633259,
+    "locality": "BARGARA",
+    "postcode": "4670",
+    "state": "QLD"
+  },
+  "n1993456954": {
+    "latitude": -24.88760885,
+    "longitude": 152.31999144,
+    "locality": "AVOCA",
+    "postcode": "4670",
+    "state": "QLD"
+  },
+  "n1994975943": {
+    "latitude": -31.9841266,
+    "longitude": 116.06481068,
+    "locality": "KALAMUNDA",
+    "postcode": "6076",
+    "state": "WA"
+  },
+  "n2027228552": {
+    "latitude": -27.0785209,
+    "longitude": 152.96498311,
+    "locality": "CABOOLTURE",
+    "postcode": "4510",
+    "state": "QLD"
+  },
+  "n2045302638": {
+    "latitude": -33.82209589,
+    "longitude": 151.13373953,
+    "locality": "GLADESVILLE",
+    "postcode": "2111",
+    "state": "NSW"
+  },
+  "n2045666756": {
+    "latitude": -37.76139066,
+    "longitude": 145.16726978,
+    "locality": "DONCASTER EAST",
+    "postcode": "3109",
+    "state": "VIC"
+  },
+  "n2053851894": {
+    "latitude": -33.70472539,
+    "longitude": 151.09958942,
+    "locality": "HORNSBY",
+    "postcode": "2077",
+    "state": "NSW"
+  },
+  "n2063892309": {
+    "latitude": -33.01446609,
+    "longitude": 151.59632048,
+    "locality": "TORONTO",
+    "postcode": "2283",
+    "state": "NSW"
+  },
+  "n2088105245": {
+    "latitude": -37.78897239,
+    "longitude": 144.99100629,
+    "locality": "CLIFTON HILL",
+    "postcode": "3068",
+    "state": "VIC"
+  },
+  "n2089354734": {
+    "latitude": -34.89569212,
+    "longitude": 138.63900895,
+    "locality": "MARDEN",
+    "postcode": "5070",
+    "state": "SA"
+  },
+  "n2094404290": {
+    "latitude": -26.73974771,
+    "longitude": 150.62363141,
+    "locality": "CHINCHILLA",
+    "postcode": "4413",
+    "state": "QLD"
+  },
+  "n2100155804": {
+    "latitude": -32.3463527,
+    "longitude": 115.76271519,
+    "locality": "WARNBRO",
+    "postcode": "6169",
+    "state": "WA"
+  },
+  "n2115990806": {
+    "latitude": -17.89864865,
+    "longitude": 146.09238708,
+    "locality": "WONGALING BEACH",
+    "postcode": "4852",
+    "state": "QLD"
+  },
+  "n2128135744": {
+    "latitude": -37.74441925,
+    "longitude": 142.02386061,
+    "locality": "HAMILTON",
+    "postcode": "3300",
+    "state": "VIC"
+  },
+  "n2130926379": {
+    "latitude": -35.30058751,
+    "longitude": 149.19048082,
+    "locality": "CANBERRA AIRPORT",
+    "postcode": "2609",
+    "state": "ACT"
+  },
+  "n2134802234": {
+    "latitude": -38.07301991,
+    "longitude": 145.43784153,
+    "locality": "PAKENHAM",
+    "postcode": "3810",
+    "state": "VIC"
+  },
+  "n2140806514": {
+    "latitude": -37.80044198,
+    "longitude": 145.28238382,
+    "locality": "CROYDON",
+    "postcode": "3136",
+    "state": "VIC"
+  },
+  "n2141293962": {
+    "latitude": -19.31420118,
+    "longitude": 146.81754945,
+    "locality": "IDALIA",
+    "postcode": "4811",
+    "state": "QLD"
+  },
+  "n2149048519": {
+    "latitude": -27.50489191,
+    "longitude": 153.10304515,
+    "locality": "CARINDALE",
+    "postcode": "4152",
+    "state": "QLD"
+  },
+  "n2156915851": {
+    "latitude": -35.4349873,
+    "longitude": 149.11417147,
+    "locality": "CALWELL",
+    "postcode": "2905",
+    "state": "ACT"
+  },
+  "n2160869496": {
+    "latitude": -36.70422265,
+    "longitude": 144.31887307,
+    "locality": "EPSOM",
+    "postcode": "3551",
+    "state": "VIC"
+  },
+  "n2162081328": {
+    "latitude": -27.45757894,
+    "longitude": 152.65314201,
+    "locality": "FERNVALE",
+    "postcode": "4306",
+    "state": "QLD"
+  },
+  "n2172299027": {
+    "latitude": -37.68060469,
+    "longitude": 144.9166596,
+    "locality": "BROADMEADOWS",
+    "postcode": "3047",
+    "state": "VIC"
+  },
+  "n2174681312": {
+    "latitude": -33.71223686,
+    "longitude": 151.29813809,
+    "locality": "NARRABEEN",
+    "postcode": "2101",
+    "state": "NSW"
+  },
+  "n2176496309": {
+    "latitude": -38.10667258,
+    "longitude": 147.06203654,
+    "locality": "SALE",
+    "postcode": "3850",
+    "state": "VIC"
+  },
+  "n2179111958": {
+    "latitude": -33.88333278,
+    "longitude": 151.21591966,
+    "locality": "SURRY HILLS",
+    "postcode": "2010",
+    "state": "NSW"
+  },
+  "n2179160156": {
+    "latitude": -34.06916705,
+    "longitude": 150.81033081,
+    "locality": "CAMPBELLTOWN",
+    "postcode": "2560",
+    "state": "NSW"
+  },
+  "n2179162259": {
+    "latitude": -34.07578609,
+    "longitude": 150.80058637,
+    "locality": "CAMPBELLTOWN",
+    "postcode": "2560",
+    "state": "NSW"
+  },
+  "n2179164265": {
+    "latitude": -34.07176817,
+    "longitude": 150.80434928,
+    "locality": "CAMPBELLTOWN",
+    "postcode": "2560",
+    "state": "NSW"
+  },
+  "n2179459959": {
+    "latitude": -35.01808455,
+    "longitude": 138.54344671,
+    "locality": "SEACOMBE GARDENS",
+    "postcode": "5047",
+    "state": "SA"
+  },
+  "n2184871393": {
+    "latitude": -37.83040028,
+    "longitude": 144.95724782,
+    "locality": "SOUTH MELBOURNE",
+    "postcode": "3205",
+    "state": "VIC"
+  },
+  "n2186428219": {
+    "latitude": -37.59788944,
+    "longitude": 144.93839702,
+    "locality": "CRAIGIEBURN",
+    "postcode": "3064",
+    "state": "VIC"
+  },
+  "n2196694206": {
+    "latitude": -37.98730744,
+    "longitude": 145.21715003,
+    "locality": "DANDENONG",
+    "postcode": "3175",
+    "state": "VIC"
+  },
+  "n2200931296": {
+    "latitude": -33.91488996,
+    "longitude": 151.04147618,
+    "locality": "BANKSTOWN",
+    "postcode": "2200",
+    "state": "NSW"
+  },
+  "n2200978127": {
+    "latitude": -34.03431069,
+    "longitude": 151.09860484,
+    "locality": "MIRANDA",
+    "postcode": "2228",
+    "state": "NSW"
+  },
+  "n2206032575": {
+    "latitude": -32.01638515,
+    "longitude": 115.94035312,
+    "locality": "CANNINGTON",
+    "postcode": "6107",
+    "state": "WA"
+  },
+  "n2206160219": {
+    "latitude": -37.77347238,
+    "longitude": 144.89189549,
+    "locality": "MARIBYRNONG",
+    "postcode": "3032",
+    "state": "VIC"
+  },
+  "n2212336704": {
+    "latitude": -35.11520182,
+    "longitude": 147.37125349,
+    "locality": "WAGGA WAGGA",
+    "postcode": "2650",
+    "state": "NSW"
+  },
+  "n2216225133": {
+    "latitude": -32.05770404,
+    "longitude": 115.87996409,
+    "locality": "WILLETTON",
+    "postcode": "6155",
+    "state": "WA"
+  },
+  "n2248086886": {
+    "latitude": -21.42395487,
+    "longitude": 149.21909178,
+    "locality": "SARINA",
+    "postcode": "4737",
+    "state": "QLD"
+  },
+  "n2256539081": {
+    "latitude": -32.0851166,
+    "longitude": 115.91603071,
+    "locality": "CANNING VALE",
+    "postcode": "6155",
+    "state": "WA"
+  },
+  "n2258027872": {
+    "latitude": -33.02785968,
+    "longitude": 137.53266702,
+    "locality": "WHYALLA NORRIE",
+    "postcode": "5608",
+    "state": "SA"
+  },
+  "n2258137796": {
+    "latitude": -34.17820768,
+    "longitude": 140.74379851,
+    "locality": "RENMARK",
+    "postcode": "5341",
+    "state": "SA"
+  },
+  "n2261085304": {
+    "latitude": -27.83004766,
+    "longitude": 153.02483711,
+    "locality": "JIMBOOMBA",
+    "postcode": "4280",
+    "state": "QLD"
+  },
+  "n2261089958": {
+    "latitude": -28.00009362,
+    "longitude": 153.33850695,
+    "locality": "NERANG",
+    "postcode": "4211",
+    "state": "QLD"
+  },
+  "n2261097031": {
+    "latitude": -27.9683373,
+    "longitude": 153.41511094,
+    "locality": "SOUTHPORT",
+    "postcode": "4215",
+    "state": "QLD"
+  },
+  "n2262273116": {
+    "latitude": -37.90090585,
+    "longitude": 145.1440149,
+    "locality": "GLEN WAVERLEY",
+    "postcode": "3150",
+    "state": "VIC"
+  },
+  "n2267893632": {
+    "latitude": -33.69579601,
+    "longitude": 151.29602765,
+    "locality": "WARRIEWOOD",
+    "postcode": "2102",
+    "state": "NSW"
+  },
+  "n2268217834": {
+    "latitude": -36.76551151,
+    "longitude": 144.28093718,
+    "locality": "BENDIGO",
+    "postcode": "3550",
+    "state": "VIC"
+  },
+  "n2268930957": {
+    "latitude": -37.64048468,
+    "longitude": 144.93173566,
+    "locality": "ROXBURGH PARK",
+    "postcode": "3064",
+    "state": "VIC"
+  },
+  "n2270185600": {
+    "latitude": -37.82676494,
+    "longitude": 144.95948481,
+    "locality": "SOUTHBANK",
+    "postcode": "3006",
+    "state": "VIC"
+  },
+  "n2272130809": {
+    "latitude": -31.07831669,
+    "longitude": 152.8434163,
+    "locality": "KEMPSEY",
+    "postcode": "2440",
+    "state": "NSW"
+  },
+  "n2275239587": {
+    "latitude": -33.75017247,
+    "longitude": 151.22449878,
+    "locality": "FRENCHS FOREST",
+    "postcode": "2086",
+    "state": "NSW"
+  },
+  "n2285130249": {
+    "latitude": -37.70285868,
+    "longitude": 144.79910848,
+    "locality": "TAYLORS LAKES",
+    "postcode": "3038",
+    "state": "VIC"
+  },
+  "n2291364983": {
+    "latitude": -26.83364221,
+    "longitude": 153.10848428,
+    "locality": "PELICAN WATERS",
+    "postcode": "4551",
+    "state": "QLD"
+  },
+  "n2296554937": {
+    "latitude": -37.87988503,
+    "longitude": 147.9878402,
+    "locality": "LAKES ENTRANCE",
+    "postcode": "3909",
+    "state": "VIC"
+  },
+  "n2302226338": {
+    "latitude": -35.1206036,
+    "longitude": 139.27764613,
+    "locality": "MURRAY BRIDGE",
+    "postcode": "5253",
+    "state": "SA"
+  },
+  "n2307355261": {
+    "latitude": -34.28593523,
+    "longitude": 140.60271548,
+    "locality": "BERRI",
+    "postcode": "5343",
+    "state": "SA"
+  },
+  "n2320527300": {
+    "latitude": -30.74949357,
+    "longitude": 121.46920248,
+    "locality": "KALGOORLIE",
+    "postcode": "6430",
+    "state": "WA"
+  },
+  "n2322432235": {
+    "latitude": -33.9307995,
+    "longitude": 151.15453087,
+    "locality": "WOLLI CREEK",
+    "postcode": "2205",
+    "state": "NSW"
+  },
+  "n2336787644": {
+    "latitude": -38.08652852,
+    "longitude": 145.31707825,
+    "locality": "CRANBOURNE NORTH",
+    "postcode": "3977",
+    "state": "VIC"
+  },
+  "n2343283592": {
+    "latitude": -37.88278319,
+    "longitude": 144.70181686,
+    "locality": "HOPPERS CROSSING",
+    "postcode": "3029",
+    "state": "VIC"
+  },
+  "n2343295768": {
+    "latitude": -23.69893354,
+    "longitude": 133.88112878,
+    "locality": "ALICE SPRINGS",
+    "postcode": "0870",
+    "state": "NT"
+  },
+  "n2360902304": {
+    "latitude": -35.16097441,
+    "longitude": 149.13851596,
+    "locality": "BONNER",
+    "postcode": "2914",
+    "state": "ACT"
+  },
+  "n2363015783": {
+    "latitude": -32.92891647,
+    "longitude": 151.7634835,
+    "locality": "NEWCASTLE WEST",
+    "postcode": "2302",
+    "state": "NSW"
+  },
+  "n2377802761": {
+    "latitude": -33.93329125,
+    "longitude": 150.94913724,
+    "locality": "MOOREBANK",
+    "postcode": "2170",
+    "state": "NSW"
+  },
+  "n2378561614": {
+    "latitude": -35.06372535,
+    "longitude": 148.10158548,
+    "locality": "GUNDAGAI",
+    "postcode": "2722",
+    "state": "NSW"
+  },
+  "n2381941737": {
+    "latitude": -35.30006344,
+    "longitude": 148.22431151,
+    "locality": "TUMUT",
+    "postcode": "2720",
+    "state": "NSW"
+  },
+  "n2393649667": {
+    "latitude": -32.83427624,
+    "longitude": 151.35468062,
+    "locality": "CESSNOCK",
+    "postcode": "2325",
+    "state": "NSW"
+  },
+  "n2395071763": {
+    "latitude": -20.73312739,
+    "longitude": 116.84693132,
+    "locality": "KARRATHA",
+    "postcode": "6714",
+    "state": "WA"
+  },
+  "n2395901140": {
+    "latitude": -27.24246266,
+    "longitude": 153.0136878,
+    "locality": "NORTH LAKES",
+    "postcode": "4509",
+    "state": "QLD"
+  },
+  "n2403139068": {
+    "latitude": -33.99905577,
+    "longitude": 150.86402124,
+    "locality": "INGLEBURN",
+    "postcode": "2565",
+    "state": "NSW"
+  },
+  "n2413275482": {
+    "latitude": -12.39015856,
+    "longitude": 130.85113573,
+    "locality": "COCONUT GROVE",
+    "postcode": "0810",
+    "state": "NT"
+  },
+  "n2428104344": {
+    "latitude": -27.41654974,
+    "longitude": 152.94957773,
+    "locality": "KEPERRA",
+    "postcode": "4054",
+    "state": "QLD"
+  },
+  "n2429126271": {
+    "latitude": -20.00147285,
+    "longitude": 148.24022045,
+    "locality": "BOWEN",
+    "postcode": "4805",
+    "state": "QLD"
+  },
+  "n2484578850": {
+    "latitude": -27.66313326,
+    "longitude": 153.04304512,
+    "locality": "BROWNS PLAINS",
+    "postcode": "4118",
+    "state": "QLD"
+  },
+  "n2501058116": {
+    "latitude": -33.8717818,
+    "longitude": 151.03190968,
+    "locality": "BERALA",
+    "postcode": "2141",
+    "state": "NSW"
+  },
+  "n2509205803": {
+    "latitude": -31.74094661,
+    "longitude": 115.73914071,
+    "locality": "CURRAMBINE",
+    "postcode": "6028",
+    "state": "WA"
+  },
+  "n2509339458": {
+    "latitude": -31.74378626,
+    "longitude": 115.76650269,
+    "locality": "JOONDALUP",
+    "postcode": "6027",
+    "state": "WA"
+  },
+  "n2534813061": {
+    "latitude": -33.88201689,
+    "longitude": 151.2277277,
+    "locality": "PADDINGTON",
+    "postcode": "2021",
+    "state": "NSW"
+  },
+  "n2536380112": {
+    "latitude": -27.0940097,
+    "longitude": 152.95120577,
+    "locality": "CABOOLTURE SOUTH",
+    "postcode": "4510",
+    "state": "QLD"
+  },
+  "n2546432329": {
+    "latitude": -21.14699322,
+    "longitude": 148.95218275,
+    "locality": "MARIAN",
+    "postcode": "4753",
+    "state": "QLD"
+  },
+  "n2579023535": {
+    "latitude": -33.79217393,
+    "longitude": 151.08139531,
+    "locality": "EASTWOOD",
+    "postcode": "2122",
+    "state": "NSW"
+  },
+  "n2583203053": {
+    "latitude": -32.03870788,
+    "longitude": 115.77721095,
+    "locality": "PALMYRA",
+    "postcode": "6157",
+    "state": "WA"
+  },
+  "n2592533302": {
+    "latitude": -36.67464076,
+    "longitude": 149.84039571,
+    "locality": "BEGA",
+    "postcode": "2550",
+    "state": "NSW"
+  },
+  "n2605964831": {
+    "latitude": -21.06521551,
+    "longitude": 149.15978,
+    "locality": "RURAL VIEW",
+    "postcode": "4740",
+    "state": "QLD"
+  },
+  "n2617762720": {
+    "latitude": -27.93140147,
+    "longitude": 153.38778303,
+    "locality": "BIGGERA WATERS",
+    "postcode": "4216",
+    "state": "QLD"
+  },
+  "n2618190721": {
+    "latitude": -33.8027456,
+    "longitude": 150.95567037,
+    "locality": "PENDLE HILL",
+    "postcode": "2145",
+    "state": "NSW"
+  },
+  "n2622450910": {
+    "latitude": -24.88213714,
+    "longitude": 113.65714845,
+    "locality": "CARNARVON",
+    "postcode": "6701",
+    "state": "WA"
+  },
+  "n2642770997": {
+    "latitude": -27.5311198,
+    "longitude": 153.02324377,
+    "locality": "MOOROOKA",
+    "postcode": "4105",
+    "state": "QLD"
+  },
+  "n2643529442": {
+    "latitude": -34.22280041,
+    "longitude": 150.59272699,
+    "locality": "TAHMOOR",
+    "postcode": "2573",
+    "state": "NSW"
+  },
+  "n2670835013": {
+    "latitude": -36.31313673,
+    "longitude": 145.04717688,
+    "locality": "KYABRAM",
+    "postcode": "3620",
+    "state": "VIC"
+  },
+  "n2705104612": {
+    "latitude": -23.35919784,
+    "longitude": 150.5245136,
+    "locality": "BERSERKER",
+    "postcode": "4701",
+    "state": "QLD"
+  },
+  "n2705104620": {
+    "latitude": -23.35417116,
+    "longitude": 150.52225533,
+    "locality": "PARK AVENUE",
+    "postcode": "4701",
+    "state": "QLD"
+  },
+  "n2708666929": {
+    "latitude": -36.80960325,
+    "longitude": 144.24088351,
+    "locality": "KANGAROO FLAT",
+    "postcode": "3555",
+    "state": "VIC"
+  },
+  "n2708863580": {
+    "latitude": -23.57522119,
+    "longitude": 148.88914824,
+    "locality": "BLACKWATER",
+    "postcode": "4717",
+    "state": "QLD"
+  },
+  "n2713818750": {
+    "latitude": -37.84746684,
+    "longitude": 144.99252193,
+    "locality": "PRAHRAN",
+    "postcode": "3181",
+    "state": "VIC"
+  },
+  "n2717038425": {
+    "latitude": -28.02981449,
+    "longitude": 153.43195456,
+    "locality": "BROADBEACH",
+    "postcode": "4218",
+    "state": "QLD"
+  },
+  "n2736034128": {
+    "latitude": -32.7629528,
+    "longitude": 151.59169278,
+    "locality": "EAST MAITLAND",
+    "postcode": "2323",
+    "state": "NSW"
+  },
+  "n2744817180": {
+    "latitude": -37.72955965,
+    "longitude": 144.98378231,
+    "locality": "COBURG NORTH",
+    "postcode": "3058",
+    "state": "VIC"
+  },
+  "n2746581384": {
+    "latitude": -28.07729534,
+    "longitude": 153.3853129,
+    "locality": "ROBINA",
+    "postcode": "4226",
+    "state": "QLD"
+  },
+  "n2763942902": {
+    "latitude": -33.71620536,
+    "longitude": 150.30987411,
+    "locality": "KATOOMBA",
+    "postcode": "2780",
+    "state": "NSW"
+  },
+  "n2787157462": {
+    "latitude": -33.92021156,
+    "longitude": 150.88301678,
+    "locality": "MILLER",
+    "postcode": "2168",
+    "state": "NSW"
+  },
+  "n2789625358": {
+    "latitude": -35.1724408,
+    "longitude": 138.48380506,
+    "locality": "SEAFORD MEADOWS",
+    "postcode": "5169",
+    "state": "SA"
+  },
+  "n2866280635": {
+    "latitude": -37.71241419,
+    "longitude": 145.0479905,
+    "locality": "BUNDOORA",
+    "postcode": "3083",
+    "state": "VIC"
+  },
+  "n2871832222": {
+    "latitude": -26.85659652,
+    "longitude": 152.95520489,
+    "locality": "BEERWAH",
+    "postcode": "4519",
+    "state": "QLD"
+  },
+  "n2879690541": {
+    "latitude": -37.82067862,
+    "longitude": 145.03650757,
+    "locality": "HAWTHORN",
+    "postcode": "3122",
+    "state": "VIC"
+  },
+  "n2880884202": {
+    "latitude": -36.13877895,
+    "longitude": 146.89293612,
+    "locality": "WODONGA",
+    "postcode": "3690",
+    "state": "VIC"
+  },
+  "n2924066156": {
+    "latitude": -28.81061565,
+    "longitude": 153.28642477,
+    "locality": "LISMORE",
+    "postcode": "2480",
+    "state": "NSW"
+  },
+  "n2925599542": {
+    "latitude": -27.82462959,
+    "longitude": 153.31590041,
+    "locality": "PIMPAMA",
+    "postcode": "4209",
+    "state": "QLD"
+  },
+  "n2945686714": {
+    "latitude": -33.77619175,
+    "longitude": 151.05240535,
+    "locality": "CARLINGFORD",
+    "postcode": "2118",
+    "state": "NSW"
+  },
+  "n2946812694": {
+    "latitude": -27.04406821,
+    "longitude": 153.13669223,
+    "locality": "BANKSIA BEACH",
+    "postcode": "4507",
+    "state": "QLD"
+  },
+  "n2946813592": {
+    "latitude": -27.06405993,
+    "longitude": 153.15747149,
+    "locality": "BONGAREE",
+    "postcode": "4507",
+    "state": "QLD"
+  },
+  "n2972865045": {
+    "latitude": -33.87019601,
+    "longitude": 151.19317299,
+    "locality": "PYRMONT",
+    "postcode": "2009",
+    "state": "NSW"
+  },
+  "n2982440685": {
+    "latitude": -37.83525783,
+    "longitude": 144.84640295,
+    "locality": "ALTONA NORTH",
+    "postcode": "3025",
+    "state": "VIC"
+  },
+  "n3033914409": {
+    "latitude": -26.70470458,
+    "longitude": 153.13069064,
+    "locality": "BUDDINA",
+    "postcode": "4575",
+    "state": "QLD"
+  },
+  "n3036963236": {
+    "latitude": -37.81663183,
+    "longitude": 144.89168695,
+    "locality": "YARRAVILLE",
+    "postcode": "3013",
+    "state": "VIC"
+  },
+  "n3042688235": {
+    "latitude": -41.16158841,
+    "longitude": 146.53217311,
+    "locality": "SHEARWATER",
+    "postcode": "7307",
+    "state": "TAS"
+  },
+  "n3076309219": {
+    "latitude": -33.7740593,
+    "longitude": 150.69641655,
+    "locality": "SOUTH PENRITH",
+    "postcode": "2750",
+    "state": "NSW"
+  },
+  "n3084114968": {
+    "latitude": -33.23889478,
+    "longitude": 151.50378354,
+    "locality": "CHARMHAVEN",
+    "postcode": "2263",
+    "state": "NSW"
+  },
+  "n3085468930": {
+    "latitude": -23.13220288,
+    "longitude": 150.73695835,
+    "locality": "YEPPOON",
+    "postcode": "4703",
+    "state": "QLD"
+  },
+  "n3088471554": {
+    "latitude": -33.88490909,
+    "longitude": 151.14791027,
+    "locality": "LEICHHARDT",
+    "postcode": "2040",
+    "state": "NSW"
+  },
+  "n3091796528": {
+    "latitude": -27.60761326,
+    "longitude": 152.75807004,
+    "locality": "NORTH IPSWICH",
+    "postcode": "4305",
+    "state": "QLD"
+  },
+  "n3099719648": {
+    "latitude": -33.77614914,
+    "longitude": 150.93101518,
+    "locality": "SEVEN HILLS",
+    "postcode": "2147",
+    "state": "NSW"
+  },
+  "n3109239968": {
+    "latitude": -27.43914667,
+    "longitude": 153.06701332,
+    "locality": "HAMILTON",
+    "postcode": "4007",
+    "state": "QLD"
+  },
+  "n3111899075": {
+    "latitude": -27.41065543,
+    "longitude": 152.98070125,
+    "locality": "GAYTHORNE",
+    "postcode": "4051",
+    "state": "QLD"
+  },
+  "n3118226983": {
+    "latitude": -33.43922914,
+    "longitude": 151.39644753,
+    "locality": "ERINA",
+    "postcode": "2250",
+    "state": "NSW"
+  },
+  "n3129208601": {
+    "latitude": -27.4511436,
+    "longitude": 153.04435647,
+    "locality": "NEWSTEAD",
+    "postcode": "4006",
+    "state": "QLD"
+  },
+  "n3146752239": {
+    "latitude": -34.01600824,
+    "longitude": 151.06604339,
+    "locality": "JANNALI",
+    "postcode": "2226",
+    "state": "NSW"
+  },
+  "n3161934864": {
+    "latitude": -42.8647011,
+    "longitude": 147.36902093,
+    "locality": "ROSNY PARK",
+    "postcode": "7018",
+    "state": "TAS"
+  },
+  "n3189917551": {
+    "latitude": -27.61572768,
+    "longitude": 152.7898684,
+    "locality": "BOOVAL",
+    "postcode": "4304",
+    "state": "QLD"
+  },
+  "n3196452709": {
+    "latitude": -32.71539945,
+    "longitude": 151.52660975,
+    "locality": "RUTHERFORD",
+    "postcode": "2320",
+    "state": "NSW"
+  },
+  "n3200715066": {
+    "latitude": -35.14513136,
+    "longitude": 138.49896863,
+    "locality": "NOARLUNGA DOWNS",
+    "postcode": "5168",
+    "state": "SA"
+  },
+  "n3200729962": {
+    "latitude": -35.07717482,
+    "longitude": 138.51781829,
+    "locality": "HALLETT COVE",
+    "postcode": "5158",
+    "state": "SA"
+  },
+  "n3207004265": {
+    "latitude": -33.93738132,
+    "longitude": 150.84674679,
+    "locality": "CARNES HILL",
+    "postcode": "2171",
+    "state": "NSW"
+  },
+  "n3207033770": {
+    "latitude": -34.04788972,
+    "longitude": 150.75927375,
+    "locality": "MOUNT ANNAN",
+    "postcode": "2567",
+    "state": "NSW"
+  },
+  "n3207040815": {
+    "latitude": -34.04145562,
+    "longitude": 150.73925093,
+    "locality": "NARELLAN",
+    "postcode": "2567",
+    "state": "NSW"
+  },
+  "n3207059933": {
+    "latitude": -34.00061043,
+    "longitude": 150.73992545,
+    "locality": "ORAN PARK",
+    "postcode": "2570",
+    "state": "NSW"
+  },
+  "n3239171041": {
+    "latitude": -33.86422119,
+    "longitude": 150.93892901,
+    "locality": "FAIRFIELD HEIGHTS",
+    "postcode": "2165",
+    "state": "NSW"
+  },
+  "n3242046364": {
+    "latitude": -37.86676978,
+    "longitude": 144.74202848,
+    "locality": "WILLIAMS LANDING",
+    "postcode": "3027",
+    "state": "VIC"
+  },
+  "n3273992474": {
+    "latitude": -37.87353882,
+    "longitude": 144.67678498,
+    "locality": "HOPPERS CROSSING",
+    "postcode": "3029",
+    "state": "VIC"
+  },
+  "n3274001441": {
+    "latitude": -37.86286141,
+    "longitude": 144.68727261,
+    "locality": "HOPPERS CROSSING",
+    "postcode": "3029",
+    "state": "VIC"
+  },
+  "n3287366486": {
+    "latitude": -36.22374069,
+    "longitude": 150.12747011,
+    "locality": "NAROOMA",
+    "postcode": "2546",
+    "state": "NSW"
+  },
+  "n3297551761": {
+    "latitude": -37.77705214,
+    "longitude": 145.45937321,
+    "locality": "SEVILLE",
+    "postcode": "3139",
+    "state": "VIC"
+  },
+  "n3315837663": {
+    "latitude": -27.22536498,
+    "longitude": 153.08615933,
+    "locality": "KIPPA-RING",
+    "postcode": "4021",
+    "state": "QLD"
+  },
+  "n3326642561": {
+    "latitude": -38.00487779,
+    "longitude": 145.24710333,
+    "locality": "DANDENONG SOUTH",
+    "postcode": "3175",
+    "state": "VIC"
+  },
+  "n3335308201": {
+    "latitude": -27.4662546,
+    "longitude": 153.08011335,
+    "locality": "MORNINGSIDE",
+    "postcode": "4170",
+    "state": "QLD"
+  },
+  "n3354856140": {
+    "latitude": -28.04436775,
+    "longitude": 153.40803382,
+    "locality": "MERMAID WATERS",
+    "postcode": "4218",
+    "state": "QLD"
+  },
+  "n3355135951": {
+    "latitude": -16.92703416,
+    "longitude": 145.74098079,
+    "locality": "MANUNDA",
+    "postcode": "4870",
+    "state": "QLD"
+  },
+  "n3355139143": {
+    "latitude": -16.94419558,
+    "longitude": 145.74009707,
+    "locality": "EARLVILLE",
+    "postcode": "4870",
+    "state": "QLD"
+  },
+  "n3355140715": {
+    "latitude": -16.99032126,
+    "longitude": 145.74049271,
+    "locality": "MOUNT SHERIDAN",
+    "postcode": "4868",
+    "state": "QLD"
+  },
+  "n3355144059": {
+    "latitude": -19.31370483,
+    "longitude": 146.72525594,
+    "locality": "THURINGOWA CENTRAL",
+    "postcode": "4817",
+    "state": "QLD"
+  },
+  "n3359308426": {
+    "latitude": -27.49020951,
+    "longitude": 153.21800551,
+    "locality": "BIRKDALE",
+    "postcode": "4159",
+    "state": "QLD"
+  },
+  "n3365449934": {
+    "latitude": -26.62574233,
+    "longitude": 152.9613063,
+    "locality": "NAMBOUR",
+    "postcode": "4560",
+    "state": "QLD"
+  },
+  "n3369555932": {
+    "latitude": -28.02905206,
+    "longitude": 153.3868479,
+    "locality": "CARRARA",
+    "postcode": "4211",
+    "state": "QLD"
+  },
+  "n3384633596": {
+    "latitude": -33.7297782,
+    "longitude": 151.158763,
+    "locality": "ST IVES",
+    "postcode": "2075",
+    "state": "NSW"
+  },
+  "n3417276618": {
+    "latitude": -23.43391521,
+    "longitude": 150.45300157,
+    "locality": "GRACEMERE",
+    "postcode": "4702",
+    "state": "QLD"
+  },
+  "n3418704244": {
+    "latitude": -23.39023995,
+    "longitude": 150.50355802,
+    "locality": "ALLENSTOWN",
+    "postcode": "4700",
+    "state": "QLD"
+  },
+  "n3446325071": {
+    "latitude": -28.20135554,
+    "longitude": 153.54577171,
+    "locality": "TWEED HEADS SOUTH",
+    "postcode": "2486",
+    "state": "NSW"
+  },
+  "n3477989504": {
+    "latitude": -28.81046121,
+    "longitude": 153.27652167,
+    "locality": "LISMORE",
+    "postcode": "2480",
+    "state": "NSW"
+  },
+  "n3490022688": {
+    "latitude": -27.98533559,
+    "longitude": 152.99628415,
+    "locality": "BEAUDESERT",
+    "postcode": "4285",
+    "state": "QLD"
+  },
+  "n3500290189": {
+    "latitude": -34.91372923,
+    "longitude": 138.56365688,
+    "locality": "TORRENSVILLE",
+    "postcode": "5031",
+    "state": "SA"
+  },
+  "n3509393117": {
+    "latitude": -37.68668894,
+    "longitude": 144.56106161,
+    "locality": "MELTON WEST",
+    "postcode": "3337",
+    "state": "VIC"
+  },
+  "n3511626997": {
+    "latitude": -33.188173,
+    "longitude": 151.55987615,
+    "locality": "LAKE MUNMORAH",
+    "postcode": "2259",
+    "state": "NSW"
+  },
+  "n3522832393": {
+    "latitude": -33.94138094,
+    "longitude": 151.10017343,
+    "locality": "KINGSGROVE",
+    "postcode": "2208",
+    "state": "NSW"
+  },
+  "n3523581887": {
+    "latitude": -31.63507396,
+    "longitude": 152.75547323,
+    "locality": "LAKEWOOD",
+    "postcode": "2443",
+    "state": "NSW"
+  },
+  "n3529507479": {
+    "latitude": -37.83684594,
+    "longitude": 144.9974067,
+    "locality": "SOUTH YARRA",
+    "postcode": "3141",
+    "state": "VIC"
+  },
+  "n3532111329": {
+    "latitude": -28.00074746,
+    "longitude": 153.42736559,
+    "locality": "SURFERS PARADISE",
+    "postcode": "4217",
+    "state": "QLD"
+  },
+  "n3548919448": {
+    "latitude": -23.53421211,
+    "longitude": 148.1747971,
+    "locality": "EMERALD",
+    "postcode": "4720",
+    "state": "QLD"
+  },
+  "n3552021868": {
+    "latitude": -27.98731773,
+    "longitude": 153.38472979,
+    "locality": "ASHMORE",
+    "postcode": "4214",
+    "state": "QLD"
+  },
+  "n3552382395": {
+    "latitude": -27.9869088,
+    "longitude": 153.40895411,
+    "locality": "SOUTHPORT",
+    "postcode": "4215",
+    "state": "QLD"
+  },
+  "n3582317994": {
+    "latitude": -33.03703616,
+    "longitude": 151.65843564,
+    "locality": "BELMONT",
+    "postcode": "2280",
+    "state": "NSW"
+  },
+  "n3614709995": {
+    "latitude": -38.160905,
+    "longitude": 144.30538784,
+    "locality": "HIGHTON",
+    "postcode": "3216",
+    "state": "VIC"
+  },
+  "n3617281991": {
+    "latitude": -36.04790762,
+    "longitude": 146.93403685,
+    "locality": "LAVINGTON",
+    "postcode": "2641",
+    "state": "NSW"
+  },
+  "n3619421898": {
+    "latitude": -24.8720869,
+    "longitude": 152.34967206,
+    "locality": "BUNDABERG CENTRAL",
+    "postcode": "4670",
+    "state": "QLD"
+  },
+  "n3624177345": {
+    "latitude": -37.59406933,
+    "longitude": 144.91556403,
+    "locality": "CRAIGIEBURN",
+    "postcode": "3064",
+    "state": "VIC"
+  },
+  "n3654345410": {
+    "latitude": -34.23933398,
+    "longitude": 116.14881981,
+    "locality": "MANJIMUP",
+    "postcode": "6258",
+    "state": "WA"
+  },
+  "n3712913960": {
+    "latitude": -38.06688986,
+    "longitude": 145.30176285,
+    "locality": "NARRE WARREN SOUTH",
+    "postcode": "3805",
+    "state": "VIC"
+  },
+  "n3728560028": {
+    "latitude": -33.8998554,
+    "longitude": 150.99315935,
+    "locality": "BASS HILL",
+    "postcode": "2197",
+    "state": "NSW"
+  },
+  "n3728560499": {
+    "latitude": -33.89301402,
+    "longitude": 151.06108505,
+    "locality": "GREENACRE",
+    "postcode": "2190",
+    "state": "NSW"
+  },
+  "n3732778603": {
+    "latitude": -33.60124666,
+    "longitude": 150.75287004,
+    "locality": "RICHMOND",
+    "postcode": "2753",
+    "state": "NSW"
+  },
+  "n3737469457": {
+    "latitude": -33.85937059,
+    "longitude": 150.89699388,
+    "locality": "BOSSLEY PARK",
+    "postcode": "2176",
+    "state": "NSW"
+  },
+  "n3741103908": {
+    "latitude": -31.54922333,
+    "longitude": 115.63907088,
+    "locality": "YANCHEP",
+    "postcode": "6035",
+    "state": "WA"
+  },
+  "n3750531779": {
+    "latitude": -31.81773195,
+    "longitude": 115.82415996,
+    "locality": "MADELEY",
+    "postcode": "6065",
+    "state": "WA"
+  },
+  "n3751296602": {
+    "latitude": -28.77442666,
+    "longitude": 114.61249063,
+    "locality": "GERALDTON",
+    "postcode": "6530",
+    "state": "WA"
+  },
+  "n3751435276": {
+    "latitude": -12.40095966,
+    "longitude": 130.91569642,
+    "locality": "KARAMA",
+    "postcode": "0812",
+    "state": "NT"
+  },
+  "n3759068231": {
+    "latitude": -12.46076619,
+    "longitude": 130.84044434,
+    "locality": "DARWIN CITY",
+    "postcode": "0800",
+    "state": "NT"
+  },
+  "n3759068232": {
+    "latitude": -12.5742905,
+    "longitude": 131.10105172,
+    "locality": "HUMPTY DOO",
+    "postcode": "0836",
+    "state": "NT"
+  },
+  "n3771288252": {
+    "latitude": -23.84673997,
+    "longitude": 151.25913326,
+    "locality": "GLADSTONE CENTRAL",
+    "postcode": "4680",
+    "state": "QLD"
+  },
+  "n3804943943": {
+    "latitude": -34.67035467,
+    "longitude": 138.67918758,
+    "locality": "MUNNO PARA",
+    "postcode": "5115",
+    "state": "SA"
+  },
+  "n3827816969": {
+    "latitude": -34.6795016,
+    "longitude": 138.7039556,
+    "locality": "BLAKEVIEW",
+    "postcode": "5114",
+    "state": "SA"
+  },
+  "n3827954120": {
+    "latitude": -27.92789322,
+    "longitude": 153.33739849,
+    "locality": "HELENSVALE",
+    "postcode": "4212",
+    "state": "QLD"
+  },
+  "n3830281282": {
+    "latitude": -38.10074313,
+    "longitude": 145.2946401,
+    "locality": "CRANBOURNE EAST",
+    "postcode": "3977",
+    "state": "VIC"
+  },
+  "n3838326027": {
+    "latitude": -33.80655143,
+    "longitude": 151.08837138,
+    "locality": "WEST RYDE",
+    "postcode": "2114",
+    "state": "NSW"
+  },
+  "n3846802315": {
+    "latitude": -31.88864888,
+    "longitude": 116.00853842,
+    "locality": "MIDLAND",
+    "postcode": "6056",
+    "state": "WA"
+  },
+  "n3853176682": {
+    "latitude": -27.65585787,
+    "longitude": 153.16961335,
+    "locality": "SHAILER PARK",
+    "postcode": "4128",
+    "state": "QLD"
+  },
+  "n3877570484": {
+    "latitude": -35.70468671,
+    "longitude": 150.17660873,
+    "locality": "BATEMANS BAY",
+    "postcode": "2536",
+    "state": "NSW"
+  },
+  "n3885546802": {
+    "latitude": -34.02997522,
+    "longitude": 150.85001129,
+    "locality": "MINTO",
+    "postcode": "2566",
+    "state": "NSW"
+  },
+  "n3890023126": {
+    "latitude": -23.86976396,
+    "longitude": 151.24264768,
+    "locality": "WEST GLADSTONE",
+    "postcode": "4680",
+    "state": "QLD"
+  },
+  "n3891599242": {
+    "latitude": -32.2626631,
+    "longitude": 150.89055839,
+    "locality": "MUSWELLBROOK",
+    "postcode": "2333",
+    "state": "NSW"
+  },
+  "n3894051980": {
+    "latitude": -34.44740974,
+    "longitude": 150.43947798,
+    "locality": "MITTAGONG",
+    "postcode": "2575",
+    "state": "NSW"
+  },
+  "n3910196921": {
+    "latitude": -33.87865033,
+    "longitude": 151.24395669,
+    "locality": "DOUBLE BAY",
+    "postcode": "2028",
+    "state": "NSW"
+  },
+  "n3912408809": {
+    "latitude": -33.98623623,
+    "longitude": 150.89146883,
+    "locality": "MACQUARIE FIELDS",
+    "postcode": "2564",
+    "state": "NSW"
+  },
+  "n3915510130": {
+    "latitude": -33.84878348,
+    "longitude": 151.04732876,
+    "locality": "LIDCOMBE",
+    "postcode": "2141",
+    "state": "NSW"
+  },
+  "n3918035357": {
+    "latitude": -33.88112057,
+    "longitude": 151.20246538,
+    "locality": "HAYMARKET",
+    "postcode": "2000",
+    "state": "NSW"
+  },
+  "n3921514862": {
+    "latitude": -33.8845965,
+    "longitude": 151.20068287,
+    "locality": "CHIPPENDALE",
+    "postcode": "2008",
+    "state": "NSW"
+  },
+  "n3926410228": {
+    "latitude": -26.57318169,
+    "longitude": 148.79001743,
+    "locality": "ROMA",
+    "postcode": "4455",
+    "state": "QLD"
+  },
+  "n3926905552": {
+    "latitude": -26.65258978,
+    "longitude": 153.09244468,
+    "locality": "MAROOCHYDORE",
+    "postcode": "4558",
+    "state": "QLD"
+  },
+  "n3937087831": {
+    "latitude": -33.76996118,
+    "longitude": 150.90782325,
+    "locality": "BLACKTOWN",
+    "postcode": "2148",
+    "state": "NSW"
+  },
+  "n3937568231": {
+    "latitude": -33.9084273,
+    "longitude": 150.86738394,
+    "locality": "GREEN VALLEY",
+    "postcode": "2168",
+    "state": "NSW"
+  },
+  "n3938622456": {
+    "latitude": -33.8708528,
+    "longitude": 151.2684916,
+    "locality": "ROSE BAY",
+    "postcode": "2029",
+    "state": "NSW"
+  },
+  "n3951181648": {
+    "latitude": -37.88390493,
+    "longitude": 144.73502243,
+    "locality": "POINT COOK",
+    "postcode": "3030",
+    "state": "VIC"
+  },
+  "n3952962157": {
+    "latitude": -31.55317256,
+    "longitude": 152.85362319,
+    "locality": "LAKE CATHIE",
+    "postcode": "2445",
+    "state": "NSW"
+  },
+  "n3985405115": {
+    "latitude": -27.89159735,
+    "longitude": 153.31290006,
+    "locality": "OXENFORD",
+    "postcode": "4210",
+    "state": "QLD"
+  },
+  "n4017563989": {
+    "latitude": -33.88372176,
+    "longitude": 151.20858624,
+    "locality": "SURRY HILLS",
+    "postcode": "2010",
+    "state": "NSW"
+  },
+  "n4023408048": {
+    "latitude": -38.10344053,
+    "longitude": 145.32477841,
+    "locality": "CLYDE NORTH",
+    "postcode": "3978",
+    "state": "VIC"
+  },
+  "n4030700549": {
+    "latitude": -28.87119276,
+    "longitude": 153.56139077,
+    "locality": "BALLINA",
+    "postcode": "2478",
+    "state": "NSW"
+  },
+  "n4044969841": {
+    "latitude": -37.58671522,
+    "longitude": 145.12760353,
+    "locality": "DOREEN",
+    "postcode": "3754",
+    "state": "VIC"
+  },
+  "n4106750010": {
+    "latitude": -38.16896466,
+    "longitude": 144.54524684,
+    "locality": "CURLEWIS",
+    "postcode": "3222",
+    "state": "VIC"
+  },
+  "n4108548890": {
+    "latitude": -33.87362902,
+    "longitude": 151.21626976,
+    "locality": "WOOLLOOMOOLOO",
+    "postcode": "2011",
+    "state": "NSW"
+  },
+  "n4119783720": {
+    "latitude": -36.42667658,
+    "longitude": 150.0793972,
+    "locality": "BERMAGUI",
+    "postcode": "2546",
+    "state": "NSW"
+  },
+  "n4161090168": {
+    "latitude": -32.25588769,
+    "longitude": 148.63122455,
+    "locality": "DUBBO",
+    "postcode": "2830",
+    "state": "NSW"
+  },
+  "n4191521427": {
+    "latitude": -29.69144971,
+    "longitude": 152.93721909,
+    "locality": "GRAFTON",
+    "postcode": "2460",
+    "state": "NSW"
+  },
+  "n4210155600": {
+    "latitude": -34.03247941,
+    "longitude": 150.81660015,
+    "locality": "EAGLE VALE",
+    "postcode": "2558",
+    "state": "NSW"
+  },
+  "n4216537394": {
+    "latitude": -33.88911226,
+    "longitude": 151.27545853,
+    "locality": "BONDI BEACH",
+    "postcode": "2026",
+    "state": "NSW"
+  },
+  "n4235962257": {
+    "latitude": -33.89192195,
+    "longitude": 151.25187925,
+    "locality": "BONDI JUNCTION",
+    "postcode": "2022",
+    "state": "NSW"
+  },
+  "n4238776489": {
+    "latitude": -33.74546129,
+    "longitude": 150.83582351,
+    "locality": "PLUMPTON",
+    "postcode": "2761",
+    "state": "NSW"
+  },
+  "n4242775789": {
+    "latitude": -27.44459397,
+    "longitude": 153.17154814,
+    "locality": "WYNNUM",
+    "postcode": "4178",
+    "state": "QLD"
+  },
+  "n4253424590": {
+    "latitude": -33.70396485,
+    "longitude": 150.87534355,
+    "locality": "SCHOFIELDS",
+    "postcode": "2762",
+    "state": "NSW"
+  },
+  "n4273046751": {
+    "latitude": -37.84080984,
+    "longitude": 145.00812293,
+    "locality": "TOORAK",
+    "postcode": "3142",
+    "state": "VIC"
+  },
+  "n4286763601": {
+    "latitude": -28.03800932,
+    "longitude": 153.4254345,
+    "locality": "MERMAID WATERS",
+    "postcode": "4218",
+    "state": "QLD"
+  },
+  "n4301770789": {
+    "latitude": -37.84034645,
+    "longitude": 144.67339043,
+    "locality": "TARNEIT",
+    "postcode": "3029",
+    "state": "VIC"
+  },
+  "n4312020597": {
+    "latitude": -30.35458785,
+    "longitude": 153.09301724,
+    "locality": "TOORMINA",
+    "postcode": "2452",
+    "state": "NSW"
+  },
+  "n4315516148": {
+    "latitude": -31.77672661,
+    "longitude": 115.75579071,
+    "locality": "BELDON",
+    "postcode": "6027",
+    "state": "WA"
+  },
+  "n4327602189": {
+    "latitude": -26.75835375,
+    "longitude": 152.85425061,
+    "locality": "MALENY",
+    "postcode": "4552",
+    "state": "QLD"
+  },
+  "n4348404155": {
+    "latitude": -33.96853307,
+    "longitude": 151.06471615,
+    "locality": "MORTDALE",
+    "postcode": "2223",
+    "state": "NSW"
+  },
+  "n4358811002": {
+    "latitude": -34.97523311,
+    "longitude": 138.60966791,
+    "locality": "TORRENS PARK",
+    "postcode": "5062",
+    "state": "SA"
+  },
+  "n4381296201": {
+    "latitude": -27.6617087,
+    "longitude": 152.74017057,
+    "locality": "YAMANTO",
+    "postcode": "4305",
+    "state": "QLD"
+  },
+  "n4382912767": {
+    "latitude": -34.87488257,
+    "longitude": 138.60079626,
+    "locality": "PROSPECT",
+    "postcode": "5082",
+    "state": "SA"
+  },
+  "n4386171594": {
+    "latitude": -33.92300397,
+    "longitude": 151.18575148,
+    "locality": "MASCOT",
+    "postcode": "2020",
+    "state": "NSW"
+  },
+  "n4387035391": {
+    "latitude": -33.82738785,
+    "longitude": 151.20169202,
+    "locality": "CROWS NEST",
+    "postcode": "2065",
+    "state": "NSW"
+  },
+  "n4394218680": {
+    "latitude": -33.70597463,
+    "longitude": 150.91149321,
+    "locality": "THE PONDS",
+    "postcode": "2769",
+    "state": "NSW"
+  },
+  "n4400693423": {
+    "latitude": -31.86982507,
+    "longitude": 115.86016725,
+    "locality": "MIRRABOOKA",
+    "postcode": "6061",
+    "state": "WA"
+  },
+  "n4405318490": {
+    "latitude": -35.07469611,
+    "longitude": 150.65528214,
+    "locality": "VINCENTIA",
+    "postcode": "2540",
+    "state": "NSW"
+  },
+  "n4405565614": {
+    "latitude": -34.56185802,
+    "longitude": 150.8399363,
+    "locality": "SHELLHARBOUR CITY CENTRE",
+    "postcode": "2529",
+    "state": "NSW"
+  },
+  "n4409566999": {
+    "latitude": -36.5497177,
+    "longitude": 145.98827154,
+    "locality": "BENALLA",
+    "postcode": "3672",
+    "state": "VIC"
+  },
+  "n4417548041": {
+    "latitude": -33.87299658,
+    "longitude": 151.09318264,
+    "locality": "STRATHFIELD",
+    "postcode": "2135",
+    "state": "NSW"
+  },
+  "n4504321790": {
+    "latitude": -34.82941859,
+    "longitude": 138.69188236,
+    "locality": "MODBURY",
+    "postcode": "5092",
+    "state": "SA"
+  },
+  "n4571153170": {
+    "latitude": -33.74500163,
+    "longitude": 151.03050043,
+    "locality": "WEST PENNANT HILLS",
+    "postcode": "2125",
+    "state": "NSW"
+  },
+  "n4578704404": {
+    "latitude": -37.8202599,
+    "longitude": 145.12140516,
+    "locality": "BOX HILL",
+    "postcode": "3128",
+    "state": "VIC"
+  },
+  "n4640090486": {
+    "latitude": -36.77612112,
+    "longitude": 144.30607695,
+    "locality": "KENNINGTON",
+    "postcode": "3550",
+    "state": "VIC"
+  },
+  "n4677441389": {
+    "latitude": -37.80959709,
+    "longitude": 144.96131394,
+    "locality": "MELBOURNE",
+    "postcode": "3000",
+    "state": "VIC"
+  },
+  "n4684563989": {
+    "latitude": -31.65418671,
+    "longitude": 116.67228343,
+    "locality": "NORTHAM",
+    "postcode": "6401",
+    "state": "WA"
+  },
+  "n4703398367": {
+    "latitude": -31.7776063,
+    "longitude": 115.98804916,
+    "locality": "AVELEY",
+    "postcode": "6069",
+    "state": "WA"
+  },
+  "n4715914696": {
+    "latitude": -33.3581366,
+    "longitude": 116.15451077,
+    "locality": "COLLIE",
+    "postcode": "6225",
+    "state": "WA"
+  },
+  "n4723686975": {
+    "latitude": -32.01014747,
+    "longitude": 151.95744516,
+    "locality": "GLOUCESTER",
+    "postcode": "2422",
+    "state": "NSW"
+  },
+  "n4726284820": {
+    "latitude": -32.15663103,
+    "longitude": 115.85976068,
+    "locality": "ATWELL",
+    "postcode": "6164",
+    "state": "WA"
+  },
+  "n4727129892": {
+    "latitude": -33.92008766,
+    "longitude": 151.25367271,
+    "locality": "COOGEE",
+    "postcode": "2034",
+    "state": "NSW"
+  },
+  "n4751840538": {
+    "latitude": -37.89753853,
+    "longitude": 144.72638078,
+    "locality": "POINT COOK",
+    "postcode": "3030",
+    "state": "VIC"
+  },
+  "n4757352823": {
+    "latitude": -26.80483133,
+    "longitude": 153.12309618,
+    "locality": "CALOUNDRA",
+    "postcode": "4551",
+    "state": "QLD"
+  },
+  "n4803278250": {
+    "latitude": -33.95244086,
+    "longitude": 151.05113345,
+    "locality": "RIVERWOOD",
+    "postcode": "2210",
+    "state": "NSW"
+  },
+  "n4839519621": {
+    "latitude": -33.74331824,
+    "longitude": 150.92236042,
+    "locality": "KINGS LANGLEY",
+    "postcode": "2147",
+    "state": "NSW"
+  },
+  "n4855714667": {
+    "latitude": -38.01119654,
+    "longitude": 145.1608368,
+    "locality": "KEYSBOROUGH",
+    "postcode": "3173",
+    "state": "VIC"
+  },
+  "n4924219553": {
+    "latitude": -33.90256527,
+    "longitude": 151.19480797,
+    "locality": "ALEXANDRIA",
+    "postcode": "2015",
+    "state": "NSW"
+  },
+  "n4927859321": {
+    "latitude": -28.33196086,
+    "longitude": 153.56913106,
+    "locality": "BOGANGAR",
+    "postcode": "2488",
+    "state": "NSW"
+  },
+  "n4954092952": {
+    "latitude": -33.68611671,
+    "longitude": 150.95103876,
+    "locality": "NORTH KELLYVILLE",
+    "postcode": "2155",
+    "state": "NSW"
+  },
+  "n4971489094": {
+    "latitude": -33.91247762,
+    "longitude": 151.1181976,
+    "locality": "CANTERBURY",
+    "postcode": "2193",
+    "state": "NSW"
+  },
+  "n4984760726": {
+    "latitude": -27.48231163,
+    "longitude": 153.02368234,
+    "locality": "SOUTH BRISBANE",
+    "postcode": "4101",
+    "state": "QLD"
+  },
+  "n5048023331": {
+    "latitude": -32.09796661,
+    "longitude": 115.78541073,
+    "locality": "SPEARWOOD",
+    "postcode": "6163",
+    "state": "WA"
+  },
+  "n5058381197": {
+    "latitude": -28.12026385,
+    "longitude": 153.4527325,
+    "locality": "ELANORA",
+    "postcode": "4221",
+    "state": "QLD"
+  },
+  "n5068728312": {
+    "latitude": -35.20028908,
+    "longitude": 149.14896851,
+    "locality": "FRANKLIN",
+    "postcode": "2913",
+    "state": "ACT"
+  },
+  "n5133073690": {
+    "latitude": -34.89590318,
+    "longitude": 138.6170992,
+    "locality": "WALKERVILLE",
+    "postcode": "5081",
+    "state": "SA"
+  },
+  "n5136987113": {
+    "latitude": -16.89608905,
+    "longitude": 145.69842896,
+    "locality": "REDLYNCH",
+    "postcode": "4870",
+    "state": "QLD"
+  },
+  "n5199558487": {
+    "latitude": -27.66351435,
+    "longitude": 152.89145409,
+    "locality": "BROOKWATER",
+    "postcode": "4300",
+    "state": "QLD"
+  },
+  "n5219780268": {
+    "latitude": -27.33768518,
+    "longitude": 152.96225865,
+    "locality": "BRENDALE",
+    "postcode": "4500",
+    "state": "QLD"
+  },
+  "n5229563124": {
+    "latitude": -37.81668034,
+    "longitude": 144.96457047,
+    "locality": "MELBOURNE",
+    "postcode": "3000",
+    "state": "VIC"
+  },
+  "n5230338598": {
+    "latitude": -36.12103356,
+    "longitude": 146.88611173,
+    "locality": "WODONGA",
+    "postcode": "3690",
+    "state": "VIC"
+  },
+  "n5245638898": {
+    "latitude": -27.30677306,
+    "longitude": 152.99339494,
+    "locality": "STRATHPINE",
+    "postcode": "4500",
+    "state": "QLD"
+  },
+  "n5273006363": {
+    "latitude": -34.85572796,
+    "longitude": 138.65511191,
+    "locality": "GILLES PLAINS",
+    "postcode": "5086",
+    "state": "SA"
+  },
+  "n5275860526": {
+    "latitude": -31.96360106,
+    "longitude": 115.93456949,
+    "locality": "CLOVERDALE",
+    "postcode": "6105",
+    "state": "WA"
+  },
+  "n5316008627": {
+    "latitude": -26.4163903,
+    "longitude": 153.04772509,
+    "locality": "NOOSAVILLE",
+    "postcode": "4566",
+    "state": "QLD"
+  },
+  "n5334234101": {
+    "latitude": -35.10303707,
+    "longitude": 138.5543562,
+    "locality": "WOODCROFT",
+    "postcode": "5162",
+    "state": "SA"
+  },
+  "n5334248427": {
+    "latitude": -28.25611186,
+    "longitude": 153.57500257,
+    "locality": "KINGSCLIFF",
+    "postcode": "2487",
+    "state": "NSW"
+  },
+  "n5393335939": {
+    "latitude": -27.60206877,
+    "longitude": 151.91394913,
+    "locality": "DRAYTON",
+    "postcode": "4350",
+    "state": "QLD"
+  },
+  "n5430747733": {
+    "latitude": -37.54372367,
+    "longitude": 143.78539706,
+    "locality": "LUCAS",
+    "postcode": "3350",
+    "state": "VIC"
+  },
+  "n5515348694": {
+    "latitude": -38.06434041,
+    "longitude": 145.43425645,
+    "locality": "OFFICER",
+    "postcode": "3809",
+    "state": "VIC"
+  },
+  "n5533549293": {
+    "latitude": -28.16793259,
+    "longitude": 153.53850101,
+    "locality": "COOLANGATTA",
+    "postcode": "4225",
+    "state": "QLD"
+  },
+  "n5580591758": {
+    "latitude": -32.00172816,
+    "longitude": 115.92235996,
+    "locality": "BENTLEY",
+    "postcode": "6102",
+    "state": "WA"
+  },
+  "n5590821336": {
+    "latitude": -19.29963676,
+    "longitude": 146.76139508,
+    "locality": "CRANBROOK",
+    "postcode": "4814",
+    "state": "QLD"
+  },
+  "n5608315328": {
+    "latitude": -28.80933474,
+    "longitude": 114.63218787,
+    "locality": "WANDINA",
+    "postcode": "6530",
+    "state": "WA"
+  },
+  "n5631758469": {
+    "latitude": -12.47039388,
+    "longitude": 130.98508647,
+    "locality": "YARRAWONGA",
+    "postcode": "0830",
+    "state": "NT"
+  },
+  "n5634144427": {
+    "latitude": -16.46639403,
+    "longitude": 145.37241299,
+    "locality": "MOSSMAN",
+    "postcode": "4873",
+    "state": "QLD"
+  },
+  "n5637523521": {
+    "latitude": -37.81598779,
+    "longitude": 144.95632191,
+    "locality": "MELBOURNE",
+    "postcode": "3000",
+    "state": "VIC"
+  },
+  "n5649806273": {
+    "latitude": -31.91078622,
+    "longitude": 115.84741738,
+    "locality": "YOKINE",
+    "postcode": "6060",
+    "state": "WA"
+  },
+  "n5651505174": {
+    "latitude": -27.71724637,
+    "longitude": 151.6312911,
+    "locality": "PITTSWORTH",
+    "postcode": "4356",
+    "state": "QLD"
+  },
+  "n5653800928": {
+    "latitude": -31.09692223,
+    "longitude": 150.93649268,
+    "locality": "TAMWORTH",
+    "postcode": "2340",
+    "state": "NSW"
+  },
+  "n5670650317": {
+    "latitude": -37.75790102,
+    "longitude": 144.96391726,
+    "locality": "BRUNSWICK",
+    "postcode": "3056",
+    "state": "VIC"
+  },
+  "n5700721425": {
+    "latitude": -27.5011511,
+    "longitude": 153.07692772,
+    "locality": "CAMP HILL",
+    "postcode": "4152",
+    "state": "QLD"
+  },
+  "n5710181746": {
+    "latitude": -31.96312671,
+    "longitude": 141.44934516,
+    "locality": "BROKEN HILL",
+    "postcode": "2880",
+    "state": "NSW"
+  },
+  "n5751949261": {
+    "latitude": -27.34500749,
+    "longitude": 153.01107445,
+    "locality": "CARSELDINE",
+    "postcode": "4034",
+    "state": "QLD"
+  },
+  "n5784049580": {
+    "latitude": -33.83780987,
+    "longitude": 151.20663524,
+    "locality": "NORTH SYDNEY",
+    "postcode": "2060",
+    "state": "NSW"
+  },
+  "n5796006229": {
+    "latitude": -33.90628832,
+    "longitude": 151.20485873,
+    "locality": "ZETLAND",
+    "postcode": "2017",
+    "state": "NSW"
+  },
+  "n5821527253": {
+    "latitude": -32.40774984,
+    "longitude": 115.75805363,
+    "locality": "SECRET HARBOUR",
+    "postcode": "6173",
+    "state": "WA"
+  },
+  "n5828327193": {
+    "latitude": -33.99603886,
+    "longitude": 150.79154907,
+    "locality": "LEPPINGTON",
+    "postcode": "2179",
+    "state": "NSW"
+  },
+  "n5862700103": {
+    "latitude": -27.42721272,
+    "longitude": 153.07182347,
+    "locality": "ASCOT",
+    "postcode": "4007",
+    "state": "QLD"
+  },
+  "n5873480044": {
+    "latitude": -37.59412116,
+    "longitude": 145.09034469,
+    "locality": "MERNDA",
+    "postcode": "3754",
+    "state": "VIC"
+  },
+  "n5901232301": {
+    "latitude": -33.7209476,
+    "longitude": 151.04398401,
+    "locality": "CHERRYBROOK",
+    "postcode": "2126",
+    "state": "NSW"
+  },
+  "n5905417827": {
+    "latitude": -37.84535084,
+    "longitude": 145.04296892,
+    "locality": "HAWTHORN EAST",
+    "postcode": "3123",
+    "state": "VIC"
+  },
+  "n5922396081": {
+    "latitude": -27.15549514,
+    "longitude": 152.9750087,
+    "locality": "BURPENGARY",
+    "postcode": "4505",
+    "state": "QLD"
+  },
+  "n5926516555": {
+    "latitude": -23.30481663,
+    "longitude": 150.51583202,
+    "locality": "PARKHURST",
+    "postcode": "4702",
+    "state": "QLD"
+  },
+  "n6084356113": {
+    "latitude": -27.37678361,
+    "longitude": 153.07768897,
+    "locality": "BANYO",
+    "postcode": "4014",
+    "state": "QLD"
+  },
+  "n6115285078": {
+    "latitude": -33.9507779,
+    "longitude": 151.23071076,
+    "locality": "HILLSDALE",
+    "postcode": "2036",
+    "state": "NSW"
+  },
+  "n6144120585": {
+    "latitude": -31.92242096,
+    "longitude": 115.88393469,
+    "locality": "INGLEWOOD",
+    "postcode": "6052",
+    "state": "WA"
+  },
+  "n6152686991": {
+    "latitude": -32.59246873,
+    "longitude": 149.58717596,
+    "locality": "MUDGEE",
+    "postcode": "2850",
+    "state": "NSW"
+  },
+  "n6154647448": {
+    "latitude": -36.88636969,
+    "longitude": 149.90927878,
+    "locality": "MERIMBULA",
+    "postcode": "2548",
+    "state": "NSW"
+  },
+  "n6180138089": {
+    "latitude": -34.58812061,
+    "longitude": 150.86670046,
+    "locality": "SHELL COVE",
+    "postcode": "2529",
+    "state": "NSW"
+  },
+  "n6229144416": {
+    "latitude": -26.19928037,
+    "longitude": 152.64988136,
+    "locality": "SOUTHSIDE",
+    "postcode": "4570",
+    "state": "QLD"
+  },
+  "n6250571634": {
+    "latitude": -32.73552778,
+    "longitude": 152.10679634,
+    "locality": "SALAMANDER BAY",
+    "postcode": "2317",
+    "state": "NSW"
+  },
+  "n6280017885": {
+    "latitude": -34.98239088,
+    "longitude": 117.92283506,
+    "locality": "BAYONET HEAD",
+    "postcode": "6330",
+    "state": "WA"
+  },
+  "n6314939218": {
+    "latitude": -33.75292006,
+    "longitude": 151.2878377,
+    "locality": "DEE WHY",
+    "postcode": "2099",
+    "state": "NSW"
+  },
+  "n6329107258": {
+    "latitude": -26.65551295,
+    "longitude": 153.08664974,
+    "locality": "MAROOCHYDORE",
+    "postcode": "4558",
+    "state": "QLD"
+  },
+  "n6332368285": {
+    "latitude": -32.12690392,
+    "longitude": 115.92699028,
+    "locality": "HARRISDALE",
+    "postcode": "6112",
+    "state": "WA"
+  },
+  "n6357532503": {
+    "latitude": -33.30838924,
+    "longitude": 151.41633145,
+    "locality": "TUGGERAH",
+    "postcode": "2259",
+    "state": "NSW"
+  },
+  "n6359670033": {
+    "latitude": -32.03988553,
+    "longitude": 115.9051998,
+    "locality": "PARKWOOD",
+    "postcode": "6147",
+    "state": "WA"
+  },
+  "n6366215012": {
+    "latitude": -33.95212842,
+    "longitude": 150.85544778,
+    "locality": "PRESTONS",
+    "postcode": "2170",
+    "state": "NSW"
+  },
+  "n6385046686": {
+    "latitude": -43.02805339,
+    "longitude": 147.04882968,
+    "locality": "HUONVILLE",
+    "postcode": "7109",
+    "state": "TAS"
+  },
+  "n6433345937": {
+    "latitude": -34.06951903,
+    "longitude": 150.72883805,
+    "locality": "SPRING FARM",
+    "postcode": "2570",
+    "state": "NSW"
+  },
+  "n6450888412": {
+    "latitude": -34.57215427,
+    "longitude": 150.77440324,
+    "locality": "ALBION PARK",
+    "postcode": "2527",
+    "state": "NSW"
+  },
+  "n6467452446": {
+    "latitude": -33.69348809,
+    "longitude": 151.01818349,
+    "locality": "DURAL",
+    "postcode": "2158",
+    "state": "NSW"
+  },
+  "n6522469061": {
+    "latitude": -33.96584541,
+    "longitude": 151.10595969,
+    "locality": "HURSTVILLE",
+    "postcode": "2220",
+    "state": "NSW"
+  },
+  "n6547561972": {
+    "latitude": -37.79631089,
+    "longitude": 144.94047414,
+    "locality": "NORTH MELBOURNE",
+    "postcode": "3051",
+    "state": "VIC"
+  },
+  "n6594078628": {
+    "latitude": -37.86307788,
+    "longitude": 145.0102373,
+    "locality": "CAULFIELD NORTH",
+    "postcode": "3161",
+    "state": "VIC"
+  },
+  "n6594152038": {
+    "latitude": -33.95782083,
+    "longitude": 151.23158757,
+    "locality": "MATRAVILLE",
+    "postcode": "2036",
+    "state": "NSW"
+  },
+  "n6632403651": {
+    "latitude": -37.82099345,
+    "longitude": 144.95063997,
+    "locality": "DOCKLANDS",
+    "postcode": "3008",
+    "state": "VIC"
+  },
+  "n6673223225": {
+    "latitude": -33.28376788,
+    "longitude": 115.74125088,
+    "locality": "AUSTRALIND",
+    "postcode": "6233",
+    "state": "WA"
+  },
+  "n6763590109": {
+    "latitude": -32.91630503,
+    "longitude": 151.59730945,
+    "locality": "CAMERON PARK",
+    "postcode": "2285",
+    "state": "NSW"
+  },
+  "n6779380538": {
+    "latitude": -33.87795977,
+    "longitude": 151.2445642,
+    "locality": "DOUBLE BAY",
+    "postcode": "2028",
+    "state": "NSW"
+  },
+  "n6779489131": {
+    "latitude": -33.81827284,
+    "longitude": 151.00329891,
+    "locality": "PARRAMATTA",
+    "postcode": "2150",
+    "state": "NSW"
+  },
+  "n6779489134": {
+    "latitude": -33.81753791,
+    "longitude": 151.00426012,
+    "locality": "PARRAMATTA",
+    "postcode": "2150",
+    "state": "NSW"
+  },
+  "n6868706671": {
+    "latitude": -37.81254251,
+    "longitude": 144.93898103,
+    "locality": "DOCKLANDS",
+    "postcode": "3008",
+    "state": "VIC"
+  },
+  "n6876392703": {
+    "latitude": -38.24644466,
+    "longitude": 144.54064143,
+    "locality": "OCEAN GROVE",
+    "postcode": "3226",
+    "state": "VIC"
+  },
+  "n6897812303": {
+    "latitude": -37.59407885,
+    "longitude": 144.71370538,
+    "locality": "SUNBURY",
+    "postcode": "3429",
+    "state": "VIC"
+  },
+  "n6920201485": {
+    "latitude": -33.84611357,
+    "longitude": 151.21290941,
+    "locality": "KIRRIBILLI",
+    "postcode": "2061",
+    "state": "NSW"
+  },
+  "n6970525764": {
+    "latitude": -37.84874683,
+    "longitude": 145.1340971,
+    "locality": "BURWOOD EAST",
+    "postcode": "3151",
+    "state": "VIC"
+  },
+  "n7015942366": {
+    "latitude": -33.8689772,
+    "longitude": 151.2081227,
+    "locality": "SYDNEY",
+    "postcode": "2000",
+    "state": "NSW"
+  },
+  "n7018056386": {
+    "latitude": -37.80018064,
+    "longitude": 144.99486239,
+    "locality": "ABBOTSFORD",
+    "postcode": "3067",
+    "state": "VIC"
+  },
+  "n7079317857": {
+    "latitude": -33.87764509,
+    "longitude": 151.10230127,
+    "locality": "BURWOOD",
+    "postcode": "2134",
+    "state": "NSW"
+  },
+  "n7081635883": {
+    "latitude": -27.23041052,
+    "longitude": 153.11466845,
+    "locality": "REDCLIFFE",
+    "postcode": "4020",
+    "state": "QLD"
+  },
+  "n7092060787": {
+    "latitude": -27.52481989,
+    "longitude": 153.1943485,
+    "locality": "CAPALABA",
+    "postcode": "4157",
+    "state": "QLD"
+  },
+  "n7095124967": {
+    "latitude": -33.7491825,
+    "longitude": 151.0647238,
+    "locality": "BEECROFT",
+    "postcode": "2119",
+    "state": "NSW"
+  },
+  "n7125037879": {
+    "latitude": -23.51892523,
+    "longitude": 148.1563469,
+    "locality": "EMERALD",
+    "postcode": "4720",
+    "state": "QLD"
+  },
+  "n7140603105": {
+    "latitude": -26.39105263,
+    "longitude": 153.03827217,
+    "locality": "TEWANTIN",
+    "postcode": "4565",
+    "state": "QLD"
+  },
+  "n7142074990": {
+    "latitude": -33.92607324,
+    "longitude": 151.05829425,
+    "locality": "PUNCHBOWL",
+    "postcode": "2196",
+    "state": "NSW"
+  },
+  "n7227066219": {
+    "latitude": -37.8339157,
+    "longitude": 145.07749801,
+    "locality": "CAMBERWELL",
+    "postcode": "3124",
+    "state": "VIC"
+  },
+  "n7238007781": {
+    "latitude": -34.2897417,
+    "longitude": 146.05451715,
+    "locality": "GRIFFITH",
+    "postcode": "2680",
+    "state": "NSW"
+  },
+  "n7256348358": {
+    "latitude": -27.58691175,
+    "longitude": 153.28489532,
+    "locality": "VICTORIA POINT",
+    "postcode": "4165",
+    "state": "QLD"
+  },
+  "n7256348359": {
+    "latitude": -27.58784049,
+    "longitude": 153.28092813,
+    "locality": "VICTORIA POINT",
+    "postcode": "4165",
+    "state": "QLD"
+  },
+  "n7286929878": {
+    "latitude": -27.66888998,
+    "longitude": 153.1371429,
+    "locality": "MEADOWBROOK",
+    "postcode": "4131",
+    "state": "QLD"
+  },
+  "n7416126172": {
+    "latitude": -27.44466344,
+    "longitude": 152.99353116,
+    "locality": "ASHGROVE",
+    "postcode": "4060",
+    "state": "QLD"
+  },
+  "n7447433485": {
+    "latitude": -27.78602753,
+    "longitude": 153.2519906,
+    "locality": "ORMEAU",
+    "postcode": "4208",
+    "state": "QLD"
+  },
+  "n7520934197": {
+    "latitude": -37.92113898,
+    "longitude": 145.13949526,
+    "locality": "CLAYTON",
+    "postcode": "3168",
+    "state": "VIC"
+  },
+  "n7607930885": {
+    "latitude": -33.87435794,
+    "longitude": 151.22272497,
+    "locality": "POTTS POINT",
+    "postcode": "2011",
+    "state": "NSW"
+  },
+  "n7634584367": {
+    "latitude": -27.10289433,
+    "longitude": 152.95174632,
+    "locality": "MORAYFIELD",
+    "postcode": "4506",
+    "state": "QLD"
+  },
+  "n7686739391": {
+    "latitude": -34.76429853,
+    "longitude": 138.60689743,
+    "locality": "PARALOWIE",
+    "postcode": "5108",
+    "state": "SA"
+  },
+  "n7690161658": {
+    "latitude": -35.26070252,
+    "longitude": 138.89077784,
+    "locality": "STRATHALBYN",
+    "postcode": "5255",
+    "state": "SA"
+  },
+  "n7710860699": {
+    "latitude": -38.10796131,
+    "longitude": 145.25009755,
+    "locality": "CRANBOURNE WEST",
+    "postcode": "3977",
+    "state": "VIC"
+  },
+  "n7758641506": {
+    "latitude": -33.72555793,
+    "longitude": 150.84493815,
+    "locality": "COLEBEE",
+    "postcode": "2761",
+    "state": "NSW"
+  },
+  "n7808386452": {
+    "latitude": -35.35971097,
+    "longitude": 150.47316566,
+    "locality": "ULLADULLA",
+    "postcode": "2539",
+    "state": "NSW"
+  },
+  "n7814358092": {
+    "latitude": -28.86366841,
+    "longitude": 153.04963947,
+    "locality": "CASINO",
+    "postcode": "2470",
+    "state": "NSW"
+  },
+  "n7855748484": {
+    "latitude": -32.7344382,
+    "longitude": 151.55353564,
+    "locality": "MAITLAND",
+    "postcode": "2320",
+    "state": "NSW"
+  },
+  "n7919531590": {
+    "latitude": -27.48585983,
+    "longitude": 153.00113474,
+    "locality": "WEST END",
+    "postcode": "4101",
+    "state": "QLD"
+  },
+  "n7974935071": {
+    "latitude": -27.76624108,
+    "longitude": 153.10809541,
+    "locality": "LOGAN VILLAGE",
+    "postcode": "4207",
+    "state": "QLD"
+  },
+  "n7990506269": {
+    "latitude": -38.23057328,
+    "longitude": 144.37154105,
+    "locality": "ARMSTRONG CREEK",
+    "postcode": "3217",
+    "state": "VIC"
+  },
+  "n8093012298": {
+    "latitude": -33.76960891,
+    "longitude": 150.73506464,
+    "locality": "CADDENS",
+    "postcode": "2747",
+    "state": "NSW"
+  },
+  "n8219338729": {
+    "latitude": -37.72210211,
+    "longitude": 144.56955238,
+    "locality": "WEIR VIEWS",
+    "postcode": "3338",
+    "state": "VIC"
+  },
+  "n8260977246": {
+    "latitude": -28.13353991,
+    "longitude": 153.46715255,
+    "locality": "ELANORA",
+    "postcode": "4221",
+    "state": "QLD"
+  },
+  "n8262843625": {
+    "latitude": -32.74069437,
+    "longitude": 151.86636337,
+    "locality": "MEDOWIE",
+    "postcode": "2318",
+    "state": "NSW"
+  },
+  "n8282446083": {
+    "latitude": -27.47389919,
+    "longitude": 153.01792298,
+    "locality": "SOUTH BRISBANE",
+    "postcode": "4101",
+    "state": "QLD"
+  },
+  "n8380734766": {
+    "latitude": -33.74028853,
+    "longitude": 150.88592895,
+    "locality": "QUAKERS HILL",
+    "postcode": "2763",
+    "state": "NSW"
+  },
+  "n8423843985": {
+    "latitude": -27.46689028,
+    "longitude": 153.02575685,
+    "locality": "BRISBANE CITY",
+    "postcode": "4000",
+    "state": "QLD"
+  },
+  "n8475688717": {
+    "latitude": -27.46833854,
+    "longitude": 153.02047514,
+    "locality": "BRISBANE CITY",
+    "postcode": "4000",
+    "state": "QLD"
+  },
+  "n8498329641": {
+    "latitude": -28.64705072,
+    "longitude": 153.61232129,
+    "locality": "BYRON BAY",
+    "postcode": "2481",
+    "state": "NSW"
+  },
+  "n8515880305": {
+    "latitude": -28.82241255,
+    "longitude": 153.32785483,
+    "locality": "GOONELLABAH",
+    "postcode": "2480",
+    "state": "NSW"
+  },
+  "n8519004440": {
+    "latitude": -32.92729248,
+    "longitude": 151.77929273,
+    "locality": "NEWCASTLE",
+    "postcode": "2300",
+    "state": "NSW"
+  },
+  "n8614753366": {
+    "latitude": -35.41739562,
+    "longitude": 149.06807581,
+    "locality": "GREENWAY",
+    "postcode": "2900",
+    "state": "ACT"
+  },
+  "n8661551888": {
+    "latitude": -27.53927833,
+    "longitude": 153.08336039,
+    "locality": "MOUNT GRAVATT EAST",
+    "postcode": "4122",
+    "state": "QLD"
+  },
+  "n8730239134": {
+    "latitude": -27.62508992,
+    "longitude": 152.96847942,
+    "locality": "FOREST LAKE",
+    "postcode": "4078",
+    "state": "QLD"
+  },
+  "n8735419347": {
+    "latitude": -38.35816548,
+    "longitude": 142.44514301,
+    "locality": "DENNINGTON",
+    "postcode": "3280",
+    "state": "VIC"
+  },
+  "n8735656840": {
+    "latitude": -26.95219767,
+    "longitude": 152.77868731,
+    "locality": "WOODFORD",
+    "postcode": "4514",
+    "state": "QLD"
+  },
+  "n8756944558": {
+    "latitude": -27.47760227,
+    "longitude": 153.01123534,
+    "locality": "WEST END",
+    "postcode": "4101",
+    "state": "QLD"
+  },
+  "n8899582894": {
+    "latitude": -31.76486387,
+    "longitude": 115.98693516,
+    "locality": "ELLENBROOK",
+    "postcode": "6069",
+    "state": "WA"
+  },
+  "n8910893649": {
+    "latitude": -27.62463801,
+    "longitude": 152.85637097,
+    "locality": "COLLINGWOOD PARK",
+    "postcode": "4301",
+    "state": "QLD"
+  },
+  "n8918080355": {
+    "latitude": -32.01624634,
+    "longitude": 115.84267537,
+    "locality": "APPLECROSS",
+    "postcode": "6153",
+    "state": "WA"
+  },
+  "n8926738186": {
+    "latitude": -32.05563129,
+    "longitude": 115.96340547,
+    "locality": "THORNLIE",
+    "postcode": "6108",
+    "state": "WA"
+  },
+  "n8926779306": {
+    "latitude": -32.0546166,
+    "longitude": 115.9795707,
+    "locality": "MADDINGTON",
+    "postcode": "6109",
+    "state": "WA"
+  },
+  "n8926816783": {
+    "latitude": -32.15034844,
+    "longitude": 116.01484571,
+    "locality": "ARMADALE",
+    "postcode": "6112",
+    "state": "WA"
+  },
+  "n8926882148": {
+    "latitude": -32.11661211,
+    "longitude": 116.01502551,
+    "locality": "KELMSCOTT",
+    "postcode": "6111",
+    "state": "WA"
+  },
+  "n8948593617": {
+    "latitude": -32.33293717,
+    "longitude": 115.81553646,
+    "locality": "BALDIVIS",
+    "postcode": "6171",
+    "state": "WA"
+  },
+  "n9016840598": {
+    "latitude": -37.28648788,
+    "longitude": 144.94745884,
+    "locality": "KILMORE",
+    "postcode": "3764",
+    "state": "VIC"
+  },
+  "n9016892894": {
+    "latitude": -34.74146974,
+    "longitude": 138.6043684,
+    "locality": "BURTON",
+    "postcode": "5110",
+    "state": "SA"
+  },
+  "n9037654665": {
+    "latitude": -35.45824942,
+    "longitude": 149.09226704,
+    "locality": "CONDER",
+    "postcode": "2906",
+    "state": "ACT"
+  },
+  "n9044692982": {
+    "latitude": -32.70270811,
+    "longitude": 151.54030388,
+    "locality": "ABERGLASSLYN",
+    "postcode": "2320",
+    "state": "NSW"
+  },
+  "n9083541755": {
+    "latitude": -27.29352743,
+    "longitude": 152.95135609,
+    "locality": "WARNER",
+    "postcode": "4500",
+    "state": "QLD"
+  },
+  "n9104671053": {
+    "latitude": -37.6845048,
+    "longitude": 145.13657603,
+    "locality": "ST HELENA",
+    "postcode": "3088",
+    "state": "VIC"
+  },
+  "n9198333805": {
+    "latitude": -33.71276224,
+    "longitude": 151.1469511,
+    "locality": "NORTH TURRAMURRA",
+    "postcode": "2074",
+    "state": "NSW"
+  },
+  "n9294884090": {
+    "latitude": -26.693184,
+    "longitude": 153.09193804,
+    "locality": "BUDERIM",
+    "postcode": "4556",
+    "state": "QLD"
+  },
+  "n9329081674": {
+    "latitude": -33.90397297,
+    "longitude": 151.18984795,
+    "locality": "ERSKINEVILLE",
+    "postcode": "2043",
+    "state": "NSW"
+  },
+  "n9339780700": {
+    "latitude": -34.80970355,
+    "longitude": 138.61531711,
+    "locality": "MAWSON LAKES",
+    "postcode": "5095",
+    "state": "SA"
+  },
+  "n9432344154": {
+    "latitude": -31.76906109,
+    "longitude": 115.81924037,
+    "locality": "HOCKING",
+    "postcode": "6065",
+    "state": "WA"
+  },
+  "n9436810444": {
+    "latitude": -31.9425512,
+    "longitude": 115.8682148,
+    "locality": "PERTH",
+    "postcode": "6000",
+    "state": "WA"
+  },
+  "n9445847175": {
+    "latitude": -32.24558417,
+    "longitude": 148.60085147,
+    "locality": "DUBBO",
+    "postcode": "2830",
+    "state": "NSW"
+  },
+  "n9467352819": {
+    "latitude": -33.83575956,
+    "longitude": 150.98994689,
+    "locality": "MERRYLANDS",
+    "postcode": "2160",
+    "state": "NSW"
+  },
+  "n9481772893": {
+    "latitude": -31.84401897,
+    "longitude": 115.8109341,
+    "locality": "WARWICK",
+    "postcode": "6024",
+    "state": "WA"
+  },
+  "n9526576734": {
+    "latitude": -32.03406372,
+    "longitude": 115.83547553,
+    "locality": "BOORAGOON",
+    "postcode": "6154",
+    "state": "WA"
+  },
+  "n9537128520": {
+    "latitude": -34.91381715,
+    "longitude": 138.51442795,
+    "locality": "FULHAM GARDENS",
+    "postcode": "5024",
+    "state": "SA"
+  },
+  "n9642453515": {
+    "latitude": -27.75372703,
+    "longitude": 153.18768477,
+    "locality": "BANNOCKBURN",
+    "postcode": "4207",
+    "state": "QLD"
+  },
+  "n9685531436": {
+    "latitude": -27.45417536,
+    "longitude": 153.04707576,
+    "locality": "TENERIFFE",
+    "postcode": "4005",
+    "state": "QLD"
+  },
+  "n9700306693": {
+    "latitude": -27.961883,
+    "longitude": 153.38734919,
+    "locality": "SOUTHPORT",
+    "postcode": "4215",
+    "state": "QLD"
+  },
+  "n9729952425": {
+    "latitude": -27.85312142,
+    "longitude": 153.31130026,
+    "locality": "COOMERA",
+    "postcode": "4209",
+    "state": "QLD"
+  },
+  "n9737251940": {
+    "latitude": -34.66745136,
+    "longitude": 138.55964565,
+    "locality": "VIRGINIA",
+    "postcode": "5120",
+    "state": "SA"
+  },
+  "n9750631115": {
+    "latitude": -37.61628639,
+    "longitude": 144.91472587,
+    "locality": "ROXBURGH PARK",
+    "postcode": "3064",
+    "state": "VIC"
+  },
+  "n9761443293": {
+    "latitude": -27.85251683,
+    "longitude": 153.33616461,
+    "locality": "COOMERA",
+    "postcode": "4209",
+    "state": "QLD"
+  },
+  "n9771050985": {
+    "latitude": -33.72707691,
+    "longitude": 150.72501749,
+    "locality": "JORDAN SPRINGS",
+    "postcode": "2747",
+    "state": "NSW"
+  },
+  "n9795965669": {
+    "latitude": -38.21744285,
+    "longitude": 145.03933288,
+    "locality": "MORNINGTON",
+    "postcode": "3931",
+    "state": "VIC"
+  },
+  "n9869557343": {
+    "latitude": -37.82598755,
+    "longitude": 144.96340106,
+    "locality": "SOUTHBANK",
+    "postcode": "3006",
+    "state": "VIC"
+  },
+  "n9888936687": {
+    "latitude": -33.89395378,
+    "longitude": 151.26307437,
+    "locality": "BONDI",
+    "postcode": "2026",
+    "state": "NSW"
+  },
+  "n9939259648": {
+    "latitude": -26.40108656,
+    "longitude": 153.0648615,
+    "locality": "NOOSAVILLE",
+    "postcode": "4566",
+    "state": "QLD"
+  },
+  "n9961078598": {
+    "latitude": -31.71205472,
+    "longitude": 115.7885537,
+    "locality": "CARRAMAR",
+    "postcode": "6031",
+    "state": "WA"
+  },
+  "n9979213562": {
+    "latitude": -34.03444917,
+    "longitude": 151.07331356,
+    "locality": "KIRRAWEE",
+    "postcode": "2232",
+    "state": "NSW"
+  },
+  "n10050790417": {
+    "latitude": -32.0896382,
+    "longitude": 115.94162048,
+    "locality": "CANNING VALE",
+    "postcode": "6155",
+    "state": "WA"
+  },
+  "n10105410620": {
+    "latitude": -27.52418385,
+    "longitude": 153.19093182,
+    "locality": "CAPALABA",
+    "postcode": "4157",
+    "state": "QLD"
+  },
+  "n10125608625": {
+    "latitude": -33.92431394,
+    "longitude": 151.21203307,
+    "locality": "EASTLAKES",
+    "postcode": "2018",
+    "state": "NSW"
+  },
+  "n10201748475": {
+    "latitude": -38.04401578,
+    "longitude": 144.16995818,
+    "locality": "BANNOCKBURN",
+    "postcode": "3331",
+    "state": "VIC"
+  },
+  "n10218826516": {
+    "latitude": -27.52405852,
+    "longitude": 153.22155589,
+    "locality": "ALEXANDRA HILLS",
+    "postcode": "4161",
+    "state": "QLD"
+  },
+  "n10224709400": {
+    "latitude": -34.0140142,
+    "longitude": 151.01550071,
+    "locality": "MENAI",
+    "postcode": "2234",
+    "state": "NSW"
+  },
+  "n10224947129": {
+    "latitude": -27.22871733,
+    "longitude": 152.9905988,
+    "locality": "DAKABIN",
+    "postcode": "4503",
+    "state": "QLD"
+  },
+  "n10241202752": {
+    "latitude": -31.21073635,
+    "longitude": 121.62187984,
+    "locality": "KAMBALDA WEST",
+    "postcode": "6442",
+    "state": "WA"
+  },
+  "n10243705320": {
+    "latitude": -37.77598278,
+    "longitude": 144.92854779,
+    "locality": "ASCOT VALE",
+    "postcode": "3032",
+    "state": "VIC"
+  },
+  "n10246046158": {
+    "latitude": -27.67011395,
+    "longitude": 153.19180683,
+    "locality": "LOGANHOLME",
+    "postcode": "4129",
+    "state": "QLD"
+  },
+  "n10277506889": {
+    "latitude": -37.86793094,
+    "longitude": 145.23839839,
+    "locality": "WANTIRNA SOUTH",
+    "postcode": "3152",
+    "state": "VIC"
+  },
+  "n10277637378": {
+    "latitude": -27.40760379,
+    "longitude": 152.9921954,
+    "locality": "EVERTON PARK",
+    "postcode": "4053",
+    "state": "QLD"
+  },
+  "n10285701169": {
+    "latitude": -37.97503307,
+    "longitude": 145.20583284,
+    "locality": "DANDENONG",
+    "postcode": "3175",
+    "state": "VIC"
+  },
+  "n10289380494": {
+    "latitude": -33.78331637,
+    "longitude": 150.85242275,
+    "locality": "EASTERN CREEK",
+    "postcode": "2766",
+    "state": "NSW"
+  },
+  "n10536141584": {
+    "latitude": -34.10034872,
+    "longitude": 150.79926442,
+    "locality": "ROSEMEADOW",
+    "postcode": "2560",
+    "state": "NSW"
+  },
+  "n10564579756": {
+    "latitude": -37.60255984,
+    "longitude": 145.10004319,
+    "locality": "MERNDA",
+    "postcode": "3754",
+    "state": "VIC"
+  },
+  "n10567429114": {
+    "latitude": -37.97386959,
+    "longitude": 145.01628658,
+    "locality": "BLACK ROCK",
+    "postcode": "3193",
+    "state": "VIC"
+  },
+  "n10568103910": {
+    "latitude": -37.72968597,
+    "longitude": 144.74258626,
+    "locality": "CAROLINE SPRINGS",
+    "postcode": "3023",
+    "state": "VIC"
+  },
+  "n10614020296": {
+    "latitude": -37.81010774,
+    "longitude": 144.95875845,
+    "locality": "MELBOURNE",
+    "postcode": "3000",
+    "state": "VIC"
+  },
+  "n10616913654": {
+    "latitude": -38.36208284,
+    "longitude": 144.89042989,
+    "locality": "ROSEBUD",
+    "postcode": "3939",
+    "state": "VIC"
+  },
+  "n10648668219": {
+    "latitude": -33.81154298,
+    "longitude": 151.10713366,
+    "locality": "RYDE",
+    "postcode": "2112",
+    "state": "NSW"
+  },
+  "n10656549312": {
+    "latitude": -34.02641072,
+    "longitude": 150.77778411,
+    "locality": "GREGORY HILLS",
+    "postcode": "2557",
+    "state": "NSW"
+  },
+  "n10698432056": {
+    "latitude": -27.19427084,
+    "longitude": 153.02913955,
+    "locality": "DECEPTION BAY",
+    "postcode": "4508",
+    "state": "QLD"
+  },
+  "n10726800512": {
+    "latitude": -27.49395185,
+    "longitude": 153.0572634,
+    "locality": "COORPAROO",
+    "postcode": "4151",
+    "state": "QLD"
+  },
+  "n10743106112": {
+    "latitude": -37.81227885,
+    "longitude": 145.1541089,
+    "locality": "BLACKBURN",
+    "postcode": "3130",
+    "state": "VIC"
+  },
+  "n10744607128": {
+    "latitude": -31.8852066,
+    "longitude": 116.03091068,
+    "locality": "MIDVALE",
+    "postcode": "6056",
+    "state": "WA"
+  },
+  "n10762278869": {
+    "latitude": -28.04896644,
+    "longitude": 153.43563004,
+    "locality": "MERMAID BEACH",
+    "postcode": "4218",
+    "state": "QLD"
+  },
+  "n10983598025": {
+    "latitude": -31.79587857,
+    "longitude": 115.74700274,
+    "locality": "KALLAROO",
+    "postcode": "6025",
+    "state": "WA"
+  },
+  "n11005255148": {
+    "latitude": -33.96745752,
+    "longitude": 151.11098132,
+    "locality": "HURSTVILLE",
+    "postcode": "2220",
+    "state": "NSW"
+  },
+  "n11074264384": {
+    "latitude": -27.31994751,
+    "longitude": 153.0419566,
+    "locality": "BRACKEN RIDGE",
+    "postcode": "4017",
+    "state": "QLD"
+  },
+  "n11074264386": {
+    "latitude": -27.37573199,
+    "longitude": 153.02482302,
+    "locality": "CHERMSIDE",
+    "postcode": "4032",
+    "state": "QLD"
+  },
+  "n11074264387": {
+    "latitude": -27.42271842,
+    "longitude": 153.03404297,
+    "locality": "LUTWYCHE",
+    "postcode": "4030",
+    "state": "QLD"
+  },
+  "n11074264389": {
+    "latitude": -27.45574079,
+    "longitude": 153.15568085,
+    "locality": "WYNNUM WEST",
+    "postcode": "4178",
+    "state": "QLD"
+  },
+  "n11074264390": {
+    "latitude": -27.48337814,
+    "longitude": 153.12586548,
+    "locality": "BELMONT",
+    "postcode": "4153",
+    "state": "QLD"
+  },
+  "n11074264391": {
+    "latitude": -27.49219616,
+    "longitude": 153.04149173,
+    "locality": "WOOLLOONGABBA",
+    "postcode": "4102",
+    "state": "QLD"
+  },
+  "n11074264392": {
+    "latitude": -27.57556016,
+    "longitude": 153.02591542,
+    "locality": "ACACIA RIDGE",
+    "postcode": "4110",
+    "state": "QLD"
+  },
+  "n11074264393": {
+    "latitude": -27.58980011,
+    "longitude": 153.08649754,
+    "locality": "EIGHT MILE PLAINS",
+    "postcode": "4113",
+    "state": "QLD"
+  },
+  "n11083615634": {
+    "latitude": -36.04352165,
+    "longitude": 146.99077022,
+    "locality": "THURGOONA",
+    "postcode": "2640",
+    "state": "NSW"
+  },
+  "n11117829663": {
+    "latitude": -33.96188641,
+    "longitude": 150.80606265,
+    "locality": "LEPPINGTON",
+    "postcode": "2179",
+    "state": "NSW"
+  },
+  "n11211381167": {
+    "latitude": -33.85041796,
+    "longitude": 151.03199544,
+    "locality": "AUBURN",
+    "postcode": "2144",
+    "state": "NSW"
+  },
+  "n11214904543": {
+    "latitude": -27.67737096,
+    "longitude": 153.0814142,
+    "locality": "MARSDEN",
+    "postcode": "4132",
+    "state": "QLD"
+  },
+  "n11245027811": {
+    "latitude": -34.54682015,
+    "longitude": 150.862991,
+    "locality": "WARILLA",
+    "postcode": "2528",
+    "state": "NSW"
+  },
+  "n11319842831": {
+    "latitude": -33.85040711,
+    "longitude": 151.06054678,
+    "locality": "LIDCOMBE",
+    "postcode": "2141",
+    "state": "NSW"
+  },
+  "n11330383922": {
+    "latitude": -24.87035314,
+    "longitude": 152.38073839,
+    "locality": "KEPNOCK",
+    "postcode": "4670",
+    "state": "QLD"
+  },
+  "n11377244456": {
+    "latitude": -27.36199909,
+    "longitude": 153.01414638,
+    "locality": "ASPLEY",
+    "postcode": "4034",
+    "state": "QLD"
+  },
+  "n11391778362": {
+    "latitude": -31.87688674,
+    "longitude": 115.7788125,
+    "locality": "KARRINYUP",
+    "postcode": "6018",
+    "state": "WA"
+  },
+  "n11418748770": {
+    "latitude": -37.80736857,
+    "longitude": 144.94331235,
+    "locality": "WEST MELBOURNE",
+    "postcode": "3003",
+    "state": "VIC"
+  },
+  "n11422466180": {
+    "latitude": -33.79215199,
+    "longitude": 150.99951064,
+    "locality": "NORTH ROCKS",
+    "postcode": "2151",
+    "state": "NSW"
+  },
+  "n11493806434": {
+    "latitude": -33.88107351,
+    "longitude": 151.13177937,
+    "locality": "ASHFIELD",
+    "postcode": "2131",
+    "state": "NSW"
+  },
+  "n11501874330": {
+    "latitude": -33.86905605,
+    "longitude": 150.95658431,
+    "locality": "FAIRFIELD",
+    "postcode": "2165",
+    "state": "NSW"
+  },
+  "n11502364470": {
+    "latitude": -37.83131316,
+    "longitude": 144.88285233,
+    "locality": "SPOTSWOOD",
+    "postcode": "3015",
+    "state": "VIC"
+  },
+  "n11696535062": {
+    "latitude": -33.91798707,
+    "longitude": 151.07585922,
+    "locality": "LAKEMBA",
+    "postcode": "2195",
+    "state": "NSW"
+  },
+  "n11749863708": {
+    "latitude": -33.89195822,
+    "longitude": 151.19994653,
+    "locality": "REDFERN",
+    "postcode": "2016",
+    "state": "NSW"
+  },
+  "n11820771232": {
+    "latitude": -32.96404526,
+    "longitude": 151.6938494,
+    "locality": "CHARLESTOWN",
+    "postcode": "2290",
+    "state": "NSW"
+  },
+  "n11823898100": {
+    "latitude": -34.01127385,
+    "longitude": 151.10337791,
+    "locality": "SYLVANIA",
+    "postcode": "2224",
+    "state": "NSW"
+  },
+  "n11826874480": {
+    "latitude": -32.24587461,
+    "longitude": 115.81397273,
+    "locality": "KWINANA TOWN CENTRE",
+    "postcode": "6167",
+    "state": "WA"
+  },
+  "n11826976320": {
+    "latitude": -33.95796,
+    "longitude": 151.14094837,
+    "locality": "ROCKDALE",
+    "postcode": "2216",
+    "state": "NSW"
+  },
+  "n11832456776": {
+    "latitude": -19.253765,
+    "longitude": 146.69999272,
+    "locality": "BURDELL",
+    "postcode": "4818",
+    "state": "QLD"
+  },
+  "n11834093866": {
+    "latitude": -34.88611115,
+    "longitude": 138.68944849,
+    "locality": "NEWTON",
+    "postcode": "5074",
+    "state": "SA"
+  },
+  "n11834167629": {
+    "latitude": -31.8773861,
+    "longitude": 115.89526679,
+    "locality": "NORANDA",
+    "postcode": "6062",
+    "state": "WA"
+  },
+  "n11834275556": {
+    "latitude": -31.8288914,
+    "longitude": 115.85358498,
+    "locality": "ALEXANDER HEIGHTS",
+    "postcode": "6064",
+    "state": "WA"
+  },
+  "n11834403438": {
+    "latitude": -33.71298184,
+    "longitude": 150.99423024,
+    "locality": "CASTLE HILL",
+    "postcode": "2154",
+    "state": "NSW"
+  },
+  "n11834411795": {
+    "latitude": -31.70418934,
+    "longitude": 115.80273725,
+    "locality": "BANKSIA GROVE",
+    "postcode": "6031",
+    "state": "WA"
+  },
+  "n11834415589": {
+    "latitude": -31.89989163,
+    "longitude": 115.79929235,
+    "locality": "INNALOO",
+    "postcode": "6018",
+    "state": "WA"
+  },
+  "n11834454570": {
+    "latitude": -33.93579638,
+    "longitude": 151.06888578,
+    "locality": "ROSELANDS",
+    "postcode": "2196",
+    "state": "NSW"
+  },
+  "n11861578458": {
+    "latitude": -33.83022397,
+    "longitude": 151.08606569,
+    "locality": "RHODES",
+    "postcode": "2138",
+    "state": "NSW"
+  },
+  "n11861587839": {
+    "latitude": -34.77336929,
+    "longitude": 138.72886739,
+    "locality": "GOLDEN GROVE",
+    "postcode": "5125",
+    "state": "SA"
+  },
+  "n11861587861": {
+    "latitude": -34.89401067,
+    "longitude": 138.53140014,
+    "locality": "FINDON",
+    "postcode": "5023",
+    "state": "SA"
+  },
+  "n11861594858": {
+    "latitude": -32.4479747,
+    "longitude": 115.7642412,
+    "locality": "KARNUP",
+    "postcode": "6176",
+    "state": "WA"
+  },
+  "n11861602758": {
+    "latitude": -34.8570979,
+    "longitude": 138.63518878,
+    "locality": "NORTHGATE",
+    "postcode": "5085",
+    "state": "SA"
+  },
+  "n11861607520": {
+    "latitude": -34.37418533,
+    "longitude": 150.89761367,
+    "locality": "CORRIMAL",
+    "postcode": "2518",
+    "state": "NSW"
+  },
+  "n11861629964": {
+    "latitude": -32.22116065,
+    "longitude": 116.00499163,
+    "locality": "BYFORD",
+    "postcode": "6122",
+    "state": "WA"
+  },
+  "n11861629986": {
+    "latitude": -27.87762302,
+    "longitude": 153.36398074,
+    "locality": "HOPE ISLAND",
+    "postcode": "4212",
+    "state": "QLD"
+  },
+  "n11861648350": {
+    "latitude": -34.03851296,
+    "longitude": 151.14230761,
+    "locality": "WOOLOOWARE",
+    "postcode": "2230",
+    "state": "NSW"
+  },
+  "n11861653791": {
+    "latitude": -31.84609823,
+    "longitude": 115.90652125,
+    "locality": "BALLAJURA",
+    "postcode": "6066",
+    "state": "WA"
+  },
+  "n11861656908": {
+    "latitude": -32.52062287,
+    "longitude": 115.7523621,
+    "locality": "GREENFIELDS",
+    "postcode": "6210",
+    "state": "WA"
+  },
+  "n11861660234": {
+    "latitude": -31.8894109,
+    "longitude": 115.82111094,
+    "locality": "BALCATTA",
+    "postcode": "6021",
+    "state": "WA"
+  },
+  "n11861672210": {
+    "latitude": -31.8903166,
+    "longitude": 116.00155068,
+    "locality": "MIDLAND",
+    "postcode": "6056",
+    "state": "WA"
+  },
+  "n11861673561": {
+    "latitude": -33.39791784,
+    "longitude": 115.63512976,
+    "locality": "DALYELLUP",
+    "postcode": "6230",
+    "state": "WA"
+  },
+  "n11861697941": {
+    "latitude": -27.56137977,
+    "longitude": 151.95219705,
+    "locality": "TOOWOOMBA CITY",
+    "postcode": "4350",
+    "state": "QLD"
+  },
+  "n11861738585": {
+    "latitude": -42.9762646,
+    "longitude": 147.30854771,
+    "locality": "KINGSTON",
+    "postcode": "7050",
+    "state": "TAS"
+  },
+  "n11861747851": {
+    "latitude": -27.61195973,
+    "longitude": 153.30210141,
+    "locality": "REDLAND BAY",
+    "postcode": "4165",
+    "state": "QLD"
+  },
+  "n11861751246": {
+    "latitude": -31.63642721,
+    "longitude": 115.698851,
+    "locality": "BUTLER",
+    "postcode": "6036",
+    "state": "WA"
+  },
+  "n11861788588": {
+    "latitude": -34.48639058,
+    "longitude": 150.88972378,
+    "locality": "WARRAWONG",
+    "postcode": "2502",
+    "state": "NSW"
+  },
+  "n11861796046": {
+    "latitude": -31.86257012,
+    "longitude": 115.82894132,
+    "locality": "WESTMINSTER",
+    "postcode": "6061",
+    "state": "WA"
+  },
+  "n11861804173": {
+    "latitude": -31.93809444,
+    "longitude": 115.79224302,
+    "locality": "FLOREAT",
+    "postcode": "6014",
+    "state": "WA"
+  },
+  "n11861949375": {
+    "latitude": -31.85942606,
+    "longitude": 115.92580351,
+    "locality": "BENNETT SPRINGS",
+    "postcode": "6063",
+    "state": "WA"
+  },
+  "n11861982374": {
+    "latitude": -16.92516449,
+    "longitude": 145.77381938,
+    "locality": "CAIRNS CITY",
+    "postcode": "4870",
+    "state": "QLD"
+  },
+  "n11861985480": {
+    "latitude": -19.36414462,
+    "longitude": 146.73082631,
+    "locality": "RASMUSSEN",
+    "postcode": "4815",
+    "state": "QLD"
+  },
+  "n11861989155": {
+    "latitude": -27.24451036,
+    "longitude": 153.10800698,
+    "locality": "MARGATE",
+    "postcode": "4019",
+    "state": "QLD"
+  },
+  "n11861998389": {
+    "latitude": -34.80959448,
+    "longitude": 138.68521617,
+    "locality": "MODBURY HEIGHTS",
+    "postcode": "5092",
+    "state": "SA"
+  },
+  "n11862005933": {
+    "latitude": -27.09000788,
+    "longitude": 152.926762,
+    "locality": "BELLMERE",
+    "postcode": "4510",
+    "state": "QLD"
+  },
+  "n11862006321": {
+    "latitude": -19.28648371,
+    "longitude": 146.76119955,
+    "locality": "VINCENT",
+    "postcode": "4814",
+    "state": "QLD"
+  },
+  "n11862007063": {
+    "latitude": -32.26325556,
+    "longitude": 115.8157693,
+    "locality": "WELLARD",
+    "postcode": "6170",
+    "state": "WA"
+  },
+  "n11862027426": {
+    "latitude": -19.30386389,
+    "longitude": 146.7416674,
+    "locality": "KIRWAN",
+    "postcode": "4817",
+    "state": "QLD"
+  },
+  "n11862028676": {
+    "latitude": -27.52417194,
+    "longitude": 153.01251129,
+    "locality": "YEERONGPILLY",
+    "postcode": "4105",
+    "state": "QLD"
+  },
+  "n11862049490": {
+    "latitude": -33.78764976,
+    "longitude": 150.94933291,
+    "locality": "TOONGABBIE",
+    "postcode": "2146",
+    "state": "NSW"
+  },
+  "n11862055220": {
+    "latitude": -32.31311661,
+    "longitude": 115.75426075,
+    "locality": "WAIKIKI",
+    "postcode": "6169",
+    "state": "WA"
+  },
+  "n11862061525": {
+    "latitude": -34.43637464,
+    "longitude": 150.86300989,
+    "locality": "FIGTREE",
+    "postcode": "2525",
+    "state": "NSW"
+  },
+  "n11862064985": {
+    "latitude": -32.58422274,
+    "longitude": 115.66189264,
+    "locality": "FALCON",
+    "postcode": "6210",
+    "state": "WA"
+  },
+  "n11862077354": {
+    "latitude": -34.8101857,
+    "longitude": 138.65313027,
+    "locality": "PARA HILLS",
+    "postcode": "5096",
+    "state": "SA"
+  },
+  "n11862084962": {
+    "latitude": -23.94790323,
+    "longitude": 151.35240273,
+    "locality": "BOYNE ISLAND",
+    "postcode": "4680",
+    "state": "QLD"
+  },
+  "n11862112540": {
+    "latitude": -33.88693376,
+    "longitude": 150.84882943,
+    "locality": "CECIL HILLS",
+    "postcode": "2171",
+    "state": "NSW"
+  },
+  "n11862126589": {
+    "latitude": -28.10633654,
+    "longitude": 153.40514437,
+    "locality": "REEDY CREEK",
+    "postcode": "4227",
+    "state": "QLD"
+  },
+  "n11862153338": {
+    "latitude": -31.92089406,
+    "longitude": 115.83947244,
+    "locality": "MOUNT HAWTHORN",
+    "postcode": "6016",
+    "state": "WA"
+  },
+  "n11862154384": {
+    "latitude": -31.8704066,
+    "longitude": 115.94576069,
+    "locality": "BEECHBORO",
+    "postcode": "6063",
+    "state": "WA"
+  },
+  "n11862159585": {
+    "latitude": -33.83244953,
+    "longitude": 151.01348422,
+    "locality": "GRANVILLE",
+    "postcode": "2142",
+    "state": "NSW"
+  },
+  "r9389462": {
+    "latitude": -35.19466084,
+    "longitude": 149.0195266,
+    "locality": "DUNLOP",
+    "postcode": "2615",
+    "state": "ACT"
+  },
+  "w5078930": {
+    "latitude": -37.76999205,
+    "longitude": 144.95941947,
+    "locality": "BRUNSWICK",
+    "postcode": "3056",
+    "state": "VIC"
+  },
+  "w23965085": {
+    "latitude": -27.39232478,
+    "longitude": 153.01187193,
+    "locality": "STAFFORD HEIGHTS",
+    "postcode": "4053",
+    "state": "QLD"
+  },
+  "w24263356": {
+    "latitude": -33.95095847,
+    "longitude": 151.01271193,
+    "locality": "REVESBY",
+    "postcode": "2212",
+    "state": "NSW"
+  },
+  "w24530389": {
+    "latitude": -27.64440457,
+    "longitude": 153.11626563,
+    "locality": "LOGAN CENTRAL",
+    "postcode": "4114",
+    "state": "QLD"
+  },
+  "w24984731": {
+    "latitude": -27.26946423,
+    "longitude": 152.97583962,
+    "locality": "PETRIE",
+    "postcode": "4502",
+    "state": "QLD"
+  },
+  "w25505345": {
+    "latitude": -27.35153767,
+    "longitude": 153.04929206,
+    "locality": "TAIGUM",
+    "postcode": "4018",
+    "state": "QLD"
+  },
+  "w25717450": {
+    "latitude": -37.76761483,
+    "longitude": 144.92098895,
+    "locality": "MOONEE PONDS",
+    "postcode": "3039",
+    "state": "VIC"
+  },
+  "w26210739": {
+    "latitude": -33.84175766,
+    "longitude": 151.00960901,
+    "locality": "GRANVILLE",
+    "postcode": "2142",
+    "state": "NSW"
+  },
+  "w26585550": {
+    "latitude": -37.7431239,
+    "longitude": 144.96447674,
+    "locality": "COBURG",
+    "postcode": "3058",
+    "state": "VIC"
+  },
+  "w27327200": {
+    "latitude": -33.83208533,
+    "longitude": 151.22338426,
+    "locality": "NEUTRAL BAY",
+    "postcode": "2089",
+    "state": "NSW"
+  },
+  "w27370878": {
+    "latitude": -37.73773834,
+    "longitude": 144.89292982,
+    "locality": "ESSENDON",
+    "postcode": "3040",
+    "state": "VIC"
+  },
+  "w27615116": {
+    "latitude": -42.89527765,
+    "longitude": 147.32597912,
+    "locality": "SANDY BAY",
+    "postcode": "7005",
+    "state": "TAS"
+  },
+  "w28296634": {
+    "latitude": -37.75119384,
+    "longitude": 145.00427494,
+    "locality": "PRESTON",
+    "postcode": "3072",
+    "state": "VIC"
+  },
+  "w30753389": {
+    "latitude": -35.34970815,
+    "longitude": 149.23316995,
+    "locality": "QUEANBEYAN",
+    "postcode": "2620",
+    "state": "NSW"
+  },
+  "w32079895": {
+    "latitude": -37.88902186,
+    "longitude": 145.29361987,
+    "locality": "FERNTREE GULLY",
+    "postcode": "3156",
+    "state": "VIC"
+  },
+  "w32197969": {
+    "latitude": -35.10635385,
+    "longitude": 147.36872331,
+    "locality": "WAGGA WAGGA",
+    "postcode": "2650",
+    "state": "NSW"
+  },
+  "w32217294": {
+    "latitude": -37.80166114,
+    "longitude": 144.98297778,
+    "locality": "FITZROY",
+    "postcode": "3065",
+    "state": "VIC"
+  },
+  "w32742446": {
+    "latitude": -38.10871025,
+    "longitude": 145.12596963,
+    "locality": "SEAFORD",
+    "postcode": "3198",
+    "state": "VIC"
+  },
+  "w32929351": {
+    "latitude": -27.17283645,
+    "longitude": 152.93780786,
+    "locality": "NARANGBA",
+    "postcode": "4504",
+    "state": "QLD"
+  },
+  "w33069545": {
+    "latitude": -38.30918557,
+    "longitude": 145.1912996,
+    "locality": "HASTINGS",
+    "postcode": "3915",
+    "state": "VIC"
+  },
+  "w37320016": {
+    "latitude": -37.8372458,
+    "longitude": 145.18479461,
+    "locality": "FOREST HILL",
+    "postcode": "3131",
+    "state": "VIC"
+  },
+  "w37413372": {
+    "latitude": -35.24980366,
+    "longitude": 149.13878106,
+    "locality": "DICKSON",
+    "postcode": "2602",
+    "state": "ACT"
+  },
+  "w38133869": {
+    "latitude": -37.88912574,
+    "longitude": 145.04112589,
+    "locality": "GLEN HUNTLY",
+    "postcode": "3163",
+    "state": "VIC"
+  },
+  "w38313264": {
+    "latitude": -37.83108534,
+    "longitude": 144.93144569,
+    "locality": "PORT MELBOURNE",
+    "postcode": "3207",
+    "state": "VIC"
+  },
+  "w39581668": {
+    "latitude": -37.98178673,
+    "longitude": 145.06236395,
+    "locality": "MENTONE",
+    "postcode": "3194",
+    "state": "VIC"
+  },
+  "w41654970": {
+    "latitude": -37.85252035,
+    "longitude": 145.13409744,
+    "locality": "BURWOOD EAST",
+    "postcode": "3151",
+    "state": "VIC"
+  },
+  "w42387687": {
+    "latitude": -37.93467284,
+    "longitude": 145.03956591,
+    "locality": "MOORABBIN",
+    "postcode": "3189",
+    "state": "VIC"
+  },
+  "w43546930": {
+    "latitude": -38.47653366,
+    "longitude": 145.94401569,
+    "locality": "LEONGATHA",
+    "postcode": "3953",
+    "state": "VIC"
+  },
+  "w43594187": {
+    "latitude": -38.60482174,
+    "longitude": 145.58939258,
+    "locality": "WONTHAGGI",
+    "postcode": "3995",
+    "state": "VIC"
+  },
+  "w45231460": {
+    "latitude": -38.0543237,
+    "longitude": 145.11572358,
+    "locality": "CHELSEA",
+    "postcode": "3196",
+    "state": "VIC"
+  },
+  "w47325081": {
+    "latitude": -41.52506254,
+    "longitude": 146.65228491,
+    "locality": "DELORAINE",
+    "postcode": "7304",
+    "state": "TAS"
+  },
+  "w49742215": {
+    "latitude": -37.70445585,
+    "longitude": 145.10012892,
+    "locality": "GREENSBOROUGH",
+    "postcode": "3088",
+    "state": "VIC"
+  },
+  "w51469190": {
+    "latitude": -36.76673927,
+    "longitude": 144.26467891,
+    "locality": "GOLDEN SQUARE",
+    "postcode": "3555",
+    "state": "VIC"
+  },
+  "w55951435": {
+    "latitude": -34.05416348,
+    "longitude": 150.69373682,
+    "locality": "CAMDEN",
+    "postcode": "2570",
+    "state": "NSW"
+  },
+  "w63048521": {
+    "latitude": -37.02300997,
+    "longitude": 145.13533463,
+    "locality": "SEYMOUR",
+    "postcode": "3660",
+    "state": "VIC"
+  },
+  "w71071343": {
+    "latitude": -38.3310728,
+    "longitude": 144.32360199,
+    "locality": "TORQUAY",
+    "postcode": "3228",
+    "state": "VIC"
+  },
+  "w71284460": {
+    "latitude": -37.24874887,
+    "longitude": 144.45243642,
+    "locality": "KYNETON",
+    "postcode": "3444",
+    "state": "VIC"
+  },
+  "w71679091": {
+    "latitude": -37.71410827,
+    "longitude": 145.15071402,
+    "locality": "ELTHAM",
+    "postcode": "3095",
+    "state": "VIC"
+  },
+  "w74132052": {
+    "latitude": -37.57794749,
+    "longitude": 144.72738103,
+    "locality": "SUNBURY",
+    "postcode": "3429",
+    "state": "VIC"
+  },
+  "w85466397": {
+    "latitude": -37.84057111,
+    "longitude": 145.26246498,
+    "locality": "BAYSWATER",
+    "postcode": "3153",
+    "state": "VIC"
+  },
+  "w87335925": {
+    "latitude": -36.71643913,
+    "longitude": 142.19620605,
+    "locality": "HORSHAM",
+    "postcode": "3400",
+    "state": "VIC"
+  },
+  "w87377940": {
+    "latitude": -34.84590599,
+    "longitude": 148.91519096,
+    "locality": "YASS",
+    "postcode": "2582",
+    "state": "NSW"
+  },
+  "w88759835": {
+    "latitude": -41.46481628,
+    "longitude": 147.16025334,
+    "locality": "KINGS MEADOWS",
+    "postcode": "7249",
+    "state": "TAS"
+  },
+  "w93169080": {
+    "latitude": -38.17580233,
+    "longitude": 146.26474794,
+    "locality": "MOE",
+    "postcode": "3825",
+    "state": "VIC"
+  },
+  "w97054897": {
+    "latitude": -35.73401617,
+    "longitude": 143.91716197,
+    "locality": "KERANG",
+    "postcode": "3579",
+    "state": "VIC"
+  },
+  "w104449851": {
+    "latitude": -33.95386186,
+    "longitude": 151.03432421,
+    "locality": "PADSTOW",
+    "postcode": "2211",
+    "state": "NSW"
+  },
+  "w104738076": {
+    "latitude": -41.10741084,
+    "longitude": 146.8233246,
+    "locality": "GEORGE TOWN",
+    "postcode": "7253",
+    "state": "TAS"
+  },
+  "w105575742": {
+    "latitude": -38.34150774,
+    "longitude": 143.58536584,
+    "locality": "COLAC",
+    "postcode": "3250",
+    "state": "VIC"
+  },
+  "w105576440": {
+    "latitude": -38.2324756,
+    "longitude": 143.15070462,
+    "locality": "CAMPERDOWN",
+    "postcode": "3260",
+    "state": "VIC"
+  },
+  "w107692700": {
+    "latitude": -37.90961076,
+    "longitude": 145.35265386,
+    "locality": "BELGRAVE",
+    "postcode": "3160",
+    "state": "VIC"
+  },
+  "w108178136": {
+    "latitude": -37.88352166,
+    "longitude": 145.27795175,
+    "locality": "FERNTREE GULLY",
+    "postcode": "3156",
+    "state": "VIC"
+  },
+  "w108293755": {
+    "latitude": -32.49014897,
+    "longitude": 137.76116958,
+    "locality": "PORT AUGUSTA",
+    "postcode": "5700",
+    "state": "SA"
+  },
+  "w108329026": {
+    "latitude": -37.05531325,
+    "longitude": 142.78021875,
+    "locality": "STAWELL",
+    "postcode": "3380",
+    "state": "VIC"
+  },
+  "w109562315": {
+    "latitude": -37.92105316,
+    "longitude": 145.2355387,
+    "locality": "ROWVILLE",
+    "postcode": "3178",
+    "state": "VIC"
+  },
+  "w116061199": {
+    "latitude": -37.88792584,
+    "longitude": 145.05621491,
+    "locality": "CARNEGIE",
+    "postcode": "3163",
+    "state": "VIC"
+  },
+  "w119107097": {
+    "latitude": -38.37793294,
+    "longitude": 142.47899777,
+    "locality": "WARRNAMBOOL",
+    "postcode": "3280",
+    "state": "VIC"
+  },
+  "w124052926": {
+    "latitude": -34.42705529,
+    "longitude": 150.89633778,
+    "locality": "WOLLONGONG",
+    "postcode": "2500",
+    "state": "NSW"
+  },
+  "w124965330": {
+    "latitude": -34.3912501,
+    "longitude": 150.89378502,
+    "locality": "FAIRY MEADOW",
+    "postcode": "2519",
+    "state": "NSW"
+  },
+  "w129602943": {
+    "latitude": -38.37243683,
+    "longitude": 144.8299269,
+    "locality": "RYE",
+    "postcode": "3941",
+    "state": "VIC"
+  },
+  "w131476918": {
+    "latitude": -38.19645407,
+    "longitude": 146.53468057,
+    "locality": "TRARALGON",
+    "postcode": "3844",
+    "state": "VIC"
+  },
+  "w132983798": {
+    "latitude": -37.92782287,
+    "longitude": 145.44538725,
+    "locality": "EMERALD",
+    "postcode": "3782",
+    "state": "VIC"
+  },
+  "w135971292": {
+    "latitude": -37.83120285,
+    "longitude": 145.1470489,
+    "locality": "BLACKBURN",
+    "postcode": "3130",
+    "state": "VIC"
+  },
+  "w136470458": {
+    "latitude": -32.20095893,
+    "longitude": 152.51855611,
+    "locality": "FORSTER",
+    "postcode": "2428",
+    "state": "NSW"
+  },
+  "w137148876": {
+    "latitude": -28.55084186,
+    "longitude": 153.50365338,
+    "locality": "MULLUMBIMBY",
+    "postcode": "2482",
+    "state": "NSW"
+  },
+  "w137381684": {
+    "latitude": -37.94877878,
+    "longitude": 145.04104228,
+    "locality": "HIGHETT",
+    "postcode": "3190",
+    "state": "VIC"
+  },
+  "w148877258": {
+    "latitude": -37.5403071,
+    "longitude": 143.83035076,
+    "locality": "WENDOUREE",
+    "postcode": "3355",
+    "state": "VIC"
+  },
+  "w158867512": {
+    "latitude": -41.06942913,
+    "longitude": 145.90057081,
+    "locality": "UPPER BURNIE",
+    "postcode": "7320",
+    "state": "TAS"
+  },
+  "w165670175": {
+    "latitude": -37.82528504,
+    "longitude": 147.62712907,
+    "locality": "BAIRNSDALE",
+    "postcode": "3875",
+    "state": "VIC"
+  },
+  "w172806920": {
+    "latitude": -42.87467241,
+    "longitude": 147.32464408,
+    "locality": "HOBART",
+    "postcode": "7000",
+    "state": "TAS"
+  },
+  "w179749474": {
+    "latitude": -37.81287385,
+    "longitude": 145.08302792,
+    "locality": "BALWYN",
+    "postcode": "3103",
+    "state": "VIC"
+  },
+  "w180072288": {
+    "latitude": -37.86670685,
+    "longitude": 145.09413191,
+    "locality": "ASHWOOD",
+    "postcode": "3147",
+    "state": "VIC"
+  },
+  "w181227367": {
+    "latitude": -33.83049737,
+    "longitude": 151.22255248,
+    "locality": "NEUTRAL BAY",
+    "postcode": "2089",
+    "state": "NSW"
+  },
+  "w186202378": {
+    "latitude": -27.59627376,
+    "longitude": 152.95895195,
+    "locality": "RICHLANDS",
+    "postcode": "4077",
+    "state": "QLD"
+  },
+  "w194204570": {
+    "latitude": -38.04435182,
+    "longitude": 145.36894909,
+    "locality": "BEACONSFIELD",
+    "postcode": "3807",
+    "state": "VIC"
+  },
+  "w203684560": {
+    "latitude": -34.8814826,
+    "longitude": 138.49093786,
+    "locality": "WEST LAKES",
+    "postcode": "5021",
+    "state": "SA"
+  },
+  "w204338458": {
+    "latitude": -27.51150141,
+    "longitude": 153.03261049,
+    "locality": "ANNERLEY",
+    "postcode": "4103",
+    "state": "QLD"
+  },
+  "w204428479": {
+    "latitude": -37.56450327,
+    "longitude": 143.86204961,
+    "locality": "BALLARAT CENTRAL",
+    "postcode": "3350",
+    "state": "VIC"
+  },
+  "w208831096": {
+    "latitude": -42.84684592,
+    "longitude": 147.35306867,
+    "locality": "LINDISFARNE",
+    "postcode": "7015",
+    "state": "TAS"
+  },
+  "w209945201": {
+    "latitude": -34.56584563,
+    "longitude": 150.83001162,
+    "locality": "SHELLHARBOUR CITY CENTRE",
+    "postcode": "2529",
+    "state": "NSW"
+  },
+  "w210566186": {
+    "latitude": -33.48243538,
+    "longitude": 150.15582442,
+    "locality": "LITHGOW",
+    "postcode": "2790",
+    "state": "NSW"
+  },
+  "w214719844": {
+    "latitude": -25.53641779,
+    "longitude": 152.70320493,
+    "locality": "MARYBOROUGH",
+    "postcode": "4650",
+    "state": "QLD"
+  },
+  "w219397030": {
+    "latitude": -36.35423793,
+    "longitude": 146.32384418,
+    "locality": "WANGARATTA",
+    "postcode": "3677",
+    "state": "VIC"
+  },
+  "w219869010": {
+    "latitude": -38.13543337,
+    "longitude": 145.85797051,
+    "locality": "DROUIN",
+    "postcode": "3818",
+    "state": "VIC"
+  },
+  "w220228629": {
+    "latitude": -37.58636437,
+    "longitude": 143.84021346,
+    "locality": "SEBASTOPOL",
+    "postcode": "3356",
+    "state": "VIC"
+  },
+  "w220483801": {
+    "latitude": -37.73670449,
+    "longitude": 145.00284569,
+    "locality": "PRESTON",
+    "postcode": "3072",
+    "state": "VIC"
+  },
+  "w220714521": {
+    "latitude": -37.8058337,
+    "longitude": 145.03132851,
+    "locality": "KEW",
+    "postcode": "3101",
+    "state": "VIC"
+  },
+  "w221010720": {
+    "latitude": -37.95350385,
+    "longitude": 145.15175089,
+    "locality": "SPRINGVALE",
+    "postcode": "3171",
+    "state": "VIC"
+  },
+  "w221065575": {
+    "latitude": -20.72803615,
+    "longitude": 139.49202918,
+    "locality": "MOUNT ISA CITY",
+    "postcode": "4825",
+    "state": "QLD"
+  },
+  "w222133405": {
+    "latitude": -34.63712088,
+    "longitude": 148.02505851,
+    "locality": "COOTAMUNDRA",
+    "postcode": "2590",
+    "state": "NSW"
+  },
+  "w230624905": {
+    "latitude": -35.50541058,
+    "longitude": 138.77774618,
+    "locality": "GOOLWA",
+    "postcode": "5214",
+    "state": "SA"
+  },
+  "w238940726": {
+    "latitude": -32.53301929,
+    "longitude": 115.72058294,
+    "locality": "MANDURAH",
+    "postcode": "6210",
+    "state": "WA"
+  },
+  "w239262297": {
+    "latitude": -20.07601952,
+    "longitude": 146.25883531,
+    "locality": "CHARTERS TOWERS CITY",
+    "postcode": "4820",
+    "state": "QLD"
+  },
+  "w241775590": {
+    "latitude": -17.30866622,
+    "longitude": 123.64663917,
+    "locality": "DERBY",
+    "postcode": "6728",
+    "state": "WA"
+  },
+  "w242170433": {
+    "latitude": -37.74454877,
+    "longitude": 144.80131057,
+    "locality": "ST ALBANS",
+    "postcode": "3021",
+    "state": "VIC"
+  },
+  "w243360635": {
+    "latitude": -41.15632557,
+    "longitude": 146.17035527,
+    "locality": "ULVERSTONE",
+    "postcode": "7315",
+    "state": "TAS"
+  },
+  "w243878351": {
+    "latitude": -27.45071348,
+    "longitude": 153.05749431,
+    "locality": "BULIMBA",
+    "postcode": "4171",
+    "state": "QLD"
+  },
+  "w245286326": {
+    "latitude": -36.10854601,
+    "longitude": 144.75093861,
+    "locality": "MOAMA",
+    "postcode": "2731",
+    "state": "NSW"
+  },
+  "w249444640": {
+    "latitude": -33.85887986,
+    "longitude": 151.09275293,
+    "locality": "NORTH STRATHFIELD",
+    "postcode": "2137",
+    "state": "NSW"
+  },
+  "w249653000": {
+    "latitude": -35.91071032,
+    "longitude": 150.0815727,
+    "locality": "MORUYA",
+    "postcode": "2537",
+    "state": "NSW"
+  },
+  "w255376491": {
+    "latitude": -33.69215999,
+    "longitude": 117.55457596,
+    "locality": "KATANNING",
+    "postcode": "6317",
+    "state": "WA"
+  },
+  "w256283136": {
+    "latitude": -25.23251148,
+    "longitude": 152.27114338,
+    "locality": "CHILDERS",
+    "postcode": "4660",
+    "state": "QLD"
+  },
+  "w258157186": {
+    "latitude": -34.17857214,
+    "longitude": 139.98647916,
+    "locality": "WAIKERIE",
+    "postcode": "5330",
+    "state": "SA"
+  },
+  "w259538792": {
+    "latitude": -35.13936056,
+    "longitude": 138.47857213,
+    "locality": "CHRISTIES BEACH",
+    "postcode": "5165",
+    "state": "SA"
+  },
+  "w260600397": {
+    "latitude": -35.12315936,
+    "longitude": 138.52422113,
+    "locality": "MORPHETT VALE",
+    "postcode": "5162",
+    "state": "SA"
+  },
+  "w260699747": {
+    "latitude": -33.02092359,
+    "longitude": 137.54159407,
+    "locality": "WHYALLA NORRIE",
+    "postcode": "5608",
+    "state": "SA"
+  },
+  "w260707371": {
+    "latitude": -33.17936388,
+    "longitude": 138.0097051,
+    "locality": "PORT PIRIE",
+    "postcode": "5540",
+    "state": "SA"
+  },
+  "w265203154": {
+    "latitude": -34.45113899,
+    "longitude": 140.57102329,
+    "locality": "LOXTON",
+    "postcode": "5333",
+    "state": "SA"
+  },
+  "w265205374": {
+    "latitude": -36.12957882,
+    "longitude": 144.75137765,
+    "locality": "ECHUCA",
+    "postcode": "3564",
+    "state": "VIC"
+  },
+  "w266485658": {
+    "latitude": -38.17256251,
+    "longitude": 144.56937545,
+    "locality": "DRYSDALE",
+    "postcode": "3222",
+    "state": "VIC"
+  },
+  "w266705119": {
+    "latitude": -38.17226541,
+    "longitude": 144.32363169,
+    "locality": "HIGHTON",
+    "postcode": "3216",
+    "state": "VIC"
+  },
+  "w266734117": {
+    "latitude": -38.1459852,
+    "longitude": 144.33556791,
+    "locality": "NEWTOWN",
+    "postcode": "3220",
+    "state": "VIC"
+  },
+  "w271421592": {
+    "latitude": -26.68782592,
+    "longitude": 153.04976707,
+    "locality": "BUDERIM",
+    "postcode": "4556",
+    "state": "QLD"
+  },
+  "w279681996": {
+    "latitude": -33.89863024,
+    "longitude": 151.18175544,
+    "locality": "NEWTOWN",
+    "postcode": "2042",
+    "state": "NSW"
+  },
+  "w283911145": {
+    "latitude": -36.72756054,
+    "longitude": 146.95926667,
+    "locality": "BRIGHT",
+    "postcode": "3741",
+    "state": "VIC"
+  },
+  "w288302256": {
+    "latitude": -37.69443489,
+    "longitude": 145.05850267,
+    "locality": "BUNDOORA",
+    "postcode": "3083",
+    "state": "VIC"
+  },
+  "w291266064": {
+    "latitude": -25.29257328,
+    "longitude": 152.89313746,
+    "locality": "URANGAN",
+    "postcode": "4655",
+    "state": "QLD"
+  },
+  "w292552241": {
+    "latitude": -27.21405547,
+    "longitude": 153.04601442,
+    "locality": "ROTHWELL",
+    "postcode": "4022",
+    "state": "QLD"
+  },
+  "w294903990": {
+    "latitude": -33.5211904,
+    "longitude": 151.32048617,
+    "locality": "UMINA BEACH",
+    "postcode": "2257",
+    "state": "NSW"
+  },
+  "w295319197": {
+    "latitude": -34.7218969,
+    "longitude": 135.85919904,
+    "locality": "PORT LINCOLN",
+    "postcode": "5606",
+    "state": "SA"
+  },
+  "w297124598": {
+    "latitude": -38.10265136,
+    "longitude": 145.18391016,
+    "locality": "CARRUM DOWNS",
+    "postcode": "3201",
+    "state": "VIC"
+  },
+  "w299445507": {
+    "latitude": -32.04823223,
+    "longitude": 115.7944646,
+    "locality": "MELVILLE",
+    "postcode": "6156",
+    "state": "WA"
+  },
+  "w300805338": {
+    "latitude": -37.67202838,
+    "longitude": 145.01419274,
+    "locality": "LALOR",
+    "postcode": "3075",
+    "state": "VIC"
+  },
+  "w302022752": {
+    "latitude": -33.96428498,
+    "longitude": 137.71484932,
+    "locality": "KADINA",
+    "postcode": "5554",
+    "state": "SA"
+  },
+  "w302908124": {
+    "latitude": -34.96849096,
+    "longitude": 138.59048988,
+    "locality": "CUMBERLAND PARK",
+    "postcode": "5041",
+    "state": "SA"
+  },
+  "w304125211": {
+    "latitude": -38.38274942,
+    "longitude": 142.51772851,
+    "locality": "WARRNAMBOOL",
+    "postcode": "3280",
+    "state": "VIC"
+  },
+  "w304758821": {
+    "latitude": -36.23325349,
+    "longitude": 149.12440939,
+    "locality": "COOMA",
+    "postcode": "2630",
+    "state": "NSW"
+  },
+  "w306194413": {
+    "latitude": -34.55025549,
+    "longitude": 146.39790387,
+    "locality": "LEETON",
+    "postcode": "2705",
+    "state": "NSW"
+  },
+  "w307247316": {
+    "latitude": -37.73812584,
+    "longitude": 145.02777593,
+    "locality": "PRESTON",
+    "postcode": "3072",
+    "state": "VIC"
+  },
+  "w308343809": {
+    "latitude": -25.28356531,
+    "longitude": 152.84275557,
+    "locality": "PIALBA",
+    "postcode": "4655",
+    "state": "QLD"
+  },
+  "w313189859": {
+    "latitude": -38.15497643,
+    "longitude": 145.16634482,
+    "locality": "FRANKSTON",
+    "postcode": "3199",
+    "state": "VIC"
+  },
+  "w314585704": {
+    "latitude": -33.64915954,
+    "longitude": 115.34547428,
+    "locality": "BUSSELTON",
+    "postcode": "6280",
+    "state": "WA"
+  },
+  "w315229190": {
+    "latitude": -38.35592944,
+    "longitude": 144.90732549,
+    "locality": "ROSEBUD",
+    "postcode": "3939",
+    "state": "VIC"
+  },
+  "w317134179": {
+    "latitude": -34.66632499,
+    "longitude": 150.85058624,
+    "locality": "KIAMA",
+    "postcode": "2533",
+    "state": "NSW"
+  },
+  "w317134826": {
+    "latitude": -33.63623468,
+    "longitude": 151.32980005,
+    "locality": "AVALON BEACH",
+    "postcode": "2107",
+    "state": "NSW"
+  },
+  "w317937786": {
+    "latitude": -37.96697659,
+    "longitude": 146.97548488,
+    "locality": "MAFFRA",
+    "postcode": "3860",
+    "state": "VIC"
+  },
+  "w320594363": {
+    "latitude": -37.93713075,
+    "longitude": 145.00236971,
+    "locality": "HAMPTON",
+    "postcode": "3188",
+    "state": "VIC"
+  },
+  "w323929152": {
+    "latitude": -20.27020872,
+    "longitude": 148.71863769,
+    "locality": "AIRLIE BEACH",
+    "postcode": "4802",
+    "state": "QLD"
+  },
+  "w324626822": {
+    "latitude": -33.91408775,
+    "longitude": 151.10306309,
+    "locality": "CAMPSIE",
+    "postcode": "2194",
+    "state": "NSW"
+  },
+  "w326662320": {
+    "latitude": -42.8578091,
+    "longitude": 147.30336097,
+    "locality": "NEW TOWN",
+    "postcode": "7008",
+    "state": "TAS"
+  },
+  "w336979923": {
+    "latitude": -33.7135859,
+    "longitude": 150.97127028,
+    "locality": "KELLYVILLE",
+    "postcode": "2155",
+    "state": "NSW"
+  },
+  "w342492317": {
+    "latitude": -37.83064755,
+    "longitude": 140.78977469,
+    "locality": "MOUNT GAMBIER",
+    "postcode": "5290",
+    "state": "SA"
+  },
+  "w343815651": {
+    "latitude": -30.29744233,
+    "longitude": 153.11419917,
+    "locality": "COFFS HARBOUR",
+    "postcode": "2450",
+    "state": "NSW"
+  },
+  "w346678591": {
+    "latitude": -34.44385048,
+    "longitude": 147.53136296,
+    "locality": "TEMORA",
+    "postcode": "2666",
+    "state": "NSW"
+  },
+  "w358817052": {
+    "latitude": -42.78282506,
+    "longitude": 147.06470519,
+    "locality": "NEW NORFOLK",
+    "postcode": "7140",
+    "state": "TAS"
+  },
+  "w363545584": {
+    "latitude": -34.33642229,
+    "longitude": 150.91308743,
+    "locality": "BULLI",
+    "postcode": "2516",
+    "state": "NSW"
+  },
+  "w368392760": {
+    "latitude": -34.28539599,
+    "longitude": 146.04354842,
+    "locality": "GRIFFITH",
+    "postcode": "2680",
+    "state": "NSW"
+  },
+  "w369674967": {
+    "latitude": -29.74181929,
+    "longitude": 151.73425861,
+    "locality": "GLEN INNES",
+    "postcode": "2370",
+    "state": "NSW"
+  },
+  "w375885707": {
+    "latitude": -35.92030222,
+    "longitude": 145.64646882,
+    "locality": "COBRAM",
+    "postcode": "3644",
+    "state": "VIC"
+  },
+  "w376024005": {
+    "latitude": -41.44080549,
+    "longitude": 147.13661663,
+    "locality": "LAUNCESTON",
+    "postcode": "7250",
+    "state": "TAS"
+  },
+  "w376026745": {
+    "latitude": -32.89995047,
+    "longitude": 151.73905871,
+    "locality": "MAYFIELD",
+    "postcode": "2304",
+    "state": "NSW"
+  },
+  "w376660453": {
+    "latitude": -33.78761629,
+    "longitude": 151.26733097,
+    "locality": "BALGOWLAH",
+    "postcode": "2093",
+    "state": "NSW"
+  },
+  "w387741340": {
+    "latitude": -33.8733322,
+    "longitude": 151.20739614,
+    "locality": "SYDNEY",
+    "postcode": "2000",
+    "state": "NSW"
+  },
+  "w388029730": {
+    "latitude": -41.1615928,
+    "longitude": 147.51444691,
+    "locality": "SCOTTSDALE",
+    "postcode": "7260",
+    "state": "TAS"
+  },
+  "w389803891": {
+    "latitude": -34.87363084,
+    "longitude": 150.60273429,
+    "locality": "NOWRA",
+    "postcode": "2541",
+    "state": "NSW"
+  },
+  "w390021736": {
+    "latitude": -33.95417894,
+    "longitude": 150.8966192,
+    "locality": "CASULA",
+    "postcode": "2170",
+    "state": "NSW"
+  },
+  "w392014205": {
+    "latitude": -36.39513845,
+    "longitude": 145.35804055,
+    "locality": "MOOROOPNA",
+    "postcode": "3629",
+    "state": "VIC"
+  },
+  "w399121769": {
+    "latitude": -33.81458356,
+    "longitude": 151.0542234,
+    "locality": "ERMINGTON",
+    "postcode": "2115",
+    "state": "NSW"
+  },
+  "w400523729": {
+    "latitude": -38.11579367,
+    "longitude": 144.65363129,
+    "locality": "PORTARLINGTON",
+    "postcode": "3223",
+    "state": "VIC"
+  },
+  "w418248053": {
+    "latitude": -37.86194029,
+    "longitude": 145.28408952,
+    "locality": "BORONIA",
+    "postcode": "3155",
+    "state": "VIC"
+  },
+  "w424871196": {
+    "latitude": -33.81974175,
+    "longitude": 151.02028341,
+    "locality": "ROSEHILL",
+    "postcode": "2142",
+    "state": "NSW"
+  },
+  "w428125877": {
+    "latitude": -27.55333049,
+    "longitude": 152.97487162,
+    "locality": "OXLEY",
+    "postcode": "4075",
+    "state": "QLD"
+  },
+  "w429788615": {
+    "latitude": -27.55969128,
+    "longitude": 152.95049988,
+    "locality": "DARRA",
+    "postcode": "4076",
+    "state": "QLD"
+  },
+  "w441086078": {
+    "latitude": -34.48130369,
+    "longitude": 150.41758447,
+    "locality": "BOWRAL",
+    "postcode": "2576",
+    "state": "NSW"
+  },
+  "w444405078": {
+    "latitude": -33.28431682,
+    "longitude": 149.09810209,
+    "locality": "ORANGE",
+    "postcode": "2800",
+    "state": "NSW"
+  },
+  "w444721633": {
+    "latitude": -33.79735185,
+    "longitude": 151.18175147,
+    "locality": "CHATSWOOD",
+    "postcode": "2067",
+    "state": "NSW"
+  },
+  "w446616446": {
+    "latitude": -33.38648827,
+    "longitude": 151.36653476,
+    "locality": "LISAROW",
+    "postcode": "2250",
+    "state": "NSW"
+  },
+  "w451871161": {
+    "latitude": -34.87400546,
+    "longitude": 138.5480846,
+    "locality": "WOODVILLE NORTH",
+    "postcode": "5012",
+    "state": "SA"
+  },
+  "w468225650": {
+    "latitude": -12.49911143,
+    "longitude": 130.98666708,
+    "locality": "BAKEWELL",
+    "postcode": "0832",
+    "state": "NT"
+  },
+  "w469679257": {
+    "latitude": -35.06526363,
+    "longitude": 138.85739882,
+    "locality": "MOUNT BARKER",
+    "postcode": "5251",
+    "state": "SA"
+  },
+  "w474550380": {
+    "latitude": -23.89565919,
+    "longitude": 151.24625905,
+    "locality": "KIRKWOOD",
+    "postcode": "4680",
+    "state": "QLD"
+  },
+  "w477617878": {
+    "latitude": -36.01554783,
+    "longitude": 146.00324214,
+    "locality": "YARRAWONGA",
+    "postcode": "3730",
+    "state": "VIC"
+  },
+  "w482165285": {
+    "latitude": -37.84276071,
+    "longitude": 144.84604076,
+    "locality": "ALTONA NORTH",
+    "postcode": "3025",
+    "state": "VIC"
+  },
+  "w496416233": {
+    "latitude": -32.94029354,
+    "longitude": 151.71127096,
+    "locality": "KOTARA",
+    "postcode": "2289",
+    "state": "NSW"
+  },
+  "w497385582": {
+    "latitude": -27.56220159,
+    "longitude": 152.42213082,
+    "locality": "PLAINLAND",
+    "postcode": "4341",
+    "state": "QLD"
+  },
+  "w509215522": {
+    "latitude": -37.59310687,
+    "longitude": 143.80300801,
+    "locality": "SMYTHES CREEK",
+    "postcode": "3351",
+    "state": "VIC"
+  },
+  "w515715801": {
+    "latitude": -27.71102462,
+    "longitude": 153.16121842,
+    "locality": "HOLMVIEW",
+    "postcode": "4207",
+    "state": "QLD"
+  },
+  "w515740388": {
+    "latitude": -26.71753436,
+    "longitude": 153.04983036,
+    "locality": "SIPPY DOWNS",
+    "postcode": "4556",
+    "state": "QLD"
+  },
+  "w515818271": {
+    "latitude": -29.46722344,
+    "longitude": 149.84075683,
+    "locality": "MOREE",
+    "postcode": "2400",
+    "state": "NSW"
+  },
+  "w526759402": {
+    "latitude": -33.8321836,
+    "longitude": 138.61245207,
+    "locality": "CLARE",
+    "postcode": "5453",
+    "state": "SA"
+  },
+  "w527671647": {
+    "latitude": -33.79629001,
+    "longitude": 150.90505288,
+    "locality": "PROSPECT",
+    "postcode": "2148",
+    "state": "NSW"
+  },
+  "w532830670": {
+    "latitude": -37.64876204,
+    "longitude": 145.07565077,
+    "locality": "SOUTH MORANG",
+    "postcode": "3752",
+    "state": "VIC"
+  },
+  "w544739512": {
+    "latitude": -30.11215549,
+    "longitude": 153.18968336,
+    "locality": "WOOLGOOLGA",
+    "postcode": "2456",
+    "state": "NSW"
+  },
+  "w556547748": {
+    "latitude": -38.02217251,
+    "longitude": 144.4087075,
+    "locality": "LARA",
+    "postcode": "3212",
+    "state": "VIC"
+  },
+  "w563753562": {
+    "latitude": -30.51175654,
+    "longitude": 151.66229588,
+    "locality": "ARMIDALE",
+    "postcode": "2350",
+    "state": "NSW"
+  },
+  "w567779730": {
+    "latitude": -27.49841777,
+    "longitude": 152.97411272,
+    "locality": "INDOOROOPILLY",
+    "postcode": "4068",
+    "state": "QLD"
+  },
+  "w568392502": {
+    "latitude": -30.97679293,
+    "longitude": 150.25009045,
+    "locality": "GUNNEDAH",
+    "postcode": "2380",
+    "state": "NSW"
+  },
+  "w569762920": {
+    "latitude": -38.30826509,
+    "longitude": 144.32988385,
+    "locality": "TORQUAY",
+    "postcode": "3228",
+    "state": "VIC"
+  },
+  "w569787448": {
+    "latitude": -27.11732145,
+    "longitude": 152.952397,
+    "locality": "MORAYFIELD",
+    "postcode": "4506",
+    "state": "QLD"
+  },
+  "w581224379": {
+    "latitude": -35.0159944,
+    "longitude": 138.52215705,
+    "locality": "BRIGHTON",
+    "postcode": "5048",
+    "state": "SA"
+  },
+  "w584394516": {
+    "latitude": -33.91442003,
+    "longitude": 151.24061559,
+    "locality": "RANDWICK",
+    "postcode": "2031",
+    "state": "NSW"
+  },
+  "w584828029": {
+    "latitude": -27.59824427,
+    "longitude": 152.97330021,
+    "locality": "INALA",
+    "postcode": "4077",
+    "state": "QLD"
+  },
+  "w597614565": {
+    "latitude": -32.72235236,
+    "longitude": 152.14295321,
+    "locality": "NELSON BAY",
+    "postcode": "2315",
+    "state": "NSW"
+  },
+  "w600716067": {
+    "latitude": -19.27813861,
+    "longitude": 146.80097691,
+    "locality": "HERMIT PARK",
+    "postcode": "4812",
+    "state": "QLD"
+  },
+  "w605984541": {
+    "latitude": -33.90710749,
+    "longitude": 151.17049698,
+    "locality": "MARRICKVILLE",
+    "postcode": "2204",
+    "state": "NSW"
+  },
+  "w606798457": {
+    "latitude": -25.97028437,
+    "longitude": 152.98580607,
+    "locality": "COOLOOLA COVE",
+    "postcode": "4580",
+    "state": "QLD"
+  },
+  "w620571455": {
+    "latitude": -28.17163842,
+    "longitude": 153.54384437,
+    "locality": "TWEED HEADS",
+    "postcode": "2485",
+    "state": "NSW"
+  },
+  "w655517595": {
+    "latitude": -32.53413662,
+    "longitude": 115.74264077,
+    "locality": "MANDURAH",
+    "postcode": "6210",
+    "state": "WA"
+  },
+  "w664875026": {
+    "latitude": -33.26356033,
+    "longitude": 151.46560678,
+    "locality": "WADALBA",
+    "postcode": "2259",
+    "state": "NSW"
+  },
+  "w680247122": {
+    "latitude": -34.18623245,
+    "longitude": 142.15866283,
+    "locality": "MILDURA",
+    "postcode": "3500",
+    "state": "VIC"
+  },
+  "w686411614": {
+    "latitude": -33.71341019,
+    "longitude": 150.33165146,
+    "locality": "LEURA",
+    "postcode": "2780",
+    "state": "NSW"
+  },
+  "w688264534": {
+    "latitude": -34.45515887,
+    "longitude": 150.84357211,
+    "locality": "UNANDERRA",
+    "postcode": "2526",
+    "state": "NSW"
+  },
+  "w709826601": {
+    "latitude": -37.75907254,
+    "longitude": 145.06892033,
+    "locality": "HEIDELBERG",
+    "postcode": "3084",
+    "state": "VIC"
+  },
+  "w728082171": {
+    "latitude": -33.88471399,
+    "longitude": 151.26848085,
+    "locality": "NORTH BONDI",
+    "postcode": "2026",
+    "state": "NSW"
+  },
+  "w763530323": {
+    "latitude": -33.37311917,
+    "longitude": 151.47374093,
+    "locality": "BATEAU BAY",
+    "postcode": "2261",
+    "state": "NSW"
+  },
+  "w778203930": {
+    "latitude": -33.9166167,
+    "longitude": 151.1502393,
+    "locality": "MARRICKVILLE",
+    "postcode": "2204",
+    "state": "NSW"
+  },
+  "w778708134": {
+    "latitude": -33.38489251,
+    "longitude": 148.00553801,
+    "locality": "FORBES",
+    "postcode": "2871",
+    "state": "NSW"
+  },
+  "w778709010": {
+    "latitude": -33.13398258,
+    "longitude": 148.17461223,
+    "locality": "PARKES",
+    "postcode": "2870",
+    "state": "NSW"
+  },
+  "w804041933": {
+    "latitude": -42.83202144,
+    "longitude": 147.27358757,
+    "locality": "GLENORCHY",
+    "postcode": "7010",
+    "state": "TAS"
+  },
+  "w813771819": {
+    "latitude": -32.93985939,
+    "longitude": 151.65907133,
+    "locality": "CARDIFF",
+    "postcode": "2285",
+    "state": "NSW"
+  },
+  "w828431500": {
+    "latitude": -33.86112248,
+    "longitude": 151.17125706,
+    "locality": "ROZELLE",
+    "postcode": "2039",
+    "state": "NSW"
+  },
+  "w835224325": {
+    "latitude": -31.98712615,
+    "longitude": 116.00816019,
+    "locality": "FORRESTFIELD",
+    "postcode": "6058",
+    "state": "WA"
+  },
+  "w879111184": {
+    "latitude": -28.80721889,
+    "longitude": 153.58258595,
+    "locality": "LENNOX HEAD",
+    "postcode": "2478",
+    "state": "NSW"
+  },
+  "w893993075": {
+    "latitude": -36.38327121,
+    "longitude": 145.41167517,
+    "locality": "SHEPPARTON",
+    "postcode": "3630",
+    "state": "VIC"
+  },
+  "w902713937": {
+    "latitude": -37.81947436,
+    "longitude": 144.95354942,
+    "locality": "DOCKLANDS",
+    "postcode": "3008",
+    "state": "VIC"
+  },
+  "w939122615": {
+    "latitude": -27.54760261,
+    "longitude": 153.11891551,
+    "locality": "ROCHEDALE",
+    "postcode": "4123",
+    "state": "QLD"
+  },
+  "w960097794": {
+    "latitude": -34.8446959,
+    "longitude": 150.59656736,
+    "locality": "BOMADERRY",
+    "postcode": "2541",
+    "state": "NSW"
+  },
+  "w989027834": {
+    "latitude": -33.91403979,
+    "longitude": 151.20613731,
+    "locality": "ROSEBERY",
+    "postcode": "2018",
+    "state": "NSW"
+  },
+  "w992194737": {
+    "latitude": -27.81670638,
+    "longitude": 152.96458956,
+    "locality": "FLAGSTONE",
+    "postcode": "4280",
+    "state": "QLD"
+  },
+  "w998643306": {
+    "latitude": -32.08112369,
+    "longitude": 115.807427,
+    "locality": "COOLBELLUP",
+    "postcode": "6163",
+    "state": "WA"
+  },
+  "w1011190502": {
+    "latitude": -34.93027701,
+    "longitude": 150.75638448,
+    "locality": "CULBURRA BEACH",
+    "postcode": "2540",
+    "state": "NSW"
+  },
+  "w1017034257": {
+    "latitude": -33.79610857,
+    "longitude": 150.78797538,
+    "locality": "ST CLAIR",
+    "postcode": "2759",
+    "state": "NSW"
+  },
+  "w1019628437": {
+    "latitude": -30.28451243,
+    "longitude": 153.12999234,
+    "locality": "COFFS HARBOUR",
+    "postcode": "2450",
+    "state": "NSW"
+  },
+  "w1023515331": {
+    "latitude": -38.14153686,
+    "longitude": 145.20721586,
+    "locality": "LANGWARRIN",
+    "postcode": "3910",
+    "state": "VIC"
+  },
+  "w1026016704": {
+    "latitude": -27.66365494,
+    "longitude": 152.84958145,
+    "locality": "REDBANK PLAINS",
+    "postcode": "4301",
+    "state": "QLD"
+  },
+  "w1032476081": {
+    "latitude": -29.77146219,
+    "longitude": 151.11239442,
+    "locality": "INVERELL",
+    "postcode": "2360",
+    "state": "NSW"
+  },
+  "w1033660875": {
+    "latitude": -37.91531559,
+    "longitude": 144.99567206,
+    "locality": "BRIGHTON",
+    "postcode": "3186",
+    "state": "VIC"
+  },
+  "w1035666160": {
+    "latitude": -32.10311156,
+    "longitude": 115.76248291,
+    "locality": "NORTH COOGEE",
+    "postcode": "6163",
+    "state": "WA"
+  },
+  "w1039825454": {
+    "latitude": -37.96032166,
+    "longitude": 145.05535491,
+    "locality": "CHELTENHAM",
+    "postcode": "3192",
+    "state": "VIC"
+  },
+  "w1081289291": {
+    "latitude": -32.17584221,
+    "longitude": 152.49868132,
+    "locality": "TUNCURRY",
+    "postcode": "2428",
+    "state": "NSW"
+  },
+  "w1083981220": {
+    "latitude": -31.42706745,
+    "longitude": 152.89497533,
+    "locality": "PORT MACQUARIE",
+    "postcode": "2444",
+    "state": "NSW"
+  },
+  "w1088332200": {
+    "latitude": -38.06758125,
+    "longitude": 145.14321021,
+    "locality": "PATTERSON LAKES",
+    "postcode": "3197",
+    "state": "VIC"
+  },
+  "w1102761483": {
+    "latitude": -33.91130231,
+    "longitude": 151.15512519,
+    "locality": "MARRICKVILLE",
+    "postcode": "2204",
+    "state": "NSW"
+  },
+  "w1108421439": {
+    "latitude": -33.78633312,
+    "longitude": 151.19811458,
+    "locality": "CHATSWOOD",
+    "postcode": "2067",
+    "state": "NSW"
+  },
+  "w1112685719": {
+    "latitude": -33.72041212,
+    "longitude": 150.71157506,
+    "locality": "CRANEBROOK",
+    "postcode": "2749",
+    "state": "NSW"
+  },
+  "w1166006850": {
+    "latitude": -37.89835765,
+    "longitude": 145.23239903,
+    "locality": "SCORESBY",
+    "postcode": "3179",
+    "state": "VIC"
+  },
+  "w1185033336": {
+    "latitude": -37.78930902,
+    "longitude": 145.15832616,
+    "locality": "DONCASTER EAST",
+    "postcode": "3109",
+    "state": "VIC"
+  },
+  "w1188874629": {
+    "latitude": -37.53457139,
+    "longitude": 144.96022758,
+    "locality": "KALKALLO",
+    "postcode": "3064",
+    "state": "VIC"
+  },
+  "w1223391922": {
+    "latitude": -28.21505632,
+    "longitude": 152.03165261,
+    "locality": "WARWICK",
+    "postcode": "4370",
+    "state": "QLD"
+  },
+  "w1228734899": {
+    "latitude": -35.08854083,
+    "longitude": 138.87558904,
+    "locality": "MOUNT BARKER",
+    "postcode": "5251",
+    "state": "SA"
+  },
+  "w1234494581": {
+    "latitude": -38.19748451,
+    "longitude": 144.31985452,
+    "locality": "GROVEDALE",
+    "postcode": "3216",
+    "state": "VIC"
+  },
+  "w1239527310": {
+    "latitude": -27.35153767,
+    "longitude": 153.04929206,
+    "locality": "TAIGUM",
+    "postcode": "4018",
+    "state": "QLD"
+  },
+  "w1240042206": {
+    "latitude": -27.48503424,
+    "longitude": 152.99251318,
+    "locality": "TOOWONG",
+    "postcode": "4066",
+    "state": "QLD"
+  },
+  "w1250385879": {
+    "latitude": -12.37268294,
+    "longitude": 130.88143283,
+    "locality": "CASUARINA",
+    "postcode": "0810",
+    "state": "NT"
+  },
+  "w1269009619": {
+    "latitude": -33.95085666,
+    "longitude": 115.07589098,
+    "locality": "MARGARET RIVER",
+    "postcode": "6285",
+    "state": "WA"
+  },
+  "w1271099717": {
+    "latitude": -27.50679477,
+    "longitude": 152.9482237,
+    "locality": "KENMORE",
+    "postcode": "4069",
+    "state": "QLD"
+  },
+  "w1275123571": {
+    "latitude": -33.73922709,
+    "longitude": 151.21004297,
+    "locality": "BELROSE",
+    "postcode": "2085",
+    "state": "NSW"
+  },
+  "w1277807885": {
+    "latitude": -17.08718626,
+    "longitude": 145.77414575,
+    "locality": "GORDONVALE",
+    "postcode": "4865",
+    "state": "QLD"
+  },
+  "w1279897391": {
+    "latitude": -27.70859981,
+    "longitude": 153.09581772,
+    "locality": "LOGAN RESERVE",
+    "postcode": "4133",
+    "state": "QLD"
+  }
+}
