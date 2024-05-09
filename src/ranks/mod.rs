@@ -1,6 +1,6 @@
 use std::{
     collections::BTreeMap,
-    fs::{read_dir, write},
+    fs::{self, read_dir, write},
 };
 
 use anyhow::Result;
@@ -73,4 +73,11 @@ pub fn main() -> Result<()> {
     }
 
     Ok(())
+}
+
+impl Vendor {
+    pub fn load_product_ranks(&self) -> Result<BTreeMap<u64, usize>> {
+        let data = fs::read_to_string(format!("data/ranks/products-{}.json", self.slug()))?;
+        Ok(serde_json::from_str(&data)?)
+    }
 }

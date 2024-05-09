@@ -1,4 +1,3 @@
-use std::fmt;
 use std::sync::OnceLock;
 
 use indicatif::ProgressStyle;
@@ -36,4 +35,15 @@ pub fn title_case(s: &str) -> String {
         new.push(x);
     }
     new
+}
+
+pub fn slug(s: &str) -> String {
+    s.chars()
+        .into_iter()
+        .map(|x| match x {
+            ' ' => '-',
+            'A'..='Z' => x.to_ascii_lowercase(),
+            x => x,
+        })
+        .collect()
 }

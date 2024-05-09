@@ -6,6 +6,8 @@ target
 /data/prices/*
 # changes completely each update
 /data/ranks/*
+# pretty sure distributing this would get me in trouble legally
+/data/products/raw.jsonl
 
 barcodes/output.json
 ps.db

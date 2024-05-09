@@ -1,0 +1,83 @@
+- Drink
+- Water .drink
+- Sports+Drink .drink
+- Energy+Drink .drink
+
+- Soft+Drink .drink
+- Orange +soft-drink
+- Cola +soft-drink
+- Raspberry +soft-drink
+- Lemonade +soft-drink
+
+- Juice .drink
+- Apple +juice
+- Orange +juice
+- Pulp+Free +orange-juice
+- With+Pulp +orange-juice
+
+- Eggs
+- Free+Range +eggs
+- Cage+Free +eggs
+- Organic +eggs
+
+- Milk
+- Full+Cream +milk
+- Skim +milk
+- Lite +milk
+- Light +milk
+
+- Sugar Free
+- Zero Sugar
+- No Sugar
+- Lactose Free
+- No Added Sugar
+
+- Yoghurt
+- Vanilla +yoghurt
+- Strawberry +yoghurt
+
+- Custard
+- Vanilla +custard
+- Chocolate +custard
+
+- Chicken+Nuggets
+
+- Cheese
+- +cheese Slices
+- Shredded +cheese
+- +cheese Block
+- Tasty +cheese
+
+- Toilet Paper
+- Tissues
+- Paper Towels
+
+- Dishwashing
+- +dishwashing Liquid
+- +dishwashing Tablets
+- Rubber Gloves
+
+- Rice
+- Microwave +rice
+- Jasmine +rice
+- Basmati +rice
+
+- Baked Beans
+- Spaghetti
+- Soup
+- Tomato +soup
+- Pumpkin +soup
+
+- Spread
+- Jam .spread
+- Strawberry +jam
+- Raspberry +jam
+- Honey .spread
+- Peanut+Butter .spread
+- Cream+Cheese .spread
+- Chocolate .spread
+- Hazelnut .spread
+
+- Shampoo
+- Conditioner
+- Toothpaste

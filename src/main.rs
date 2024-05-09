@@ -3,6 +3,7 @@ use clap::{Parser, Subcommand};
 
 mod osm;
 mod prices;
+mod products;
 mod ranks;
 mod stores;
 mod utils;
@@ -22,6 +23,7 @@ struct Cli {
 enum Module {
     Ranks,
     Prices,
+    Products,
     Stores,
 }
 
@@ -30,6 +32,7 @@ fn main() -> Result<()> {
     match cli.module {
         Module::Ranks => ranks::main(),
         Module::Prices => prices::main(),
+        Module::Products => products::main(),
         Module::Stores => stores::main(),
     }
 }
