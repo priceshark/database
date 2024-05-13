@@ -1382,6 +1382,17 @@
         "roof:levels": "0",
         "source": "survey"
       }
+    },
+    {
+      "id": "w209950181",
+      "x": -35.2525982,
+      "y": 149.0712052,
+      "tags": {
+        "landuse": "retail",
+        "name": "Jamison Centre",
+        "source:geometry": "ACTBlocks",
+        "wikidata": "Q6147853"
+      }
     }
   ],
   "n441991395": [
@@ -1893,7 +1904,7 @@
       "x": -38.162236,
       "y": 145.9324327,
       "tags": {
-        "building": "yes",
+        "building": "retail",
         "name": "Centre Point"
       }
     }
@@ -4501,8 +4512,8 @@
   "n1404335340": [
     {
       "id": "w88370376",
-      "x": -34.595354,
-      "y": 138.7483783,
+      "x": -34.5953456,
+      "y": 138.7483507,
       "tags": {
         "building": "retail",
         "name": "Gawler Central",
@@ -6317,9 +6328,9 @@
       "y": 144.9320545,
       "tags": {
         "landuse": "retail",
-        "name": "Roxburgh Park Shopping Centre",
+        "name": "Roxburgh Village Shopping Centre",
         "shop": "mall",
-        "website": "www.roxburghparkshopping.com.au/"
+        "source": "https://www.vicinity.com.au/portfolio/our-properties/roxburgh-village"
       }
     },
     {
@@ -7559,11 +7570,8 @@
         "addr:state": "QLD",
         "addr:street": "Point Cartwright Drive",
         "addr:suburb": "Buddina",
-        "building": "yes",
-        "layer": "1",
-        "name": "Kawana Shopping World",
-        "shop": "mall",
-        "website": "https://www.kawanashoppingworld.com.au"
+        "building": "retail",
+        "layer": "1"
       }
     },
     {
@@ -7572,7 +7580,10 @@
       "y": 153.1304787,
       "tags": {
         "landuse": "retail",
-        "name": "Kawana Shoppingtown"
+        "name": "Kawana Shopping World",
+        "shop": "mall",
+        "website": "https://www.kawanashoppingworld.com.au",
+        "website:map": "https://www.kawanashoppingworld.com.au/visit/centre-map#/"
       }
     }
   ],
@@ -12001,6 +12012,7 @@
         "alt_name": "Centro Maddington Shopping Centre",
         "building": "retail",
         "building:levels": "1",
+        "layer": "1",
         "name": "Maddington Central Shopping Centre",
         "roof:levels": "1"
       }
@@ -14935,7 +14947,7 @@
   "w90625912": [
     {
       "id": "w24853578",
-      "x": -37.8838642,
+      "x": -37.8838805,
       "y": 145.2758482,
       "tags": {
         "landuse": "retail",
@@ -15440,6 +15452,8 @@
         "brand:wikipedia": "en:Coles Supermarkets",
         "building": "yes",
         "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
         "shop": "supermarket",
         "website": "https://www.coles.com.au/"
       }
@@ -17819,6 +17833,7 @@
       "y": 116.0097769,
       "tags": {
         "building": "retail",
+        "layer": "1",
         "level": "1",
         "name": "Forrestfield Forum",
         "operator": "Hawaiians",
@@ -18378,6 +18393,7 @@
         "brand:wikidata": "Q1108172",
         "building": "supermarket",
         "name": "Coles",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
         "shop": "supermarket"

@@ -2,8 +2,8 @@
   "n18255251": [
     {
       "id": "w112672789",
-      "x": -34.0433533,
-      "y": 151.1184873,
+      "x": -34.0433532,
+      "y": 151.118466,
       "tags": {
         "landuse": "retail",
         "name": "Caringbah Shopping Village",
@@ -1785,7 +1785,7 @@
       "x": -38.1600753,
       "y": 145.9306072,
       "tags": {
-        "building": "yes"
+        "building": "retail"
       }
     }
   ],
@@ -2297,8 +2297,7 @@
         "building:levels": "8",
         "building:material": "glass",
         "landmark:name": "QV building",
-        "layer": "1",
-        "name": "Sensis"
+        "layer": "1"
       }
     },
     {
@@ -2311,6 +2310,7 @@
         "name:pronunciation": "ˈkjuː␣ˈviː",
         "shop": "mall",
         "website": "https://www.qv.com.au/",
+        "website:map": "https://www.qv.com.au/map",
         "wikidata": "Q7270550"
       }
     }
@@ -5205,18 +5205,19 @@
       "x": -27.4504145,
       "y": 151.9448263,
       "tags": {
-        "building": "yes",
-        "name": "Highfields Village",
-        "shop": "mall"
+        "building": "retail"
       }
     },
     {
       "id": "w310784460",
-      "x": -27.45102,
+      "x": -27.4507681,
       "y": 151.9447383,
       "tags": {
         "landuse": "retail",
-        "name": "Highfields Village Shopping Centre"
+        "name": "Highfields Village Shopping Centre",
+        "shop": "mall",
+        "website": "https://www.highfieldsvillage.com.au/",
+        "website:map": "https://www.highfieldsvillage.com.au/shop-guide"
       }
     }
   ],
@@ -8837,11 +8838,8 @@
         "addr:state": "QLD",
         "addr:street": "Point Cartwright Drive",
         "addr:suburb": "Buddina",
-        "building": "yes",
-        "layer": "1",
-        "name": "Kawana Shopping World",
-        "shop": "mall",
-        "website": "https://www.kawanashoppingworld.com.au"
+        "building": "retail",
+        "layer": "1"
       }
     },
     {
@@ -8850,7 +8848,10 @@
       "y": 153.1304787,
       "tags": {
         "landuse": "retail",
-        "name": "Kawana Shoppingtown"
+        "name": "Kawana Shopping World",
+        "shop": "mall",
+        "website": "https://www.kawanashoppingworld.com.au",
+        "website:map": "https://www.kawanashoppingworld.com.au/visit/centre-map#/"
       }
     }
   ],
@@ -14547,6 +14548,7 @@
         "alt_name": "Centro Maddington Shopping Centre",
         "building": "retail",
         "building:levels": "1",
+        "layer": "1",
         "name": "Maddington Central Shopping Centre",
         "roof:levels": "1"
       }
@@ -18696,7 +18698,7 @@
   "w108178136": [
     {
       "id": "w24853578",
-      "x": -37.8838642,
+      "x": -37.8838805,
       "y": 145.2758482,
       "tags": {
         "landuse": "retail",
@@ -19752,7 +19754,8 @@
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "building": "yes",
         "name": "Woolworths",
-        "operator": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket"
       }
     },
@@ -20533,6 +20536,8 @@
         "building:levels": "2",
         "long_name": "Woolworths Willagee",
         "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket",
         "website": "https://www.woolworths.com.au/"
       }
@@ -22861,8 +22866,10 @@
         "building": "yes",
         "indoor": "yes",
         "level": "1",
-        "name": "Woolworths Forrestfield",
+        "name": "Woolworths",
         "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:30; Su 10:00-18:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket"
       }
     },
@@ -23167,6 +23174,8 @@
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "building": "yes",
         "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket"
       }
     }
@@ -23609,7 +23618,7 @@
       "x": -37.7894683,
       "y": 145.15829,
       "tags": {
-        "addr:housenumber": "958/978",
+        "addr:housenumber": "958-978",
         "addr:postcode": "3109",
         "addr:state": "VIC",
         "addr:street": "Doncaster Road",

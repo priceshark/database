@@ -1407,7 +1407,7 @@
     "vendor": "coles",
     "id": 547,
     "name": "Coles Warragul",
-    "desc": "Centre Point, Warragul, Warragul VIC 3820",
+    "desc": "Centre Point, Warragul VIC 3820",
     "osm": "n515973782",
     "x": -38.1620606,
     "y": 145.9324454
@@ -2514,7 +2514,7 @@
     "vendor": "coles",
     "id": 748,
     "name": "Coles Jamison",
-    "desc": "Jamison Plaza, Belconnen ACT 2614",
+    "desc": "Belconnen ACT 2614",
     "osm": "n441178926",
     "x": -35.2527359,
     "y": 149.0713136
@@ -4008,7 +4008,7 @@
     "vendor": "coles",
     "id": 4435,
     "name": "Coles Kawana",
-    "desc": "Sunshine Coast QLD 4575",
+    "desc": "Kawana Shopping World, Sunshine Coast QLD 4575",
     "osm": "n3033914408",
     "x": -26.7021401,
     "y": 153.1315499
@@ -5144,7 +5144,7 @@
     "name": "Coles Indooroopilly",
     "desc": "Indooroopilly Shopping Centre, Brisbane QLD 4068",
     "osm": "w567779726",
-    "x": -27.4990543,
+    "x": -27.499054,
     "y": 152.9733549
   },
   {
@@ -6672,7 +6672,7 @@
     "vendor": "coles",
     "id": 7703,
     "name": "Coles Roxburgh Park",
-    "desc": "Roxburgh Park Shopping Centre, Melbourne VIC 3064",
+    "desc": "Roxburgh Village Shopping Centre, Melbourne VIC 3064",
     "osm": "n2268930955",
     "x": -37.638387,
     "y": 144.9323564
@@ -10920,7 +10920,7 @@
     "vendor": "woolworths",
     "id": 2514,
     "name": "Woolworths Highfields",
-    "desc": "Highfields QLD 4352",
+    "desc": "Highfields Village Shopping Centre, Highfields QLD 4352",
     "osm": "n1535820882",
     "x": -27.4501392,
     "y": 151.9452052
@@ -11271,7 +11271,7 @@
     "vendor": "woolworths",
     "id": 2570,
     "name": "Woolworths Kawana",
-    "desc": "Sunshine Coast QLD 4575",
+    "desc": "Kawana Shopping World, Sunshine Coast QLD 4575",
     "osm": "n3033914409",
     "x": -26.7038869,
     "y": 153.1307399
@@ -14304,7 +14304,7 @@
     "vendor": "woolworths",
     "id": 3304,
     "name": "Woolworths QV",
-    "desc": "Melbourne VIC 3000",
+    "desc": "QV, Melbourne VIC 3000",
     "osm": "n613996660",
     "x": -37.811152,
     "y": 144.965377

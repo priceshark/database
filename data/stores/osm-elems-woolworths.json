@@ -183,6 +183,7 @@
       "brand:website": "https://www.woolworths.com.au",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
+      "defibrillator": "yes",
       "name": "Woolworths Marsfield",
       "opening_hours": "Mo-Su 07:00-00:00",
       "shop": "supermarket",
@@ -828,6 +829,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 8:00-17:00; Su 11:00-17:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -1174,6 +1177,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -1250,6 +1255,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -2124,6 +2131,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -3354,6 +3363,7 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
+      "check_date": "2024-05-09",
       "name": "Woolworths",
       "shop": "supermarket"
     }
@@ -3478,7 +3488,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
       "opening_hours": "Mo-Fr 08:00-21:00; PH,Sa 08:00-17:00; Su 11:00-17:00",
-      "operator": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -3494,6 +3505,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -4339,6 +4352,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -5346,6 +5361,8 @@
       "layer": "0",
       "level": "0",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -5483,19 +5500,6 @@
     "id": "n2268217834",
     "x": -36.7656316,
     "y": 144.2813908,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "brand:wikipedia": "en:Woolworths Supermarkets",
-      "name": "Woolworths",
-      "shop": "supermarket",
-      "website": "https://www.woolworths.com.au/"
-    }
-  },
-  "n2268930957": {
-    "id": "n2268930957",
-    "x": -37.6397204,
-    "y": 144.9326166,
     "tags": {
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
@@ -6502,6 +6506,7 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
@@ -8581,7 +8586,7 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
-      "opening_hours": "Mo-Fr 07:00-24:00, Sa 07:00-22:00; Su 08:00-22:00",
+      "opening_hours": "Mo-Fr 07:00-23:00; Sa 07:00-22:00; Su 07:00-22:00",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/",
       "wheelchair": "yes"
@@ -9093,6 +9098,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -9620,6 +9627,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -10852,6 +10861,8 @@
       "internet_access": "wlan",
       "internet_access:fee": "no",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "payment:mastercard": "yes",
       "payment:visa": "yes",
       "shop": "supermarket"
@@ -10866,6 +10877,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -10878,6 +10891,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -11097,6 +11112,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -12369,6 +12386,7 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "name": "Woolworths",
+      "opening_hours": "Mo-Fr 8:00-21:00; Sa 8:00-17:00; Su 11:00-17:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
@@ -14484,7 +14502,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "building": "yes",
       "name": "Woolworths",
-      "operator": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -15034,6 +15053,8 @@
       "building:levels": "2",
       "long_name": "Woolworths Willagee",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -16361,6 +16382,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -16627,8 +16650,10 @@
       "building": "yes",
       "indoor": "yes",
       "level": "1",
-      "name": "Woolworths Forrestfield",
+      "name": "Woolworths",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:30; Su 10:00-18:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -16781,6 +16806,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "building": "yes",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -17086,7 +17113,7 @@
     "x": -37.7894683,
     "y": 145.15829,
     "tags": {
-      "addr:housenumber": "958/978",
+      "addr:housenumber": "958-978",
       "addr:postcode": "3109",
       "addr:state": "VIC",
       "addr:street": "Doncaster Road",

@@ -132,6 +132,8 @@
       "building:levels": "1",
       "long_name": "Coles Forest Lakes",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -873,6 +875,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -1094,6 +1098,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -2890,6 +2896,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -2988,6 +2996,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -3497,7 +3507,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
-      "operator": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -3624,6 +3635,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -4839,6 +4852,8 @@
       "layer": "0",
       "level": "0",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -4970,6 +4985,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -5420,6 +5437,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -5875,6 +5894,8 @@
       "name": "Coles",
       "name:en": "Coles",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -5937,7 +5958,7 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
-      "operator": "Coles",
+      "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
@@ -7064,6 +7085,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "phone": "+61 8 9274 5822",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/",
@@ -7425,6 +7448,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -7517,6 +7542,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -9673,6 +9700,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -12148,6 +12177,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "building": "yes",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -13480,7 +13511,7 @@
   },
   "w567779726": {
     "id": "w567779726",
-    "x": -27.4990543,
+    "x": -27.499054,
     "y": 152.9733549,
     "tags": {
       "addr:postcode": "4068",
@@ -13670,6 +13701,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -13857,7 +13890,8 @@
       "indoor": "yes",
       "level": "1",
       "name": "Coles",
-      "operator": "Coles Australia",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "payment:all": "yes",
       "payment:android_pay": "yes",
       "payment:apple_pay": "yes",
@@ -14253,6 +14287,7 @@
       "brand:wikidata": "Q1108172",
       "building": "supermarket",
       "name": "Coles",
+      "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "shop": "supermarket"
