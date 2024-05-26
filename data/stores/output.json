@@ -12115,6 +12115,15 @@
   },
   {
     "vendor": "woolworths",
+    "id": 2684,
+    "name": "Woolworths Logan Reserve",
+    "desc": "Brisbane QLD 4133",
+    "osm": "w1279897391",
+    "x": -27.708777,
+    "y": 153.0964003
+  },
+  {
+    "vendor": "woolworths",
     "id": 2685,
     "name": "Woolworths Tweed Heads",
     "desc": "Tweed Mall, Tweed Heads NSW 2485",

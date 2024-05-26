@@ -51,6 +51,7 @@
 - [Woolworths Store 2662](https://www.woolworths.com.au/shop/storelocator/2662) [n7092060787](https://www.openstreetmap.org/node/7092060787) has conflicting parent names: {"Capalaba Central", "Capalaba Central Shopping Centre"}
 - [Woolworths Store 2665](https://www.woolworths.com.au/shop/storelocator/2665) [n4381296201](https://www.openstreetmap.org/node/4381296201) has conflicting parent names: {"Yamanto Village", "Yamanto Village Shopping Centre"}
 - [Woolworths Store 2682](https://www.woolworths.com.au/shop/storelocator/2682) [w239262297](https://www.openstreetmap.org/way/239262297) has no parents
+- [Woolworths Store 2684](https://www.woolworths.com.au/shop/storelocator/2684) [w1279897391](https://www.openstreetmap.org/way/1279897391) has no parents
 - [Woolworths Store 2694](https://www.woolworths.com.au/shop/storelocator/2694) [w137148876](https://www.openstreetmap.org/way/137148876) has no parents
 - [Woolworths Store 2697](https://www.woolworths.com.au/shop/storelocator/2697) [w243878351](https://www.openstreetmap.org/way/243878351) has no parents
 - [Woolworths Store 2699](https://www.woolworths.com.au/shop/storelocator/2699) [n3552021868](https://www.openstreetmap.org/node/3552021868) has conflicting parent names: {"Ashmore Plaza", "Ashmore Plaza Shopping Centre"}

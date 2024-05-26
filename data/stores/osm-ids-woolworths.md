@@ -1,13 +1,14 @@
 ## Statistics
 
-- 1113 raw, 1095 osm
+- 1116 raw, 1095 osm
 - 40 sourced from url
-- 1047 matched on distance
-- 97.7% conflated
+- 1048 matched on distance
+- 97.5% conflated
 
 ## Todo
 
 - didn't match with osm:
+  - [Woolworths Store 1032](https://www.woolworths.com.au/shop/storelocator/1032)
   - [Woolworths Store 1066](https://www.woolworths.com.au/shop/storelocator/1066)
   - [Woolworths Store 1385](https://www.woolworths.com.au/shop/storelocator/1385)
   - [Woolworths Store 1610](https://www.woolworths.com.au/shop/storelocator/1610)
@@ -22,6 +23,7 @@
   - [Woolworths Store 3576](https://www.woolworths.com.au/shop/storelocator/3576)
   - [Woolworths Store 3607](https://www.woolworths.com.au/shop/storelocator/3607)
   - [Woolworths Store 3819](https://www.woolworths.com.au/shop/storelocator/3819)
+  - [Woolworths Store 4082](https://www.woolworths.com.au/shop/storelocator/4082)
   - [Woolworths Store 4389](https://www.woolworths.com.au/shop/storelocator/4389)
   - [Woolworths Store 5670](https://www.woolworths.com.au/shop/storelocator/5670)
   - [Woolworths Store 8281](https://www.woolworths.com.au/shop/storelocator/8281)
@@ -38,5 +40,4 @@
   - [n2262273116](https://www.openstreetmap.org/node/2262273116)
   - [w728082171](https://www.openstreetmap.org/way/728082171)
   - [w1239527310](https://www.openstreetmap.org/way/1239527310)
-  - [w1279897391](https://www.openstreetmap.org/way/1279897391)
 

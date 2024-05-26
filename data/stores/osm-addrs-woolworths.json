@@ -13199,6 +13199,18 @@
     "state": "Queensland",
     "town": "Gordonvale"
   },
+  "w1279897391": {
+    "ISO3166-2-lvl4": "AU-QLD",
+    "city_district": "Logan Reserve",
+    "country": "Australia",
+    "country_code": "au",
+    "district": "Greater Brisbane",
+    "postcode": "4133",
+    "road": "Almandin Street",
+    "shop": "Woolworths",
+    "state": "Queensland",
+    "suburb": "Logan Reserve"
+  },
   "w1285338811": {
     "ISO3166-2-lvl4": "AU-QLD",
     "city": "Bundaberg",

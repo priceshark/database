@@ -23832,6 +23832,25 @@
       }
     }
   ],
+  "w1279897391": [
+    {
+      "id": "w1279897391",
+      "x": -27.708777,
+      "y": 153.0964003,
+      "tags": {
+        "addr:postcode": "4133",
+        "addr:state": "QLD",
+        "addr:suburb": "Logan Reserve",
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "building": "yes",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket"
+      }
+    }
+  ],
   "w1285338811": [
     {
       "id": "w214721166",
