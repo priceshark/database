@@ -1,6 +1,6 @@
 ## Statistics
 
-- 852 raw, 840 osm
+- 852 raw, 843 osm
 - 50 sourced from url
 - 787 matched on distance
 - 98.2% conflated
@@ -19,8 +19,13 @@
   - [Coles Store 7680](https://www.coles.com.au/find-stores/coles/-/-7680)
   - [Coles Store 7682](https://www.coles.com.au/find-stores/coles/-/-7682)
   - [Coles Store 7720](https://www.coles.com.au/find-stores/coles/-/-7720)
+- [Coles Store 779](https://www.coles.com.au/find-stores/coles/-/-779) is conflicted with [n1326569197](https://www.openstreetmap.org/node/1326569197) and [w1286477920](https://www.openstreetmap.org/way/1286477920)
+- [Coles Store 7681](https://www.coles.com.au/find-stores/coles/-/-7681) is conflicted with [n11847331109](https://www.openstreetmap.org/node/11847331109) and [n11932337694](https://www.openstreetmap.org/node/11932337694)
 - didn't match with raw:
   - [n1924155592](https://www.openstreetmap.org/node/1924155592)
   - [n3776153491](https://www.openstreetmap.org/node/3776153491)
+  - [n11907047895](https://www.openstreetmap.org/node/11907047895)
+  - [n11932337694](https://www.openstreetmap.org/node/11932337694)
   - [w151021229](https://www.openstreetmap.org/way/151021229)
+  - [w1286477920](https://www.openstreetmap.org/way/1286477920)
 

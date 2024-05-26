@@ -656,8 +656,9 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "contact:phone": "+61 2 6126 9600",
       "name": "Coles",
-      "operator": "Coles Supermarkets Australia Pty Ltd",
+      "operator": "Coles Group",
       "operator:abn": "45 004 189 708",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "source": "local_knowledge",
       "wheelchair": "yes"
@@ -1597,6 +1598,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -1880,6 +1883,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -4371,7 +4376,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
-      "operator": "Coles Supermarkets",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -4570,6 +4576,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -5529,7 +5537,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
-      "operator": "Westfarmers",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -5880,8 +5889,8 @@
   },
   "n2953883893": {
     "id": "n2953883893",
-    "x": -32.067564,
-    "y": 115.8157926,
+    "x": -32.06733,
+    "y": 115.8157605,
     "tags": {
       "addr:country": "AU",
       "addr:housenumber": "1",
@@ -6293,6 +6302,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -7765,6 +7776,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "website": "https://www.coles.com.au/"
     }
@@ -7941,13 +7954,14 @@
       "addr:state": "VIC",
       "addr:street": "Gourlay Road",
       "addr:suburb": "Taylors Hill",
+      "addr:unit": "Major",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "contact:facebook": "coles",
       "contact:instagram": "colessupermarkets",
       "name": "Coles",
-      "opening_hours": "Mo-Su 06:00-00:00",
+      "opening_hours": "Mo-Su 06:00-23:00",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "phone": "+61 3 8348 3100",
@@ -9732,6 +9746,8 @@
       "brand:wikidata": "Q1108172",
       "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -10092,15 +10108,14 @@
   },
   "n9591744395": {
     "id": "n9591744395",
-    "x": -27.2190401,
-    "y": 153.0984333,
+    "x": -27.2189939,
+    "y": 153.098417,
     "tags": {
       "addr:housenumber": "110",
       "addr:street": "Ashmole Road",
       "branch": "Redcliffe",
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
-      "brand:wikipedia": "en:Coles Supermarkets",
       "name": "Coles",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
@@ -10164,6 +10179,8 @@
       "brand": "Coles",
       "brand:wikidata": "Q1108172",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket",
       "survey:date": "2022-05-14"
     }
@@ -11431,6 +11448,41 @@
       "start_date": "2024-05-03"
     }
   },
+  "n11907047895": {
+    "id": "n11907047895",
+    "x": -27.2186649,
+    "y": 153.0987807,
+    "tags": {
+      "brand": "Coles",
+      "brand:wikidata": "Q1108172",
+      "name": "Coles Click&Collect",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
+      "shop": "outpost"
+    }
+  },
+  "n11932337694": {
+    "id": "n11932337694",
+    "x": -27.5672316,
+    "y": 153.2491848,
+    "tags": {
+      "addr:housenumber": "128-144",
+      "addr:postcode": "4164",
+      "addr:state": "QLD",
+      "addr:street": "Boundary Road",
+      "addr:suburb": "Thornlands",
+      "branch": "Thornlands",
+      "brand": "Coles",
+      "brand:wikidata": "Q1108172",
+      "name": "Click&Collect",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
+      "shop": "outpost",
+      "website": "https://www.coles.com.au/ways-to-shop/click-and-collect",
+      "wikidata": "Q1339055",
+      "wikipedia": "en:Coles Group"
+    }
+  },
   "r15074857": {
     "id": "r15074857",
     "x": -27.242524,
@@ -11711,8 +11763,8 @@
   },
   "w51469747": {
     "id": "w51469747",
-    "x": -36.7612667,
-    "y": 144.282664,
+    "x": -36.7612656,
+    "y": 144.2826566,
     "tags": {
       "addr:city": "Bendigo",
       "addr:country": "AU",
@@ -12478,6 +12530,8 @@
       "brand:wikipedia": "en:Coles Supermarkets",
       "building": "commercial",
       "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
       "shop": "supermarket"
     }
   },
@@ -12521,8 +12575,8 @@
   },
   "w220228589": {
     "id": "w220228589",
-    "x": -37.5997372,
-    "y": 143.839856,
+    "x": -37.5997464,
+    "y": 143.8398507,
     "tags": {
       "addr:housenumber": "216",
       "addr:street": "Albert Street",
@@ -14269,6 +14323,7 @@
       "brand:wikidata": "Q1108172",
       "building:part": "yes",
       "name": "Coles",
+      "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "phone": "+61 8 9443 1422",
@@ -14321,6 +14376,7 @@
       "indoor": "room",
       "level": "0",
       "name": "Coles",
+      "opening_hours": "Mo-We, Fr 08:00-20:00; Th 08:00-21:00; Sa 08:00-18:00; Su 09:00-18:00",
       "operator": "Coles Group",
       "operator:wikidata": "Q1339055",
       "shop": "supermarket"
@@ -14409,6 +14465,20 @@
       "brand:wikidata": "Q1108172",
       "check_date": "2024-02-12",
       "indoor": "room",
+      "level": "1",
+      "name": "Coles",
+      "operator": "Coles Group",
+      "operator:wikidata": "Q1339055",
+      "shop": "supermarket"
+    }
+  },
+  "w1286477920": {
+    "id": "w1286477920",
+    "x": -35.2377724,
+    "y": 149.0647866,
+    "tags": {
+      "brand": "Coles",
+      "brand:wikidata": "Q1108172",
       "level": "1",
       "name": "Coles",
       "operator": "Coles Group",

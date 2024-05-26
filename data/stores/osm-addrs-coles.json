@@ -3195,7 +3195,6 @@
     "house_number": "114",
     "municipality": "Lockyer Valley Regional",
     "postcode": "4343",
-    "residential": "koala park",
     "road": "Spencer Street",
     "shop": "Coles",
     "state": "Queensland",
@@ -6669,10 +6668,9 @@
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "5",
     "municipality": "City of Parramatta Council",
     "postcode": "2127",
-    "road": "Footbridge Boulevard",
+    "road": "Waterways Street",
     "shop": "Coles",
     "state": "New South Wales",
     "suburb": "Wentworth Point"
@@ -10076,7 +10074,7 @@
     "country_code": "au",
     "municipality": "Armidale Regional Council",
     "postcode": "2350",
-    "road": "Dumaresq Street",
+    "road": "Marsh Street",
     "shop": "Coles",
     "state": "New South Wales",
     "suburb": "North Hill"

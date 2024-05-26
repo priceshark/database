@@ -1591,7 +1591,8 @@
         "layer": "1",
         "name": "Skygate Centre",
         "opening_hours": "Mo-Sa 09:00-17:30",
-        "shop": "mall"
+        "shop": "mall",
+        "toilets": "yes"
       }
     },
     {
@@ -3141,8 +3142,15 @@
       "x": -26.772509,
       "y": 153.1222413,
       "tags": {
+        "addr:postcode": "4551",
+        "addr:state": "QLD",
+        "addr:street": "Cnr Nicklin Way & Bellara Drive",
+        "addr:suburb": "Currimundi",
         "building": "yes",
-        "building:levels": "1"
+        "building:levels": "1",
+        "name": "Currimundi Markets",
+        "shop": "mall",
+        "website": "https://www.currimundimarkets.com.au/"
       }
     }
   ],
@@ -4438,8 +4446,8 @@
     },
     {
       "id": "w274895495",
-      "x": -36.0800872,
-      "y": 146.9196691,
+      "x": -36.0801127,
+      "y": 146.9196641,
       "tags": {
         "addr:housenumber": "525",
         "addr:postcode": "2640",
@@ -4603,42 +4611,6 @@
       "y": 152.797778,
       "tags": {
         "building": "yes"
-      }
-    }
-  ],
-  "n1326569195": [
-    {
-      "id": "w27795123",
-      "x": -35.2384461,
-      "y": 149.0650945,
-      "tags": {
-        "brand": "Westfield",
-        "brand:wikidata": "Q106623253",
-        "building": "retail",
-        "building:levels": "3",
-        "name": "Westfield",
-        "operator": "Scentre Group",
-        "operator:wikidata": "Q18378048",
-        "roof:colour": "#628852",
-        "roof:levels": "0",
-        "shop": "mall",
-        "toilets": "yes",
-        "toilets:wheelchair": "yes",
-        "website": "https://www.westfield.com.au/belconnen",
-        "wikidata": "Q7988644",
-        "wikipedia": "en:Westfield Belconnen"
-      }
-    },
-    {
-      "id": "w209950611",
-      "x": -35.2381495,
-      "y": 149.0650231,
-      "tags": {
-        "landuse": "retail",
-        "operator:wikipedia": "en:Scentre Group",
-        "toilets": "yes",
-        "toilets:wheelchair": "yes",
-        "website": "https://www.westfield.com.au/belconnen"
       }
     }
   ],
@@ -6462,35 +6434,6 @@
       }
     }
   ],
-  "n1993456954": [
-    {
-      "id": "w49890761",
-      "x": -24.8871994,
-      "y": 152.3184481,
-      "tags": {
-        "building": "retail"
-      }
-    },
-    {
-      "id": "w214721166",
-      "x": -24.8874339,
-      "y": 152.3186937,
-      "tags": {
-        "addr:country": "AU",
-        "addr:housenumber": "115-119",
-        "addr:postcode": "4670",
-        "addr:street": "Taklavan Road",
-        "addr:suburb": "Avoca",
-        "email": "bundaberg@stockland.com.au",
-        "landuse": "retail",
-        "name": "Sugarland Shoppingtown",
-        "opening_hours": "Mo-Fr 08:30-17:00; Sa,Su off; PH off",
-        "phone": "+61 7 4152 5788",
-        "shop": "mall",
-        "website": "https://www.sugarlandshoppingtown.com.au/"
-      }
-    }
-  ],
   "n1994975943": [
     {
       "id": "w135871805",
@@ -8119,6 +8062,7 @@
         "building:levels": "3",
         "fixme": "Need to update for new mall in late 2014",
         "internet_access": "no",
+        "layer": "1",
         "name": "Lakeside Joondalup Shopping City",
         "operator": "Lend Lease & Future Fund",
         "shop": "mall",
@@ -10110,6 +10054,7 @@
         "building": "retail",
         "layer": "1",
         "name": "Hinkler Central Shopping Centre",
+        "name:en": "Hinkler Central Shopping Centre",
         "name:vi": "Trung tâm Thương mại Hinkler Central",
         "shop": "mall",
         "website": "https://www.hinklercentral.com.au/"
@@ -12032,7 +11977,7 @@
     {
       "id": "w144481756",
       "x": -32.0981726,
-      "y": 115.7841116,
+      "y": 115.7841067,
       "tags": {
         "building": "yes",
         "name": "Phoenix Shopping Centre",
@@ -16158,6 +16103,7 @@
       "y": 115.7789613,
       "tags": {
         "building": "yes",
+        "layer": "2",
         "max_level": "2",
         "min_level": "-2",
         "name": "Karrinyup Shopping Centre",
@@ -17362,6 +17308,35 @@
       }
     }
   ],
+  "n11902700355": [
+    {
+      "id": "w1026016703",
+      "x": -27.6634947,
+      "y": 152.8493179,
+      "tags": {
+        "landuse": "retail"
+      }
+    },
+    {
+      "id": "w1026016704",
+      "x": -27.6640745,
+      "y": 152.8496328,
+      "tags": {
+        "addr:housenumber": "171-191",
+        "addr:postcode": "4301",
+        "addr:state": "QLD",
+        "addr:street": "School Road",
+        "addr:suburb": "Redbank Plains",
+        "building": "retail",
+        "contact:facebook": "https://www.facebook.com/mountviewshoppingcentre",
+        "name": "Mountview Shopping Centre",
+        "opening_hours": "Mo-Su 09:00-17:30",
+        "phone": "+61 7 3229 1233",
+        "shop": "mall",
+        "website": "https://mountviewshoppingcentre.com.au/"
+      }
+    }
+  ],
   "r9389462": [
     {
       "id": "w676135374",
@@ -17958,6 +17933,8 @@
         "building": "yes",
         "building:levels": "1",
         "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "roof:levels": "0",
         "shop": "supermarket"
       }
@@ -18699,7 +18676,7 @@
     {
       "id": "w24853578",
       "x": -37.8838805,
-      "y": 145.2758482,
+      "y": 145.2758475,
       "tags": {
         "landuse": "retail",
         "name": "Mountain Gate Shopping Centre",
@@ -18709,9 +18686,15 @@
     },
     {
       "id": "w108178136",
-      "x": -37.8837202,
-      "y": 145.2778091,
+      "x": -37.883705,
+      "y": 145.2778081,
       "tags": {
+        "addr:housenumber": "854",
+        "addr:postcode": "3156",
+        "addr:state": "VIC",
+        "addr:street": "Burwood Highway",
+        "addr:suburb": "Ferntree Gully",
+        "addr:unit": "8",
         "brand": "Woolworths",
         "brand:wikidata": "Q3249145",
         "brand:wikipedia": "en:Woolworths Supermarkets",
@@ -18719,6 +18702,8 @@
         "full_name": "Woolworths Mountain Gate",
         "name": "Woolworths",
         "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "phone": "+61 3 8756 2440",
         "shop": "supermarket",
         "website": "https://www.woolworths.com.au"
@@ -23285,34 +23270,6 @@
       }
     }
   ],
-  "w1026016704": [
-    {
-      "id": "w1026016703",
-      "x": -27.6635839,
-      "y": 152.8493472,
-      "tags": {
-        "construction": "yes",
-        "landuse": "retail",
-        "name": "Mountview Shopping Centre"
-      }
-    },
-    {
-      "id": "w1026016704",
-      "x": -27.664151,
-      "y": 152.849626,
-      "tags": {
-        "brand": "Woolworths",
-        "brand:wikidata": "Q3249145",
-        "brand:wikipedia": "en:Woolworths Supermarkets",
-        "building": "yes",
-        "construction": "yes",
-        "name": "Woolworths",
-        "operator": "Woolworths Group",
-        "operator:wikidata": "Q607272",
-        "shop": "supermarket"
-      }
-    }
-  ],
   "w1032476081": [
     {
       "id": "w1032476081",
@@ -23355,7 +23312,10 @@
         "brand:wikidata": "Q3249145",
         "brand:wikipedia": "en:Woolworths Supermarkets",
         "building": "retail",
+        "check_date": "2024-05-19",
         "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
         "shop": "supermarket",
         "website": "https://www.woolworths.com.au/"
       }
@@ -23840,7 +23800,7 @@
     },
     {
       "id": "w737777874",
-      "x": -33.7390418,
+      "x": -33.7390685,
       "y": 151.2100041,
       "tags": {
         "building": "retail",
@@ -23869,6 +23829,78 @@
         "operator": "Woolworths Group",
         "operator:wikidata": "Q607272",
         "shop": "supermarket"
+      }
+    }
+  ],
+  "w1285338811": [
+    {
+      "id": "w214721166",
+      "x": -24.88736,
+      "y": 152.3186977,
+      "tags": {
+        "addr:country": "AU",
+        "addr:housenumber": "115-119",
+        "addr:postcode": "4670",
+        "addr:street": "Taklavan Road",
+        "addr:suburb": "Avoca",
+        "email": "bundaberg@stockland.com.au",
+        "landuse": "retail",
+        "name": "Sugarland Shoppingtown",
+        "opening_hours": "Mo-Fr 08:30-17:00; Sa,Su off; PH off",
+        "phone": "+61 7 4152 5788",
+        "website": "https://www.sugarlandshoppingtown.com.au/"
+      }
+    },
+    {
+      "id": "w1285338811",
+      "x": -24.8880547,
+      "y": 152.3194376,
+      "tags": {
+        "brand": "Woolworths",
+        "brand:wikidata": "Q3249145",
+        "brand:wikipedia": "en:Woolworths Supermarkets",
+        "building": "yes",
+        "name": "Woolworths",
+        "operator": "Woolworths Group",
+        "operator:wikidata": "Q607272",
+        "shop": "supermarket",
+        "source": "Local knowledge"
+      }
+    }
+  ],
+  "w1286477901": [
+    {
+      "id": "w27795123",
+      "x": -35.2384408,
+      "y": 149.065096,
+      "tags": {
+        "brand": "Westfield",
+        "brand:wikidata": "Q106623253",
+        "building": "retail",
+        "building:levels": "3",
+        "name": "Westfield",
+        "operator": "Scentre Group",
+        "operator:wikidata": "Q18378048",
+        "roof:colour": "#628852",
+        "roof:levels": "0",
+        "shop": "mall",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.westfield.com.au/belconnen",
+        "wikidata": "Q7988644",
+        "wikipedia": "en:Westfield Belconnen"
+      }
+    },
+    {
+      "id": "w209950611",
+      "x": -35.2381495,
+      "y": 149.0650244,
+      "tags": {
+        "landuse": "retail",
+        "operator:wikipedia": "en:Scentre Group",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.westfield.com.au/belconnen"
       }
     }
   ]

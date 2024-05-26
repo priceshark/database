@@ -1396,14 +1396,14 @@
         "name": "Coles Kardinya",
         "desc": "Kardinya Park Shopping Centre, Kardinya WA 6163",
         "osm": "n2953883893",
-        "x": -32.067564,
-        "y": 115.8157926
+        "x": -32.06733,
+        "y": 115.8157605
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.8157926,
-          -32.067564
+          115.8157605,
+          -32.06733
         ]
       }
     },
@@ -2971,7 +2971,7 @@
         "vendor": "coles",
         "id": 547,
         "name": "Coles Warragul",
-        "desc": "Centre Point, Warragul, Warragul VIC 3820",
+        "desc": "Centre Point, Warragul VIC 3820",
         "osm": "n515973782",
         "x": -38.1620606,
         "y": 145.9324454
@@ -4037,14 +4037,14 @@
         "name": "Coles Bendigo",
         "desc": "Bendigo VIC 3550",
         "osm": "w51469747",
-        "x": -36.7612667,
-        "y": 144.282664
+        "x": -36.7612656,
+        "y": 144.2826566
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.282664,
-          -36.7612667
+          144.2826566,
+          -36.7612656
         ]
       }
     },
@@ -5308,7 +5308,7 @@
         "vendor": "coles",
         "id": 748,
         "name": "Coles Jamison",
-        "desc": "Jamison Plaza, Belconnen ACT 2614",
+        "desc": "Belconnen ACT 2614",
         "osm": "n441178926",
         "x": -35.2527359,
         "y": 149.0713136
@@ -8331,14 +8331,14 @@
         "name": "Coles Redcliffe",
         "desc": "Dolphins Central Shopping Centre, Redcliffe, Brisbane QLD 4021",
         "osm": "n9591744395",
-        "x": -27.2190401,
-        "y": 153.0984333
+        "x": -27.2189939,
+        "y": 153.098417
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0984333,
-          -27.2190401
+          153.098417,
+          -27.2189939
         ]
       }
     },
@@ -8462,7 +8462,7 @@
         "vendor": "coles",
         "id": 4435,
         "name": "Coles Kawana",
-        "desc": "Sunshine Coast QLD 4575",
+        "desc": "Kawana Shopping World, Sunshine Coast QLD 4575",
         "osm": "n3033914408",
         "x": -26.7021401,
         "y": 153.1315499
@@ -10858,14 +10858,14 @@
         "name": "Coles Indooroopilly",
         "desc": "Indooroopilly Shopping Centre, Brisbane QLD 4068",
         "osm": "w567779726",
-        "x": -27.4990543,
+        "x": -27.499054,
         "y": 152.9733549
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           152.9733549,
-          -27.4990543
+          -27.499054
         ]
       }
     },
@@ -14086,7 +14086,7 @@
         "vendor": "coles",
         "id": 7703,
         "name": "Coles Roxburgh Park",
-        "desc": "Roxburgh Park Shopping Centre, Melbourne VIC 3064",
+        "desc": "Roxburgh Village Shopping Centre, Melbourne VIC 3064",
         "osm": "n2268930955",
         "x": -37.638387,
         "y": 144.9323564
@@ -14202,14 +14202,14 @@
         "name": "Coles Sebastopol",
         "desc": "Ballarat VIC 3356",
         "osm": "w220228589",
-        "x": -37.5997372,
-        "y": 143.839856
+        "x": -37.5997464,
+        "y": 143.8398507
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.839856,
-          -37.5997372
+          143.8398507,
+          -37.5997464
         ]
       }
     },
@@ -17184,15 +17184,15 @@
         "id": 1139,
         "name": "Woolworths Belconnen",
         "desc": "Westfield, Belconnen ACT 2617",
-        "osm": "n1326569195",
-        "x": -35.2384558,
-        "y": 149.0650481
+        "osm": "w1286477901",
+        "x": -35.2386869,
+        "y": 149.0652693
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.0650481,
-          -35.2384558
+          149.0652693,
+          -35.2386869
         ]
       }
     },
@@ -18743,14 +18743,14 @@
         "name": "Woolworths Belrose",
         "desc": "Glenrose Village Shopping Centre, Sydney NSW 2085",
         "osm": "w1275123571",
-        "x": -33.7392461,
+        "x": -33.7392464,
         "y": 151.2094431
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           151.2094431,
-          -33.7392461
+          -33.7392464
         ]
       }
     },
@@ -23054,7 +23054,7 @@
         "vendor": "woolworths",
         "id": 2514,
         "name": "Woolworths Highfields",
-        "desc": "Highfields QLD 4352",
+        "desc": "Highfields Village Shopping Centre, Highfields QLD 4352",
         "osm": "n1535820882",
         "x": -27.4501392,
         "y": 151.9452052
@@ -23795,7 +23795,7 @@
         "vendor": "woolworths",
         "id": 2570,
         "name": "Woolworths Kawana",
-        "desc": "Sunshine Coast QLD 4575",
+        "desc": "Kawana Shopping World, Sunshine Coast QLD 4575",
         "osm": "n3033914409",
         "x": -26.7038869,
         "y": 153.1307399
@@ -25525,15 +25525,15 @@
         "id": 2680,
         "name": "Woolworths Avoca",
         "desc": "Sugarland Shoppingtown, Bundaberg QLD 4670",
-        "osm": "n1993456954",
-        "x": -24.8880072,
-        "y": 152.3193859
+        "osm": "w1285338811",
+        "x": -24.8880547,
+        "y": 152.3194376
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.3193859,
-          -24.8880072
+          152.3194376,
+          -24.8880547
         ]
       }
     },
@@ -26817,15 +26817,15 @@
         "id": 2867,
         "name": "Woolworths Redbank Plains",
         "desc": "Mountview Shopping Centre, Brisbane QLD 4301",
-        "osm": "w1026016704",
-        "x": -27.664151,
+        "osm": "n11902700355",
+        "x": -27.6640382,
         "y": 152.849626
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           152.849626,
-          -27.664151
+          -27.6640382
         ]
       }
     },
@@ -29970,7 +29970,7 @@
         "vendor": "woolworths",
         "id": 3287,
         "name": "Woolworths Warragul",
-        "desc": "Warragul, Warragul VIC 3820",
+        "desc": "Warragul VIC 3820",
         "osm": "n515973822",
         "x": -38.1600589,
         "y": 145.9306082
@@ -30198,7 +30198,7 @@
         "vendor": "woolworths",
         "id": 3304,
         "name": "Woolworths QV",
-        "desc": "Melbourne VIC 3000",
+        "desc": "QV, Melbourne VIC 3000",
         "osm": "n613996660",
         "x": -37.811152,
         "y": 144.965377
@@ -31017,14 +31017,14 @@
         "name": "Woolworths Mountain Gate",
         "desc": "Mountain Gate Shopping Centre, Melbourne VIC 3156",
         "osm": "w108178136",
-        "x": -37.8837202,
-        "y": 145.2778091
+        "x": -37.883705,
+        "y": 145.2778081
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.2778091,
-          -37.8837202
+          145.2778081,
+          -37.883705
         ]
       }
     },

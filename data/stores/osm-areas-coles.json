@@ -876,7 +876,7 @@
     },
     {
       "id": "w31974923",
-      "x": -35.3204443,
+      "x": -35.3204208,
       "y": 149.1331967,
       "tags": {
         "landuse": "retail",
@@ -1380,7 +1380,9 @@
         "building:levels": "1",
         "name": "Jamison Plaza",
         "roof:levels": "0",
-        "source": "survey"
+        "shop": "mall",
+        "source": "survey",
+        "toilets": "yes"
       }
     },
     {
@@ -1959,8 +1961,8 @@
   "n537535100": [
     {
       "id": "w39382176",
-      "x": -33.7191045,
-      "y": 150.9196665,
+      "x": -33.7190953,
+      "y": 150.9196549,
       "tags": {
         "landuse": "retail",
         "name": "Stanhope Village",
@@ -1973,8 +1975,8 @@
     },
     {
       "id": "w308865700",
-      "x": -33.7190856,
-      "y": 150.9199727,
+      "x": -33.7190813,
+      "y": 150.9199771,
       "tags": {
         "building": "retail"
       }
@@ -3205,8 +3207,8 @@
   "n937919092": [
     {
       "id": "w863166941",
-      "x": -29.4613031,
-      "y": 149.8410383,
+      "x": -29.4613076,
+      "y": 149.8410325,
       "tags": {
         "building": "yes"
       }
@@ -4265,8 +4267,8 @@
   "n1326569197": [
     {
       "id": "w27795123",
-      "x": -35.2384461,
-      "y": 149.0650945,
+      "x": -35.2384408,
+      "y": 149.065096,
       "tags": {
         "brand": "Westfield",
         "brand:wikidata": "Q106623253",
@@ -4288,7 +4290,7 @@
     {
       "id": "w209950611",
       "x": -35.2381495,
-      "y": 149.0650231,
+      "y": 149.0650244,
       "tags": {
         "landuse": "retail",
         "operator:wikipedia": "en:Scentre Group",
@@ -5263,8 +5265,8 @@
   "n1927218913": [
     {
       "id": "w1034543300",
-      "x": -33.914554,
-      "y": 150.9622885,
+      "x": -33.9145707,
+      "y": 150.9623122,
       "tags": {
         "landuse": "retail"
       }
@@ -7064,6 +7066,7 @@
         "building:levels": "3",
         "fixme": "Need to update for new mall in late 2014",
         "internet_access": "no",
+        "layer": "1",
         "name": "Lakeside Joondalup Shopping City",
         "operator": "Lend Lease & Future Fund",
         "shop": "mall",
@@ -8725,6 +8728,7 @@
         "building": "retail",
         "layer": "1",
         "name": "Hinkler Central Shopping Centre",
+        "name:en": "Hinkler Central Shopping Centre",
         "name:vi": "Trung tâm Thương mại Hinkler Central",
         "shop": "mall",
         "website": "https://www.hinklercentral.com.au/"
@@ -9724,6 +9728,14 @@
         "landuse": "retail",
         "name": "Northlands Shopping Centre"
       }
+    },
+    {
+      "id": "w1285589409",
+      "x": -31.87308,
+      "y": 115.8301043,
+      "tags": {
+        "building": "yes"
+      }
     }
   ],
   "n4646407492": [
@@ -9737,8 +9749,8 @@
     },
     {
       "id": "w1279857885",
-      "x": -32.0086909,
-      "y": 115.7617671,
+      "x": -32.0086972,
+      "y": 115.7617706,
       "tags": {
         "building": "retail"
       }
@@ -9912,7 +9924,9 @@
       "tags": {
         "addr:housenumber": "127",
         "addr:postcode": "3037",
+        "addr:state": "VIC",
         "addr:street": "Gourlay Road",
+        "addr:suburb": "Taylors Hill",
         "building": "yes"
       }
     }
@@ -10440,8 +10454,8 @@
   "n5541423621": [
     {
       "id": "w49893917",
-      "x": -24.8908033,
-      "y": 152.3205873,
+      "x": -24.8907909,
+      "y": 152.3205056,
       "tags": {
         "building": "retail",
         "description": "Coles, Liquorland, Reject Shop plus other specialty shops",
@@ -12530,21 +12544,18 @@
   ],
   "n9591744395": [
     {
-      "id": "w527184885",
-      "x": -27.2190245,
-      "y": 153.0984598,
-      "tags": {
-        "building": "retail"
-      }
-    },
-    {
       "id": "r17371581",
-      "x": -27.2188384,
-      "y": 153.0985559,
+      "x": -27.2188353,
+      "y": 153.0985528,
       "tags": {
         "landuse": "retail",
         "name": "Dolphins Central Shopping Centre",
-        "type": "multipolygon"
+        "operator": "Redcliffe District Rugby League Football Club Inc",
+        "phone": "+61 7 3203 7333",
+        "shop": "mall",
+        "type": "multipolygon",
+        "website": "https://dolphinscentral.com.au/",
+        "wheelchair": "yes"
       }
     }
   ],
@@ -13103,6 +13114,7 @@
       "y": 115.7789613,
       "tags": {
         "building": "yes",
+        "layer": "2",
         "max_level": "2",
         "min_level": "-2",
         "name": "Karrinyup Shopping Centre",
@@ -14254,8 +14266,8 @@
   "n11834430075": [
     {
       "id": "w133415280",
-      "x": -31.9034414,
-      "y": 115.9535942,
+      "x": -31.9034419,
+      "y": 115.9536053,
       "tags": {
         "landuse": "retail"
       }
@@ -14343,6 +14355,7 @@
         "opening_date": "2024-05-03",
         "operator": "CBRE",
         "shop": "mall",
+        "start_date": "2024-05-03",
         "website": "https://paradisegardenshoppingvillage.com.au/"
       }
     },
@@ -14764,8 +14777,8 @@
   "w51469747": [
     {
       "id": "w51469747",
-      "x": -36.7612667,
-      "y": 144.282664,
+      "x": -36.7612656,
+      "y": 144.2826566,
       "tags": {
         "addr:city": "Bendigo",
         "addr:country": "AU",
@@ -14948,7 +14961,7 @@
     {
       "id": "w24853578",
       "x": -37.8838805,
-      "y": 145.2758482,
+      "y": 145.2758475,
       "tags": {
         "landuse": "retail",
         "name": "Mountain Gate Shopping Centre",
@@ -15856,6 +15869,8 @@
         "brand:wikipedia": "en:Coles Supermarkets",
         "building": "commercial",
         "name": "Coles",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
         "shop": "supermarket"
       }
     },
@@ -15942,7 +15957,7 @@
   "w220228589": [
     {
       "id": "w150117356",
-      "x": -37.5997397,
+      "x": -37.5997373,
       "y": 143.8401237,
       "tags": {
         "landuse": "retail"
@@ -15950,8 +15965,8 @@
     },
     {
       "id": "w220228589",
-      "x": -37.5997372,
-      "y": 143.839856,
+      "x": -37.5997464,
+      "y": 143.8398507,
       "tags": {
         "addr:housenumber": "216",
         "addr:street": "Albert Street",
@@ -18371,13 +18386,14 @@
         "addr:street": "Wiluna Street",
         "addr:suburb": "Yokine",
         "building": "yes",
-        "check_date": "2022-01-19",
+        "check_date": "2024-05-20",
         "level": "0",
         "name": "Flinders Square",
         "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
         "operator": "Cygnet West",
         "shop": "mall",
         "source": "microsoft/BuildingFootprints;https://flinderssquare.com.au/contact/;https://flinderssquare.com.au/wp-content/uploads/2018/12/flinders-square-map-for-website.png;Esri",
+        "toilets": "yes",
         "website": "https://flinderssquare.com.au"
       }
     }

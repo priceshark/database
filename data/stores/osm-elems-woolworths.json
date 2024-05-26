@@ -948,7 +948,8 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "name": "Woolworths",
-      "operator": "Woolworths Limited",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/Shop/StoreLocator/ACT-Charnwood-1358",
       "wheelchair": "yes"
@@ -1343,6 +1344,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -3411,8 +3414,8 @@
   },
   "n1326569195": {
     "id": "n1326569195",
-    "x": -35.2384558,
-    "y": 149.0650481,
+    "x": -35.2386398,
+    "y": 149.0652292,
     "tags": {
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
@@ -4675,6 +4678,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -4787,19 +4792,6 @@
       "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "source": "Survey"
-    }
-  },
-  "n1993456954": {
-    "id": "n1993456954",
-    "x": -24.8880072,
-    "y": 152.3193859,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "brand:wikipedia": "en:Woolworths Supermarkets",
-      "name": "Woolworths",
-      "shop": "supermarket",
-      "source": "Local knowledge"
     }
   },
   "n1994975943": {
@@ -4951,6 +4943,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -6021,6 +6015,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -7557,6 +7553,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -7724,6 +7722,8 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "phone": "+61 8 6141 9936",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/",
@@ -8937,6 +8937,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -9887,7 +9889,7 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
-      "check_date:opening_hours": "2023-03-31",
+      "check_date:opening_hours": "2024-05-21",
       "name": "Woolworths",
       "opening_hours": "Mo-Su 07:00-23:00",
       "operator": "Woolworths Group",
@@ -11366,6 +11368,8 @@
       "brand:wikidata": "Q3249145",
       "check_date": "2022-08-18",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -12896,6 +12900,27 @@
       "source": "https://www.granvilleplaceshopping.com.au/directory/"
     }
   },
+  "n11902700355": {
+    "id": "n11902700355",
+    "x": -27.6640382,
+    "y": 152.849626,
+    "tags": {
+      "addr:housenumber": "171-191",
+      "addr:postcode": "4301",
+      "addr:state": "QLD",
+      "addr:street": "School Road",
+      "addr:suburb": "Redbank Plains",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "brand:wikipedia": "en:Woolworths Supermarkets",
+      "construction": "yes",
+      "name": "Woolworths",
+      "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
   "r9389462": {
     "id": "r9389462",
     "x": -35.1944256,
@@ -13289,6 +13314,8 @@
       "building": "yes",
       "building:levels": "1",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "roof:levels": "0",
       "shop": "supermarket"
     }
@@ -13805,9 +13832,15 @@
   },
   "w108178136": {
     "id": "w108178136",
-    "x": -37.8837202,
-    "y": 145.2778091,
+    "x": -37.883705,
+    "y": 145.2778081,
     "tags": {
+      "addr:housenumber": "854",
+      "addr:postcode": "3156",
+      "addr:state": "VIC",
+      "addr:street": "Burwood Highway",
+      "addr:suburb": "Ferntree Gully",
+      "addr:unit": "8",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
@@ -13815,6 +13848,8 @@
       "full_name": "Woolworths Mountain Gate",
       "name": "Woolworths",
       "opening_hours": "Mo-Su 06:00-23:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "phone": "+61 3 8756 2440",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au"
@@ -16876,22 +16911,6 @@
       "website": "https://www.woolworths.com.au/"
     }
   },
-  "w1026016704": {
-    "id": "w1026016704",
-    "x": -27.664151,
-    "y": 152.849626,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "brand:wikipedia": "en:Woolworths Supermarkets",
-      "building": "yes",
-      "construction": "yes",
-      "name": "Woolworths",
-      "operator": "Woolworths Group",
-      "operator:wikidata": "Q607272",
-      "shop": "supermarket"
-    }
-  },
   "w1032476081": {
     "id": "w1032476081",
     "x": -29.7714874,
@@ -16923,7 +16942,10 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "building": "retail",
+      "check_date": "2024-05-19",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -17156,6 +17178,7 @@
       "indoor": "room",
       "level": "0",
       "name": "Woolworths",
+      "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-18:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
@@ -17276,7 +17299,7 @@
   },
   "w1275123571": {
     "id": "w1275123571",
-    "x": -33.7392461,
+    "x": -33.7392464,
     "y": 151.2094431,
     "tags": {
       "brand": "Woolworths",
@@ -17314,6 +17337,36 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "building": "yes",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "w1285338811": {
+    "id": "w1285338811",
+    "x": -24.8880547,
+    "y": 152.3194376,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "brand:wikipedia": "en:Woolworths Supermarkets",
+      "building": "yes",
+      "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket",
+      "source": "Local knowledge"
+    }
+  },
+  "w1286477901": {
+    "id": "w1286477901",
+    "x": -35.2386869,
+    "y": 149.0652693,
+    "tags": {
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "level": "1",
       "name": "Woolworths",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",

@@ -5914,6 +5914,13 @@
     "postcode": "2142",
     "state": "NSW"
   },
+  "n11902700355": {
+    "latitude": -27.66365494,
+    "longitude": 152.84958145,
+    "locality": "REDBANK PLAINS",
+    "postcode": "4301",
+    "state": "QLD"
+  },
   "r9389462": {
     "latitude": -35.19466084,
     "longitude": 149.0195266,
@@ -7656,5 +7663,19 @@
     "locality": "LOGAN RESERVE",
     "postcode": "4133",
     "state": "QLD"
+  },
+  "w1285338811": {
+    "latitude": -24.88760885,
+    "longitude": 152.31999144,
+    "locality": "AVOCA",
+    "postcode": "4670",
+    "state": "QLD"
+  },
+  "w1286477901": {
+    "latitude": -35.23969935,
+    "longitude": 149.06506147,
+    "locality": "BELCONNEN",
+    "postcode": "2617",
+    "state": "ACT"
   }
 }
