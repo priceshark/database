@@ -1197,6 +1197,8 @@
       "diet:kosher": "yes",
       "name": "Woolworths",
       "opening_hours": "Mo-Fr 07:00-23:00; Sa,Su 08:00-23:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "toilets:wheelchair": "no",
       "website": "https://www.woolworths.com.au/",
@@ -3286,15 +3288,16 @@
   },
   "n1292972857": {
     "id": "n1292972857",
-    "x": -17.5250451,
-    "y": 146.0311589,
+    "x": -17.5250582,
+    "y": 146.030989,
     "tags": {
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
       "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 09:00-18:00",
-      "operator": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "payment:cash": "yes",
       "payment:credit_cards": "yes",
       "payment:debit_cards": "yes",
@@ -3410,23 +3413,6 @@
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
       "shop": "supermarket"
-    }
-  },
-  "n1326569195": {
-    "id": "n1326569195",
-    "x": -35.2386398,
-    "y": 149.0652292,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "brand:wikipedia": "en:Woolworths Supermarkets",
-      "level": "1",
-      "name": "Woolworths",
-      "operator": "Woolworths Group",
-      "operator:wikidata": "Q607272",
-      "shop": "supermarket",
-      "website": "https://www.woolworths.com.au/",
-      "wheelchair": "yes"
     }
   },
   "n1329153398": {
@@ -4007,7 +3993,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
-      "operator": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -5239,6 +5226,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -5252,6 +5241,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -5463,20 +5454,6 @@
       "wheelchair": "yes"
     }
   },
-  "n2262273116": {
-    "id": "n2262273116",
-    "x": -37.9009861,
-    "y": 145.1437631,
-    "tags": {
-      "brand": "Woolworths",
-      "brand:wikidata": "Q3249145",
-      "brand:wikipedia": "en:Woolworths Supermarkets",
-      "name": "Woolworths MetroGo",
-      "shop": "convenience",
-      "source": "survey",
-      "website": "https://www.woolworths.com.au/shop/discover/metro-petrol"
-    }
-  },
   "n2267893632": {
     "id": "n2267893632",
     "x": -33.6957119,
@@ -5499,6 +5476,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -5921,6 +5900,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -5986,8 +5967,8 @@
   },
   "n2579023535": {
     "id": "n2579023535",
-    "x": -33.7922012,
-    "y": 151.0817153,
+    "x": -33.7921756,
+    "y": 151.08149,
     "tags": {
       "branch": "Eastwood",
       "brand": "Woolworths",
@@ -8353,6 +8334,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -8743,6 +8726,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket",
       "website": "https://www.woolworths.com.au/"
     }
@@ -9490,10 +9475,7 @@
     "y": 150.7920619,
     "tags": {
       "addr:housenumber": "5",
-      "addr:postcode": "2179",
-      "addr:state": "NSW",
       "addr:street": "Emerald Hills Boulevarde",
-      "addr:suburb": "Emerald Hills",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
@@ -9940,6 +9922,8 @@
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -11327,6 +11311,8 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "name": "Woolworths",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
       "shop": "supermarket"
     }
   },
@@ -11518,8 +11504,8 @@
   },
   "n10246046158": {
     "id": "n10246046158",
-    "x": -27.6700768,
-    "y": 153.1916888,
+    "x": -27.6702677,
+    "y": 153.1915962,
     "tags": {
       "branch": "Cornubia",
       "brand": "Woolworths",
@@ -12507,12 +12493,19 @@
     "x": -31.8903639,
     "y": 116.0023163,
     "tags": {
+      "addr:housenumber": "309",
+      "addr:postcode": "6056",
+      "addr:street": "Great Eastern Highway",
+      "branch": "Midland Centrepoint",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "name": "Woolworths",
+      "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00; Su 11:00-17:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
-      "shop": "supermarket"
+      "phone": "+61 8 6318 9951",
+      "shop": "supermarket",
+      "website": "http://Woolworths.com.au"
     }
   },
   "n11861673561": {
@@ -12559,12 +12552,16 @@
     "x": -27.612026,
     "y": 153.3019811,
     "tags": {
+      "addr:housenumber": "133",
+      "addr:street": "Broadwater Terrace",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "level": "1",
       "name": "Woolworths",
+      "opening_hours": "Su 09:00-18:00; Mo-Sa 07:00-21:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
+      "phone": "+617 3383 4122",
       "shop": "supermarket"
     }
   },
@@ -12916,6 +12913,23 @@
       "construction": "yes",
       "name": "Woolworths",
       "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
+      "operator": "Woolworths Group",
+      "operator:wikidata": "Q607272",
+      "shop": "supermarket"
+    }
+  },
+  "n11938341369": {
+    "id": "n11938341369",
+    "x": -35.238527,
+    "y": 149.0652841,
+    "tags": {
+      "addr:street": "Benjamin Way",
+      "brand": "Woolworths",
+      "brand:wikidata": "Q3249145",
+      "level": "1",
+      "level:ref": "2",
+      "name": "Woolworths",
+      "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
@@ -14279,9 +14293,10 @@
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "brand:wikipedia": "en:Woolworths Supermarkets",
-      "building": "yes",
+      "building": "retail",
       "building:levels": "3",
       "name": "Woolworths",
+      "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
       "shop": "supermarket"
@@ -17361,16 +17376,20 @@
   },
   "w1286477901": {
     "id": "w1286477901",
-    "x": -35.2386869,
-    "y": 149.0652693,
+    "x": -35.2386968,
+    "y": 149.0652715,
     "tags": {
+      "addr:street": "Benjamin Way",
       "brand": "Woolworths",
       "brand:wikidata": "Q3249145",
       "level": "1",
+      "level:ref": "2",
       "name": "Woolworths",
+      "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
       "operator": "Woolworths Group",
       "operator:wikidata": "Q607272",
-      "shop": "supermarket"
+      "shop": "supermarket",
+      "wheelchair": "yes"
     }
   }
 }

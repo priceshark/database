@@ -213,8 +213,8 @@
   "n207331854": [
     {
       "id": "w19234830",
-      "x": -33.8746201,
-      "y": 151.1058861,
+      "x": -33.8746182,
+      "y": 151.1059022,
       "tags": {
         "branch": "Burwood",
         "brand": "Westfield",
@@ -232,6 +232,14 @@
         "website": "https://www.westfield.com.au/burwood/",
         "wikidata": "Q7988650",
         "wikipedia": "en:Westfield Burwood"
+      }
+    },
+    {
+      "id": "w783620852",
+      "x": -33.8753892,
+      "y": 151.1053398,
+      "tags": {
+        "landuse": "retail"
       }
     }
   ],
@@ -974,7 +982,7 @@
     {
       "id": "w683846477",
       "x": -38.1417972,
-      "y": 145.1239964,
+      "y": 145.1239966,
       "tags": {
         "addr:housenumber": "28",
         "addr:street": "Beach Street",
@@ -1374,7 +1382,7 @@
     {
       "id": "w37726153",
       "x": -35.2527358,
-      "y": 149.0714281,
+      "y": 149.0714282,
       "tags": {
         "building": "retail",
         "building:levels": "1",
@@ -1400,8 +1408,8 @@
   "n441991395": [
     {
       "id": "w338794431",
-      "x": -37.8257067,
-      "y": 144.9947921,
+      "x": -37.8257324,
+      "y": 144.9947897,
       "tags": {
         "building": "yes"
       }
@@ -2716,7 +2724,7 @@
       "tags": {
         "addr:housenumber": "180",
         "addr:street": "Fairfield Road",
-        "building": "yes",
+        "building": "retail",
         "name": "Fairfield Gardens",
         "source": "survey"
       }
@@ -2808,10 +2816,7 @@
       "y": 151.1540642,
       "tags": {
         "addr:housenumber": "36-42",
-        "addr:postcode": "2216",
-        "addr:state": "NSW",
         "addr:street": "Princess Street",
-        "addr:suburb": "Brighton-le-Sands",
         "building": "apartments",
         "building:levels": "12",
         "name": "Oceanview Apartments"
@@ -2995,7 +3000,7 @@
       "x": -34.8753483,
       "y": 138.601092,
       "tags": {
-        "building": "commercial",
+        "building": "retail",
         "name": "Northpark Shopping Centre"
       }
     },
@@ -3255,7 +3260,7 @@
         "addr:street": "Police Road",
         "landuse": "retail",
         "name": "Waverley Gardens Shopping Centre",
-        "opening_hours": "Mo-We 09:00-17:30; Th-Fr 09:00-19:00; Sa 09:00-17:00; Su 10:00-16:00",
+        "opening_hours": "Mo-We 09:00-17:30; Th,Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
         "phone": "+61 3 9547 6088",
         "shop": "mall",
         "toilets": "yes",
@@ -3497,7 +3502,7 @@
     },
     {
       "id": "w251440232",
-      "x": -42.7350657,
+      "x": -42.7350458,
       "y": 147.2429065,
       "tags": {
         "landuse": "retail",
@@ -4139,6 +4144,15 @@
         "building": "yes",
         "source": "Bing"
       }
+    },
+    {
+      "id": "w576286465",
+      "x": -17.5255036,
+      "y": 146.0296723,
+      "tags": {
+        "landuse": "retail",
+        "name": "Innisfail"
+      }
     }
   ],
   "n1301802142": [
@@ -4267,14 +4281,17 @@
   "n1326569197": [
     {
       "id": "w27795123",
-      "x": -35.2384408,
-      "y": 149.065096,
+      "x": -35.2384365,
+      "y": 149.0650986,
       "tags": {
+        "addr:street": "Benjamin Way",
         "brand": "Westfield",
         "brand:wikidata": "Q106623253",
         "building": "retail",
         "building:levels": "3",
+        "layer": "1",
         "name": "Westfield",
+        "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
         "operator": "Scentre Group",
         "operator:wikidata": "Q18378048",
         "roof:colour": "#628852",
@@ -4290,7 +4307,7 @@
     {
       "id": "w209950611",
       "x": -35.2381495,
-      "y": 149.0650244,
+      "y": 149.0650283,
       "tags": {
         "landuse": "retail",
         "operator:wikipedia": "en:Scentre Group",
@@ -4854,8 +4871,8 @@
   "n1635115034": [
     {
       "id": "w150613627",
-      "x": -21.1189114,
-      "y": 149.1592789,
+      "x": -21.1188534,
+      "y": 149.1592296,
       "tags": {
         "building": "yes",
         "shop": "mall"
@@ -4955,8 +4972,8 @@
     },
     {
       "id": "w214724377",
-      "x": -21.1384067,
-      "y": 149.1780801,
+      "x": -21.1382981,
+      "y": 149.1780943,
       "tags": {
         "landuse": "retail",
         "name": "Canelands Central",
@@ -5096,8 +5113,8 @@
     },
     {
       "id": "w266761433",
-      "x": -37.7592658,
-      "y": 144.7538958,
+      "x": -37.759267,
+      "y": 144.7538803,
       "tags": {
         "landuse": "retail",
         "name": "Burnside Shopping Centre",
@@ -5188,7 +5205,7 @@
     },
     {
       "id": "w779049911",
-      "x": -33.8863964,
+      "x": -33.8863899,
       "y": 151.1584673,
       "tags": {
         "landuse": "retail"
@@ -6527,8 +6544,8 @@
     },
     {
       "id": "w294143592",
-      "x": -36.049768,
-      "y": 146.9328719,
+      "x": -36.0497696,
+      "y": 146.9329021,
       "tags": {
         "building": "yes"
       }
@@ -7210,8 +7227,8 @@
   "n2624345614": [
     {
       "id": "w23337046",
-      "x": -33.916022,
-      "y": 151.0385396,
+      "x": -33.9160014,
+      "y": 151.0385392,
       "tags": {
         "landuse": "retail",
         "name": "Bankstown Central",
@@ -7224,10 +7241,11 @@
     {
       "id": "w23632108",
       "x": -33.9161153,
-      "y": 151.0377442,
+      "y": 151.0377437,
       "tags": {
         "building": "retail",
         "building:levels": "1",
+        "layer": "1",
         "name": "Bankstown Central"
       }
     }
@@ -7554,8 +7572,8 @@
     },
     {
       "id": "w237757494",
-      "x": -36.0813499,
-      "y": 146.9171068,
+      "x": -36.0813432,
+      "y": 146.9171293,
       "tags": {
         "landuse": "retail"
       }
@@ -8349,8 +8367,8 @@
   "n3370051198": [
     {
       "id": "w289370965",
-      "x": -38.0233547,
-      "y": 144.4100026,
+      "x": -38.023354,
+      "y": 144.4100044,
       "tags": {
         "contact:facebook": "https://facebook.com/LaraVillage",
         "landuse": "retail",
@@ -9087,8 +9105,8 @@
     },
     {
       "id": "w390139176",
-      "x": -33.3187498,
-      "y": 115.7166123,
+      "x": -33.3182454,
+      "y": 115.71693,
       "tags": {
         "landuse": "retail",
         "name": "Eaton Fair Shopping Centre",
@@ -9283,21 +9301,7 @@
       }
     }
   ],
-  "n4191521425": [
-    {
-      "id": "w343223054",
-      "x": -29.6916584,
-      "y": 152.936212,
-      "tags": {
-        "building": "retail",
-        "landuse": "retail",
-        "name": "Grafton Shoppingworld",
-        "shop": "mall",
-        "source": "Bing",
-        "website": "https://www.graftonshoppingworld.com.au"
-      }
-    }
-  ],
+  "n4191521425": [],
   "n4200853794": [
     {
       "id": "w310930596",
@@ -9533,10 +9537,7 @@
       "y": 150.8388907,
       "tags": {
         "addr:housenumber": "211",
-        "addr:postcode": "2529",
-        "addr:state": "NSW",
         "addr:street": "Lake Entrance Road",
-        "addr:suburb": "Shellharbour",
         "air_conditioning": "yes",
         "building": "retail",
         "internet_access": "wlan",
@@ -9947,7 +9948,8 @@
       "y": 138.5818576,
       "tags": {
         "landuse": "retail",
-        "name": "Churchill Centre"
+        "name": "Churchill Centre",
+        "website": "https://churchillcentre.com.au/"
       }
     }
   ],
@@ -10039,6 +10041,14 @@
         "building": "retail",
         "name": "The Clarendon Centre",
         "website": "https://www.clarendoncentre.com.au/"
+      }
+    },
+    {
+      "id": "w1287292700",
+      "x": -37.8319396,
+      "y": 144.9609401,
+      "tags": {
+        "building": "yes"
       }
     }
   ],
@@ -10631,12 +10641,21 @@
   "n5834618561": [
     {
       "id": "w193310558",
-      "x": -21.1583174,
-      "y": 149.1691636,
+      "x": -21.1581507,
+      "y": 149.1695621,
       "tags": {
         "landuse": "retail",
         "name": "Parkside Plaza",
         "source": "Bing"
+      }
+    },
+    {
+      "id": "w1293549525",
+      "x": -21.1583464,
+      "y": 149.1691529,
+      "tags": {
+        "building": "retail",
+        "layer": "1"
       }
     }
   ],
@@ -11132,7 +11151,7 @@
     {
       "id": "w14362973",
       "x": -33.8173683,
-      "y": 151.0000534,
+      "y": 151.0000583,
       "tags": {
         "brand": "Westfield",
         "brand:wikidata": "Q106623253",
@@ -11158,17 +11177,22 @@
   "n6810402627": [
     {
       "id": "w558177923",
-      "x": -27.5777805,
-      "y": 153.113553,
+      "x": -27.5777852,
+      "y": 153.113588,
       "tags": {
+        "addr:postcode": "4123",
+        "addr:state": "QLD",
+        "addr:suburb": "Rochedale",
+        "contact:facebook": "https://www.facebook.com/RochedaleVillage",
         "landuse": "retail",
-        "name": "Rochedale Village"
+        "name": "Rochedale Village",
+        "website": "https://rochedalevillage.com.au/"
       }
     },
     {
       "id": "w727469246",
-      "x": -27.5772806,
-      "y": 153.1134575,
+      "x": -27.5772649,
+      "y": 153.1134475,
       "tags": {
         "building": "retail"
       }
@@ -12102,29 +12126,6 @@
       }
     }
   ],
-  "n8985718735": [
-    {
-      "id": "w306611197",
-      "x": -38.1737934,
-      "y": 144.5726341,
-      "tags": {
-        "landuse": "retail"
-      }
-    },
-    {
-      "id": "w970895620",
-      "x": -38.1741393,
-      "y": 144.5729458,
-      "tags": {
-        "addr:housenumber": "24-32",
-        "addr:postcode": "3222",
-        "addr:state": "VIC",
-        "addr:street": "Murradoc Road",
-        "addr:suburb": "Drysdale",
-        "building": "retail"
-      }
-    }
-  ],
   "n9196226962": [
     {
       "id": "w35539327",
@@ -12430,10 +12431,7 @@
       "x": -33.8586943,
       "y": 150.8984667,
       "tags": {
-        "addr:city": "Wetherill Park",
         "addr:housenumber": "561-583",
-        "addr:postcode": "2164",
-        "addr:state": "NSW",
         "addr:street": "Polding Street",
         "building": "retail"
       }
@@ -12738,6 +12736,11 @@
       "x": -42.8880142,
       "y": 147.4274582,
       "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "7018",
+        "addr:state": "TAS",
+        "addr:street": "Commerce Drive",
+        "addr:suburb": "Howrah",
         "building": "retail",
         "building:levels": "1",
         "name": "Glebe Hill Village",
@@ -13178,7 +13181,7 @@
   "n11306738954": [
     {
       "id": "w27945147",
-      "x": -27.4571151,
+      "x": -27.4571181,
       "y": 153.1551875,
       "tags": {
         "area": "yes",
@@ -13204,8 +13207,8 @@
   "n11337142525": [
     {
       "id": "w51677506",
-      "x": -35.2499809,
-      "y": 149.1380634,
+      "x": -35.2499442,
+      "y": 149.1380752,
       "tags": {
         "landuse": "retail",
         "name": "Dickson Shops"
@@ -13213,8 +13216,8 @@
     },
     {
       "id": "w1222397180",
-      "x": -35.249198,
-      "y": 149.1387416,
+      "x": -35.2492029,
+      "y": 149.1387429,
       "tags": {
         "building": "yes",
         "name": "Dickson Village"
@@ -14275,7 +14278,7 @@
     {
       "id": "w139569702",
       "x": -31.9033331,
-      "y": 115.9534977,
+      "y": 115.9535026,
       "tags": {
         "building": "yes",
         "name": "Hawaiian's Bassendean",
@@ -14365,6 +14368,22 @@
       "y": 153.2496496,
       "tags": {
         "landuse": "retail"
+      }
+    }
+  ],
+  "n11949677935": [
+    {
+      "id": "w329099945",
+      "x": -37.816915,
+      "y": 144.8815249,
+      "tags": {
+        "addr:country": "AU",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "3013",
+        "addr:state": "VIC",
+        "addr:street": "High Street",
+        "addr:suburb": "Yarraville",
+        "building": "retail"
       }
     }
   ],
@@ -14596,7 +14615,7 @@
         "phone": "+61 7 3368 4999",
         "shop": "mall",
         "toilets:wheelchair": "yes",
-        "website": "http://thebarracks.info/",
+        "website": "https://thebarracks.info/",
         "wheelchair": "yes",
         "wheelchair:description": "Disabled parking spots on every level near lifts - parking bays closed in. Spacious path of travel - but limited during busy peak hour and game times. Accessible toilet doubles as a parent's change room - door width 755mm. Accessible cafe: French Twist"
       }
@@ -15620,7 +15639,7 @@
     {
       "id": "w1122018662",
       "x": -34.0334791,
-      "y": 151.0574223,
+      "y": 151.057449,
       "tags": {
         "landuse": "retail"
       }
@@ -16433,26 +16452,6 @@
       }
     }
   ],
-  "w329099952": [
-    {
-      "id": "w329099952",
-      "x": -37.8168699,
-      "y": 144.8810707,
-      "tags": {
-        "addr:housenumber": "1-3",
-        "addr:street": "High Street",
-        "brand": "Coles",
-        "brand:wikidata": "Q1108172",
-        "brand:wikipedia": "en:Coles Supermarkets",
-        "building": "yes",
-        "name": "Coles",
-        "opening_hours": "Mo-Su 06:00-23:00",
-        "operator": "Coles Group",
-        "operator:wikidata": "Q1339055",
-        "shop": "supermarket"
-      }
-    }
-  ],
   "w331636781": [
     {
       "id": "w331636781",
@@ -16858,8 +16857,8 @@
     },
     {
       "id": "w466537834",
-      "x": -37.6295501,
-      "y": 145.0791498,
+      "x": -37.6295475,
+      "y": 145.0791552,
       "tags": {
         "landuse": "retail"
       }
@@ -17586,7 +17585,7 @@
     {
       "id": "w655517547",
       "x": -32.5355706,
-      "y": 115.7423063,
+      "y": 115.7423036,
       "tags": {
         "brand": "Vicinity Centres",
         "brand:wikidata": "Q1054327",
@@ -18053,6 +18052,38 @@
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
         "phone": "+61 8 9587 5900",
+        "shop": "supermarket"
+      }
+    }
+  ],
+  "w970895620": [
+    {
+      "id": "w306611197",
+      "x": -38.1738045,
+      "y": 144.5725295,
+      "tags": {
+        "landuse": "retail"
+      }
+    },
+    {
+      "id": "w970895620",
+      "x": -38.1741672,
+      "y": 144.5729228,
+      "tags": {
+        "addr:housenumber": "24-32",
+        "addr:postcode": "3222",
+        "addr:state": "VIC",
+        "addr:street": "Murradoc Road",
+        "addr:suburb": "Drysdale",
+        "branch": "Drysdale",
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "building": "retail",
+        "name": "Coles Drysdale",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "operator": "Coles Group",
+        "operator:wikidata": "Q1339055",
+        "phone": "+61 3 5216 3500",
         "shop": "supermarket"
       }
     }
@@ -18563,10 +18594,12 @@
         "brand": "Coles Local",
         "brand:wikidata": "Q104850818",
         "building": "retail",
+        "building:levels": "2",
         "name": "Coles Local",
         "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
         "operator": "Coles Group",
         "operator:wikidata": "Q1339055",
+        "roof:levels": "0",
         "shop": "supermarket",
         "wheelchair": "yes"
       }

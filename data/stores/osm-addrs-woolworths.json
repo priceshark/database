@@ -66,10 +66,9 @@
     "city": "Toowoomba",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "11",
     "municipality": "Toowoomba Regional",
     "postcode": "4250",
-    "road": "James Street",
+    "road": "Rangewood Lane",
     "shop": "Woolworths",
     "state": "Queensland",
     "suburb": "East Toowoomba"
@@ -355,9 +354,11 @@
     "city": "Melbourne",
     "country": "Australia",
     "country_code": "au",
+    "house_number": "368-384",
     "municipality": "City of Melbourne",
+    "neighbourhood": "Little Italy",
     "postcode": "3053",
-    "road": "Welch Place",
+    "road": "Lygon Street",
     "shop": "Woolworths",
     "state": "Victoria",
     "suburb": "Carlton"
@@ -443,10 +444,9 @@
     "city": "Melbourne",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "190",
     "municipality": "City of Monash",
     "postcode": "3170",
-    "road": "Jells Road",
+    "road": "Oak Terrace",
     "shop": "Woolworths",
     "state": "Victoria",
     "suburb": "Wheelers Hill"
@@ -964,6 +964,7 @@
   },
   "n515973822": {
     "ISO3166-2-lvl4": "AU-VIC",
+    "city": "Warragul",
     "country": "Australia",
     "country_code": "au",
     "municipality": "Shire of Baw Baw",
@@ -1579,7 +1580,6 @@
   },
   "n692509445": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -1951,7 +1951,6 @@
   },
   "n836018813": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -2545,12 +2544,12 @@
   "n1292972857": {
     "ISO3166-2-lvl4": "AU-QLD",
     "city_district": "Innisfail",
-    "commercial": "Innisfail",
     "country": "Australia",
     "country_code": "au",
     "municipality": "Cassowary Coast Regional",
     "postcode": "4860",
-    "road": "Rankin Street",
+    "retail": "Innisfail",
+    "road": "McGowan Drive",
     "shop": "Woolworths",
     "state": "Queensland",
     "town": "Innisfail"
@@ -2630,7 +2629,6 @@
   },
   "n1314982824": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -3492,7 +3490,7 @@
     "country_code": "au",
     "municipality": "Penrith City Council",
     "postcode": "2760",
-    "road": "Great Western Highway",
+    "road": "Charles Hackett Drive",
     "shop": "Woolworths",
     "state": "New South Wales",
     "suburb": "St Marys"
@@ -3510,7 +3508,6 @@
   },
   "n1894625634": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -3690,7 +3687,6 @@
   },
   "n1974473596": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -3829,6 +3825,7 @@
     "city": "Adelaide",
     "country": "Australia",
     "country_code": "au",
+    "house_number": "10",
     "municipality": "The City of Norwood Payneham and St Peters",
     "postcode": "5070",
     "road": "Lower Portrush Road",
@@ -3876,9 +3873,10 @@
     "ISO3166-2-lvl4": "AU-VIC",
     "country": "Australia",
     "country_code": "au",
+    "house_number": "81-91",
     "municipality": "Shire of Southern Grampians",
     "postcode": "3300",
-    "road": "McLuckies Lane",
+    "road": "French Street",
     "shop": "Woolworths",
     "state": "Victoria",
     "town": "Hamilton"
@@ -3972,10 +3970,8 @@
     "city_district": "Fernvale",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "1455",
     "municipality": "Somerset Regional",
-    "postcode": "4306",
-    "road": "Brisbane Valley Highway",
+    "road": "Brisbane Valley Rail Trail",
     "shop": "Woolworths",
     "state": "Queensland",
     "town": "Fernvale"
@@ -3999,10 +3995,9 @@
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "12",
     "municipality": "Northern Beaches Council",
     "postcode": "2101",
-    "road": "Lagoon Street",
+    "road": "Wellington Street",
     "shop": "Woolworths",
     "state": "New South Wales",
     "suburb": "Narrabeen"
@@ -4147,7 +4142,7 @@
     "country": "Australia",
     "country_code": "au",
     "municipality": "City of Canning",
-    "postcode": "6106",
+    "postcode": "6107",
     "road": "Grose Avenue",
     "shop": "Woolworths",
     "state": "Western Australia",
@@ -4287,9 +4282,10 @@
     "city_district": "Bendigo",
     "country": "Australia",
     "country_code": "au",
+    "house_number": "116 – 120",
     "municipality": "City of Greater Bendigo",
     "postcode": "3550",
-    "road": "Railway Place",
+    "road": "Mitchell Street",
     "shop": "Woolworths",
     "state": "Victoria"
   },
@@ -4981,6 +4977,7 @@
     "country": "Australia",
     "country_code": "au",
     "municipality": "City of Boroondara",
+    "neighbourhood": "Glenferrie",
     "postcode": "3122",
     "road": "Wakefield Street",
     "shop": "Woolworths",
@@ -6182,7 +6179,6 @@
     "country": "Australia",
     "country_code": "au",
     "municipality": "Council of the City of Sydney",
-    "neighbourhood": "Chinatown",
     "postcode": "2000",
     "road": "Ultimo Road",
     "shop": "Woolworths",
@@ -6205,10 +6201,9 @@
     "ISO3166-2-lvl4": "AU-QLD",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "51-67",
     "municipality": "Maranoa Regional",
     "postcode": "4455",
-    "road": "Wyndham Street",
+    "road": "Arthur Street",
     "shop": "Woolworths",
     "state": "Queensland",
     "town": "Roma"
@@ -6701,10 +6696,9 @@
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "11",
     "municipality": "Strathfield Municipal Council",
     "postcode": "2135",
-    "road": "The Boulevarde",
+    "road": "Churchill Avenue",
     "shop": "Woolworths",
     "state": "New South Wales",
     "suburb": "Strathfield"
@@ -6722,7 +6716,6 @@
   },
   "n4571153170": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -6928,7 +6921,6 @@
   },
   "n4954092952": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -7092,10 +7084,9 @@
     "city": "Adelaide",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "575",
     "municipality": "City of Port Adelaide Enfield",
     "postcode": "5086",
-    "road": "North East Road",
+    "road": "Milbank Avenue",
     "shop": "Woolworths",
     "state": "South Australia",
     "suburb": "Gilles Plains"
@@ -7265,10 +7256,9 @@
     "city": "Melbourne",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "600",
     "municipality": "City of Melbourne",
     "postcode": "3000",
-    "road": "Bourke Street",
+    "road": "Bourke Place",
     "shop": "Woolworths Metro",
     "state": "Victoria",
     "suburb": "Melbourne"
@@ -7695,7 +7685,6 @@
   },
   "n6467452446": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -8085,7 +8074,6 @@
     "city_district": "Ormeau",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "19-21",
     "postcode": "4208",
     "road": "Peachey Road",
     "shop": "Woolworths",
@@ -8861,7 +8849,6 @@
     "city": "Melbourne",
     "country": "Australia",
     "country_code": "au",
-    "house_number": "2-28",
     "municipality": "City of Melbourne",
     "postcode": "3006",
     "road": "Hoff Boulevard",
@@ -9037,9 +9024,10 @@
     "country_code": "au",
     "district": "Greater Brisbane",
     "postcode": "4129",
-    "road": "Bryants Road",
+    "road": "Beenleigh-Redland Bay Road",
     "shop": "Woolworths",
-    "state": "Queensland"
+    "state": "Queensland",
+    "suburb": "Loganholme"
   },
   "n10277506889": {
     "ISO3166-2-lvl4": "AU-VIC",
@@ -9673,7 +9661,6 @@
   },
   "n11834403438": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -9867,6 +9854,7 @@
     "ISO3166-2-lvl4": "AU-WA",
     "country": "Australia",
     "country_code": "au",
+    "house_number": "309",
     "municipality": "City of Swan",
     "postcode": "6056",
     "road": "Great Eastern Highway",
@@ -9915,9 +9903,10 @@
     "country": "Australia",
     "country_code": "au",
     "district": "Greater Brisbane",
+    "house_number": "133",
     "municipality": "Redland City",
     "postcode": "4165",
-    "road": "James Street",
+    "road": "Broadwater Terrace",
     "shop": "Woolworths",
     "state": "Queensland",
     "suburb": "Redland Bay"
@@ -10451,7 +10440,7 @@
     "country_code": "au",
     "municipality": "City of Yarra",
     "postcode": "3065",
-    "road": "Hodgson Street",
+    "road": "Loading Dock",
     "shop": "Woolworths",
     "state": "Victoria",
     "suburb": "Fitzroy"
@@ -10587,7 +10576,7 @@
     "country_code": "au",
     "municipality": "Shire of South Gippsland",
     "postcode": "3953",
-    "road": "Peart Street",
+    "road": "Smith Street",
     "shop": "Woolworths",
     "state": "Victoria",
     "town": "Leongatha"
@@ -10836,7 +10825,7 @@
     "country_code": "au",
     "municipality": "Shire of Corangamite",
     "postcode": "3260",
-    "road": "Cressy Street",
+    "road": "Tait Street",
     "shop": "Woolworths",
     "state": "Victoria",
     "town": "Camperdown"
@@ -11250,7 +11239,7 @@
     "country_code": "au",
     "municipality": "Shire of Baw Baw",
     "postcode": "3818",
-    "road": "Young Street",
+    "road": "Young Street service road",
     "shop": "Woolworths",
     "state": "Victoria",
     "town": "Drouin"
@@ -11530,7 +11519,7 @@
     "country_code": "au",
     "municipality": "Port Pirie Regional Council",
     "postcode": "5540",
-    "road": "Florence Street",
+    "road": "Norman Street",
     "shop": "Woolworths",
     "state": "South Australia",
     "town": "Port Pirie"
@@ -11708,7 +11697,7 @@
     "country_code": "au",
     "municipality": "City of Melville",
     "postcode": "6157",
-    "road": "Shelshaw Street",
+    "road": "Maddox Crescent",
     "shop": "Woolworths",
     "state": "Western Australia",
     "suburb": "Melville"
@@ -11826,7 +11815,7 @@
     "country": "Australia",
     "country_code": "au",
     "municipality": "City Of Busselton",
-    "road": "Duchess Street",
+    "road": "Kent Street",
     "shop": "Woolworths",
     "state": "Western Australia",
     "town": "Busselton"
@@ -11875,7 +11864,7 @@
     "country_code": "au",
     "municipality": "Shire of Wellington",
     "postcode": "3860",
-    "road": "Purdy Lane",
+    "road": "Little Johnson Street",
     "shop": "Woolworths",
     "state": "Victoria",
     "town": "Maffra"
@@ -11932,7 +11921,6 @@
   },
   "w336979923": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -12019,7 +12007,7 @@
     "country_code": "au",
     "municipality": "Glen Innes Severn Council",
     "postcode": "2370",
-    "road": "Boydell Lane",
+    "road": "Services Lane",
     "shop": "Woolworths",
     "state": "New South Wales",
     "town": "Glen Innes"
@@ -12142,7 +12130,7 @@
     "country_code": "au",
     "municipality": "City of Parramatta Council",
     "postcode": "2115",
-    "road": "Club Lane",
+    "road": "Betty Cuthbert Avenue",
     "shop": "Woolworths",
     "state": "New South Wales",
     "suburb": "Ermington"
@@ -12276,7 +12264,7 @@
     "country_code": "au",
     "county": "City of Palmerston",
     "postcode": "0830",
-    "road": "Mannikan Court",
+    "road": "Palmerston Escarpment Trail",
     "shop": "Woolworths",
     "suburb": "Bakewell",
     "territory": "Northern Territory",
@@ -12288,7 +12276,7 @@
     "country_code": "au",
     "county": "Mount Barker District Council",
     "postcode": "5251",
-    "road": "Walker Street",
+    "road": "Stephen Street",
     "shop": "Woolworths",
     "state": "South Australia",
     "town": "Mount Barker"
@@ -12640,8 +12628,7 @@
     "road": "Pacific Highway",
     "shop": "Woolworths",
     "state": "New South Wales",
-    "suburb": "Wadalba",
-    "town": "Wyong"
+    "suburb": "Wadalba"
   },
   "w680247122": {
     "ISO3166-2-lvl4": "AU-VIC",
@@ -12673,7 +12660,7 @@
     "country": "Australia",
     "country_code": "au",
     "postcode": "2526",
-    "road": "Victoria Street",
+    "road": "Tallegalla Street",
     "shop": "Woolworths",
     "state": "New South Wales",
     "suburb": "Unanderra"
@@ -12913,7 +12900,7 @@
     "country_code": "au",
     "municipality": "Coffs Harbour City Council",
     "postcode": "2450",
-    "road": "Park Beach Road",
+    "road": "Park Beach Plaza",
     "shop": "Woolworths",
     "state": "New South Wales",
     "suburb": "Coffs Harbour"
@@ -13157,7 +13144,7 @@
     "country_code": "au",
     "municipality": "Shire Of Augusta Margaret River",
     "postcode": "6285",
-    "road": "Townview Terrace",
+    "road": "Willmott Avenue",
     "shop": "Woolworths",
     "state": "Western Australia",
     "town": "Margaret River"
@@ -13227,7 +13214,7 @@
     "country": "Australia",
     "country_code": "au",
     "postcode": "2617",
-    "road": "Cohen Street",
+    "road": "Benjamin Way",
     "shop": "Woolworths",
     "suburb": "Belconnen",
     "territory": "Australian Capital Territory",

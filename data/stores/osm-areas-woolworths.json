@@ -240,8 +240,8 @@
   "n207334338": [
     {
       "id": "w19234830",
-      "x": -33.8746201,
-      "y": 151.1058861,
+      "x": -33.8746182,
+      "y": 151.1059022,
       "tags": {
         "branch": "Burwood",
         "brand": "Westfield",
@@ -260,6 +260,14 @@
         "wikidata": "Q7988650",
         "wikipedia": "en:Westfield Burwood"
       }
+    },
+    {
+      "id": "w783620852",
+      "x": -33.8753892,
+      "y": 151.1053398,
+      "tags": {
+        "landuse": "retail"
+      }
     }
   ],
   "n218159462": [
@@ -270,6 +278,15 @@
       "tags": {
         "landuse": "retail",
         "source": "LPI Base Map Nov 2018"
+      }
+    },
+    {
+      "id": "w1289015760",
+      "x": -33.7785663,
+      "y": 151.1076566,
+      "tags": {
+        "building": "yes",
+        "shop": "supermarket"
       }
     }
   ],
@@ -1082,8 +1099,8 @@
   "n365210772": [
     {
       "id": "w845391428",
-      "x": -38.1400526,
-      "y": 145.1254513,
+      "x": -38.1400597,
+      "y": 145.125446,
       "tags": {
         "addr:housenumber": "28",
         "addr:street": "Beach Street",
@@ -1338,8 +1355,8 @@
   "n444677702": [
     {
       "id": "w823295997",
-      "x": -35.2045461,
-      "y": 149.0330973,
+      "x": -35.2045363,
+      "y": 149.0331023,
       "tags": {
         "addr:housenumber": "27",
         "addr:street": "Charnwood Palce",
@@ -1348,6 +1365,14 @@
         "layer": "1",
         "note": "Way has been simplified using a maximum error criterion of 0.5m.",
         "source:geometry": "ACTBlocks"
+      }
+    },
+    {
+      "id": "w1290223806",
+      "x": -35.2045478,
+      "y": 149.0335301,
+      "tags": {
+        "landuse": "retail"
       }
     }
   ],
@@ -1425,10 +1450,7 @@
       "y": 150.8888601,
       "tags": {
         "addr:housenumber": "100",
-        "addr:postcode": "2170",
-        "addr:state": "NSW",
         "addr:street": "Bonnyrigg Avenue",
-        "addr:suburb": "Bonnyrigg",
         "building": "yes",
         "layer": "1",
         "name": "Bonnyrigg Plaza",
@@ -1549,12 +1571,13 @@
   "n469459628": [
     {
       "id": "w33299834",
-      "x": -37.8630414,
-      "y": 145.0271331,
+      "x": -37.8630448,
+      "y": 145.0270969,
       "tags": {
         "addr:housenumber": "110",
         "addr:street": "Wattletree Road",
         "building": "retail",
+        "layer": "2",
         "name": "Malvern Central Shopping Centre",
         "shop": "mall",
         "website": "https://www.malverncentralshopping.com.au/"
@@ -1562,11 +1585,10 @@
     },
     {
       "id": "w165792730",
-      "x": -37.863286,
-      "y": 145.0273663,
+      "x": -37.8632884,
+      "y": 145.0273583,
       "tags": {
-        "landuse": "retail",
-        "source": "nearmap"
+        "landuse": "retail"
       }
     }
   ],
@@ -2991,8 +3013,8 @@
     },
     {
       "id": "w390139176",
-      "x": -33.3187498,
-      "y": 115.7166123,
+      "x": -33.3182454,
+      "y": 115.71693,
       "tags": {
         "landuse": "retail",
         "name": "Eaton Fair Shopping Centre",
@@ -3148,9 +3170,11 @@
         "addr:suburb": "Currimundi",
         "building": "yes",
         "building:levels": "1",
+        "layer": "0",
         "name": "Currimundi Markets",
         "shop": "mall",
-        "website": "https://www.currimundimarkets.com.au/"
+        "website": "https://www.currimundimarkets.com.au/",
+        "wheelchair": "yes"
       }
     }
   ],
@@ -3748,7 +3772,7 @@
         "addr:street": "Police Road",
         "landuse": "retail",
         "name": "Waverley Gardens Shopping Centre",
-        "opening_hours": "Mo-We 09:00-17:30; Th-Fr 09:00-19:00; Sa 09:00-17:00; Su 10:00-16:00",
+        "opening_hours": "Mo-We 09:00-17:30; Th,Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
         "phone": "+61 3 9547 6088",
         "shop": "mall",
         "toilets": "yes",
@@ -3927,7 +3951,7 @@
   "n1047220515": [
     {
       "id": "w305968234",
-      "x": -40.8419204,
+      "x": -40.8419473,
       "y": 145.1245739,
       "tags": {
         "landuse": "retail"
@@ -3935,8 +3959,8 @@
     },
     {
       "id": "w305968255",
-      "x": -40.8411092,
-      "y": 145.1228774,
+      "x": -40.8411476,
+      "y": 145.1228767,
       "tags": {
         "building": "supermarket"
       }
@@ -4427,19 +4451,30 @@
   "n1292972857": [
     {
       "id": "w418574775",
-      "x": -17.5248471,
-      "y": 146.0310761,
+      "x": -17.5248537,
+      "y": 146.0310559,
       "tags": {
-        "building": "commercial",
+        "building": "retail",
+        "building:levels": "2",
+        "building:levels:underground": "1",
         "source": "Bing"
+      }
+    },
+    {
+      "id": "w576286465",
+      "x": -17.5255036,
+      "y": 146.0296723,
+      "tags": {
+        "landuse": "retail",
+        "name": "Innisfail"
       }
     }
   ],
   "n1301764616": [
     {
       "id": "w237757494",
-      "x": -36.0813499,
-      "y": 146.9171068,
+      "x": -36.0813432,
+      "y": 146.9171293,
       "tags": {
         "landuse": "retail"
       }
@@ -4541,6 +4576,7 @@
         "shop": "mall",
         "smoking": "no",
         "source": "survey;local knowledge",
+        "toilets": "yes",
         "website": "https://www.paradisecentre.net.au",
         "wheelchair": "yes",
         "wikidata": "Q5062877",
@@ -5335,8 +5371,11 @@
         "addr:housenumber": "171",
         "addr:street": "Nepean Highway",
         "building": "mall",
+        "changing_table": "yes",
         "name": "Thrift Park Shopping Centre",
+        "opening_hours": "Mo-Su,PH 09:00-17:30",
         "shop": "mall",
+        "toilets": "yes",
         "toilets:wheelchair": "yes",
         "website": "https://thrift-park.com.au/",
         "wheelchair": "yes"
@@ -5437,8 +5476,8 @@
   "n1635115033": [
     {
       "id": "w150613627",
-      "x": -21.1189114,
-      "y": 149.1592789,
+      "x": -21.1188534,
+      "y": 149.1592296,
       "tags": {
         "building": "yes",
         "shop": "mall"
@@ -5611,7 +5650,7 @@
     },
     {
       "id": "w336935609",
-      "x": -32.9027101,
+      "x": -32.9026919,
       "y": 151.6896751,
       "tags": {
         "landuse": "retail",
@@ -5972,8 +6011,8 @@
     },
     {
       "id": "w214724377",
-      "x": -21.1384067,
-      "y": 149.1780801,
+      "x": -21.1382981,
+      "y": 149.1780943,
       "tags": {
         "landuse": "retail",
         "name": "Canelands Central",
@@ -7072,8 +7111,8 @@
   "n2200931296": [
     {
       "id": "w23337046",
-      "x": -33.916022,
-      "y": 151.0385396,
+      "x": -33.9160014,
+      "y": 151.0385392,
       "tags": {
         "landuse": "retail",
         "name": "Bankstown Central",
@@ -7091,7 +7130,8 @@
         "building": "yes",
         "building:levels": "2",
         "building:levels:underground": "1",
-        "building:min_level": "1"
+        "building:min_level": "1",
+        "layer": "2"
       }
     }
   ],
@@ -8037,7 +8077,7 @@
     {
       "id": "w52890081",
       "x": -31.7409845,
-      "y": 115.7391058,
+      "y": 115.7391186,
       "tags": {
         "landuse": "retail"
       }
@@ -8135,12 +8175,16 @@
         "addr:housenumber": "160",
         "addr:postcode": "2122",
         "addr:street": "Rowe Street",
+        "air_conditioning": "yes",
         "building": "retail",
         "building:levels": "5",
         "name": "Eastwood Shopping Centre",
+        "operator": "Henbon Australia",
+        "parking": "multi-storey",
         "shop": "mall",
         "website": "https://eastwoodshoppingcentre.com.au/",
-        "website:map": "https://eastwoodshoppingcentre.com.au/map/"
+        "website:map": "https://eastwoodshoppingcentre.com.au/map/",
+        "wheelchair": "yes"
       }
     },
     {
@@ -8246,7 +8290,7 @@
       "x": -24.8824082,
       "y": 113.6574183,
       "tags": {
-        "building": "retail"
+        "landuse": "retail"
       }
     },
     {
@@ -10209,10 +10253,7 @@
       "x": -33.8586943,
       "y": 150.8984667,
       "tags": {
-        "addr:city": "Wetherill Park",
         "addr:housenumber": "561-583",
-        "addr:postcode": "2164",
-        "addr:state": "NSW",
         "addr:street": "Polding Street",
         "building": "retail"
       }
@@ -11050,15 +11091,16 @@
   ],
   "n4191521427": [
     {
-      "id": "w343223054",
-      "x": -29.6916584,
-      "y": 152.936212,
+      "id": "r17730937",
+      "x": -29.691604,
+      "y": 152.9362365,
       "tags": {
         "building": "retail",
         "landuse": "retail",
         "name": "Grafton Shoppingworld",
         "shop": "mall",
         "source": "Bing",
+        "type": "multipolygon",
         "website": "https://www.graftonshoppingworld.com.au"
       }
     }
@@ -11392,7 +11434,7 @@
       "x": -34.8753483,
       "y": 138.601092,
       "tags": {
-        "building": "commercial",
+        "building": "retail",
         "name": "Northpark Shopping Centre"
       }
     },
@@ -11525,10 +11567,7 @@
       "y": 150.8388907,
       "tags": {
         "addr:housenumber": "211",
-        "addr:postcode": "2529",
-        "addr:state": "NSW",
         "addr:street": "Lake Entrance Road",
-        "addr:suburb": "Shellharbour",
         "air_conditioning": "yes",
         "building": "retail",
         "internet_access": "wlan",
@@ -13378,7 +13417,7 @@
     },
     {
       "id": "w442978991",
-      "x": -33.8177789,
+      "x": -33.8177779,
       "y": 151.0021208,
       "tags": {
         "addr:housenumber": "159-175",
@@ -13562,7 +13601,7 @@
   "n7079317857": [
     {
       "id": "w19183152",
-      "x": -33.8776495,
+      "x": -33.8776505,
       "y": 151.1022893,
       "tags": {
         "addr:housenumber": "42-50",
@@ -13580,7 +13619,7 @@
     },
     {
       "id": "w679133513",
-      "x": -33.8780364,
+      "x": -33.8780399,
       "y": 151.1025156,
       "tags": {
         "landuse": "retail"
@@ -14090,7 +14129,7 @@
     {
       "id": "w857025871",
       "x": -38.2309861,
-      "y": 144.3716641,
+      "y": 144.3716462,
       "tags": {
         "landuse": "retail",
         "name": "The Village Warralily",
@@ -15816,7 +15855,7 @@
   "n11074264389": [
     {
       "id": "w27945147",
-      "x": -27.4571151,
+      "x": -27.4571181,
       "y": 153.1551875,
       "tags": {
         "area": "yes",
@@ -17132,6 +17171,14 @@
         "website:map": "https://porticoplaza.com.au/store-map/",
         "wheelchair": "yes"
       }
+    },
+    {
+      "id": "w1292955474",
+      "x": -33.7875167,
+      "y": 150.9492687,
+      "tags": {
+        "building": "yes"
+      }
     }
   ],
   "n11862055220": [
@@ -17941,8 +17988,8 @@
     },
     {
       "id": "w51677506",
-      "x": -35.2499809,
-      "y": 149.1380634,
+      "x": -35.2499442,
+      "y": 149.1380752,
       "tags": {
         "landuse": "retail",
         "name": "Dickson Shops"
@@ -19359,9 +19406,10 @@
         "brand": "Woolworths",
         "brand:wikidata": "Q3249145",
         "brand:wikipedia": "en:Woolworths Supermarkets",
-        "building": "yes",
+        "building": "retail",
         "building:levels": "3",
         "name": "Woolworths",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-18:00",
         "operator": "Woolworths Group",
         "operator:wikidata": "Q607272",
         "shop": "supermarket"
@@ -20194,7 +20242,7 @@
     {
       "id": "w49742696",
       "x": -38.1721515,
-      "y": 144.3241332,
+      "y": 144.3241366,
       "tags": {
         "landuse": "retail",
         "name": "Highton Village Shopping Centre",
@@ -22511,7 +22559,7 @@
     {
       "id": "w655517547",
       "x": -32.5355706,
-      "y": 115.7423063,
+      "y": 115.7423036,
       "tags": {
         "brand": "Vicinity Centres",
         "brand:wikidata": "Q1054327",
@@ -23890,14 +23938,17 @@
   "w1286477901": [
     {
       "id": "w27795123",
-      "x": -35.2384408,
-      "y": 149.065096,
+      "x": -35.2384365,
+      "y": 149.0650986,
       "tags": {
+        "addr:street": "Benjamin Way",
         "brand": "Westfield",
         "brand:wikidata": "Q106623253",
         "building": "retail",
         "building:levels": "3",
+        "layer": "1",
         "name": "Westfield",
+        "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-16:00",
         "operator": "Scentre Group",
         "operator:wikidata": "Q18378048",
         "roof:colour": "#628852",
@@ -23913,7 +23964,7 @@
     {
       "id": "w209950611",
       "x": -35.2381495,
-      "y": 149.0650244,
+      "y": 149.0650283,
       "tags": {
         "landuse": "retail",
         "operator:wikipedia": "en:Scentre Group",

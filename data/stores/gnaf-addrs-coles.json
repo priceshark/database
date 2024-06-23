@@ -2429,8 +2429,8 @@
     "state": "VIC"
   },
   "n2953883893": {
-    "latitude": -32.06770661,
-    "longitude": 115.81655072,
+    "latitude": -32.06685661,
+    "longitude": 115.81551072,
     "locality": "KARDINYA",
     "postcode": "6163",
     "state": "WA"
@@ -4031,13 +4031,6 @@
     "postcode": "3030",
     "state": "VIC"
   },
-  "n8985718735": {
-    "latitude": -38.17409586,
-    "longitude": 144.57347995,
-    "locality": "DRYSDALE",
-    "postcode": "3222",
-    "state": "VIC"
-  },
   "n9196226962": {
     "latitude": -27.57061082,
     "longitude": 152.79777784,
@@ -4815,6 +4808,20 @@
     "postcode": "4164",
     "state": "QLD"
   },
+  "n11949677935": {
+    "latitude": -37.81747283,
+    "longitude": 144.88100795,
+    "locality": "YARRAVILLE",
+    "postcode": "3013",
+    "state": "VIC"
+  },
+  "n11993023120": {
+    "latitude": -37.91144815,
+    "longitude": 144.61529657,
+    "locality": "WERRIBEE",
+    "postcode": "3030",
+    "state": "VIC"
+  },
   "r15074857": {
     "latitude": -27.24250662,
     "longitude": 153.02620007,
@@ -5095,13 +5102,6 @@
     "postcode": "3132",
     "state": "VIC"
   },
-  "w151021229": {
-    "latitude": -34.04189309,
-    "longitude": 151.1200943,
-    "locality": "CARINGBAH",
-    "postcode": "2229",
-    "state": "NSW"
-  },
   "w155003734": {
     "latitude": -34.06503228,
     "longitude": 151.01109374,
@@ -5346,13 +5346,6 @@
     "locality": "PORT MACQUARIE",
     "postcode": "2444",
     "state": "NSW"
-  },
-  "w329099952": {
-    "latitude": -37.81747283,
-    "longitude": 144.88100795,
-    "locality": "YARRAVILLE",
-    "postcode": "3013",
-    "state": "VIC"
   },
   "w331636781": {
     "latitude": -26.62731497,
@@ -5642,8 +5635,8 @@
     "state": "NSW"
   },
   "w655517290": {
-    "latitude": -32.53435662,
-    "longitude": 115.74427077,
+    "latitude": -32.53613662,
+    "longitude": 115.74473077,
     "locality": "MANDURAH",
     "postcode": "6210",
     "state": "WA"
@@ -5766,6 +5759,13 @@
     "locality": "DAWESVILLE",
     "postcode": "6211",
     "state": "WA"
+  },
+  "w970895620": {
+    "latitude": -38.17426001,
+    "longitude": 144.57345067,
+    "locality": "DRYSDALE",
+    "postcode": "3222",
+    "state": "VIC"
   },
   "w980904817": {
     "latitude": -31.07762281,

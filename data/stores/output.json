@@ -248,8 +248,8 @@
     "name": "Coles Mandurah",
     "desc": "Mandurah Forum, Mandurah WA 6210",
     "osm": "w655517290",
-    "x": -32.5351238,
-    "y": 115.7437331
+    "x": -32.5353403,
+    "y": 115.7443545
   },
   {
     "vendor": "coles",
@@ -1407,7 +1407,7 @@
     "vendor": "coles",
     "id": 547,
     "name": "Coles Warragul",
-    "desc": "Centre Point, Warragul VIC 3820",
+    "desc": "Centre Point, Warragul, Warragul VIC 3820",
     "osm": "n515973782",
     "x": -38.1620606,
     "y": 145.9324454
@@ -4053,7 +4053,7 @@
     "vendor": "coles",
     "id": 4441,
     "name": "Coles Innisfail",
-    "desc": "Innisfail QLD 4860",
+    "desc": "Innisfail, Innisfail QLD 4860",
     "osm": "n1292972855",
     "x": -17.523715,
     "y": 146.0286108
@@ -4161,7 +4161,7 @@
     "vendor": "coles",
     "id": 4456,
     "name": "Coles Grafton",
-    "desc": "Grafton Shoppingworld, Grafton NSW 2460",
+    "desc": "Grafton NSW 2460",
     "osm": "n4191521425",
     "x": -29.6911616,
     "y": 152.9350815
@@ -4424,8 +4424,8 @@
     "name": "Coles Moranbah",
     "desc": "Moranbah Fair, Moranbah QLD 4744",
     "osm": "n2852272012",
-    "x": -22.0005114,
-    "y": 148.0436676
+    "x": -22.000489,
+    "y": 148.0434986
   },
   {
     "vendor": "coles",
@@ -6457,9 +6457,9 @@
     "id": 7620,
     "name": "Coles Drysdale",
     "desc": "Drysdale VIC 3222",
-    "osm": "n8985718735",
-    "x": -38.1740625,
-    "y": 144.5729134
+    "osm": "w970895620",
+    "x": -38.1741672,
+    "y": 144.5729228
   },
   {
     "vendor": "coles",
@@ -6916,9 +6916,9 @@
     "id": 7774,
     "name": "Coles Yarraville",
     "desc": "Melbourne VIC 3013",
-    "osm": "w329099952",
-    "x": -37.8168699,
-    "y": 144.8810707
+    "osm": "n11949677935",
+    "x": -37.816873,
+    "y": 144.8810662
   },
   {
     "vendor": "coles",
@@ -7743,7 +7743,7 @@
     "vendor": "woolworths",
     "id": 1088,
     "name": "Woolworths Wadalba",
-    "desc": "Wyong NSW 2259",
+    "desc": "Wadalba NSW 2259",
     "osm": "w664875026",
     "x": -33.2635721,
     "y": 151.4659924
@@ -8141,8 +8141,8 @@
     "name": "Woolworths Belconnen",
     "desc": "Westfield, Belconnen ACT 2617",
     "osm": "w1286477901",
-    "x": -35.2386869,
-    "y": 149.0652693
+    "x": -35.2386968,
+    "y": 149.0652715
   },
   {
     "vendor": "woolworths",
@@ -8573,8 +8573,8 @@
     "name": "Woolworths Eastwood",
     "desc": "Eastwood Shopping Centre, Sydney NSW 2122",
     "osm": "n2579023535",
-    "x": -33.7922012,
-    "y": 151.0817153
+    "x": -33.7921756,
+    "y": 151.08149
   },
   {
     "vendor": "woolworths",
@@ -10544,8 +10544,8 @@
     "name": "Woolworths Cornubia",
     "desc": "Cornubia Shopping Centre, Brisbane QLD 4129",
     "osm": "n10246046158",
-    "x": -27.6700768,
-    "y": 153.1916888
+    "x": -27.6702677,
+    "y": 153.1915962
   },
   {
     "vendor": "woolworths",
@@ -12000,10 +12000,10 @@
     "vendor": "woolworths",
     "id": 2667,
     "name": "Woolworths Innisfail",
-    "desc": "Innisfail QLD 4860",
+    "desc": "Innisfail, Innisfail QLD 4860",
     "osm": "n1292972857",
-    "x": -17.5250451,
-    "y": 146.0311589
+    "x": -17.5250582,
+    "y": 146.030989
   },
   {
     "vendor": "woolworths",
@@ -14205,7 +14205,7 @@
     "vendor": "woolworths",
     "id": 3287,
     "name": "Woolworths Warragul",
-    "desc": "Warragul VIC 3820",
+    "desc": "Warragul, Warragul VIC 3820",
     "osm": "n515973822",
     "x": -38.1600589,
     "y": 145.9306082
@@ -15725,7 +15725,7 @@
   {
     "vendor": "woolworths",
     "id": 4369,
-    "name": "Woolworths Midland",
+    "name": "Woolworths Midland Centrepoint",
     "desc": "Centrepoint Midland Shopping Centre, Midland WA 6056",
     "osm": "n11861672210",
     "x": -31.8903639,

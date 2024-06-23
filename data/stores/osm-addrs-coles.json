@@ -1068,6 +1068,7 @@
   },
   "n515973782": {
     "ISO3166-2-lvl4": "AU-VIC",
+    "city": "Warragul",
     "country": "Australia",
     "country_code": "au",
     "house_number": "30-36",
@@ -1737,7 +1738,6 @@
   },
   "n836020462": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -1791,7 +1791,6 @@
   },
   "n849157092": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -2201,7 +2200,6 @@
   },
   "n1169791685": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -2467,12 +2465,12 @@
   "n1292972855": {
     "ISO3166-2-lvl4": "AU-QLD",
     "city_district": "Innisfail",
-    "commercial": "Innisfail",
     "country": "Australia",
     "country_code": "au",
     "house_number": "79-83",
     "municipality": "Cassowary Coast Regional",
     "postcode": "4860",
+    "retail": "Innisfail",
     "road": "Edith Street",
     "shop": "Coles",
     "state": "Queensland",
@@ -3277,7 +3275,6 @@
   },
   "n1974473597": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -3854,7 +3851,6 @@
   },
   "n2365229637": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -5180,7 +5176,8 @@
     "country_code": "au",
     "house_number": "342-344",
     "municipality": "City of Boroondara",
-    "postcode": "3129",
+    "neighbourhood": "Balwyn East",
+    "postcode": "3103",
     "road": "Belmore Road",
     "shop": "Coles",
     "state": "Victoria",
@@ -5201,7 +5198,6 @@
   },
   "n3737447690": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -6620,7 +6616,7 @@
     "country_code": "au",
     "house_number": "5",
     "municipality": "Campbelltown City Council",
-    "postcode": "2179",
+    "postcode": "2565",
     "road": "Willowdale Drive",
     "shop": "Coles",
     "state": "New South Wales",
@@ -7325,18 +7321,6 @@
     "state": "Victoria",
     "suburb": "Werribee"
   },
-  "n8985718735": {
-    "ISO3166-2-lvl4": "AU-VIC",
-    "country": "Australia",
-    "country_code": "au",
-    "house_number": "24-32",
-    "municipality": "City of Greater Geelong",
-    "postcode": "3222",
-    "road": "Murradoc Road",
-    "shop": "Coles",
-    "state": "Victoria",
-    "town": "Drysdale"
-  },
   "n9196226962": {
     "ISO3166-2-lvl4": "AU-QLD",
     "city_district": "Chuwar",
@@ -7891,7 +7875,6 @@
   },
   "n10877242451": {
     "ISO3166-2-lvl4": "AU-NSW",
-    "borough": "Hills District",
     "city": "Sydney",
     "country": "Australia",
     "country_code": "au",
@@ -8631,7 +8614,7 @@
     "ISO3166-2-lvl4": "AU-WA",
     "country": "Australia",
     "country_code": "au",
-    "municipality": "Town Of Bassendean",
+    "municipality": "Town of Bassendean",
     "postcode": "6054",
     "road": "Whitfield Street",
     "shop": "Coles",
@@ -8676,6 +8659,19 @@
     "road": "Boundary Road",
     "shop": "Coles",
     "state": "Queensland"
+  },
+  "n11949677935": {
+    "ISO3166-2-lvl4": "AU-VIC",
+    "city": "Melbourne",
+    "country": "Australia",
+    "country_code": "au",
+    "house_number": "1-3",
+    "municipality": "City of Maribyrnong",
+    "postcode": "3013",
+    "road": "High Street",
+    "shop": "Coles",
+    "state": "Victoria",
+    "suburb": "Yarraville"
   },
   "r15074857": {
     "ISO3166-2-lvl4": "AU-QLD",
@@ -9637,19 +9633,6 @@
     "shop": "Coles",
     "state": "New South Wales"
   },
-  "w329099952": {
-    "ISO3166-2-lvl4": "AU-VIC",
-    "city": "Melbourne",
-    "country": "Australia",
-    "country_code": "au",
-    "house_number": "1-3",
-    "municipality": "City of Maribyrnong",
-    "postcode": "3013",
-    "road": "High Street",
-    "shop": "Coles",
-    "state": "Victoria",
-    "suburb": "Yarraville"
-  },
   "w331636781": {
     "ISO3166-2-lvl4": "AU-QLD",
     "city": "Sunshine Coast Regional",
@@ -10072,6 +10055,7 @@
     "city": "Armidale",
     "country": "Australia",
     "country_code": "au",
+    "house_number": "90-96",
     "municipality": "Armidale Regional Council",
     "postcode": "2350",
     "road": "Marsh Street",
@@ -10286,6 +10270,7 @@
     "country_code": "au",
     "house_number": "689-699",
     "municipality": "City of Boroondara",
+    "neighbourhood": "Glenferrie",
     "postcode": "3122",
     "road": "Glenferrie Road",
     "shop": "Coles",
@@ -10392,6 +10377,18 @@
     "shop": "Coles",
     "state": "Western Australia",
     "suburb": "Dawesville"
+  },
+  "w970895620": {
+    "ISO3166-2-lvl4": "AU-VIC",
+    "country": "Australia",
+    "country_code": "au",
+    "house_number": "24-32",
+    "municipality": "City of Greater Geelong",
+    "postcode": "3222",
+    "road": "Murradoc Road",
+    "shop": "Coles Drysdale",
+    "state": "Victoria",
+    "town": "Drysdale"
   },
   "w980904817": {
     "ISO3166-2-lvl4": "AU-NSW",

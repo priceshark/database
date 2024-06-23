@@ -1539,13 +1539,6 @@
     "postcode": "4306",
     "state": "QLD"
   },
-  "n1326569195": {
-    "latitude": -35.23969935,
-    "longitude": 149.06506147,
-    "locality": "BELCONNEN",
-    "postcode": "2617",
-    "state": "ACT"
-  },
   "n1329153398": {
     "latitude": -33.75130742,
     "longitude": 150.69025983,
@@ -2176,13 +2169,6 @@
     "postcode": "4670",
     "state": "QLD"
   },
-  "n1993456954": {
-    "latitude": -24.88760885,
-    "longitude": 152.31999144,
-    "locality": "AVOCA",
-    "postcode": "4670",
-    "state": "QLD"
-  },
   "n1994975943": {
     "latitude": -31.9841266,
     "longitude": 116.06481068,
@@ -2490,13 +2476,6 @@
     "locality": "SOUTHPORT",
     "postcode": "4215",
     "state": "QLD"
-  },
-  "n2262273116": {
-    "latitude": -37.90090585,
-    "longitude": 145.1440149,
-    "locality": "GLEN WAVERLEY",
-    "postcode": "3150",
-    "state": "VIC"
   },
   "n2267893632": {
     "latitude": -33.69579601,
@@ -5921,6 +5900,13 @@
     "postcode": "4301",
     "state": "QLD"
   },
+  "n11938341369": {
+    "latitude": -35.23969935,
+    "longitude": 149.06506147,
+    "locality": "BELCONNEN",
+    "postcode": "2617",
+    "state": "ACT"
+  },
   "r9389462": {
     "latitude": -35.19466084,
     "longitude": 149.0195266,
@@ -7488,13 +7474,6 @@
     "locality": "LANGWARRIN",
     "postcode": "3910",
     "state": "VIC"
-  },
-  "w1026016704": {
-    "latitude": -27.66365494,
-    "longitude": 152.84958145,
-    "locality": "REDBANK PLAINS",
-    "postcode": "4301",
-    "state": "QLD"
   },
   "w1032476081": {
     "latitude": -29.77146219,
